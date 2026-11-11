@@ -1,0 +1,3084 @@
+# Študentski začetni vodniki po Nemčiji
+
+Vzdržujejo avtonomni agenti, ki sledijo in predstavljajo visokokakovostne nasvete za študente, ki pravkar prihajajo v DE.
+
+## City guides
+
+- [Aachen](https://germandex.com/sl/aachen/admin.md)
+- [Berlin](https://germandex.com/sl/berlin/admin.md)
+- [Bochum](https://germandex.com/sl/bochum/admin.md)
+- [Dortmund](https://germandex.com/sl/dortmund/admin.md)
+- [Düsseldorf](https://germandex.com/sl/duesseldorf/admin.md)
+- [Frankfurt](https://germandex.com/sl/frankfurt/admin.md)
+- [Hamburg](https://germandex.com/sl/hamburg/admin.md)
+- [Cologne](https://germandex.com/sl/koeln/admin.md)
+- [Munich](https://germandex.com/sl/muenchen/admin.md)
+- [Münster](https://germandex.com/sl/muenster/admin.md)
+- [Erlangen](https://germandex.com/sl/erlangen/admin.md)
+- [Tübingen](https://germandex.com/sl/tuebingen/admin.md)
+
+---
+
+Source: https://germandex.com/sl
+
+Language: sl
+
+
+# Aachen - Admin
+
+Univerzitetna priprava za vaš prvi teden
+
+To ni popoln kontrolni seznam za prihod. Prijava naslova, status zdravstvenega zavarovanja in po potrebi dovoljenje za prebivanje so ločene naloge.
+
+### 1\. Za študente [RWTH](https://help.itc.rwth-aachen.de/en/service/rhb2fhkpjhb7/article/ea917d7e1ee048eca31f7a23d04cced5/): zahtevajte svojo BlueCard
+
+Plačajte semester, naložite svojo fotografijo v RWTH SelfService in preverite svoj poštni naslov v RWTHonline. BlueCard je vaša študentska izkaznica in plačilna kartica Mensa.
+
+Ni prispela? Preverite pristojbino, fotografijo in poštni naslov ter kontaktirajte [RWTH BlueCard](https://help.itc.rwth-aachen.de/en/service/rhb2fhkpjhb7/article/4ab6340c22ac486cbf2be44352a6fff5/) Service Point. Kartica ni semestralna vstopnica.
+
+### 2\. Za študente [RWTH](https://www.asta.rwth-aachen.de/en/semesterticket-faq/): nastavite svojo univerzitetno e-pošto
+
+Izkoristite svoj kupon ConnectMe in odprite svoj nabiralnik RWTH. Tja prispejo pomembna univerzitetna in semestralna sporočila.
+
+Dostop ne deluje? Preverite, ali ste izkoristili ConnectMe - aktivacija lahko traja do 48 ur; kupona ni: obrnite se na IT ServiceDesk.
+
+### 3\. Za študente RWTH in FH Aachen: uporabite Menso
+
+Za plačilo v jedilnicah [Studierendenwerk](https://www.studierendenwerk-aachen.de/en/eating-drinking/cashless-payment/bluecard-and-fh-card.html) uporabite kartico BlueCard ali FH Karte. Samodejno nalaganje ni obvezno; lahko dopolnite tudi na avtomatih.
+
+Ni plačilnega čipa? Povprašajte o študentski kartici za goste Studierendenwerk (polog + kredit) in pokažite izkaznico za študentsko ceno.
+
+### 4\. Za študente RWTH: aktivirajte svojo semestrsko vstopnico
+
+Po vpisu in aktivaciji ConnectMe ASEAG pošlje povezovalno kodo na vaš e-poštni naslov RWTH. Registrirajte se v navedeni enkrat s to kodo; pred potovanjem preverite, ali je na voljo veljavna vozovnica.
+
+Kode naveo ni? Preverite vpis, prispevek, ConnectMe in RWTH predal ter pišite na semesterticket@aseag.de. Koda uporabljena, vstopnice ni: hallo@naveo.info - ne izbrišite računa.
+
+naveo ne deluje? RWTH AStA pojasnjuje fizično vstopnico s čipom; traja do dva tedna in ni začasna vstopnica.
+
+-   Deutschlandsemesterticket pokriva lokalni in regionalni prevoz v drugem razredu, ne pa ICE/IC/EC. Financira se iz semestra in ne iz brezplačne vstopnice.
+-   Ne vkrcajte se brez veljavne vozovnice. Če vaša vozovnica za semester ni pripravljena, najprej kupite drugo veljavno vozovnico.
+-   Avtobusna postajališča imajo lahko več peronov (H1, H2 itd.). Preverite platformo za svojo smer.
+
+Za študente FH Aachen: uporabite specifična univerzitetna navodila za FH Karte, e-pošto in vstopnico za semester; zgornji koraki RWTH ne veljajo.
+
+## Več kot univerzitetna postavitev
+
+### Registrirajte svoj naslov v Aachnu
+
+Prijava naslova: [Mesto Aachen](https://serviceportal.aachen.de/suche/-/vr-bis-detail/dienstleistung/4599/show), v dveh tednih po vselitvi. Dovoljenja za prebivanje: [Imigracijski uradi StädteRegion](https://www.staedteregion-aachen.de/en/navigation/residence-permit). Dokumenti, zdravstveno zavarovanje, status bivanja in uradna pisma: [državni administrativni vodič](https://germandex.com/sl/germany/admin).
+
+Prijavite se lahko v celoti [na spletu](https://serviceportal.aachen.de/suche/-/vr-bis-detail/dienstleistung/4599/show) (osebna izkaznica ali evropska kartica eID z aktivirano funkcijo eID, njen PIN in brezplačen račun BundID) ali osebno po predhodni rezervacji termina v uradu Bürgerbüro ali Bezirksamt.
+
+---
+
+Source: https://germandex.com/sl/aachen/admin
+
+Language: sl
+
+
+# Aachen - Šport
+
+## Za študente RWTH: Hochschulsport
+
+RWTH [Hochschulsport](https://hochschulsport.rwth-aachen.de/cms/hsz/sport/~hpoua/sportangebot/) ponuja številne športe po študentskih cenah; pred rezervacijo preverite upravičenost in trenutne cene.
+
+Tečaji vključujejo športe z žogo, plezanje, ples in fitnes. Preverite spletno mesto Hochschulsport za trenutni program in pravila vpisa.
+
+Nekateri tečaji stanejo manj za upravičene študente kot primerljive zunanje možnosti. Pred rezervacijo primerjajte trenutno ceno tečaja.
+
+### Preverite trenutne [datume registracije](https://hochschulsport.rwth-aachen.de/cms/hsz/sport/sportangebot/~bgxpbf/programmstart-anmeldung-und-termine/)
+
+Priljubljeni tečaji se lahko hitro zapolnijo. Časi registracije se lahko spremenijo ob vsakem obdobju; preverite uradno stran z datumi, preden nastavite alarm.
+
+## Brezplačne možnosti
+
+-   Tecite ali hodite po Lousbergu, hribovskem parku tik ob središču mesta.
+-   Aachener Wald (gozd) južno od mesta je odličen za daljše teke in pohode ob koncu tedna.
+-   Pridružite se igri prevzema: vprašajte svoje sošolce. Pridružitev ekipi je eden najhitrejših načinov pridobivanja nemških prijateljev.
+
+---
+
+Source: https://germandex.com/sl/aachen/sports
+
+Language: sl
+
+
+# Aachen - Restavracije
+
+## Priporočeno
+
+### [AKL](https://www.akl-orient.de/)
+
+Libanonska hrana v sproščenem, družinskem lokalu. Pontstraße 1-3. Pon-sob 11.30-23.00, nedelje zaprto.
+
+### [TAT Gemüsekebab](https://www.tat-gemuesekebab.de/restaurants) 9,60 €
+
+Najboljši Döner in Dürüm v Aachnu. Na Markt 44 in na Elisenbrunnen (Friedrich-Wilhelm-Platz 11). Odprto od 11.00, pozno ob vikendih.
+
+### [Al Triangolo](http://www.al-triangolo.de/)
+
+Majhna družinska italijanska hiša v starem mestnem jedru, Rommelsgasse 2-3. Mesto za večerjo. Zaprto ob torkih.
+
+### Vegetarijanec? To so vaše najboljše stave
+
+Priporočena mesta so tudi najboljše možnosti zelenjave v mestu. Izberite Falafel ali Halloumi.
+
+## Poceni in hitro
+
+### [Nobis](https://nobis-printen.de/oeffnungszeiten/)
+
+Lastna veriga pekarn v Aachnu s podružnicami po vsem mestu. Sendviči, kava in Printen (lokalni medenjaki). Kavarna na Münsterplatzu stoji tik ob katedrali.
+
+### Subway
+
+Saj veš. Zanesljivo, poceni, nasitno.
+
+### Bäckerei [Moss](https://baeckerei-moss.de/filiale/)
+
+Aachenska pekarna s poslovalnicami po mestu. Žemljice, sendviči, pecivo in kava; MOSS auf der Hörn na Ahornstr. 42 je blizu RWTH.
+
+---
+
+Source: https://germandex.com/sl/aachen/restaurants
+
+Language: sl
+
+
+# Aachen - Zabava
+
+### Pontstraße
+
+Ulica študentskega bara. Začnite noč tukaj. Tudi na Poststraße je veliko barov.
+
+### [Apollo](https://apollo-aachen.de/club/events/)
+
+Velik mainstream klub, Pontstraße 141-149, pri Ponttorju. Mainstream glasba, tematski večeri in velike zabave dobrodošlice vsak oktober.
+
+### [Musikbunker](https://mubu.ac/)
+
+Koncerti in klubski večeri v starem bunkerju. Domačini izberejo, če želite nekaj manj običajnega.
+
+### Barbarossa
+
+Poceni pijače. Karaoke ob sredah.
+
+### LikeLike
+
+Tiki bar blizu Pontstraße s poceni in nenavadnimi pšeničnimi pivi.
+
+### Sowiso
+
+Dobra glasba, plus karte, pikado in biljard.
+
+## Dobro je vedeti
+
+-   Oktober je sezona zabav: oglejte si koledar [AStA](https://www.asta.rwth-aachen.de/) za zabavo Semesteranfangsparty in zabavo dobrodošlice "Students United" v Apollu. Lani je imel vstopnino 5 € pred polnočjo in brezplačno pivo do 1. ure zjutraj.
+-   Domačini pravijo, da preskočite klub "Nightlife" blizu Rothe Erde.
+-   Za prave večere v velikih klubih gredo ljudje v Köln, približno uro stran z vlakom.
+
+---
+
+Source: https://germandex.com/sl/aachen/party
+
+Language: sl
+
+
+# Jezik
+
+Celo osnovna nemščina tukaj _spremeni vse_: službe, iskanje stanovanja, Ausländerbehörde, sklepanje prijateljstev.
+
+### Najboljši spletni tečaj: Pimsleur
+
+Za samostojno učenje je Pimsleur najboljši spletni tečaj.
+
+### Najboljši učitelj je zaposlitev s krajšim delovnim časom
+
+Nekaj izmen na teden v restavraciji vas bo naučilo več vsakdanje nemščine kot kateri koli tečaj. Oglejte si Delovna mesta v gostinstvu in maloprodaji pod [Zaposlitev](https://germandex.com/sl/job).
+
+## Aachen
+
+### [RWTH](https://www.sz.rwth-aachen.de/cms/sz/deutsch/kursangebot-daf/~ymonj/semesterkurse/) Sprachenzentrum
+
+Jezikovni center RWTH. Tečaji nemščine od A1 do C1 za mednarodne študente, med semestrom in kot intenzivni tečaji med odmorom. Registrirajte se prek RWTHonline.
+
+### [VHS](https://www.vhs-aachen.de/programm/sprachen/deutsch-als-fremd-und-zweitsprache) Aachen
+
+Mestni center za izobraževanje odraslih na Peterstraße. Večerni in intenzivni tečaji nemščine na vseh stopnjah.
+
+### [Sprachenakademie](https://www.spraachen.org/en/german-courses/intensive-courses/) Aachen
+
+Drago, a vredno. Rezervirajte intenzivni tečaj vnaprej, da bo usklajen z vašim semestralnim odmorom.
+
+## Berlin
+
+### [FU](https://www.sprachenzentrum.fu-berlin.de/sprachangebot/sprachen/deutsch/kurse/semesterkurse/index.html) Sprachenzentrum
+
+Tečaji nemščine kot tujega jezika (DaF) med semestrom za študente FU.
+
+### [HU](https://www.sprachenzentrum.hu-berlin.de/de/kursangebot-und-anmeldung/sprachen/deutsch) Sprachenzentrum
+
+Tečaji DaF na vseh stopnjah za študente HU.
+
+### Volkshochschule ([VHS](https://www.berlin.de/vhs/kurse/deutsch-integration/))
+
+Vsako berlinsko okrožje ima svoj VHS s tečaji nemščine na vseh ravneh.
+
+## Bochum
+
+### [RUB](https://www.daf.ruhr-uni-bochum.de/daf/kurse/index.html.de) Nemščina kot tuji jezik
+
+Tečaji nemščine poleg študija na univerzi Ruhr.
+
+### [VHS](https://vhs.bochum.de/programm/deutsch-als-fremdsprache) Bochum
+
+Tečaji nemščine na vseh stopnjah.
+
+## Dortmund
+
+### [TU Dortmund](https://fs.zhb.tu-dortmund.de/lehrgebiete/deutsch-als-fremdsprache/), nemščina kot tuji jezik
+
+Tečaji nemščine za mednarodne študente.
+
+### [VHS](https://vhs.dortmund.de/programm/sprachen-und-kulturen-der-welt/kategorie/Deutsch+als+Fremdsprache/33) Dortmund
+
+Tečaji nemščine na vseh stopnjah.
+
+## Düsseldorf
+
+### [HHU](https://www.hhu.de/internationales/internationale-studierende/neu-an-der-hhu/ankommen-leicht-gemacht/sprachen-lernen) Sprachenzentrum
+
+Tečaji nemščine za študente HHU.
+
+### [vhs](https://vhs.duesseldorf.de/programm/deutsch-und-integration) Düsseldorf
+
+Tečaji nemščine na vseh stopnjah, od A1 navzgor.
+
+### [IIK](https://www.iik-duesseldorf.de/deutsch/) Düsseldorf
+
+Jezikovni inštitut z intenzivnimi tečaji nemščine.
+
+## Frankfurt
+
+### [Goethejeva univerza](https://www.uni-frankfurt.de/43669402/semesterbegleitkurse) ISZ
+
+Semestralni tečaji in intenzivni tečaji nemščine za študente.
+
+### [Frankfurt UAS](https://www.frankfurt-university.de/de/hochschule/einrichtungen-und-services/fachsprachenzentrum/sprachangebot) Fachsprachenzentrum
+
+Tečaji nemščine med semestrom.
+
+### [vhs](https://vhs.frankfurt.de/de/deutschalsfremdsprache) Frankfurt
+
+Tečaji nemščine na vseh stopnjah.
+
+## Hamburg
+
+### [Universität Hamburg](https://www.uni-hamburg.de/sprachenzentrum/daf/kurse.html) Sprachenzentrum
+
+Tečaji nemščine med semestrom in intenzivni tečaji pred njim.
+
+### [TUHH tečaji nemščine](https://www.tuhh.de/tuhh/studium/im-studium/sprachen-lernen/deutsch-lernen/deutschkurse-internationale-studiengaenge)
+
+Za študente mednarodnih programov TUHH.
+
+### [Hamburger Volkshochschule](https://www.vhs-hamburg.de/deutsch-17)
+
+Tečaji nemščine na vseh stopnjah, od A1 do C2.
+
+## Cologne
+
+### Univerza v Kölnu, nemščina kot tuji jezik
+
+Tečaji nemščine od A1 do C1 poleg vašega študija.
+
+### TH [Köln](https://uni-koeln.de/studium-lehre/international/studium-in-koeln/lehrbereich-deutsch-als-fremdsprache) Sprachlernzentrum
+
+Nemški moduli za študente TH [Köln](https://www.th-koeln.de/internationales/deutsch-als-fremdsprache_25247.php).
+
+### Kölner [VHS](https://www.koelner-vhs.de/deutsch-integration/deutsch-fremdsprache)
+
+Širok izbor tečajev nemščine na vseh stopnjah.
+
+## Munich
+
+### [Tečaji nemščine LMU](https://www.lmu.de/de/studium/internationale-vollzeit-studierende/sprachkurse/)
+
+Tečaji nemščine za mednarodne študente na LMU.
+
+### [TUM](https://www.sprachenzentrum.tum.de/sz/sprachen/deutsch/) Sprachenzentrum
+
+Tečaji nemščine za študente TUM, od začetne stopnje navzgor.
+
+### Münchner Volkshochschule ([MVHS](https://www.mvhs.de/kurse/deutsch-integration/deutsch-fuer-studierende-460-CAT-KAT21360))
+
+Tečaji za študente, kot je "Deutsch für Studium und Alltag".
+
+## Münster
+
+### [Uni Münster](https://www.uni-muenster.de/Sprachenzentrum/internationales/internationalestudierende/deutschimsemester.html) Sprachenzentrum
+
+Tečaji nemščine med semestrom in intenzivni tečaji med odmorom.
+
+### [VHS](https://kurse.vhs-muenster.de/p/558-CAT-KAT4175273) Münster
+
+Tečaji nemščine na vseh stopnjah.
+
+## Erlangen
+
+### [FAU](https://sz.fau.de/abteilung-deutsch-als-fremdsprache/kursangebot/daf-studienbegleitende-kurse/) Sprachenzentrum
+
+Tečaji nemščine ob študiju za vpisane študente. Pred tečajem potrebuješ uvrstitveni preizkus; prijava na spletu v StudOn. Seznam tečajev je v campo.
+
+### [VHS](https://www.vhs-erlangen.de/programm/sprachen/allgemeine-informationen-zum-sprachenbereich) Erlangen
+
+Mestna ljudska univerza nudi jezikovno svetovanje in brezplačen spletni preizkus znanja. Tečaji nemščine ne dovoljujejo poskusne udeležbe, zato se prijavi vnaprej.
+
+## Tübingen
+
+### [Uni Tübingen](https://uni-tuebingen.de/international/sprachen-lernen/deutschkurse/) Deutsch als Fremdsprache
+
+Tečaji nemščine za univerzitetne študente. Prijava v alma. Prijave za zimski semester 2026/27 so bile ob našem preverjanju zaprte, a nekateri tečaji so imeli še prosta mesta.
+
+### [VHS](https://www.vhs-tuebingen.de/kurse/deutschkurse) Tübingen
+
+Tečaji nemščine od A1 do C1 vsak semester, z dopoldanskimi in večernimi skupinami, rednimi izpiti in brezplačnim preizkusom znanja.
+
+---
+
+Source: https://germandex.com/sl/germany/language
+
+Language: sl
+
+
+# Bonton
+
+### V javnem prevozu bodi tiho
+
+Na avtobusih in vlakih naj bo vaš glas tih, telefonski klici pa naj bodo kratki.
+
+### Upoštevajte prometna pravila
+
+Prehodi za pešce, semaforji se jemljejo zelo resno!
+
+### Bodite vljudni
+
+Malo vljudnosti tukaj zelo pomaga. Reči »Danke« vsakič, ko kaj dobiš, je vedno cenjeno.
+
+---
+
+Source: https://germandex.com/sl/germany/etiquette
+
+Language: sl
+
+
+# Dostava
+
+## Hrana
+
+### [Wolt](https://wolt.com/)
+
+Dostava hrane iz restavracij po mestu.
+
+### [Lieferando](https://www.lieferando.de/)
+
+Druga velika aplikacija za dostavo hrane v Nemčiji.
+
+## Paketi
+
+### Aktiviraj Packstation v aplikaciji [DHL](https://www.dhl.de/de/privatkunden/pakete-empfangen/an-einem-abholort-empfangen/packstation.html)
+
+V Nemčiji dostavljavci (Amazon in drugi) običajno ne kličejo. Paket pogosto pustijo pred vrati ali ga vrnejo. Packstation je omarica, iz katere prevzameš pakete, in je zanesljiva možnost za večino pošiljk.
+
+## Zdravila
+
+### [Shop Apotheke](https://www.shop-apotheke.com/)
+
+Naroči zdravila brez recepta in prehranska dopolnila prek spleta.
+
+---
+
+Source: https://germandex.com/sl/germany/delivery
+
+Language: sl
+
+
+# Admin v Nemčiji
+
+Državna administrativna opravila po prihodu: prijavi naslov, uredi zdravstveno zavarovanje in status bivanja ter razumi uradna pisma. Univerzitetni koraki so v vodiču tvojega mesta.
+
+Denar v Nemčiji: vodniki za [bančni račun](https://germandex.com/sl/germany/bank-account), [zdravstveno zavarovanje](https://germandex.com/sl/germany/health-insurance), [zavarovanje odgovornosti](https://germandex.com/sl/germany/liability-insurance), [SIM kartico](https://germandex.com/sl/germany/sim-card) in [SCHUFA](https://germandex.com/sl/germany/schufa).
+
+## Prijavi svoj naslov
+
+Po vselitvi v dveh tednih prijavi naslov na Bürgeramtu ali Einwohnermeldeamtu. Prinesi osebni dokument ali potni list in Wohnungsgeberbestätigung, ki jo podpiše ponudnik nastanitve; najemna pogodba je ne nadomesti. Če prihajaš iz tujine ali imaš elektronsko dovoljenje za prebivanje, preveri, ali potrebuješ osebni termin.
+
+Potrdilo ne pride pravočasno? Neposredno kontaktiraj urad za prijavo. Nikoli ne prijavljaj naslova, kjer ne živiš.
+
+## Preverite zdravstveno zavarovanje in status bivanja
+
+Vprašajte svojo zdravstveno zavarovalnico, ali je potrdilo o vpisu prispelo na vašo univerzo, in preberite zahteve za manjkajoče dokumente. Študenti, ki niso državljani EU in potrebujejo dovoljenje za bivanje, morajo preveriti organ za priseljevanje, pristojen za njihovo univerzo, in svoj rok za vizum ali dovoljenje.
+
+Manjka dokazilo o zavarovanju? Prosite zavarovalnico, da univerzi pošlje elektronsko obvestilo. Rok za prebivanje se bliža? Obrnite se neposredno na organ za priseljevanje.
+
+## Uradna pisma: kaj storiti
+
+-   Steuer-ID: Zvezni centralni davčni urad izda to stalno davčno številko. Obdrži pismo. Če ne prispe ali se izgubi, zahtevajte novo obvestilo [BZSt](https://www.bzst.de/EN/Private_individuals/Tax_identification_number/tax_identification_number_node.html); pošlje se po pošti.
+-   [Rundfunkbeitrag](https://www.rundfunkbeitrag.de/informationen): preverite, ali je vaš dom že registriran in kdo plača. Običajno velja en prispevek na stanovanje, z izjemami; raje uporabite uradne obrazce za prispevke, kot da ignorirate pismo.
+-   Pismo o zdravstvenem zavarovanju: preberite ga za morebitne manjkajoče dokumente, zahteve za kritje ali plačilo. Za dokazilo o vpisu vprašajte svojo zavarovalnico o njenem elektronskem sporočilu vaši univerzi.
+-   [Sozialversicherungsnummer](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Sozialversicherungsausweis): imejte številko pokojninskega zavarovanja, ko prvič delate v Nemčiji. Če se izgubi, zahtevajte zamenjavo pri zavodu za pokojninsko ali zdravstveno zavarovanje.
+-   Dopis v zvezi s prebivališčem: preverite njegov rok in organ, ki je v njem naveden. Če niste jasni, se pred iztekom roka obrnite na urad za priseljevanje, pristojen za vašo univerzo.
+
+---
+
+Source: https://germandex.com/sl/germany/admin
+
+Language: sl
+
+
+# Bivanje v Nemčiji
+
+Poišči sobo. Razumi, kaj podpisuješ.
+
+## Pred podpisom
+
+-   Kaution je vračljiva varščina. Za navadne stanovanjske najeme je zakonska omejitev trimesečna najemnina brez ločeno navedenih tekočih stroškov; gotovinsko varščino lahko plačate v treh mesečnih obrokih. Pred plačilom preverite svojo pogodbo.
+-   Warmmiete je osnovna najemnina plus navedeni tekoči stroški; Nebenkosten so tisti dodatni stroški gradnje/storitve, ki so pogosto plačani vnaprej in pozneje usklajeni. Vprašajte, kateri stroški, vključno z ogrevanjem in elektriko, so v vaši pogodbi.
+-   Wohnungsgeberbestätigung potrdi vašo dejansko vselitev za prijavo naslova. Lastnik ali glavni najemnik ga podpiše. Je ločena od najemne pogodbe.
+-   Pazi na prevare: preveri osebo in sobo, preden pošlješ denar ali občutljive dokumente. Univerze opozarjajo na lažne ponudbe in varščine pred predajo ključev. Univerzitetna stanovanjska svetovalnica ti lahko pomaga preveriti sumljivo ponudbo.
+
+---
+
+Source: https://germandex.com/sl/germany/housing
+
+Language: sl
+
+
+# Supermarketi v Nemčiji
+
+Diskonti in supermarketi s široko ponudbo zadovoljujejo različne potrebe. Primerjaj izdelke, ki jih kupuješ.
+
+### Diskonti
+
+[Netto](https://www.netto-online.de/), [Aldi](https://www.aldi-sued.de/marken) in [Lidl](https://www.lidl.de/c/eigenmarken-food/s10007656) prodajajo vsakodnevna živila in izdelke lastnih znamk. Primerjaj svojo običajno košarico in trenutne ponudbe.
+
+### Supermarketi s široko ponudbo
+
+[Rewe](https://www.rewe-group.com/en/company/structure-and-saleslines/), [Edeka](https://verbund.edeka/unternehmen/was-ist-der-edeka-verbund/m%C3%A4rkte-vertrieb/edeka/) in [Kaufland](https://filiale.kaufland.de/sortiment.html) ponujajo širok izbor živil. Ponudba se razlikuje med poslovalnicami.
+
+### Naš uredniški izbor
+
+Rewe je naš izbor za supermarket s široko ponudbo. To je uredniška izbira, ne cenovna lestvica.
+
+---
+
+Source: https://germandex.com/sl/germany/groceries
+
+Language: sl
+
+
+# Bančni računi v Nemčiji
+
+Girokonto (transakcijski račun) je prva stvar, ki jo uredite: najemnina, zdravstveno zavarovanje in plače gredo vsi prek njega.
+
+### Študentski Girokonto pri Sparkasse
+
+Sparkasse ponuja Girokonto za študente in vajence z aplikacijo, brezstičnim plačevanjem in okoli 20.000 bankomatov po vsej Nemčiji. V številnih podružnicah je brezplačen: vsaka Sparkasse sama določa pogoje in provizije, zato v svoji lokalni podružnici vprašajte, ali ponuja brezplačen študentski račun in ali velja starostna omejitev. (Vir: [sparkasse.de](https://www.sparkasse.de/pk/produkte/konten-und-karten/girokonto/studenten-und-auszubildende.html), preverjeno 19. oktobra 2026.) Zavrnjeni v eni podružnici? Poskusite drugo ali odprite online; spletna banka je dobra začasna rešitev in pozneje se lahko preklopite na Sparkasse.
+
+### Najemnino nastavite kot trajni nalog
+
+Najemnino nastavi kot Dauerauftrag (trajni nalog), da se samodejno plača vsak mesec. Urejena zgodovina plačil je pomembna pri iskanju stanovanja.
+
+### Kreditna kartica (neobvezno)
+
+[PAYBACK Visa](https://www.payback.de/info/visa) stane 29 EUR na leto. Plačila so brezplačna po vsem svetu in zbira Payback točke pri vsakem plačilu; točke ne potečejo, dokler je kartica aktivna. Dvigi gotovine so v tujini brezplačni, v Nemčiji pa stanejo 2 % (najmanj 5 EUR). (Vir: payback.de, preverjeno 19. oktobra 2026.)
+
+### Naš uredniški izbor
+
+Sparkasse študentski Girokonto. Merila: brezplačen za študente v številnih podružnicah po lastni strani Sparkasse (vsaka Sparkasse sama določa pogoje), mreža podružnic in bankomatov, ki pokriva vsako mesto v teh vodnikih, in ime, ki ga pozna vsak najemodajalec in delodajalec. To je uredniška izbira, ne cenovna razvrstitev.
+
+---
+
+Source: https://germandex.com/sl/germany/bank-account
+
+Language: sl
+
+
+# Zdravstveno zavarovanje v Nemčiji
+
+Zdravstveno zavarovanje je obvezno: ob vpisu na univerzo morate dokazati kritje. Ta stran razlaga vrste možnosti; ni zdravniški nasvet.
+
+### Javno (obvezno) zavarovanje
+
+Večina študentov uporablja obvezno zavarovanje (gesetzliche Krankenversicherung). Zakonsko predpisano osnovno kritje - zdravniki, zdravila, nujna pomoč, bolnišnica - je enako v vsaki Krankenkasse. Kot datiran primer TK za leto 2026 navaja študentski prispevek 141,16 EUR na mesec do 23. leta in 146,29 EUR od 23. leta brez otrok, vključno z negovalnim zavarovanjem, in opozarja, da se prispevek med Krankenkassami komaj razlikuje. Študentska stopnja običajno velja do konca semestra, v katerem dopolnite 30 let. (Vira: [daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/) in [tk.de](https://www.tk.de/techniker/versicherung/gut-versichert-in-jeder-lebenslage/versichert-als-studierende/krankenversicherung-und-studium/beitrag-studierende-2131472), preverjeno 19. oktobra 2026.)
+
+### Zasebno zavarovanje
+
+Zasebni paketi lahko ponudijo več, vendar so precej dražji in običajno zahtevajo, da račune najprej plačate sami in nato zahtevate povračilo. Povratek v obvezno zavarovanje pozneje je težak. (Vir: [daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/), preverjeno 19. oktobra 2026.)
+
+### Potrditev za vpis
+
+Vaša Krankenkasse vaš status zavarovanja univerzi sporoči elektronsko; brez tega vpis ni dokončan. Z vpisom ste samodejno kрити tudi z nezgodnim zavarovanjem univerze za dejavnosti na kampusu in v zvezi s študijem. (Vir: [daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/), preverjeno 19. oktobra 2026.)
+
+### Prevleka za zobe + vid (neobvezno)
+
+Neobvezno, a če nosiš očala, preveri kritje. [BarmeniaGothaer](https://www.barmeniagothaer.de/versicherung/krankenzusatz-pflege/) ponuja dodatno zobno zavarovanje in kritje za oči Mehr Sehen. Pred sklenitvijo preveri premijo, omejitve, pogoje in interval povračila.
+
+### Naš uredniški izbor
+
+Obvezno zavarovanje kot študent, pri katerikoli Krankenkasse po izbiri. Merila: osnovno kritje je zakonsko povsod enako, znižana študentska stopnja je standardna primerna možnost (zgornje številke TK so datiran primer, ne priporočilo) in vsaka Krankenkasse lahko vaš status sporoči univerzi. To je uredniška izbira, ne zdravniški ali finančni nasvet.
+
+---
+
+Source: https://germandex.com/sl/germany/health-insurance
+
+Language: sl
+
+
+# Zavarovanje odgovornosti (Haftpflicht)
+
+Zasebna Haftpflichtversicherung krije škodo, ki jo povzročite drugim osebam ali njihovim stvarem. Večina ljudi v Nemčiji jo ima in stane nekaj evrov na mesec.
+
+### Kaj krije
+
+Klasični primeri: razbijete prijateljev prenosnik, izgubite ključe najemodajalca ali s svojim kolesom opraskate parkiran avto. Brez zavarovanja plačate sami; zavarovanje odgovornosti plača namesto vas.
+
+### Na kaj paziti pred nakupom
+
+Višina kritja (ciljajte visoko - škoda na osebah je lahko zelo draga), ali so izgubljeni ključi vključeni, in odbitna franšiza. Preberite stran tarife, ne samo cene.
+
+### Naš uredniški izbor
+
+Die Haftpflichtkasse, tarifa [Einfach Besser](https://www.haftpflichtkasse.de/versicherungen/privatkunden/privathaftpflicht/Einfach-Besser/). Merila: zavarovalnica, specializirana za odgovornost, in tarifa po lastni strani krije osebne, premoženjske in finančne škode do 50 milijonov evrov. Stran ne navaja fiksne premije - cena je odvisna od vaših podatkov, zato tam zaprosite za ponudbo. (Vir: haftpflichtkasse.de, preverjeno 19. oktobra 2026.) To je uredniška izbira, ne cenovna razvrstitev.
+
+---
+
+Source: https://germandex.com/sl/germany/liability-insurance
+
+Language: sl
+
+
+# SIM kartice v Nemčiji
+
+Predplačniška kartica je ob prihodu boljša od pogodbe: ne potrebuje nemškega bančnega računa ali zgodovine SCHUFA in ni dolge pogodbe.
+
+### Eno plačilo za celo leto
+
+[MagentaMobil Prepaid Jahrestarif](https://www.telekom.de/shop/tarife/prepaid-jahrestarif) Telekoma: 99,95 EUR enkratno za 12 mesecev - 20 GB hitrih podatkov na mesec (5G, kjer je na voljo) plus neomejeni klici in SMS v nemška omrežja. Če ne prekličete z enomesečnim odpovednim rokom ob koncu 12 mesecev, se tarifa samodejno podaljša za nedoločen čas in jo je nato mogoče odpovedati mesečno. (Vir: telekom.de, preverjeno 19. oktobra 2026.)
+
+### Mesečne možnosti
+
+Če raje plačujete mesečno, vsa omrežja (Telekom, Vodafone, O2) in blagovne znamke supermarketov prodajajo mesečne predplačniške pakete. Pred nakupom preverite trenutno ceno in količino podatkov - ponudbe se pogosto spreminjajo.
+
+### Naš uredniški izbor
+
+Telekom MagentaMobil Prepaid Jahrestarif. Merila: eno plačilo pokriva dvanajst mesecev, zato pred prvo plačo ni mesečnih računov; deluje v omrežju Telekoma; cena in 20 GB sta pisno potrjena na telekom.de. To je uredniška izbira, ne cenovna razvrstitev.
+
+---
+
+Source: https://germandex.com/sl/germany/sim-card
+
+Language: sl
+
+
+# SCHUFA razložena
+
+### Razumi SCHUFA
+
+SCHUFA je nemška kreditna evidenca; najemodajalci pogosto zahtevajo poročilo. Za oceno ni treba odpirati dodatnih produktov: SCHUFA svetuje pravočasno plačevanje in preproste finance. Urejena zgodovina na obstoječih računih pomaga sčasoma. Podatke preveri v aplikaciji SCHUFA ali pri SCHUFA zahtevaj brezplačno kopijo podatkov. ([Android](https://play.google.com/store/apps/details?id=com.schufamobileapp) / [iPhone](https://apps.apple.com/de/app/schufa/id6448636299))
+
+SCHUFA ponuja brezplačno kopijo podatkov (Datenkopie) na [schufa.de](https://www.schufa.de/datenkopie). (Vir: schufa.de, preverjeno 19. oktobra 2026.)
+
+---
+
+Source: https://germandex.com/sl/germany/schufa
+
+Language: sl
+
+
+# Eksperiment z uredniškimi agenti
+
+Germandex je poskus zbiranja visokokakovostnih nasvetov z avtonomnimi agenti. Agenti za Germandexom raziskujejo, urejajo in vzdržujejo kvalitativne nasvete z interneta za novince v Nemčiji.
+
+Zasnovani so tako, da so jasni, brez komercialnih interesov in da dajejo prednost jasnosti pred raznolikostjo.
+
+Če vam je to všeč, ga pomagajte [izboljšati](https://germandex.com/).
+
+Hvala, ker ste se oglasili!
+
+![](https://germandex.com/img/venkat-pixel-mono.png)
+
+[Venkat Srinivasan](mailto:venkatragavan@protonmail.com)
+
+[](https://linkedin.com/in/venkatragavan "LinkedIn")[](https://x.com/venkgator "X")
+
+---
+
+Source: https://germandex.com/sl/manifesto
+
+Language: sl
+
+
+# Denar
+
+Nastavite stvari v tem vrstnem redu.
+
+### 1\. [Odprite bančni račun](https://germandex.com/sl/germany/bank-account)
+
+Brezplačno za študente; to uredite najprej.
+
+### 2\. [Pridobite zdravstveno zavarovanje](https://germandex.com/sl/germany/health-insurance)
+
+Obvezno za vpis; preberite vrste možnosti.
+
+### 3\. [Pridobite zavarovanje odgovornosti](https://germandex.com/sl/germany/liability-insurance)
+
+Nekaj evrov na mesec krije drage nesreče.
+
+### 4\. [Vzemite SIM](https://germandex.com/sl/germany/sim-card)
+
+Najprej predplačniško; pogodbe pozneje.
+
+### 5\. [Razumite SCHUFA](https://germandex.com/sl/germany/schufa)
+
+Nemška kreditna evidenca, razložena.
+
+---
+
+Source: https://germandex.com/sl/money
+
+Language: sl
+
+
+# Zaposlitve
+
+Nemčija ima zakonsko določeno minimalno plačo, tako da je tudi preprosto delo primerno plačano. Trenutno znaša 13,90 evra na uro, januarja 2027 pa bo narasla na 14,60 evra.
+
+### Pisarna in podjetje
+
+Delovna študentska (Werkstudent) dela v podjetjih. Odlično za vaš življenjepis in vašo kariero po diplomi.
+
+### Gostinstvo in maloprodaja
+
+Restavracije, kavarne, trgovine. Najhitrejši način zaslužka, ki vam zelo pomaga pri učenju nemščine.
+
+### Loči pravila o delovnem času
+
+-   Pravilo prebivanja za študente zunaj EU: brez dodatnega dovoljenja lahko delaš 140 celih ali 280 polovičnih dni letno. Natančno pravilo je v dovoljenju za prebivanje.
+-   Pravilo Werkstudent: do 20 ur tedensko med semestrom študij ostane glavna dejavnost in ohraniš ugodnosti študentskega zaposlenja v socialnem zavarovanju. Med počitnicami, zvečer ali ob koncih tedna lahko delaš več po pravilu 26 tednov.
+-   Študentsko zdravstveno zavarovanje: študentske tarife veljajo, dokler je študij jasno glavna dejavnost. Če redno delaš več kot 20 ur tedensko, vprašaj zavarovalnico, ali preideš na zavarovanje zaposlenega.
+
+## Pisarniška in poslovna delovna mesta
+
+1.  Vaš življenjepis mora biti v nemškem formatu. Kopirajte postavitev iz [vzorca življenjepisa](https://germandex.com/sl/job/resume).
+2.  Glasnost premaga vse za delovne študentske vloge. Ne čakajte na popolno službo.
+3.  Poiščite zaposlitev na LinkedIn, StepStone, kjer koli. Vendar se vedno prijavite neposredno na kariernem mestu podjetja.
+4.  Prijavni paket vedno priložite v rubriko "Dodatni dokumenti".
+
+### Vaš aplikacijski paket
+
+### 1\. Potrdilo o vpisu
+
+Immatrikulationsbescheinigung. Prenesite ga s spletnega portala vaše univerze.
+
+### 2\. Konsolidirani prepis diplomskega študija
+
+Vse vaše diplomske ocene v enem dokumentu.
+
+### 3\. Arbeitszeugnis
+
+Referenčno pismo prejšnjega delodajalca.
+
+### Referenčno pismo mora biti v nemškem formatu
+
+Priporočilno pismo v slogu, ki se uporablja doma, ne bo dobro pristalo. Vprašajte svojega starega delodajalca za delovno razmerje v nemškem formatu. Lahko je napisana v angleškem jeziku: na dopisnem pismu podjetja, s podpisom in žigom podjetja.
+
+Nemške reference uporabljajo fiksne fraze za ocenjevanje. Zaposlovalci jih berejo kot oznake, zato naj pismo uporablja ta jezik:
+
+Zelo dobro (sehr gut)
+
+"vedno v naše največje zadovoljstvo" (stets zu unserer vollsten Zufriedenheit)
+
+Dobro (črevesje)
+
+"vedno v naše popolno zadovoljstvo" (stets zu unserer vollen Zufriedenheit)
+
+Prizadevajte si za "zelo dobro" besedilo v razdelkih o uspešnosti in vedenju. Oglejte si [vzorec Arbeitszeugnis](https://germandex.com/sl/job/reference) za celoten primer v angleščini.
+
+## Delovna mesta v gostinstvu in maloprodaji
+
+Ta dela lahko najdeš na platformah, kot sta Indeed, Zenjob in druge. A najboljši način je, da preprosto stopiš v restavracije in hotele ter vprašaš, ali iščejo koga za krajši delovni čas.
+
+1.  Vsak dan izberite eno območje mesta.
+2.  Začnite s hrano v nakupovalnem središču. Po tem so območja, ki so bolj oddaljena od centra, boljša: manj študentov sprašuje.
+3.  Stopi v vsako restavracijo in hotel ter prosi za delo, v nemščini.
+4.  Ni pomembno, če govorite tekoče, pomembno je pokazati, da lahko poskusite.
+
+---
+
+Source: https://germandex.com/sl/job
+
+Language: sl
+
+
+# Vzorec življenjepisa
+
+Izmišljen življenjepis razvijalca programske opreme na začetku kariere za mednarodne prijave. Izpostavi ustrezne izkušnje, piši kratko in poskrbi, da so znanja pregledna. Spremeni vrstni red, če je izobrazba tvoj najmočnejši dokaz.
+
+Alex Morgan
+
+Razvijalec programske opreme
+
+Berlin, Nemčija · alex.morgan@example.com  
++49 \[telefonska številka\] · github.com/\[uporabniško ime\] · linkedin.com/in/\[uporabniško ime\]
+
+### Profil
+
+Razvijalec programske opreme z izkušnjami pri zalednih storitvah in spletnih aplikacijah. Trenutno zaključuje magistrski študij računalništva. Išče študentsko delo v ekipi za razvoj izdelkov.
+
+### Izkušnje
+
+Apr 2026 - Danes
+
+Študentski sodelavec, zaledni razvoj
+
+Nordwerk Logistics · Berlin, Nemčija
+
+-   Izdelal API-je za sledenje pošiljkam s Pythonom in FastAPI; v testih zmogljivosti zmanjšal mediano odzivnega časa za 40%.
+-   Dodal samodejne teste in postopek objave na osnovi Dockerja z GitHub Actions.
+
+Jun 2024 - Avg 2025
+
+Mlajši razvijalec programske opreme
+
+Brightpath · Rotterdam, Nizozemska
+
+-   Razvil funkcije plačilne storitve v Javi in Spring Bootu z večdisciplinarno ekipo.
+-   Povečal pokritost z enotskimi testi s 45% na 80% in dokumentiral preverjanja pri pregledih za nove sodelavce.
+
+### Izobrazba
+
+Okt 2025 - Danes
+
+Magistrski študij računalništva (MSc)
+
+\[Ime univerze\] · Berlin, Nemčija
+
+Usmeritev: porazdeljeni sistemi in programsko inženirstvo.
+
+Sep 2021 - Jun 2024
+
+Dodiplomski študij računalništva (BSc)
+
+\[Ime univerze\] · \[Mesto, država\]
+
+### Izbrani projekt
+
+Study Space · Iskalnik prostorov na kampusu
+
+Izdelal aplikacijo React in TypeScript z API-jem na osnovi PostgreSQL za iskanje prostih učnih sob. Dodal dostopno navigacijo s tipkovnico in samodejne teste.
+
+github.com/\[username\]/study-space
+
+### Tehnična znanja
+
+**Jeziki:** Python, Java, TypeScript, SQL  
+**Ogrodja:** FastAPI, Spring Boot, React  
+**Orodja:** Git, Docker, GitHub Actions, PostgreSQL
+
+### Jeziki
+
+Angleščina: C1 · Nemščina: A2 · \[Drugi jezik\]: \[raven\]
+
+Vse v tem življenjepisu je izmišljeno. Zamenjajte ga s svojimi podatki.
+
+Imena, delodajalci, kraji in rezultati so ponazoritve, ne resnične kvalifikacije. Vsak primer zamenjaj s točnimi podatki. Mesto in država zadoščata; celoten naslov dodaj le po potrebi. Ni fotografije, datuma rojstva, zakonskega stanu, izjave ali podpisa.
+
+---
+
+Source: https://germandex.com/sl/job/resume
+
+Language: sl
+
+
+# Vzorec Arbeitszeugnis
+
+Vzorec Arbeitszeugnis (referenca o zaposlitvi), napisan v angleščini. Angleščina je primerna za vašo prijavo. V Nemčiji deluje zaradi oblike zapisa: pisemska glava podjetja, podpis, žig podjetja in fiksne fraze ocenjevanja, ki jih iščejo kadrovniki. Oseba in podjetje sta izmišljena.
+
+Brightpath Fintech Pvt. Ltd.
+
+\[Company address\]  ·  \[Phone\]  ·  \[Website\]
+
+\[City\], 31 August 20XX
+
+### Employment Reference
+
+Mr. Arjun Rao, born on \[date\] in \[city\], worked for our company as a Software Developer from 1 July 20XX to 31 August 20XX.
+
+Brightpath Fintech builds digital payment products for banks and retailers, with about 150 employees.
+
+Mr. Rao's main tasks were:
+
+-   Developing backend services for our payment platform in Java and Spring Boot
+-   Building and maintaining the mobile payment flow
+-   Writing unit tests and reviewing code from other developers
+-   Planning sprints together with the product and design teams
+
+Mr. Rao has very good, well-founded technical knowledge, which he always applied with great success in his daily work. He learned new technologies very quickly and always worked independently, carefully and to a very high standard.
+
+He always completed the tasks given to him to our fullest satisfaction.
+
+His behavior towards managers, colleagues and customers was always exemplary. He was a valued team member at all times.
+
+Mr. Rao is leaving our company at his own request to start a master's degree in Germany. We very much regret his departure, thank him for his always excellent work, and wish him continued success and all the best for his future, both professionally and personally.
+
+\[Signature\]  
+\[Name\], Head of Engineering  
+\[Company stamp\]
+
+Vrstica za ocenjevanje
+
+»Vedno v naše največje zadovoljstvo« je ocena: »najbolj polno« + »vedno« = zelo dobro (sehr gut); "polno" + "vedno" = dobro (črevesje).
+
+Vodilna linija
+
+"Vedno zgledno" obnašanje do menedžerjev, sodelavcev in strank = zelo dobro.
+
+Zapiranje
+
+Obžalovanje ob odhodu, zahvala in dobre želje signalizirajo zelo dobro referenco. Manjkajoče zapiranje se bere kot slab znak.
+
+---
+
+Source: https://germandex.com/sl/job/reference
+
+Language: sl
+
+
+# Aachen - Supermarketi
+
+Za pregled verig in pomoč pri izbiri preberi naš [vodič po supermarketih v Nemčiji](https://germandex.com/sl/germany/groceries). Lokalne mednarodne trgovine so navedene spodaj.
+
+## Azijski in mednarodni supermarketi
+
+Za začimbe, riž, lečo in vse ostalo od doma: Aachen ima nekaj azijskih in mednarodnih trgovin, večinoma okoli Jülicher Straße in Hansemannplatz.
+
+### New Sherona Supermarket
+
+Heinrichsallee 30, blizu trga Kaiserplatz. Indijska, pakistanska in afriška živila: začimbe, riž, leča, zamrznjena hrana in sveži proizvodi. Odprto vsak dan.
+
+### Nagammaal Markt
+
+Jülicher Str. 4, v bližini trga Hansemannplatz. Dolgotrajna indijska in azijska trgovina z živili. Odprto od ponedeljka do sobote od 10. do 22. ure.
+
+### [Asian aiX Bazaar](https://www.aix-bazaar.de/)
+
+Jülicher Str. 20. Južnoazijska in afriška živila, sveži izdelki, halal ribe in storitev rezanja rib.
+
+---
+
+Source: https://germandex.com/sl/aachen/groceries
+
+Language: sl
+
+
+# Berlin - Admin
+
+Univerzitetna priprava za vaš prvi teden
+
+To ni popoln kontrolni seznam za prihod. Prijava naslova, status zdravstvenega zavarovanja in po potrebi dovoljenje za prebivanje so ločene naloge.
+
+### 1\. Naložite kartico MensaCard pred prvim kosilom
+
+Berlinske Mense (ki jih vodi Studierendenwerk Berlin) sprejemajo samo kartico MensaCard ali kartico CampusCard vaše univerze. Brez gotovine, brez bančnih kartic.
+
+Še nimaš [MensaCard](https://www.stw.berlin/mensen/faq-mensen/mensacard.html)? Dobiš jo na blagajni menze in napolniš na avtomatu; prinesi študentsko izkaznico ali CampusCard.
+
+### 2\. Študenti [FU](https://www.fu-berlin.de/studium/studieren/studienorganisation/semesterticket/Deutschlandsemesterticket/Wie-erhalte-ich-Ticket.html) Berlin: aktiviraj Deutschlandsemesterticket
+
+Na FU Berlin je vozovnica samo v aplikaciji S-Bahn Berlin. Korake ponovi vsak semester. Druge univerze pošljejo navodila na univerzitetno pošto.
+
+Vozovnice ni v aplikaciji S-Bahn? Preveri vpis in ponovni vpis ter kontaktiraj AStA FU. Koraki se ponovijo vsak semester.
+
+-   Deutschlandsemesterticket pokriva lokalni in regionalni prevoz v drugem razredu, ne pa ICE/IC/EC. Financira se iz semestra in ne iz brezplačne vstopnice.
+-   Ne vkrcajte se brez veljavne vozovnice. Če vaša vozovnica za semester ni pripravljena, najprej kupite drugo veljavno vozovnico.
+
+## Več kot univerzitetna postavitev
+
+### Prijavi svoj naslov v Berlinu
+
+Prijava naslova: [Mestni urad za prijavo naslova (Anmeldung)](https://service.berlin.de/dienstleistung/120686/), v dveh tednih po vselitvi. Dovoljenja za prebivanje: [Urad za tujce](https://www.berlin.de/einwanderung/en/residence/study/). Dokumenti, zdravstveno zavarovanje, status bivanja in uradna pisma: [državni administrativni vodič](https://germandex.com/sl/germany/admin).
+
+Naslov lahko prijavite na dva načina: v celoti [na spletu prek BundID](https://service.berlin.de/dienstleistung/120686/), če imate nemško osebno izkaznico ali evropsko kartico eID z aktivirano funkcijo eID in njen PIN, ali osebno v uradu Bürgeramt s terminom. Rezervirajte prek [iskanja po vsem mestu](https://service.berlin.de/terminvereinbarung/hinweise/) - zajema vse urade Bürgeramt, ne samo tistega v vaši četrti. Uradniki običajno naložijo nove termine zgodaj zjutraj, vsak dan ob uri odprtja se odpre nov dan za rezervacije, preklicani termini pa se ponovno pojavijo - preverjajte redno.
+
+---
+
+Source: https://germandex.com/sl/berlin/admin
+
+Language: sl
+
+
+# Berlin - Šport
+
+Vsaka velika univerza vodi svoj Hochschulsport: [f=](https://www.tu-sport.de/)"https://www.hochschulsport.hu-berlin.de/de/angebot/sportangebot" target="\_blank" rel="noopener">ref="https://www.fu-sport.de/" target="\_blank" rel="noopener">FU, HU in TU.
+
+Stotine tečajev na športni strani univerze. Nižje cene za upravičene študente; preveri pogoje in cene. Spremljaj datume in zgodaj rezerviraj priljubljene tečaje.
+
+## Brezplačne možnosti
+
+-   Tempelhofer Feld: staro letališče, zdaj ogromno odprto igrišče za tek, kolesarjenje in drsanje.
+-   Tiergarten in Volkspark Friedrichshain za teke in nogomet.
+
+---
+
+Source: https://germandex.com/sl/berlin/sports
+
+Language: sl
+
+
+# Berlin - Restavracije
+
+## Priporočeno
+
+### [Mustafa's](https://mustafas.de/)
+
+Najbolj znan berlinski zelenjavni kebab v Mehringdammu, Kreuzberg. Pričakujte čakalno vrsto.
+
+### [Monsieur Vuong](https://www.monsieurvuong.de/)
+
+Družinska vietnamska kuhinja, Alte Schönhauser Str. 46, Mitte.
+
+### [Konnopke's](https://www.konnopke-imbiss.de/)
+
+Currywurst od leta 1930, pod tiri U-Bahna na Schönhauser Allee.
+
+### Vegetarijanec? To so vaše najboljše stave
+
+Mustafa's je zelenjavna klasika. Večina vietnamskih krajev ima različice svojih jedi s tofujem.
+
+## Poceni in hitro
+
+### [Curry 36](https://curry36.de/mehringdamm/)
+
+Currywurst na naslovu Mehringdamm 36, Kreuzberg. Odprto vsak dan do 5. ure zjutraj.
+
+### Burgermeister
+
+Burgerji iz starega javnega stranišča pod U-Bahnom na Schlesisches Tor (Oberbaumstraße 8).
+
+---
+
+Source: https://germandex.com/sl/berlin/restaurants
+
+Language: sl
+
+
+# Berlin - Zabava
+
+### [Simon-Dach-Straße](https://www.visitberlin.de/en/going-out-simon-dach-strasse)
+
+Ena najbolj znanih barskih ulic v Berlinu v Friedrichshainu. Dober kraj za začetek noči.
+
+### RAW-Gelände
+
+Stara železniška postaja na Revaler Straße s klubi, kot je Cassiopeia (hip hop, koncerti).
+
+### [Matrix](https://www.matrix-berlin.de/)
+
+Velik mainstream klub v Warschauer Brücke. Zabava vsak večer, 5 € za študente pred polnočjo.
+
+### Weserstraße
+
+Ulica barov v Neuköllnu. Poceni pijače, veliko izbire.
+
+## Dobro je vedeti
+
+-   Berlinski klubi imajo stroga vrata in običajno prepovedujejo fotografiranje v njih. Pojdite v majhne skupine in ne jemljite ne osebno.
+-   [Študentske zabave](https://www.studentenparty-berlin.de/) so navedene na studentenparty-berlin.de.
+
+---
+
+Source: https://germandex.com/sl/berlin/party
+
+Language: sl
+
+
+# Berlin - Supermarketi
+
+Za pregled verig in pomoč pri izbiri preberi naš [vodič po supermarketih v Nemčiji](https://germandex.com/sl/germany/groceries). Lokalne mednarodne trgovine so navedene spodaj.
+
+## Azijski in mednarodni supermarketi
+
+### [Zora](https://zorastore.eu/de/pages/zora-kreuzberg) Supermarkt
+
+Kottbusser Damm 93, Kreuzberg. Indijska, azijska, afriška in latinskoameriška živila. Tudi podružnica v Mitte.
+
+### [Vinh-Loi](https://www.vinhloi.de/stores)
+
+Azijski supermarket, Ansbacher Str. 16, Schöneberg. Več poslovalnic po mestu.
+
+### Dong Xuan Center
+
+Herzbergstraße, Lichtenberg. Največji azijski trg v Berlinu: šest hal z živili, restavracije in drugo.
+
+---
+
+Source: https://germandex.com/sl/berlin/groceries
+
+Language: sl
+
+
+# Bochum - Admin
+
+Univerzitetna priprava za vaš prvi teden
+
+To ni popoln kontrolni seznam za prihod. Prijava naslova, status zdravstvenega zavarovanja in po potrebi dovoljenje za prebivanje so ločene naloge.
+
+### 1\. Študenti [RUB](https://www.it-services.ruhr-uni-bochum.de/services/sl/semesterticket.html.de): v menzi plačaj s čipno kartico
+
+Akafö Mensas vzame vašo študentsko izkaznico (ima čip) ali MensaCard. Naložite denar nanj pred prvim kosilom.
+
+Čip ne deluje na blagajni? Vprašaj osebje Akafö za rezervno MensaCard.
+
+### 2\. Študenti RUB: aktiviraj Deutschland-Semesterticket
+
+Univerza Ruhr pojasnjuje korake na svoji strani s storitvami IT. Pokriva vse lokalne in regionalne avtobuse in vlake v Nemčiji, zato sta Dortmund in Essen oddaljena kratko vožnjo. Semestralna vstopnica
+
+Vozovnice ni? Preveri vpis in plačilo prispevka ter sledi navodilom RUB IT ali kontaktiraj AStA.
+
+-   Deutschlandsemesterticket pokriva lokalni in regionalni prevoz v drugem razredu, ne pa ICE/IC/EC. Financira se iz semestra in ne iz brezplačne vstopnice.
+-   Ne vkrcajte se brez veljavne vozovnice. Če vaša vozovnica za semester ni pripravljena, najprej kupite drugo veljavno vozovnico.
+
+## Več kot univerzitetna postavitev
+
+### Prijavi svoj naslov v Bochumu
+
+Prijava naslova: [Mestni urad za prijavo naslova (Anmeldung)](https://www.bochum.de/Buergerbuero/Dienstleistungen-und-Infos/Anmeldung-in-Bochum), v dveh tednih po vselitvi. Dovoljenja za prebivanje: [Urad za tujce](https://www.bochum.de/Auslaenderbuero). Dokumenti, zdravstveno zavarovanje, status bivanja in uradna pisma: [državni administrativni vodič](https://germandex.com/sl/germany/admin).
+
+Stalno prebivališče lahko prijavite v celoti [na spletu](https://www.bochum.de/Buergerbuero/Dienstleistungen-und-Infos/Anmeldung-in-Bochum) (prek wohnsitzanmeldung.gov.de) ali osebno v uradu Bürgerbüro s terminom. Če prosti termini presegajo vaš dvotedenski rok, že sama rezervacija termina šteje kot pravočasna prijava - prinesite potrditev.
+
+---
+
+Source: https://germandex.com/sl/bochum/admin
+
+Language: sl
+
+
+# Bochum - Šport
+
+[Hochschulsport Bochum](https://buchung.hochschulsport.ruhr-uni-bochum.de/angebote/aktueller_zeitraum/) vodi [univerza Ruhr](https://hochschulsport-bochum.ruhr-uni-bochum.de/de/faqs-oft-gestellte-fragen).
+
+Pred udeležbo se na vsak tečaj prijavi online. Običajno so cenejši za upravičene študente; preveri pogoje in cene.
+
+## Brezplačne možnosti
+
+-   Kemnader See, jezero v bližini kampusa. Vsako soboto zjutraj je brezplačen 5 km parkrun.
+
+---
+
+Source: https://germandex.com/sl/bochum/sports
+
+Language: sl
+
+
+# Bochum - Restavracije
+
+## Priporočeno
+
+### Mandragora
+
+Prvotna pub restavracija Bermuda3Eck.
+
+### [Café Tucholsky](https://cafe-tucholsky.de/)
+
+Kavarna in restavracija za zajtrk in kosilo, odprta od 7. ure zjutraj ob delavnikih.
+
+### Bermuda Döner
+
+Döner v Bermuda3Eck, z veganskimi možnostmi.
+
+### Vegetarijanec? To so vaše najboljše stave
+
+Bermuda Döner has vegan döner.
+
+---
+
+Source: https://germandex.com/sl/bochum/restaurants
+
+Language: sl
+
+
+# Bochum - Zabava
+
+### [Bermuda3Eck](https://www.bermuda3eck.de/)
+
+Barska četrt v Bochumu z največ pivnicami na kvadratni meter v NRW. Začnite noč tukaj.
+
+### [Zeche](https://zeche.net/) Bochum
+
+Velik klub in koncertno prizorišče s tematskimi zabavami.
+
+---
+
+Source: https://germandex.com/sl/bochum/party
+
+Language: sl
+
+
+# Bochum - Supermarketi
+
+Za pregled verig in pomoč pri izbiri preberi naš [vodič po supermarketih v Nemčiji](https://germandex.com/sl/germany/groceries). Lokalne mednarodne trgovine so navedene spodaj.
+
+## Azijski in mednarodni supermarketi
+
+### Kashmir Bazar
+
+Brückstraße 40, center mesta. Indijska in bližnjevzhodna živila.
+
+### [Tains](https://www.mein-asiamarkt.de/Filialen/Bochum/) Asia Supermarkt
+
+Herner Straße. Azijska živila.
+
+---
+
+Source: https://germandex.com/sl/bochum/groceries
+
+Language: sl
+
+
+# Dortmund - Skrbnik
+
+Univerzitetna priprava za vaš prvi teden
+
+To ni popoln kontrolni seznam za prihod. Prijava naslova, status zdravstvenega zavarovanja in po potrebi dovoljenje za prebivanje so ločene naloge.
+
+### 1\. Plačajte v Mensi s kartico ali telefonom
+
+Plačajte brezstično z bančno kartico ali telefonom.
+
+Brezstično plačilo ne uspe? Poskusi drugo blagajno ali vprašaj osebje Studierendenwerka.
+
+### 2\. Študenti [TU Dortmund](https://www.tu-dortmund.de/semesterticket/): priskrbi si Deutschlandsemesterticket
+
+TU Dortmund vam ga podari skupaj z AStA. Zajema vse lokalne in regionalne avtobuse in vlake v Nemčiji.
+
+Vozovnica ni izdana? Preveri vpis in semestralni prispevek ter kontaktiraj AStA ali študentsko službo.
+
+-   Deutschlandsemesterticket pokriva lokalni in regionalni prevoz v drugem razredu, ne pa ICE/IC/EC. Financira se iz semestra in ne iz brezplačne vstopnice.
+-   Ne vkrcajte se brez veljavne vozovnice. Če vaša vozovnica za semester ni pripravljena, najprej kupite drugo veljavno vozovnico.
+
+## Več kot univerzitetna postavitev
+
+### Prijavi svoj naslov v Dortmundu
+
+Prijava naslova: [Mestni urad za prijavo naslova (Anmeldung)](https://www.dortmund.de/services/wohnsitzanmeldung.html), v dveh tednih po vselitvi. Dovoljenja za prebivanje: [Urad za tujce](https://application.dortmund.de/rathaus-und-verwaltung/verwaltung/amt-fuer-migration/kontakt/). Dokumenti, zdravstveno zavarovanje, status bivanja in uradna pisma: [državni administrativni vodič](https://germandex.com/sl/germany/admin).
+
+Prijavite se lahko v celoti [na spletu](https://www.dortmund.de/services/wohnsitzanmeldung.html) (funkcija eID vaše osebne izkaznice in brezplačen račun BundID) ali osebno s terminom.
+
+---
+
+Source: https://germandex.com/sl/dortmund/admin
+
+Language: sl
+
+
+# Dortmund - Šport
+
+[Hochschulsport Dortmund](https://hsp.tu-dortmund.de/sportangebot/) vodi TU Dortmund.
+
+Najprej kupi [Sportkarte](https://www.buchsys.ahs.tu-dortmund.de/angebote/aktueller_zeitraum/_SPORTKARTE.html), nato rezerviraj tečaje online. Pred nakupom preveri trenutno ceno in upravičenost.
+
+## Brezplačne možnosti
+
+-   Phoenix-See: ravne, široke poti okoli jezera.
+
+---
+
+Source: https://germandex.com/sl/dortmund/sports
+
+Language: sl
+
+
+# Dortmund - Restavracije
+
+## Priporočeno
+
+### Mo's Beef
+
+Burgers, Lortzingstraße 28.
+
+### [Al Afandi](https://www.al-afandi-dortmund.de/)
+
+Arabska hrana v središču mesta, Ostenhellweg 40.
+
+### [Little Italy](https://www.little-italy-dortmund.de/)
+
+Italijanska na Hansastraße 44. Večina jedi ne stane več kot 10 €.
+
+## Poceni in hitro
+
+### [Wurst Willi](https://www.wurstwilli.com/)
+
+Currywurst na Petrikirchhofu. Od ponedeljka do sobote.
+
+---
+
+Source: https://germandex.com/sl/dortmund/restaurants
+
+Language: sl
+
+
+# Dortmund - Zabava
+
+### Kreuzviertel
+
+Študentska gostilna. Začnite noč tukaj.
+
+### Kraftstoff
+
+Pub v Unionviertelu, Augustastraße 2. Odprto vsak dan od 19. ure.
+
+### [FZW](https://fzw.de/)
+
+Klubsko in koncertno prizorišče z rednimi zabavami iz 90. in 2000. let.
+
+---
+
+Source: https://germandex.com/sl/dortmund/party
+
+Language: sl
+
+
+# Dortmund - Supermarketi
+
+Za pregled verig in pomoč pri izbiri preberi naš [vodič po supermarketih v Nemčiji](https://germandex.com/sl/germany/groceries). Lokalne mednarodne trgovine so navedene spodaj.
+
+## Azijski in mednarodni supermarketi
+
+### [Inaivaa](https://www.inaivaa.com/visit-store)
+
+Rheinische Str. 79. Indijska in šrilanška živila.
+
+### [Tain Kim Heng](https://tkh-supermarkt.de/)
+
+Hohe Straße 62. Azijski supermarket.
+
+---
+
+Source: https://germandex.com/sl/dortmund/groceries
+
+Language: sl
+
+
+# Düsseldorf - Admin
+
+Univerzitetna priprava za vaš prvi teden
+
+To ni popoln kontrolni seznam za prihod. Prijava naslova, status zdravstvenega zavarovanja in po potrebi dovoljenje za prebivanje so ločene naloge.
+
+### 1\. Študenti HHU: priskrbi si [HHU Card](https://www.hhu.de/studium/bewerbung-und-einschreibung/hhu-card)
+
+Na univerzi Heinrich Heine je kartica HHU vaša študentska izkaznica, izkaznica Mensa, izkaznica za knjižnico in Deutschlandticket v enem. Zajema vse lokalne in regionalne avtobuse in vlake v Nemčiji.
+
+HHU Card ne prispe? Preveri poštni naslov na portalu HHU in kontaktiraj študentsko službo; aktivacija v dveh korakih z univerzitetno identiteto.
+
+### 2\. Študenti drugih univerz v Düsseldorfu: priskrbi si MensaCard
+
+Študenti drugih univerz plačujejo pri Mensi s kartico MensaCard Studierendenwerk (2,50 €) in jo napolnijo v aplikaciji TopUp.
+
+TopUp ne deluje? Vprašaj blagajno menze o drugih načinih polnjenja.
+
+-   Deutschlandsemesterticket pokriva lokalni in regionalni prevoz v drugem razredu, ne pa ICE/IC/EC. Financira se iz semestra in ne iz brezplačne vstopnice.
+-   Ne vkrcajte se brez veljavne vozovnice. Če vaša vozovnica za semester ni pripravljena, najprej kupite drugo veljavno vozovnico.
+
+## Več kot univerzitetna postavitev
+
+### Prijavi svoj naslov v Düsseldorfu
+
+Prijava naslova: [Mestni urad za prijavo naslova (Anmeldung)](https://service.duesseldorf.de/suche/-/egov-bis-detail/dienstleistung/227/show), v dveh tednih po vselitvi. Dovoljenja za prebivanje: [Urad za tujce](https://www.duesseldorf.de/auslaenderamt). Dokumenti, zdravstveno zavarovanje, status bivanja in uradna pisma: [državni administrativni vodič](https://germandex.com/sl/germany/admin).
+
+Dva načina prijave: v celoti [na spletu](https://service.duesseldorf.de/suche/-/egov-bis-detail/dienstleistung/227/show) (osebna izkaznica ali evropska kartica eID z aktivirano funkcijo eID in njen PIN; dokument se posodobi digitalno) ali osebno v uradu Bürgerbüro - termin je obvezen.
+
+---
+
+Source: https://germandex.com/sl/duesseldorf/admin
+
+Language: sl
+
+
+# Düsseldorf - Šport
+
+[Hochschulsport Düsseldorf](https://hss-d.de/) vodi šport za univerze v Düsseldorfu.
+
+Cenejši tečaji za upravičene študente, z online rezervacijo po [odprtju računa](https://hss-d.de/allgemeines-organisatorisches/teilnahme-kosten-bankverbindung/). Preveri pogoje in cene; priljubljeni se hitro zapolnijo.
+
+## Brezplačne možnosti
+
+-   Tecite po promenadi ob Renu.
+-   Südpark poleg kampusa HHU in Hofgarten v središču mesta.
+
+---
+
+Source: https://germandex.com/sl/duesseldorf/sports
+
+Language: sl
+
+
+# Düsseldorf - Restavracije
+
+## Priporočeno
+
+### [Marukin Karaage](https://www.marukin-karaage-duesseldorf.de/)
+
+Japonski ocvrt piščanec v japonski četrti okoli Immermannstraße.
+
+### [Bibimcup](https://www.bibimcup.de/)
+
+Korejski bibimbap, Friedrich-Ebert-Straße 3. Od torka do sobote.
+
+### [Sattgrün](https://sattgruen.de/)
+
+Veganski bife, v Medienhafnu (Brückenstr. 12) in v Flingernu (Hoffeldstr. 18).
+
+### Vegetarijanec? To so vaše najboljše stave
+
+Sattgrün je popolnoma veganski, Bibimcup pa ima zelenjavne sklede.
+
+---
+
+Source: https://germandex.com/sl/duesseldorf/restaurants
+
+Language: sl
+
+
+# Düsseldorf - Zabava
+
+### Altstadt
+
+»Najdaljši bar na svetu«: na stotine pubov v starem mestnem jedru. Pijte Altbier, na primer pri [Uerige](https://uerige.de/).
+
+### Die Blende
+
+Rock pub v Bilku, Friedrichstr. 122.
+
+### [Ampere](https://ampere-club.de/programm/)
+
+Nov klub za koncerte in zabave.
+
+### [The Eight](https://the-eight.de/)
+
+Klub na promenadi ob Renu, znan po velikih zabavah Ersti (svežinci) v oktobru.
+
+---
+
+Source: https://germandex.com/sl/duesseldorf/party
+
+Language: sl
+
+
+# Düsseldorf - Supermarketi
+
+Za pregled verig in pomoč pri izbiri preberi naš [vodič po supermarketih v Nemčiji](https://germandex.com/sl/germany/groceries). Lokalne mednarodne trgovine so navedene spodaj.
+
+## Azijski in mednarodni supermarketi
+
+### [Dae-Yang](https://www.visitduesseldorf.de/en/attractions/dae-yang-da-yang-shi-pin-a2bfd01c49)
+
+Immermannstraße 21. Japonske, korejske in druge azijske trgovine.
+
+### Indo-Ceylon
+
+Na trgu Worringer Platz. Indijska in šrilanška živila.
+
+---
+
+Source: https://germandex.com/sl/duesseldorf/groceries
+
+Language: sl
+
+
+# Frankfurt - Skrbnik
+
+Univerzitetna priprava za vaš prvi teden
+
+To ni popoln kontrolni seznam za prihod. Prijava naslova, status zdravstvenega zavarovanja in po potrebi dovoljenje za prebivanje so ločene naloge.
+
+### 1\. Plačajte v Mensi s svojo univerzitetno kartico
+
+Studierendenwerk Frankfurt Mensas sprejme vašo univerzitetno izkaznico ali kartico MensaCard.
+
+Kartica brez dobroimetja? Vprašaj blagajno menze o polnjenju ali MensaCard.
+
+### 2\. Študenti univerze Goethe: priskrbi si Deutschlandsemesterticket
+
+Na univerzi Goethe je to digitalna vstopnica s [spletnega portala AStA](https://asta-frankfurt.de/angebote/kultur-mobilitaet/semesterticket). Zajema vse lokalne in regionalne avtobuse in vlake v Nemčiji.
+
+Digitalne vozovnice ni? Preveri ponovni vpis (Rückmeldung) in prispevek - vozovnica je plačana s prispevkom - ter kontaktiraj podporo AStA za vozovnice.
+
+-   Deutschlandsemesterticket pokriva lokalni in regionalni prevoz v drugem razredu, ne pa ICE/IC/EC. Financira se iz semestra in ne iz brezplačne vstopnice.
+-   Ne vkrcajte se brez veljavne vozovnice. Če vaša vozovnica za semester ni pripravljena, najprej kupite drugo veljavno vozovnico.
+
+### 3\. Za študente Frankfurt UAS: aktivirajte svoj Deutschlandsemesterticket
+
+Na Frankfurt University of Applied Sciences je vozovnica plačana s semestralnim prispevkom in obstaja samo digitalno. Aktivirajte jo na [AStA portalu za vozovnice](https://asta-fra-uas.de/semesterticketbuero/) s svojim univerzitetnim računom, hranite jo v denarnici telefona in imejte s seboj osebni dokument s fotografijo. Podaljša se vsak semester.
+
+Nimate pametnega telefona? V AStA uradu za semestrske vozovnice povprašajte o postopku za čip kartico.
+
+## Več kot univerzitetna postavitev
+
+### Prijavi svoj naslov v Frankfurtu
+
+Prijava naslova: [Mestni urad za prijavo naslova (Anmeldung)](https://frankfurt.de/service-und-rathaus/verwaltung/aemter-und-institutionen/buergeramt-statistik-und-wahlen/buergeraemter/terminservice), v dveh tednih po vselitvi. Dovoljenja za prebivanje: [Urad za tujce](https://frankfurt.de/auslaenderangelegenheiten). Dokumenti, zdravstveno zavarovanje, status bivanja in uradna pisma: [državni administrativni vodič](https://germandex.com/sl/germany/admin).
+
+Stalno prebivališče lahko prijavite v celoti [na spletu](https://frankfurt.de/service-und-rathaus/verwaltung/aemter-und-institutionen/buergeramt-statistik-und-wahlen/buergeraemter/terminservice) (prek wohnsitzanmeldung.gov.de) ali osebno v katerem koli uradu Bürgeramt, ne glede na to, kje v Frankfurtu živite - termin je obvezen.
+
+---
+
+Source: https://germandex.com/sl/frankfurt/admin
+
+Language: sl
+
+
+# Frankfurt - Šport
+
+[Zentrum für](https://www.uni-frankfurt.de/103154514/FAQ) [Hochschulsport](https://www.uni-frankfurt.de/hochschulsport) na univerzi Goethe je odprt tudi za študente UAS v Frankfurtu.
+
+Veliko tečajev z online prijavo. Nižje cene za upravičene študente; preveri pogoje in cene. Spremljaj datume in se prijavi zgodaj.
+
+## Brezplačne možnosti
+
+-   Mainufer: kilometri obrečnih poti s pogledom na obzorje.
+-   Grüneburgpark poleg kampusa Westend in Stadtwald za daljše teke.
+
+---
+
+Source: https://germandex.com/sl/frankfurt/sports
+
+Language: sl
+
+
+# Frankfurt - Restavracije
+
+## Priporočeno
+
+### [Bun Bo](https://bun-bo-restaurant-frankfurt.eatbu.com/?lang=de)
+
+Vietnamski rezanci in sklede, v Ostendeju.
+
+### [Pizzeria Montana](https://www.montana-pizzeria.de/allergene-zusatzstoffe/)
+
+Neapeljska pica, Weserstraße 14.
+
+### [Apfelwein Wagner](https://www.apfelwein-wagner.com/)
+
+Klasična gostilna jabolčnega vina od leta 1931, Schweizer Str. 71, Sachsenhausen. Poskusite Grüne Soße.
+
+### Vegetarijanec? To so vaše najboljše stave
+
+Naročite Grüne Soße s krompirjem in jajci pri Apfelwein Wagnerju ali margerito pri Montani.
+
+---
+
+Source: https://germandex.com/sl/frankfurt/restaurants
+
+Language: sl
+
+
+# Frankfurt - Zabava
+
+### Alt-Sachsenhausen
+
+Stara četrt pivnic s tavernami jabolčnega vina, kot je Zur Buchscheer.
+
+### [Gibson](https://gibson-club.de/)
+
+Klub z živim odrom na Zeilu.
+
+### [Batschkapp](https://www.batschkapp.net/)
+
+Koncerti in zabave, Gwinnerstraße 5.
+
+### [Tanzhaus West](https://tanzhaus-west.de/)
+
+Techno in house v stari tovarni.
+
+## Dobro je vedeti
+
+-   Za študentske bare se odpravite v Bockenheim (stara univerzitetna četrt), Nordend in Bornheim.
+
+---
+
+Source: https://germandex.com/sl/frankfurt/party
+
+Language: sl
+
+
+# Frankfurt - Supermarketi
+
+Za pregled verig in pomoč pri izbiri preberi naš [vodič po supermarketih v Nemčiji](https://germandex.com/sl/germany/groceries). Lokalne mednarodne trgovine so navedene spodaj.
+
+## Azijski in mednarodni supermarketi
+
+### [Indian Bazar](https://indianbazar.de/)
+
+Pfaffenwiese 58, Zeilsheim. Indijska živila.
+
+### [Riko](https://rikoasiasupermarkt.de/) Asia Supermarkt
+
+Heinrich-Hertz-Straße 5. Azijske trgovine z živili, odprte od ponedeljka do sobote.
+
+---
+
+Source: https://germandex.com/sl/frankfurt/groceries
+
+Language: sl
+
+
+# Hamburg - Skrbnik
+
+Univerzitetna priprava za vaš prvi teden
+
+To ni popoln kontrolni seznam za prihod. Prijava naslova, status zdravstvenega zavarovanja in po potrebi dovoljenje za prebivanje so ločene naloge.
+
+### 1\. Plačajte v [Mensi](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-studierendenhaus) s kartico ali telefonom
+
+Mense Studierendenwerk Hamburg so popolnoma brezgotovinske. Plačajte z debetno ali kreditno kartico ali telefonom. Kartica za polnjenje ni potrebna.
+
+Kartica zavrnjena? Poskusi drugo ali telefon; osebje blagajne lahko pomaga.
+
+### 2\. Zagotovite si vstopnico [Deutschlandsemesterticket](https://www.hvv.de/de/service/fragen-und-antworten/semesterticket) prek RIDE
+
+Vaša univerza vam da kodo QR, ki vodi do RIDE, portala kampusa za vstopnico. Zajema vse lokalne in regionalne avtobuse in vlake v Nemčiji.
+
+QR kode ni? Preveri univerzitetno pošto in oglasne deske ter vprašaj AStA ali študentski urad; hvv FAQ pojasnjuje korake RIDE.
+
+-   Deutschlandsemesterticket pokriva lokalni in regionalni prevoz v drugem razredu, ne pa ICE/IC/EC. Financira se iz semestra in ne iz brezplačne vstopnice.
+-   Ne vkrcajte se brez veljavne vozovnice. Če vaša vozovnica za semester ni pripravljena, najprej kupite drugo veljavno vozovnico.
+
+## Več kot univerzitetna postavitev
+
+### Prijavi svoj naslov v Hamburgu
+
+Prijava naslova: [Mestni urad za prijavo naslova (Anmeldung)](https://www.hamburg.de/service/info/111202484/), v dveh tednih po vselitvi. Dovoljenja za prebivanje: [Urad za tujce](https://welcome.hamburg.com/entry-and-residence/residence-permit/students-17520). Dokumenti, zdravstveno zavarovanje, status bivanja in uradna pisma: [državni administrativni vodič](https://germandex.com/sl/germany/admin).
+
+Prijavite se lahko v celoti [na spletu](https://www.hamburg.de/service/info/111202484/) ali v katerem koli Kundenzentrumu po izbiri. Termin je obvezen od torka do petka; v ponedeljek in sredo lahko pridete brez termina, a pričakujte čakalne dobe.
+
+---
+
+Source: https://germandex.com/sl/hamburg/admin
+
+Language: sl
+
+
+# Hamburg - Šport
+
+[Hochschulsport Hamburg](https://www.hochschulsport.uni-hamburg.de/) si delijo hamburške univerze.
+
+Cenejši tečaji za upravičene študente, z [online prijavo](https://buchung.hochschulsport-hamburg.de/angebote/aktueller_zeitraum/). Preveri pogoje in cene. FlexiCard omogoča obisk številnih terminov brez stalnega tečaja.
+
+Semestrski tečaji se [odprejo za spletno rezervacijo](https://www.hochschulsport.uni-hamburg.de/sportcampus/buchsys.html) na določen datum in priljubljeni tečaji se hitro zapolnijo - rezervirajte na dan odprtja.
+
+## Brezplačne možnosti
+
+-   Odpeljite krog okoli jezera Außenalster, približno 7,5 km.
+-   Stadtpark za tek in pobiranje iger ter plaža Elbe v Övelgönneju za poletne večere.
+
+---
+
+Source: https://germandex.com/sl/hamburg/sports
+
+Language: sl
+
+
+# Hamburg - Restavracije
+
+## Priporočeno
+
+### [Badshah](https://badshahrestaurant.de/)
+
+Družinsko voden indijski lokal od leta 2004 v kraju Bremer Reihe blizu glavne postaje. Znan po svojem talisu.
+
+### [Azeitona](https://azeitona.de/)
+
+Falafel, humus in mezze v Schanzeju, Beckstraße 19.
+
+### [Bistro Ibras](https://ibras-bistro-hamburg.de/)
+
+Nekaj najboljših falaflov v Hamburgu, Holstenstr. 185, Altona.
+
+### Vegetarijanec? To so vaše najboljše stave
+
+Azeitona in Ibras sta vaša najboljša zelenjavna stava. Izberite falafel.
+
+## Poceni in hitro
+
+### [Brücke 10](https://bruecke10.com/)
+
+Fischbrötchen (ribji sendvič), hamburški prigrizek, prav v Landungsbrücken.
+
+---
+
+Source: https://germandex.com/sl/hamburg/restaurants
+
+Language: sl
+
+
+# Hamburg - Zabava
+
+### Reeperbahn in St. Pauli
+
+Slavni kilometer nočnega življenja v Hamburgu. Bari, klubi in živa glasba vsak večer.
+
+### Hamburger Berg
+
+Stranska ulica ob Reeperbahnu, polna poceni barov.
+
+### Sternschanze
+
+Bari in pijače na prostem okoli Schulterblatta. Bolj sproščeno kot Reeperbahn.
+
+### [Molotow](https://molotowclub.com/programm/programm.php)
+
+Indie klub na Reeperbahn 136. Koncerti in klubski večeri.
+
+### [Uebel & Gefährlich](https://www.uebelundgefaehrlich.com/)
+
+Klub v starem bunkerju iz druge svetovne vojne v Heiligengeistfeldu.
+
+## Dobro je vedeti
+
+-   Ob koncih tedna pazite na svoj telefon in denarnico na Reeperbahn.
+
+---
+
+Source: https://germandex.com/sl/hamburg/party
+
+Language: sl
+
+
+# Hamburg - Supermarketi
+
+Za pregled verig in pomoč pri izbiri preberi naš [vodič po supermarketih v Nemčiji](https://germandex.com/sl/germany/groceries). Lokalne mednarodne trgovine so navedene spodaj.
+
+## Azijski in mednarodni supermarketi
+
+### [SAIRAS](https://www.sairas.de/)
+
+Steindamm 21, blizu glavne postaje. Indijska in perzijska živila.
+
+### [Mehtab](https://mehtabstore.de/en/contact-us/)
+
+Lange Reihe 9, St. Georg. Indijska živila.
+
+### [LIARE Asia Markt](https://liare.de/)
+
+Eppendorfer Landstraße 70. Azijske trgovine z živili.
+
+---
+
+Source: https://germandex.com/sl/hamburg/groceries
+
+Language: sl
+
+
+# Cologne - Skrbnik
+
+Univerzitetna priprava za vaš prvi teden
+
+To ni popoln kontrolni seznam za prihod. Prijava naslova, status zdravstvenega zavarovanja in po potrebi dovoljenje za prebivanje so ločene naloge.
+
+### 1\. Plačajte v Mensi s kartico ali telefonom
+
+Stare Mensakarte ni več. Plačajte z bančno kartico ali telefonom.
+
+Plačilo ne uspe? Poskusi drugo blagajno ali vprašaj osebje.
+
+### 2\. Študenti Univerze v Kölnu: priskrbi si digitalni [Deutschlandsemesterticket](https://studsek.uni-koeln.de/studium_a_bis_z/data/semesterticket/index_ger.html)
+
+Na Univerzi v Kölnu je semestralna karta samo digitalna (od aprila 2024). Zajema vse lokalne in regionalne avtobuse in vlake v Nemčiji. Vaša univerza pojasnjuje korake.
+
+QR se na Rideu ne naloži? Preveri vpis in račun KLIPS ter kontaktiraj AStA (pogodbeni partner KVB za vozovnico).
+
+-   Deutschlandsemesterticket pokriva lokalni in regionalni prevoz v drugem razredu, ne pa ICE/IC/EC. Financira se iz semestra in ne iz brezplačne vstopnice.
+-   Ne vkrcajte se brez veljavne vozovnice. Če vaša vozovnica za semester ni pripravljena, najprej kupite drugo veljavno vozovnico.
+
+## Več kot univerzitetna postavitev
+
+### Prijavi svoj naslov v Kölnu
+
+Prijava naslova: [Mestni urad za prijavo naslova (Anmeldung)](https://www.stadt-koeln.de/service/produkte/00415/index.html), v dveh tednih po vselitvi. Dovoljenja za prebivanje: [Urad za tujce](https://www.stadt-koeln.de/service/produkt/aufenthaltserlaubnis-zu-studienzwecken-1). Dokumenti, zdravstveno zavarovanje, status bivanja in uradna pisma: [državni administrativni vodič](https://germandex.com/sl/germany/admin).
+
+Prijavite se lahko v celoti [na spletu](https://www.stadt-koeln.de/service/produkte/00415/index.html) (obisk urada ni potreben; nalepka z naslovom prispe po pošti) ali osebno v katerem koli Kundenzentrumu, ne glede na to, kje v Kölnu je vaše stanovanje.
+
+---
+
+Source: https://germandex.com/sl/koeln/admin
+
+Language: sl
+
+
+# Cologne - Šport
+
+[UniSport Köln](https://unisport.koeln/) je športni program Univerze v Kölnu.
+
+Semestralni [Sportticket](https://unisport.koeln/ueberblick/wie_kann_ich_teilnehmen/sportticket/index_ger.html) odpre številne tečaje; preveri ceno in pogoje. Na začetku zimskega semestra lahko med Schnupperzeitom poskusiš poljubno število tečajev.
+
+Mesta na tečajih so omejena, [rezervacija pa je možna samo na spletu](https://unisport.koeln/ueberblick/teilnahmeregelungen/faq/index_ger.html). Vsak tečaj se odpre na datum, naveden na njegovi strani, zasedeni tečaji pa imajo čakalni seznam - rezervirajte takoj, ko se rezervacija odpre.
+
+## Brezplačne možnosti
+
+-   Tek ob Renu: ravne poti na obeh bregovih.
+-   Aachener Weiher in Stadtwald za tek in poletne večere s prijatelji.
+
+---
+
+Source: https://germandex.com/sl/koeln/sports
+
+Language: sl
+
+
+# Cologne - Restavracije
+
+## Priporočeno
+
+### [Habibi](https://www.habibi-koeln.de/)
+
+Kultni lokal s falafli in šavarmo na Zülpicher Straße.
+
+### [Com Pho](https://www.comphokoeln.de/)
+
+Vietnamska udobna hrana na Zülpicher Straße.
+
+### Pastaminuta
+
+Pica in testenine, Luxemburger Str. 124, Sülz.
+
+### Vegetarijanec? To so vaše najboljše stave
+
+Habibi je vaša najboljša stava za zelenjavo. Izberite falafel.
+
+## Poceni in hitro
+
+### [Freddy Schilling](https://www.freddyschilling.de/standorte/)
+
+Sveži burgerji na treh mestih: Kyffhäuserstraße, Ehrenfeld in Eigelstein.
+
+### Falafel Salam
+
+Majhna falafel trgovica nekaj minut od univerze, Zülpicher Platz 17. Vegetarijansko.
+
+### [Mashery Hummus Kitchen](https://www.mashery-hummus.de/)
+
+Vegetarijanska humus kuhinja, Roonstraße 36. Krožniki s humusom in pita kruhom; večinoma vegansko.
+
+---
+
+Source: https://germandex.com/sl/koeln/restaurants
+
+Language: sl
+
+
+# Cologne - Zabava
+
+### Zülpicher Straße
+
+Ulica študentskih barov v Kwartier Latäng. Začnite noč tukaj.
+
+### [Das Ding](https://www.dingzone.de/)
+
+Študentski klub od leta 1968, Hohenstaufenring 30-32.
+
+### [Gebäude 9](https://gebaeude9.de/)
+
+Koncerti in klubski večeri v Deutzu. Domačini izberejo nekaj manj običajnega.
+
+### Belgisches Viertel
+
+Bari in kavarne, malo bolj odrasli.
+
+## Dobro je vedeti
+
+-   Pustni čas se začne 11.11. ob 11.11, februarja pa veliki ulični karneval. Celo mesto se obleče.
+-   Naročite Kölsch. Natakar prinaša nove kozarce, dokler na vrh ne položite podloge za pivo.
+
+---
+
+Source: https://germandex.com/sl/koeln/party
+
+Language: sl
+
+
+# Cologne - Supermarketi
+
+Za pregled verig in pomoč pri izbiri preberi naš [vodič po supermarketih v Nemčiji](https://germandex.com/sl/germany/groceries). Lokalne mednarodne trgovine so navedene spodaj.
+
+## Azijski in mednarodni supermarketi
+
+### [Singh's Mart](https://www.singhsmart.de/)
+
+Neumarkt 33. Indijska in eksotična živila.
+
+### [Heng Long](https://henglong.de/)
+
+Aachener Str. 201-209. Azijski supermarket na 1.000 m².
+
+---
+
+Source: https://germandex.com/sl/koeln/groceries
+
+Language: sl
+
+
+# Munich - Skrbnik
+
+Univerzitetna priprava za vaš prvi teden
+
+To ni popoln kontrolni seznam za prihod. Prijava naslova, status zdravstvenega zavarovanja in po potrebi dovoljenje za prebivanje so ločene naloge.
+
+### 1\. Študenti LMU in TUM: vključi Autoload za StudentCard
+
+Študenti LMU in TUM plačujejo v [Mensi](https://www.studierendenwerk-muenchen-oberbayern.de/en/gastronomie/preise-und-bezahlung/) s študentsko kartico. Vklopite samodejno nalaganje, da se sam napolni. Nekatere Mense sprejemajo tudi bančne kartice.
+
+Brez Autoloada? Napolni StudentCard na avtomatih v menzi.
+
+### 2\. V Münchnu ni semestralne karte
+
+Študentska pogodba je bila leta 2023 suspendirana in vaša študentska izkaznica ni prevozna karta. Namesto tega pridobite Bayerisches Ermäßigungsticket: [Deutschlandticket](https://www.mvg.de/abos-tickets/abos/ermaessigungsticket.html) za študente za 43 € na mesec.
+
+Nisi upravičen do Bayerisches Ermäßigungsticket? Primerjaj običajni Deutschlandticket; na MVG preveri trenutno ceno in pogoje.
+
+-   Ne vkrcajte se brez veljavne vozovnice. Če vaša vozovnica za semester ni pripravljena, najprej kupite drugo veljavno vozovnico.
+
+## Več kot univerzitetna postavitev
+
+### Prijavi svoj naslov v Münchnu
+
+Prijava naslova: [Mestni urad za prijavo naslova (Anmeldung)](https://stadt.muenchen.de/service/info/wohnsitzanmeldung/1063475/n0/), v dveh tednih po vselitvi. Dovoljenja za prebivanje: [Urad za tujce](https://stadt.muenchen.de/service/info/studenten/1089339/). Dokumenti, zdravstveno zavarovanje, status bivanja in uradna pisma: [državni administrativni vodič](https://germandex.com/sl/germany/admin).
+
+Prijava stalnega prebivališča je možna tudi v celoti [na spletu](https://stadt.muenchen.de/service/info/wohnsitzanmeldung/1063475/n0/), če imate osebni dokument z aktivirano funkcijo spletne identifikacije (eID), njegov šestmestni PIN in pametni telefon z NFC ter aplikacijo AusweisApp. Sicer se prijavite osebno: upraviti jo je mogoče v katerem koli Bürgerbüro v mestu, ne samo v tistem v vaši četrti. Za osebni obisk je termin obvezen, a [novi termini se objavijo večkrat na dan](https://stadt.muenchen.de/infos/terminvereinbarung-buergerbueros.html), tudi za isti dan približno 30 minut pred odprtjem uradov - preverjajte večkrat.
+
+---
+
+Source: https://germandex.com/sl/muenchen/admin
+
+Language: sl
+
+
+# Munich - Šport
+
+[ZHS](https://kurse.zhs-muenchen.de/de) ([Zentraler Hochschulsport München](https://www.zhs-muenchen.de/zhs/faqs/alle-infos-rund-um-die-sportkurse/)) vodi šport za vse münchenske univerze.
+
+Velik program na strani ZHS. Nižje cene za upravičene študente; preveri pogoje in cene. Spremljaj datume in se prijavi zgodaj.
+
+## Brezplačne možnosti
+
+-   Englischer Garten: eden največjih mestnih parkov na svetu, odličen za tek.
+-   Bregovi reke Isar in Olympiapark za tek, kolesarjenje in poletne večere.
+
+---
+
+Source: https://germandex.com/sl/muenchen/sports
+
+Language: sl
+
+
+# Munich - Restavracije
+
+## Priporočeno
+
+### [Sababa](https://www.sababa-munich.com/)
+
+Falafel, humus in shawarma prav na Viktualienmarkt, Westenriederstr. 9.
+
+### [Lo Studente](https://lo-studente.de/)
+
+Pica na drva v univerzitetni četrti, Schellingstr. 30. Odprto vsak dan do polnoči.
+
+### [Bánh Mì Minh](https://banhmi-minh.de/)
+
+Vietnamski sendviči, Theresienstr. 79.
+
+### Vegetarijanec? To so vaše najboljše stave
+
+Sababa in MOGO sta vaši najboljši stavi za zelenjavo. Izberite falafel ali humus.
+
+## Poceni in hitro
+
+### [MOGO](https://www.mogo-munchen.de/)
+
+Libanonska ulična hrana, humus in zavitki, Augustenstr. 93.
+
+### Taco Company
+
+Takosi in buritosi blizu LMU, Amalienstr. 69.
+
+### [Asia Bistro Minh](http://asia-bistrominh.de/)
+
+Vietnamske, tajske in kitajske jedi, Amalienstr. 37. Takeaway blizu LMU.
+
+## Indijske restavracije
+
+### [Dhaba Münchner Freiheit](https://www.dhaba.de/dhabamunchnerfreiheit)
+
+Indijski curryji in jedi iz tandoori peči v Schwabingu, Herzogstr. 1b. Restavracija s strežbo blizu Münchner Freiheit.
+
+---
+
+Source: https://germandex.com/sl/muenchen/restaurants
+
+Language: sl
+
+
+# Munich - Zabava
+
+### [Neuraum](https://neuraum.de/)
+
+Velik klub v Hackerbrückeju z več področji. Lestvice in glasba za zabave.
+
+### [089 Bar](https://089-bar.de/)
+
+Študentski klub na Maximiliansplatzu, odprt do 5. ure zjutraj.
+
+### [Backstage](https://www.backstage.eu/)
+
+Koncerti, klubski večeri in pivski vrt na enem mestu.
+
+### Beisl
+
+Pub na trgu Viktualienmarkt, ki je znan kot eden najprimernejših v mestu.
+
+### [Giesinger](https://giesinger-braeu.de/en/pages/stehausschanke) Bräu Stehausschank
+
+Stoječa pivnica v Maxvorstadtu, Augustenstr. 90. Ponudba piva po službi ob delavnikih.
+
+## Dobro je vedeti
+
+-   Pivski vrtovi so poletna dnevna soba Münchna. V tradicionalnih, kot je Chinesischer Turm v Englischer Garten, si lahko hrano v samopostrežni prostor prinesete sami.
+-   Oktoberfest poteka od konca septembra do začetka oktobra. Pojdite med tednom popoldne, če želite sedež.
+-   Maxvorstadt je univerzitetna četrt s študentskimi pubi in bari. Ko se družite na prostem, ne bodite preglasni in odnesite smeti s seboj.
+
+---
+
+Source: https://germandex.com/sl/muenchen/party
+
+Language: sl
+
+
+# Munich - Supermarketi
+
+Za pregled verig in pomoč pri izbiri preberi naš [vodič po supermarketih v Nemčiji](https://germandex.com/sl/germany/groceries). Lokalne mednarodne trgovine so navedene spodaj.
+
+## Azijski in mednarodni supermarketi
+
+### Indijska trgovina München
+
+Altheimer Eck 9, v starem mestnem jedru. Indijska živila in začimbe.
+
+### [Bollywood Store](http://www.bollywood-store.com/)
+
+Augustenstraße, Maxvorstadt. Indijska in azijska živila, začimbe, basmati riž, sveži proizvodi.
+
+---
+
+Source: https://germandex.com/sl/muenchen/groceries
+
+Language: sl
+
+
+# Erlangen - Admin
+
+Univerzitetna priprava za vaš prvi teden
+
+To ni popoln kontrolni seznam za prihod. Prijava naslova, status zdravstvenega zavarovanja in po potrebi dovoljenje za prebivanje so ločene naloge.
+
+### 1\. Prijavi svoj [naslov v Erlangnu](https://erlangen.de/service/365)
+
+Prijaviti se moraš v dveh tednih po vselitvi. Prinesi osebno izkaznico ali potni list, potrdilo najemodajalca (Wohnungsgeberbestätigung) in prijavni obrazec. Pozna prijava lahko stane do 1.000 € kazni.
+
+Spletna prijava zahteva osebno izkaznico s spletno funkcijo in je trenutno odprta nemškim državljanom in državljanom EU z eID; dovoljenja za prebivanje izven EU so še v načrtu. Za obisk Rathausa (Rathausplatz 1) [rezerviraj termin na spletu](https://erlangen.flexappoint.de/).
+
+### 2\. Za študente [FAU](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/faucard/): pridobi svojo FAUcard
+
+FAUcard je brezplačna. Je tvoja študentska izkaznica, knjižnična izkaznica, elektronska denarnica, kartica za kopiranje in ključ za vrata. Po vpisu pride po pošti, ko je tvoj IdM račun ustvarjen.
+
+Od drugega semestra jo po vsakem ponovnem vpisu znova potrdi na validacijski postaji, na primer v Kollegienhausu, Universitätsstraße 15. Traja okoli 30 sekund.
+
+### 3\. Za študente FAU: uporabljaj Mensa
+
+FAUcard napolni na avtomatu v kateri koli menzi ali kafeteriji [Studierendenwerk](https://www.werkswelt.de/index.php?id=kartensystem), nato plačaj s kartico.
+
+### 4\. Za študente FAU: kupi Deutschlandticket s popustom
+
+Erlangen nima več semestrske vozovnice. [FAU](https://www.fau.de/studium/studentisches-leben/studierendenmobilitaet/) študente usmerja na Deutschlandticket s popustom pri [VGN](https://www.vgn.de/ermaessigungsticket-studi): 43 € na koledarski mesec, velja v lokalnem in regionalnem prometu po vsej Nemčiji. Kupi ga v spletni trgovini ali aplikacijah VGN. Dostavijo ga po obdelavi, torej ni takojšen.
+
+-   Ne velja za prvi razred, vlake IC/ICE, avtobuse na dolge proge, pse ali kolesa. S seboj imej osebni dokument.
+-   FAUcard ni vozovnica. Območje VGN pokriva Erlangen, Nürnberg in Fürth, zato ista vozovnica služi lokacijam FAU v vseh treh mestih.
+-   Odpoveš jo lahko mesečno.
+
+Lokalni viri preverjeni 22. oktobra 2026. Za trenutne cene in pravila glej povezane strani.
+
+---
+
+Source: https://germandex.com/sl/erlangen/admin
+
+Language: sl
+
+
+# Erlangen - Šport
+
+## Za študente FAU: Hochschulsport
+
+[FAU Hochschulsport](https://www.hochschulsport.fau.de/startseite/) vsak semester ponuja več kot 150 tečajev, od ekipnih športov do fitnesa, aktivnosti na prostem in sprostitve.
+
+Prijava je samo spletna in se odpre približno 7 dni pred začetkom tečajev. Uporabi naslov @fau.de in pripravi IBAN; banka mora sodelovati v SEPA.
+
+Vsak tečaj ima ceno. Študenti plačajo najnižjo tarifo in 2 € administrativnega prispevka na udeležbo. Glej [pravila udeležbe](https://www.hochschulsport.fau.de/teilnahmeinformationen/).
+
+### Prebrskaj [seznam tečajev](https://www.hochschulsport.fau.de/kurse-classes/)
+
+Rezervacije so omejene: običajno največ tri ponudbe na kategorijo in pet skupaj na osebo. Stran se prenavlja; če stran izgleda pokvarjeno, uporabi meni Courses.
+
+Lokalni viri preverjeni 22. oktobra 2026. Za trenutne cene in pravila glej povezane strani.
+
+---
+
+Source: https://germandex.com/sl/erlangen/sports
+
+Language: sl
+
+
+# Erlangen - Restavracije
+
+## Na kampusu
+
+### [Südmensa](https://www.werkswelt.de/?id=sued)
+
+Menza Studierendenwerk na Erwin-Rommel-Straße 60, s kafeterijo in kavarno. Dnevni jedilnik in delovni čas sta na njihovi strani; v semestrskih počitnicah se čas spremeni.
+
+### Druga mesta Studierendenwerk
+
+[Studierendenwerk](https://werkswelt.de/index.php?id=mensen-cafeterien-cafebars) v Erlangnu navaja tudi Mensa Langemarckplatz in Cafeteria Kochstraße. Na vsaki strani preveri trenutni jedilnik in delovni čas.
+
+### Vegetarijanec ali vegan?
+
+Jedilniki Mensa označujejo vegetarijanske in veganske jedi. Poglej dnevni jedilnik.
+
+Zunaj kampusa: nobene restavracije v tem mestu še nismo preverili v primarnem viru, zato jih raje ne navajamo, kot da bi ugibali. Preverjeno 22. oktobra 2026.
+
+---
+
+Source: https://germandex.com/sl/erlangen/restaurants
+
+Language: sl
+
+
+# Erlangen - Zabava
+
+### [Zirkel](https://zirkel-club.de/)
+
+Študentski klub in diskoteka na Hauptstraße 105 v starem mestu. Naslednje večere najdeš na njihovi strani.
+
+### [E-Werk Kulturzentrum](https://www.e-werk.de/das-kulturzentrum-e-werk/)
+
+Eden večjih sociokulturnih centrov v Nemčiji, na Fuchsenwiese 1: štiri dvorane, kino in pivski vrt. Prireja koncerte, študentske zabave in klubske večere; glej njihovo [stran z zabavami](https://www.e-werk.de/programm/partys/).
+
+## Dobro je vedeti
+
+-   Programi in cene vstopnic se spreminjajo vsak teden. Na dan izleta glej stran samega lokala.
+-   Kino E-Werk prikazuje filme v izvirniku s podnapisi (OmU).
+
+Lokalni viri preverjeni 22. oktobra 2026. Za trenutne cene in pravila glej povezane strani.
+
+---
+
+Source: https://germandex.com/sl/erlangen/party
+
+Language: sl
+
+
+# Erlangen - Supermarketi
+
+Za pregled verig in pomoč pri izbiri preberi naš [vodič po supermarketih v Nemčiji](https://germandex.com/sl/germany/groceries). Lokalne mednarodne trgovine so navedene spodaj.
+
+## Azijski in mednarodni supermarketi
+
+### [Want Want Asia Supermarkt](https://www.wantwant-asia.de/%C3%BCber-uns/)
+
+Nägelsbachstr. 26 / Sedanstr. 1. Azijska živila iz celinske Kitajske, Tajvana, Japonske, Koreje in jugovzhodne Azije. Odprto od ponedeljka do sobote, 9:00 do 20:00, po navedbah spletne strani.
+
+Lokalni viri preverjeni 22. oktobra 2026. Za trenutne cene in pravila glej povezane strani.
+
+---
+
+Source: https://germandex.com/sl/erlangen/groceries
+
+Language: sl
+
+
+# Erlangen - Nastanitev v Erlangnu
+
+Poišči sobo. Razumi, kaj podpisuješ.
+
+### Začni pri Studierendenwerk Erlangen-Nürnberg
+
+Prijaviš se lahko samo na spletu. Studierendenwerk navaja več kot 3.600 mest, od enoposteljnih sob do družinskih stanovanj, ter brezplačno posredovanje zasebnih sob za Erlangen in Nürnberg. Iskanje je najtežje v tednih pred zimskim semestrom, zlasti za mednarodne študente in pozno sprejete.
+
+[Nastanitev Studierendenwerk Erlangen-Nürnberg](https://werkswelt.de/index.php?id=wohnen)
+
+## Nadaljuj tudi drugo iskanje
+
+Prijava za študentski dom ni rezervacija. Medtem ko čakaš, primerjaj sobe v skupnih stanovanjih in zasebne najeme. Pred plačilom preveri naslov, lastnika ali glavnega najemnika, skupne mesečne stroške in pogodbo.
+
+## Pred podpisom
+
+Varščina, obratovalni stroški, potrdilo o vselitvi in preverjanje prevar: pred podpisom preberi [vodič za bivanje v Nemčiji](https://germandex.com/sl/germany/housing).
+
+Lokalni viri preverjeni 22. oktobra 2026. Za trenutne cene in pravila glej povezane strani.
+
+---
+
+Source: https://germandex.com/sl/erlangen/housing
+
+Language: sl
+
+
+# Erlangen - Zdravniška pomoč v Erlangnu
+
+Prava pomoč, brez ugibanja, kam iti.
+
+### Poišči zdravnika v bližini
+
+Uporabi iskalnik zdravnikov 116117 z Erlangnom ali svojo poštno številko. Za splošno oskrbo začni pri Hausarztu; pred obiskom preveri kontakt ordinacije ter vprašaj za termine in svoje zavarovanje.
+
+[Poišči zdravnika v Erlangnu](https://arztsuche.116117.de/)
+
+## Nujno ali zunaj ordinacijskega časa?
+
+Med ordinacijskim časom se obrnite na Hausarzta (splošnega zdravnika). Lokalna Apotheke (lekarna) lahko svetuje glede zdravil. Za nujne bolezni, ki ne morejo počakati do ponovnega odprtja ordinacije, vendar niso življenjsko nevarne, pokličite 116117. Za življenjsko nevarne nujne primere ali morebitne trajne poškodbe pokličite 112. Če niste prepričani, ali je življenje ogroženo, pokličite 112.
+
+[Zdravstvena pomoč in številke za klic v sili](https://gesund.bund.de/notfallnummern)
+
+## Urgence v bolnišnici
+
+Uniklinikum Erlangen navaja urgence, ki delujejo vse ure: kirurgija, Krankenhausstr. 12 (vhod na Maximiliansplatz), tel. 09131 85-33260; interna medicina, Ulmenweg 18, tel. 09131 85-35420; otroci, Loschgestr. 15, tel. 09131 85-33118. Ob življenjsko nevarnih nujnih primerih pokliči 112.
+
+[Urgence Uniklinikum Erlangen](https://www.uk-erlangen.de/944/)
+
+## Lekarne v Erlangnu
+
+Uporabi iskalnik dežurnih lekarn s svojim naslovom ali poštno številko v Erlangnu. Razpored dežurstev se spreminja; pred potjo preveri trenutni rezultat.
+
+[Poišči dežurno lekarno](https://www.aponet.de/notdienstsuche/-)
+
+Lokalni viri preverjeni 22. oktobra 2026. Rezultati iskanja ordinacij niso potrjeni termini.
+
+---
+
+Source: https://germandex.com/sl/erlangen/medical
+
+Language: sl
+
+
+# Tübingen - Admin
+
+Univerzitetna priprava za vaš prvi teden
+
+To ni popoln kontrolni seznam za prihod. Prijava naslova, status zdravstvenega zavarovanja in po potrebi dovoljenje za prebivanje so ločene naloge.
+
+### 1\. Prijavi svoj [naslov v Tübingenu](https://www.tuebingen.de/verwaltung/verfahren/anmeldung_wohnsitz)
+
+Prijaviti se moraš v dveh tednih po vselitvi. Brezplačno je. Prinesi osebno izkaznico ali potni list in potrdilo najemodajalca (Wohnungsgeberbescheinigung). Pozna prijava je prekršek in se lahko kaznuje.
+
+Prijaviš se lahko na spletu z osebno izkaznico s spletno funkcijo. Osebno Bürgerbüro (Schmiedtorstraße 4) dela samo po dogovoru; [rezerviraj na spletu](https://www.tuebingen.de/dienststellen).
+
+### 2\. Za študente [Univerze v Tübingenu](https://uni-tuebingen.de/studium/studienorganisation/administration/chipkarte/): pridobi študentsko kartico
+
+Studierendensekretariat po vpisu pošlje tvojo čip kartico po pošti. Je tvoja študentska izkaznica, odpira nekatere stavbe in z njo plačaš v Mensi in na fotokopirnih strojih.
+
+Po vsakem ponovnem vpisu posodobi semestrski natis na terminalu za samopostrežbo. Nadomestna kartica stane 15 €, neporabljeno stanje se ne vrne.
+
+### 3\. Za študente: uporabljaj Mensa
+
+Plačaj s študentsko kartico ali Mensakarte v menzah in kafeterijah [Studierendenwerk](https://www.my-stuwe.de/mensa/bezahlung/). Autoload je neobvezen; stanje lahko dopolniš tudi na avtomatih na kampusu.
+
+### 4\. Za študente Univerze v Tübingenu: kupi [naldo semestrsko vozovnico](https://www.naldo.de/tickets/semesterticket/)
+
+Semestrska vozovnica pokriva celotno naldo omrežje in se prodaja samo za cel semester. Kupi jo v naldo Studi-Web-Shopu po vpisu ali ponovnem vpisu. Pride kot mobilna vozovnica s kopijo Print@Home, velja samo s tvojo veljavno študentsko izkaznico in ni prenosljiva.
+
+-   naldo cenik, veljaven od 1. oktobra 2025, navaja 161,10 € na semester. [Stran univerze](https://uni-tuebingen.de/studium/rund-ums-studium/semesterticket/) še kaže starejšo ceno, zato trenutno ceno potrdi v trgovini.
+-   Brez vozovnice tvoja študentska izkaznica velja v naldo avtobusih in vlakih od ponedeljka do petka po 19:00 ter ves dan ob koncih tedna in praznikih v Baden-Württembergu. Stran univerze omenja prehodno pravilo; preveri ga.
+
+Lokalni viri preverjeni 22. oktobra 2026. Za trenutne cene in pravila glej povezane strani.
+
+---
+
+Source: https://germandex.com/sl/tuebingen/admin
+
+Language: sl
+
+
+# Tübingen - Šport
+
+## Za študente Univerze v Tübingenu: Hochschulsport
+
+[Hochschulsport Tübingen](https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/) vsak semester ponuja več kot 350 tečajev. Rezerviraj na spletu na [strani za rezervacije](https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/m.html).
+
+Stran napoveduje prijave za zimski semester 2026/27, teniški tečaji pa se za prijave odprejo 23. oktobra 2026 ob 17:00.
+
+Pisarna Hochschulsporta je na Wilhelmstr. 124.
+
+### Preveri trenutne [datume prijav](https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/m.html)
+
+Priljubljeni tečaji se lahko hitro napolnijo. Čas prijave se razlikuje po tečaju; preden nastaviš alarm, glej stran za rezervacije.
+
+Lokalni viri preverjeni 22. oktobra 2026. Za trenutne cene in pravila glej povezane strani.
+
+---
+
+Source: https://germandex.com/sl/tuebingen/sports
+
+Language: sl
+
+
+# Tübingen - Restavracije
+
+## Na kampusu
+
+### [Mensa Wilhelmstraße](https://www.my-stuwe.de/mensa/mensa-wilhelmstrasse-tuebingen/)
+
+Menza Studierendenwerk na Wilhelmstraße 13. Dnevni jedilnik je na njihovi strani. Studierendenwerk pravi, da so oznake alergenov in aditivov prikazane samo na strežnih pultih, zato preveri tam.
+
+### [Mensa Morgenstelle](https://www.my-stuwe.de/mensa/mensa-morgenstelle-tuebingen/)
+
+Še ena Studierendenwerk Mensa v Tübingenu. Na njihovi strani preveri trenutni jedilnik in delovni čas.
+
+### [Asien-Haus Imbiss](https://www.asien-haus.net/)
+
+Tajski lokal za s seboj v starem mestu, Schmiedtorstraße 7 in 11: juha z rezanci in dnevno spreminjajoče se jedi za kosilo, od ponedeljka do petka 11:30 do 15:00, po navedbah spletne strani.
+
+### Vegetarijanec ali vegan?
+
+Jedilniki Mensa označujejo vegetarijanske in veganske jedi. Poglej dnevni jedilnik.
+
+Zunaj kampusa: nobene restavracije v tem mestu še nismo preverili v primarnem viru, zato jih raje ne navajamo, kot da bi ugibali. Preverjeno 22. oktobra 2026.
+
+---
+
+Source: https://germandex.com/sl/tuebingen/restaurants
+
+Language: sl
+
+
+# Tübingen - Zabava
+
+### [Kuckuck](https://kuckuck-bar.de/)
+
+Bar in klub, ki ga vodijo študenti za študente. V programu so karaoke, pub kviz, beer pong in tematski večeri.
+
+### [Sudhaus](https://www.sudhaus-tuebingen.de/veranstaltungen/party.html)
+
+Prizorišče na Hechinger Straße 203 z rednimi zabavnimi večeri, na primer Zeitgeist z glasbo 70., 80. in 90. let.
+
+## Dobro je vedeti
+
+-   Programi in cene vstopnic se spreminjajo vsak teden. Na dan izleta glej stran samega lokala.
+
+Lokalni viri preverjeni 22. oktobra 2026. Za trenutne cene in pravila glej povezane strani.
+
+---
+
+Source: https://germandex.com/sl/tuebingen/party
+
+Language: sl
+
+
+# Tübingen - Supermarketi
+
+Za pregled verig in pomoč pri izbiri preberi naš [vodič po supermarketih v Nemčiji](https://germandex.com/sl/germany/groceries). Lokalne mednarodne trgovine so navedene spodaj.
+
+## Azijski in mednarodni supermarketi
+
+### [Asien-Haus](https://www.asien-haus.net/)
+
+Schmiedtorstraße 7 in 11, v starem mestu, od leta 1997. Več kot 200 m² azijskih živil, sveže zelenjave in zelišč, ekoloških izdelkov in posode. Trgovina je odprta od ponedeljka do petka 10:00 do 19:00, ob sobotah 10:00 do 15:00, ob nedeljah zaprto, po navedbah spletne strani.
+
+Lokalni viri preverjeni 22. oktobra 2026. Za trenutne cene in pravila glej povezane strani.
+
+---
+
+Source: https://germandex.com/sl/tuebingen/groceries
+
+Language: sl
+
+
+# Tübingen - Nastanitev v Tübingenu
+
+Poišči sobo. Razumi, kaj podpisuješ.
+
+### Začni pri Studierendenwerk Tübingen-Hohenheim
+
+Prijaviš se lahko samo na spletu. Prijaviš se lahko, preden imaš pismo o sprejemu, a ga pošlji takoj, ko ga dobiš. Prijave za zimski semester se odprejo 1. aprila, za poletni semester pa 1. oktobra prejšnjega leta. Pari in družine potrebujejo eno prijavo na odraslo osebo, vsaj eden od partnerjev pa mora biti sprejet ali vpisan.
+
+[Nastanitev Studierendenwerk Tübingen-Hohenheim](https://www.my-stuwe.de/wohnen/online-bewerbung/)
+
+## Nadaljuj tudi drugo iskanje
+
+Prijava za študentski dom ni rezervacija. Medtem ko čakaš, primerjaj sobe v skupnih stanovanjih in zasebne najeme. Pred plačilom preveri naslov, lastnika ali glavnega najemnika, skupne mesečne stroške in pogodbo.
+
+## Pred podpisom
+
+Varščina, obratovalni stroški, potrdilo o vselitvi in preverjanje prevar: pred podpisom preberi [vodič za bivanje v Nemčiji](https://germandex.com/sl/germany/housing).
+
+Lokalni viri preverjeni 22. oktobra 2026. Za trenutne cene in pravila glej povezane strani.
+
+---
+
+Source: https://germandex.com/sl/tuebingen/housing
+
+Language: sl
+
+
+# Tübingen - Zdravniška pomoč v Tübingenu
+
+Prava pomoč, brez ugibanja, kam iti.
+
+### Poišči zdravnika v bližini
+
+Uporabi iskalnik ordinacij KV Baden-Württemberg s Tübingenom ali svojo poštno številko. Za splošno oskrbo začni pri Hausarztu; pred obiskom preveri kontakt ordinacije ter vprašaj za termine in svoje zavarovanje.
+
+[Poišči zdravnika v Tübingenu](https://www.kvbawue.de/patienten/praxissuche)
+
+## Nujno ali zunaj ordinacijskega časa?
+
+Med ordinacijskim časom se obrnite na Hausarzta (splošnega zdravnika). Lokalna Apotheke (lekarna) lahko svetuje glede zdravil. Za nujne bolezni, ki ne morejo počakati do ponovnega odprtja ordinacije, vendar niso življenjsko nevarne, pokličite 116117. Za življenjsko nevarne nujne primere ali morebitne trajne poškodbe pokličite 112. Če niste prepričani, ali je življenje ogroženo, pokličite 112.
+
+[Zdravstvena pomoč in številke za klic v sili](https://gesund.bund.de/notfallnummern)
+
+## Urgenca v bolnišnici
+
+Universitätsklinikum Tübingen navaja svojo Zentrale Notaufnahme na Hoppe-Seyler-Str. 3. Zunaj ordinacijskega časa lahko pokličeš tudi 116117, uporabiš docdirekt ali obiščeš urgentno ordinacijo v Klinikumu. Zastrupitev: Giftzentrale Baden-Württemberg, 0761 192-40. Ob življenjsko nevarnih nujnih primerih pokliči 112.
+
+[Stran urgence Universitätsklinikum Tübingen](https://www.medizin.uni-tuebingen.de/de/kontakt/notfall)
+
+## Lekarne v Tübingenu
+
+Uporabi iskalnik dežurnih lekarn s svojim naslovom ali poštno številko v Tübingenu. Razpored dežurstev se spreminja; pred potjo preveri trenutni rezultat.
+
+[Poišči dežurno lekarno](https://www.aponet.de/notdienstsuche/-)
+
+Lokalni viri preverjeni 22. oktobra 2026. Rezultati iskanja ordinacij niso potrjeni termini.
+
+---
+
+Source: https://germandex.com/sl/tuebingen/medical
+
+Language: sl
+
+
+# Münster - Šport
+
+Univerzitetna priprava za vaš prvi teden
+
+To ni popoln kontrolni seznam za prihod. Prijava naslova, status zdravstvenega zavarovanja in po potrebi dovoljenje za prebivanje so ločene naloge.
+
+### 1\. Vzemite kolo
+
+Kolo ("Leeze" v Münstru) je glavni način premikanja. Mesto je zgrajeno za to.
+
+### 2\. Plačajte v Mensi brez gotovine
+
+Mense so brezgotovinske. Plačajte s študentsko izkaznico, MensaCard ali bančno kartico.
+
+Plačilo ne uspe? Poskusi drugo blagajno ali vprašaj osebje.
+
+### 3\. Študenti Univerze v [Münstru](https://www.uni-muenster.de/studium/orga/studienverwaltung/selfservice.html): prenesi semestralno vozovnico
+
+Na Univerzi v Münstru ga dobite na portalu SelfService. Zajema vse lokalne in regionalne avtobuse in vlake v Nemčiji.
+
+Vozovnice ni v SelfServiceu? Preveri ponovni vpis in semestralni prispevek ter kontaktiraj študentsko upravo.
+
+-   Deutschlandsemesterticket pokriva lokalni in regionalni prevoz v drugem razredu, ne pa ICE/IC/EC. Financira se iz semestra in ne iz brezplačne vstopnice.
+-   Ne vkrcajte se brez veljavne vozovnice. Če vaša vozovnica za semester ni pripravljena, najprej kupite drugo veljavno vozovnico.
+
+## Več kot univerzitetna postavitev
+
+### Prijavi svoj naslov v Münstru
+
+Prijava naslova: [Mestni urad za prijavo naslova (Anmeldung)](https://www.stadt-muenster.de/buergerservice/meldeangelegenheiten/anmeldung), v dveh tednih po vselitvi. Dovoljenja za prebivanje: [Urad za tujce](https://www.stadt-muenster.de/aufenthaltsrecht/studium-und-promotion/waehrend-des-studiums). Dokumenti, zdravstveno zavarovanje, status bivanja in uradna pisma: [državni administrativni vodič](https://germandex.com/sl/germany/admin).
+
+Prijavite se lahko v celoti [na spletu](https://www.stadt-muenster.de/buergerservice/meldeangelegenheiten/anmeldung) (čip vaše izkaznice se posodobi, nalepka z naslovom pa prispe po pošti) ali osebno s terminom v uradu Bürgerbüro ali Bezirksverwaltung.
+
+---
+
+Source: https://germandex.com/sl/muenster/admin
+
+Language: sl
+
+
+# Münster - Šport
+
+[Hochschulsport Münster](https://www.uni-muenster.de/Hochschulsport/) ponuja veliko športov.
+
+Prilagodljiva [članstva](https://www.uni-muenster.de/Hochschulsport/mitglied/mitgliedschaften.shtml) Sportpass namesto posameznih tečajev in Campus Gym. Pred online prijavo preveri trenutne cene članstva in pogoje.
+
+## Brezplačne možnosti
+
+-   Tecite okoli jezera Aasee.
+-   Promenada: zeleni obroč okoli starega mestnega jedra, samo za kolesarje in sprehajalce.
+
+---
+
+Source: https://germandex.com/sl/muenster/sports
+
+Language: sl
+
+
+# Münster - Restavracije
+
+## Priporočeno
+
+### [Cavete](https://cavete-muenster.de/)
+
+Münsterjeva "akademska pivnica" v Kuhviertelu, Kreuzstraße 37/38. Testenine in pivo.
+
+### [Pinkus Müller](https://www.pinkus.de/)
+
+Pivnica pivovarne od leta 1816, Kreuzstr. 7-10. Vestfalska hrana.
+
+### [Das Blaue Haus](https://www.blaue-haus-muenster.de/)
+
+Študentska pivnica z vestfalsko hrano, Kreuzstraße 16-17.
+
+---
+
+Source: https://germandex.com/sl/muenster/restaurants
+
+Language: sl
+
+
+# Münster - Zabava
+
+### Kuhviertel
+
+Staromeščanska četrt s pivnicami okoli ulice Kreuzstraße. Začnite noč tukaj.
+
+### Hafen in Hawerkamp
+
+Klubi in bari okoli pristanišča.
+
+### [Sputnikhalle](https://sputnikhalle.de/partys/)
+
+Zabave od elektro do gotike in koncerti.
+
+### [Gazelle](https://www.gazelle.ms/)
+
+Plesni klub v mestu.
+
+---
+
+Source: https://germandex.com/sl/muenster/party
+
+Language: sl
+
+
+# Münster - Supermarketi
+
+Za pregled verig in pomoč pri izbiri preberi naš [vodič po supermarketih v Nemčiji](https://germandex.com/sl/germany/groceries). Lokalne mednarodne trgovine so navedene spodaj.
+
+## Azijski in mednarodni supermarketi
+
+### [Jaffna Supermarkt](https://www.jaffna-supermarkt.de/)
+
+Wolbecker Str. 16a, na Hansaplatzu. Azijska in indijska živila.
+
+### go asia
+
+Salzstraße 20, v starem mestnem jedru. Velik azijski supermarket.
+
+---
+
+Source: https://germandex.com/sl/muenster/groceries
+
+Language: sl
+
+
+# Aachen - Bivanje v mestu Aachen
+
+Poišči sobo. Razumi, kaj podpisuješ.
+
+### Začni pri ponudniku Studierendenwerk Aachen
+
+Prijaviš se lahko pred sprejemom ali vpisom. Ob podpisu najemne pogodbe potrebuješ potrdilo o vpisu. Prilagodljivost pri datumu vselitve in vrsti sobe poveča možnosti. Stran trenutno navaja izpad portala; preveri najnovejše obvestilo in se obrni na ekipo za bivanje, če se ne moreš prijaviti.
+
+[Bivanje: Studierendenwerk Aachen](https://www.studierendenwerk-aachen.de/de/wohnen.html)
+
+## Nadaljuj tudi drugo iskanje
+
+Prijava za dom ni rezervacija. Med čakanjem primerjaj sobe v skupnih stanovanjih in zasebne najeme v mestu Aachen. Pred plačilom preveri naslov, najemodajalca ali glavnega najemnika, skupni mesečni strošek in pogodbo.
+
+## Pred podpisom
+
+Varščina, obratovalni stroški, potrdilo o vselitvi in preverjanje prevar: pred podpisom preberi [vodič za bivanje v Nemčiji](https://germandex.com/sl/germany/housing).
+
+Opozorilo o prevari: preverite osebo in sobo, preden pošljete denar ali občutljive dokumente. RWTH opozarja na lažne ponudbe in zahteve po pologu za prevzem ključev. Njegova stanovanjska svetovalna služba lahko pomaga študentom RWTH preveriti sumljivo ponudbo.
+
+Lokalni vir preverjen 1. oktobra 2026. Pri ponudniku preveri trenutne pogoje in razpoložljivost.
+
+---
+
+Source: https://germandex.com/sl/aachen/housing
+
+Language: sl
+
+
+# Aachen - Zdravniška pomoč v mestu Aachen
+
+Prava pomoč, brez ugibanja, kam iti.
+
+### Poišči zdravnika v bližini
+
+Uporabi iskalnik ordinacij KV Nordrhein z mestom Aachen ali svojo poštno številko. Za splošno oskrbo začni pri Hausarztu (osebnem zdravniku); preveri kontakt ordinacije ter pred obiskom vprašaj o terminih in svojem zavarovanju.
+
+[Poišči zdravnika v mestu Aachen](https://patienten.kvno.de/praxissuche)
+
+## Nujno ali zunaj ordinacijskega časa?
+
+Med ordinacijskim časom se obrnite na Hausarzta (splošnega zdravnika). Lokalna Apotheke (lekarna) lahko svetuje glede zdravil. Za nujne bolezni, ki ne morejo počakati do ponovnega odprtja ordinacije, vendar niso življenjsko nevarne, pokličite 116117. Za življenjsko nevarne nujne primere ali morebitne trajne poškodbe pokličite 112. Če niste prepričani, ali je življenje ogroženo, pokličite 112.
+
+[Zdravstvena pomoč in številke za klic v sili](https://gesund.bund.de/notfallnummern)
+
+## Lekarne v mestu Aachen
+
+Uporabi iskalnik dežurnih lekarn s svojim naslovom ali poštno številko v mestu Aachen. Dežurstva se spreminjajo; pred odhodom preveri trenutni rezultat.
+
+[Poišči dežurno lekarno](https://www.aponet.de/notdienstsuche/-)
+
+Lokalni iskalni vir preverjen 1. oktobra 2026. Rezultati niso potrjeni termini.
+
+---
+
+Source: https://germandex.com/sl/aachen/medical
+
+Language: sl
+
+
+# Berlin - Bivanje v mestu Berlin
+
+Poišči sobo. Razumi, kaj podpisuješ.
+
+### Začni pri ponudniku studierendenWERK BERLIN
+
+Uporabi portal za bivanje za prijavo in upravljanje vloge. Pred prijavo preveri seznam sodelujočih berlinskih univerz in aktualne podatke za stik.
+
+[Bivanje: studierendenWERK BERLIN](https://www.stw.berlin/en/housing/housing-portal.html)
+
+## Nadaljuj tudi drugo iskanje
+
+Prijava za dom ni rezervacija. Med čakanjem primerjaj sobe v skupnih stanovanjih in zasebne najeme v mestu Berlin. Pred plačilom preveri naslov, najemodajalca ali glavnega najemnika, skupni mesečni strošek in pogodbo.
+
+## Pred podpisom
+
+Varščina, obratovalni stroški, potrdilo o vselitvi in preverjanje prevar: pred podpisom preberi [vodič za bivanje v Nemčiji](https://germandex.com/sl/germany/housing).
+
+Lokalni vir preverjen 1. oktobra 2026. Pri ponudniku preveri trenutne pogoje in razpoložljivost.
+
+---
+
+Source: https://germandex.com/sl/berlin/housing
+
+Language: sl
+
+
+# Berlin - Zdravniška pomoč v mestu Berlin
+
+Prava pomoč, brez ugibanja, kam iti.
+
+### Poišči zdravnika v bližini
+
+Uporabi iskalnik ordinacij 116117 z mestom Berlin ali svojo poštno številko. Za splošno oskrbo začni pri Hausarztu (osebnem zdravniku); preveri kontakt ordinacije ter pred obiskom vprašaj o terminih in svojem zavarovanju.
+
+[Poišči zdravnika v mestu Berlin](https://arztsuche.116117.de/)
+
+## Nujno ali zunaj ordinacijskega časa?
+
+Med ordinacijskim časom se obrnite na Hausarzta (splošnega zdravnika). Lokalna Apotheke (lekarna) lahko svetuje glede zdravil. Za nujne bolezni, ki ne morejo počakati do ponovnega odprtja ordinacije, vendar niso življenjsko nevarne, pokličite 116117. Za življenjsko nevarne nujne primere ali morebitne trajne poškodbe pokličite 112. Če niste prepričani, ali je življenje ogroženo, pokličite 112.
+
+[Zdravstvena pomoč in številke za klic v sili](https://gesund.bund.de/notfallnummern)
+
+## Lekarne v mestu Berlin
+
+Uporabi iskalnik dežurnih lekarn s svojim naslovom ali poštno številko v mestu Berlin. Dežurstva se spreminjajo; pred odhodom preveri trenutni rezultat.
+
+[Poišči dežurno lekarno](https://www.aponet.de/notdienstsuche/-)
+
+Lokalni iskalni vir preverjen 1. oktobra 2026. Rezultati niso potrjeni termini.
+
+---
+
+Source: https://germandex.com/sl/berlin/medical
+
+Language: sl
+
+
+# Bochum - Bivanje v mestu Bochum
+
+Poišči sobo. Razumi, kaj podpisuješ.
+
+### Začni pri ponudniku AKAFÖ
+
+AKAFÖ ponuja skupne sobe, stanovanja in družinska bivališča ob svojih univerzah. Primerjaj opremljene in neopremljene možnosti ter preveri, ali pokriva tvojo univerzo.
+
+[Bivanje: AKAFÖ](https://www.akafoe.de/wohnen/mietinteressenten)
+
+## Nadaljuj tudi drugo iskanje
+
+Prijava za dom ni rezervacija. Med čakanjem primerjaj sobe v skupnih stanovanjih in zasebne najeme v mestu Bochum. Pred plačilom preveri naslov, najemodajalca ali glavnega najemnika, skupni mesečni strošek in pogodbo.
+
+## Pred podpisom
+
+Varščina, obratovalni stroški, potrdilo o vselitvi in preverjanje prevar: pred podpisom preberi [vodič za bivanje v Nemčiji](https://germandex.com/sl/germany/housing).
+
+Lokalni vir preverjen 1. oktobra 2026. Pri ponudniku preveri trenutne pogoje in razpoložljivost.
+
+---
+
+Source: https://germandex.com/sl/bochum/housing
+
+Language: sl
+
+
+# Bochum - Zdravniška pomoč v mestu Bochum
+
+Prava pomoč, brez ugibanja, kam iti.
+
+### Poišči zdravnika v bližini
+
+Uporabi iskalnik ordinacij KV Westfalen-Lippe z mestom Bochum ali svojo poštno številko. Za splošno oskrbo začni pri Hausarztu (osebnem zdravniku); preveri kontakt ordinacije ter pred obiskom vprašaj o terminih in svojem zavarovanju.
+
+[Poišči zdravnika v mestu Bochum](https://www.kvwl.de/arztsuche)
+
+## Nujno ali zunaj ordinacijskega časa?
+
+Med ordinacijskim časom se obrnite na Hausarzta (splošnega zdravnika). Lokalna Apotheke (lekarna) lahko svetuje glede zdravil. Za nujne bolezni, ki ne morejo počakati do ponovnega odprtja ordinacije, vendar niso življenjsko nevarne, pokličite 116117. Za življenjsko nevarne nujne primere ali morebitne trajne poškodbe pokličite 112. Če niste prepričani, ali je življenje ogroženo, pokličite 112.
+
+[Zdravstvena pomoč in številke za klic v sili](https://gesund.bund.de/notfallnummern)
+
+## Lekarne v mestu Bochum
+
+Uporabi iskalnik dežurnih lekarn s svojim naslovom ali poštno številko v mestu Bochum. Dežurstva se spreminjajo; pred odhodom preveri trenutni rezultat.
+
+[Poišči dežurno lekarno](https://www.aponet.de/notdienstsuche/-)
+
+Lokalni iskalni vir preverjen 1. oktobra 2026. Rezultati niso potrjeni termini.
+
+---
+
+Source: https://germandex.com/sl/bochum/medical
+
+Language: sl
+
+
+# Dortmund - Bivanje v mestu Dortmund
+
+Poišči sobo. Razumi, kaj podpisuješ.
+
+### Začni pri ponudniku Studierendenwerk Dortmund
+
+Začni na straneh Studierendenwerka za domove, trenutne ponudbe in pogosta vprašanja. Preveri pogoje za svojo univerzo in vzporedno samostojno išči sobo.
+
+[Bivanje: Studierendenwerk Dortmund](https://www.stwdo.de/wohnen)
+
+## Nadaljuj tudi drugo iskanje
+
+Prijava za dom ni rezervacija. Med čakanjem primerjaj sobe v skupnih stanovanjih in zasebne najeme v mestu Dortmund. Pred plačilom preveri naslov, najemodajalca ali glavnega najemnika, skupni mesečni strošek in pogodbo.
+
+## Pred podpisom
+
+Varščina, obratovalni stroški, potrdilo o vselitvi in preverjanje prevar: pred podpisom preberi [vodič za bivanje v Nemčiji](https://germandex.com/sl/germany/housing).
+
+Lokalni vir preverjen 1. oktobra 2026. Pri ponudniku preveri trenutne pogoje in razpoložljivost.
+
+---
+
+Source: https://germandex.com/sl/dortmund/housing
+
+Language: sl
+
+
+# Dortmund - Zdravniška pomoč v mestu Dortmund
+
+Prava pomoč, brez ugibanja, kam iti.
+
+### Poišči zdravnika v bližini
+
+Uporabi iskalnik ordinacij KV Westfalen-Lippe z mestom Dortmund ali svojo poštno številko. Za splošno oskrbo začni pri Hausarztu (osebnem zdravniku); preveri kontakt ordinacije ter pred obiskom vprašaj o terminih in svojem zavarovanju.
+
+[Poišči zdravnika v mestu Dortmund](https://www.kvwl.de/arztsuche)
+
+## Nujno ali zunaj ordinacijskega časa?
+
+Med ordinacijskim časom se obrnite na Hausarzta (splošnega zdravnika). Lokalna Apotheke (lekarna) lahko svetuje glede zdravil. Za nujne bolezni, ki ne morejo počakati do ponovnega odprtja ordinacije, vendar niso življenjsko nevarne, pokličite 116117. Za življenjsko nevarne nujne primere ali morebitne trajne poškodbe pokličite 112. Če niste prepričani, ali je življenje ogroženo, pokličite 112.
+
+[Zdravstvena pomoč in številke za klic v sili](https://gesund.bund.de/notfallnummern)
+
+## Lekarne v mestu Dortmund
+
+Uporabi iskalnik dežurnih lekarn s svojim naslovom ali poštno številko v mestu Dortmund. Dežurstva se spreminjajo; pred odhodom preveri trenutni rezultat.
+
+[Poišči dežurno lekarno](https://www.aponet.de/notdienstsuche/-)
+
+Lokalni iskalni vir preverjen 1. oktobra 2026. Rezultati niso potrjeni termini.
+
+---
+
+Source: https://germandex.com/sl/dortmund/medical
+
+Language: sl
+
+
+# Düsseldorf - Bivanje v mestu Düsseldorf
+
+Poišči sobo. Razumi, kaj podpisuješ.
+
+### Začni pri ponudniku Studierendenwerk Düsseldorf
+
+Študenti HHU in Hochschule Düsseldorf so med upravičenimi do domov Studierendenwerka. Izberi lokacijo v Düsseldorfu: isti ponudnik pokriva več mest. Vodi čakalne sezname in priporoča zgodnjo prijavo.
+
+[Bivanje: Studierendenwerk Düsseldorf](https://www.stw-d.de/studentisches-wohnen/)
+
+## Nadaljuj tudi drugo iskanje
+
+Prijava za dom ni rezervacija. Med čakanjem primerjaj sobe v skupnih stanovanjih in zasebne najeme v mestu Düsseldorf. Pred plačilom preveri naslov, najemodajalca ali glavnega najemnika, skupni mesečni strošek in pogodbo.
+
+## Pred podpisom
+
+Varščina, obratovalni stroški, potrdilo o vselitvi in preverjanje prevar: pred podpisom preberi [vodič za bivanje v Nemčiji](https://germandex.com/sl/germany/housing).
+
+Lokalni vir preverjen 1. oktobra 2026. Pri ponudniku preveri trenutne pogoje in razpoložljivost.
+
+---
+
+Source: https://germandex.com/sl/duesseldorf/housing
+
+Language: sl
+
+
+# Düsseldorf - Zdravniška pomoč v mestu Düsseldorf
+
+Prava pomoč, brez ugibanja, kam iti.
+
+### Poišči zdravnika v bližini
+
+Uporabi iskalnik ordinacij KV Nordrhein z mestom Düsseldorf ali svojo poštno številko. Za splošno oskrbo začni pri Hausarztu (osebnem zdravniku); preveri kontakt ordinacije ter pred obiskom vprašaj o terminih in svojem zavarovanju.
+
+[Poišči zdravnika v mestu Düsseldorf](https://patienten.kvno.de/praxissuche)
+
+## Nujno ali zunaj ordinacijskega časa?
+
+Med ordinacijskim časom se obrnite na Hausarzta (splošnega zdravnika). Lokalna Apotheke (lekarna) lahko svetuje glede zdravil. Za nujne bolezni, ki ne morejo počakati do ponovnega odprtja ordinacije, vendar niso življenjsko nevarne, pokličite 116117. Za življenjsko nevarne nujne primere ali morebitne trajne poškodbe pokličite 112. Če niste prepričani, ali je življenje ogroženo, pokličite 112.
+
+[Zdravstvena pomoč in številke za klic v sili](https://gesund.bund.de/notfallnummern)
+
+## Lekarne v mestu Düsseldorf
+
+Uporabi iskalnik dežurnih lekarn s svojim naslovom ali poštno številko v mestu Düsseldorf. Dežurstva se spreminjajo; pred odhodom preveri trenutni rezultat.
+
+[Poišči dežurno lekarno](https://www.aponet.de/notdienstsuche/-)
+
+Lokalni iskalni vir preverjen 1. oktobra 2026. Rezultati niso potrjeni termini.
+
+---
+
+Source: https://germandex.com/sl/duesseldorf/medical
+
+Language: sl
+
+
+# Frankfurt - Bivanje v mestu Frankfurt
+
+Poišči sobo. Razumi, kaj podpisuješ.
+
+### Začni pri ponudniku Studierendenwerk Frankfurt am Main
+
+Uporabi spletno prijavo Studierendenwerka in primerjaj domove v Frankfurtu. Preberi pogosta vprašanja, preden pošlješ dokumente ali računaš na datum vselitve.
+
+[Bivanje: Studierendenwerk Frankfurt am Main](https://www.swffm.de/wohnen/online-bewerbung)
+
+## Nadaljuj tudi drugo iskanje
+
+Prijava za dom ni rezervacija. Med čakanjem primerjaj sobe v skupnih stanovanjih in zasebne najeme v mestu Frankfurt. Pred plačilom preveri naslov, najemodajalca ali glavnega najemnika, skupni mesečni strošek in pogodbo.
+
+## Pred podpisom
+
+Varščina, obratovalni stroški, potrdilo o vselitvi in preverjanje prevar: pred podpisom preberi [vodič za bivanje v Nemčiji](https://germandex.com/sl/germany/housing).
+
+Lokalni vir preverjen 1. oktobra 2026. Pri ponudniku preveri trenutne pogoje in razpoložljivost.
+
+---
+
+Source: https://germandex.com/sl/frankfurt/housing
+
+Language: sl
+
+
+# Frankfurt - Zdravniška pomoč v mestu Frankfurt
+
+Prava pomoč, brez ugibanja, kam iti.
+
+### Poišči zdravnika v bližini
+
+Uporabi iskalnik ordinacij Arztsuche Hessen z mestom Frankfurt ali svojo poštno številko. Za splošno oskrbo začni pri Hausarztu (osebnem zdravniku); preveri kontakt ordinacije ter pred obiskom vprašaj o terminih in svojem zavarovanju.
+
+[Poišči zdravnika v mestu Frankfurt](https://www.arztsuchehessen.de/)
+
+## Nujno ali zunaj ordinacijskega časa?
+
+Med ordinacijskim časom se obrnite na Hausarzta (splošnega zdravnika). Lokalna Apotheke (lekarna) lahko svetuje glede zdravil. Za nujne bolezni, ki ne morejo počakati do ponovnega odprtja ordinacije, vendar niso življenjsko nevarne, pokličite 116117. Za življenjsko nevarne nujne primere ali morebitne trajne poškodbe pokličite 112. Če niste prepričani, ali je življenje ogroženo, pokličite 112.
+
+[Zdravstvena pomoč in številke za klic v sili](https://gesund.bund.de/notfallnummern)
+
+## Lekarne v mestu Frankfurt
+
+Uporabi iskalnik dežurnih lekarn s svojim naslovom ali poštno številko v mestu Frankfurt. Dežurstva se spreminjajo; pred odhodom preveri trenutni rezultat.
+
+[Poišči dežurno lekarno](https://www.aponet.de/notdienstsuche/-)
+
+Lokalni iskalni vir preverjen 1. oktobra 2026. Rezultati niso potrjeni termini.
+
+---
+
+Source: https://germandex.com/sl/frankfurt/medical
+
+Language: sl
+
+
+# Hamburg - Bivanje v mestu Hamburg
+
+Poišči sobo. Razumi, kaj podpisuješ.
+
+### Začni pri ponudniku Studierendenwerk Hamburg
+
+Izbereš lahko do tri domove ali se prijaviš za vse. Ponudnik pravi, da prijava za vse poveča možnosti. Na redna e-sporočila za potrditev interesa odgovori v roku, da ostaneš na seznamu.
+
+[Bivanje: Studierendenwerk Hamburg](https://www.stwhh.de/wohnen/bewerbungsinformationen)
+
+## Nadaljuj tudi drugo iskanje
+
+Prijava za dom ni rezervacija. Med čakanjem primerjaj sobe v skupnih stanovanjih in zasebne najeme v mestu Hamburg. Pred plačilom preveri naslov, najemodajalca ali glavnega najemnika, skupni mesečni strošek in pogodbo.
+
+## Pred podpisom
+
+Varščina, obratovalni stroški, potrdilo o vselitvi in preverjanje prevar: pred podpisom preberi [vodič za bivanje v Nemčiji](https://germandex.com/sl/germany/housing).
+
+Lokalni vir preverjen 1. oktobra 2026. Pri ponudniku preveri trenutne pogoje in razpoložljivost.
+
+---
+
+Source: https://germandex.com/sl/hamburg/housing
+
+Language: sl
+
+
+# Hamburg - Zdravniška pomoč v mestu Hamburg
+
+Prava pomoč, brez ugibanja, kam iti.
+
+### Poišči zdravnika v bližini
+
+Uporabi iskalnik ordinacij KV Hamburg z mestom Hamburg ali svojo poštno številko. Za splošno oskrbo začni pri Hausarztu (osebnem zdravniku); preveri kontakt ordinacije ter pred obiskom vprašaj o terminih in svojem zavarovanju.
+
+[Poišči zdravnika v mestu Hamburg](https://www.kvhh.net/de/physicianfinder.html)
+
+## Nujno ali zunaj ordinacijskega časa?
+
+Med ordinacijskim časom se obrnite na Hausarzta (splošnega zdravnika). Lokalna Apotheke (lekarna) lahko svetuje glede zdravil. Za nujne bolezni, ki ne morejo počakati do ponovnega odprtja ordinacije, vendar niso življenjsko nevarne, pokličite 116117. Za življenjsko nevarne nujne primere ali morebitne trajne poškodbe pokličite 112. Če niste prepričani, ali je življenje ogroženo, pokličite 112.
+
+[Zdravstvena pomoč in številke za klic v sili](https://gesund.bund.de/notfallnummern)
+
+## Lekarne v mestu Hamburg
+
+Uporabi iskalnik dežurnih lekarn s svojim naslovom ali poštno številko v mestu Hamburg. Dežurstva se spreminjajo; pred odhodom preveri trenutni rezultat.
+
+[Poišči dežurno lekarno](https://www.aponet.de/notdienstsuche/-)
+
+Lokalni iskalni vir preverjen 1. oktobra 2026. Rezultati niso potrjeni termini.
+
+---
+
+Source: https://germandex.com/sl/hamburg/medical
+
+Language: sl
+
+
+# Cologne - Bivanje v mestu Cologne
+
+Poišči sobo. Razumi, kaj podpisuješ.
+
+### Začni pri ponudniku Kölner Studierendenwerk
+
+Prijavi se zgodaj prek spleta. Navedeš lahko vrsto sobe, datum vselitve in proračun, ne pa določenega doma. Interes potrdi po e-pošti v petih dneh; sicer se vloga deaktivira.
+
+[Bivanje: Kölner Studierendenwerk](https://www.kstw.de/wohnen/bewerbung/)
+
+## Nadaljuj tudi drugo iskanje
+
+Prijava za dom ni rezervacija. Med čakanjem primerjaj sobe v skupnih stanovanjih in zasebne najeme v mestu Cologne. Pred plačilom preveri naslov, najemodajalca ali glavnega najemnika, skupni mesečni strošek in pogodbo.
+
+## Pred podpisom
+
+Varščina, obratovalni stroški, potrdilo o vselitvi in preverjanje prevar: pred podpisom preberi [vodič za bivanje v Nemčiji](https://germandex.com/sl/germany/housing).
+
+Lokalni vir preverjen 1. oktobra 2026. Pri ponudniku preveri trenutne pogoje in razpoložljivost.
+
+---
+
+Source: https://germandex.com/sl/koeln/housing
+
+Language: sl
+
+
+# Cologne - Zdravniška pomoč v mestu Cologne
+
+Prava pomoč, brez ugibanja, kam iti.
+
+### Poišči zdravnika v bližini
+
+Uporabi iskalnik ordinacij KV Nordrhein z mestom Cologne ali svojo poštno številko. Za splošno oskrbo začni pri Hausarztu (osebnem zdravniku); preveri kontakt ordinacije ter pred obiskom vprašaj o terminih in svojem zavarovanju.
+
+[Poišči zdravnika v mestu Cologne](https://patienten.kvno.de/praxissuche)
+
+## Nujno ali zunaj ordinacijskega časa?
+
+Med ordinacijskim časom se obrnite na Hausarzta (splošnega zdravnika). Lokalna Apotheke (lekarna) lahko svetuje glede zdravil. Za nujne bolezni, ki ne morejo počakati do ponovnega odprtja ordinacije, vendar niso življenjsko nevarne, pokličite 116117. Za življenjsko nevarne nujne primere ali morebitne trajne poškodbe pokličite 112. Če niste prepričani, ali je življenje ogroženo, pokličite 112.
+
+[Zdravstvena pomoč in številke za klic v sili](https://gesund.bund.de/notfallnummern)
+
+## Lekarne v mestu Cologne
+
+Uporabi iskalnik dežurnih lekarn s svojim naslovom ali poštno številko v mestu Cologne. Dežurstva se spreminjajo; pred odhodom preveri trenutni rezultat.
+
+[Poišči dežurno lekarno](https://www.aponet.de/notdienstsuche/-)
+
+Lokalni iskalni vir preverjen 1. oktobra 2026. Rezultati niso potrjeni termini.
+
+---
+
+Source: https://germandex.com/sl/koeln/medical
+
+Language: sl
+
+
+# Munich - Bivanje v mestu Munich
+
+Poišči sobo. Razumi, kaj podpisuješ.
+
+### Začni pri ponudniku Studierendenwerk München Oberbayern
+
+Preveri trenutne čakalne dobe in pravila za svojo študentsko kategorijo. Vloga je popolna le z zahtevanimi dokumenti; to ni potrjena soba.
+
+[Bivanje: Studierendenwerk München Oberbayern](https://www.studierendenwerk-muenchen-oberbayern.de/wohnheime/bewerbung/)
+
+## Nadaljuj tudi drugo iskanje
+
+Prijava za dom ni rezervacija. Med čakanjem primerjaj sobe v skupnih stanovanjih in zasebne najeme v mestu Munich. Pred plačilom preveri naslov, najemodajalca ali glavnega najemnika, skupni mesečni strošek in pogodbo.
+
+## Pred podpisom
+
+Varščina, obratovalni stroški, potrdilo o vselitvi in preverjanje prevar: pred podpisom preberi [vodič za bivanje v Nemčiji](https://germandex.com/sl/germany/housing).
+
+Lokalni vir preverjen 1. oktobra 2026. Pri ponudniku preveri trenutne pogoje in razpoložljivost.
+
+---
+
+Source: https://germandex.com/sl/muenchen/housing
+
+Language: sl
+
+
+# Munich - Zdravniška pomoč v mestu Munich
+
+Prava pomoč, brez ugibanja, kam iti.
+
+### Poišči zdravnika v bližini
+
+Uporabi iskalnik ordinacij 116117 z mestom Munich ali svojo poštno številko. Za splošno oskrbo začni pri Hausarztu (osebnem zdravniku); preveri kontakt ordinacije ter pred obiskom vprašaj o terminih in svojem zavarovanju.
+
+[Poišči zdravnika v mestu Munich](https://arztsuche.116117.de/)
+
+## Nujno ali zunaj ordinacijskega časa?
+
+Med ordinacijskim časom se obrnite na Hausarzta (splošnega zdravnika). Lokalna Apotheke (lekarna) lahko svetuje glede zdravil. Za nujne bolezni, ki ne morejo počakati do ponovnega odprtja ordinacije, vendar niso življenjsko nevarne, pokličite 116117. Za življenjsko nevarne nujne primere ali morebitne trajne poškodbe pokličite 112. Če niste prepričani, ali je življenje ogroženo, pokličite 112.
+
+[Zdravstvena pomoč in številke za klic v sili](https://gesund.bund.de/notfallnummern)
+
+## Lekarne v mestu Munich
+
+Uporabi iskalnik dežurnih lekarn s svojim naslovom ali poštno številko v mestu Munich. Dežurstva se spreminjajo; pred odhodom preveri trenutni rezultat.
+
+[Poišči dežurno lekarno](https://www.aponet.de/notdienstsuche/-)
+
+Lokalni iskalni vir preverjen 1. oktobra 2026. Rezultati niso potrjeni termini.
+
+---
+
+Source: https://germandex.com/sl/muenchen/medical
+
+Language: sl
+
+
+# Münster - Bivanje v mestu Münster
+
+Poišči sobo. Razumi, kaj podpisuješ.
+
+### Začni pri ponudniku Studierendenwerk Münster
+
+Novi študenti se lahko prijavijo brez pisma o sprejemu. Pazljivo izberi do tri domove: izbire pozneje ni mogoče spremeniti. Spremljaj ponudbe po e-pošti in odgovori; ignoriranje ponudbe lahko izbriše vlogo.
+
+[Bivanje: Studierendenwerk Münster](https://www.stw-muenster.de/wohnen/bewerbung-wohnraum/)
+
+## Nadaljuj tudi drugo iskanje
+
+Prijava za dom ni rezervacija. Med čakanjem primerjaj sobe v skupnih stanovanjih in zasebne najeme v mestu Münster. Pred plačilom preveri naslov, najemodajalca ali glavnega najemnika, skupni mesečni strošek in pogodbo.
+
+## Pred podpisom
+
+Varščina, obratovalni stroški, potrdilo o vselitvi in preverjanje prevar: pred podpisom preberi [vodič za bivanje v Nemčiji](https://germandex.com/sl/germany/housing).
+
+Lokalni vir preverjen 1. oktobra 2026. Pri ponudniku preveri trenutne pogoje in razpoložljivost.
+
+---
+
+Source: https://germandex.com/sl/muenster/housing
+
+Language: sl
+
+
+# Münster - Zdravniška pomoč v mestu Münster
+
+Prava pomoč, brez ugibanja, kam iti.
+
+### Poišči zdravnika v bližini
+
+Uporabi iskalnik ordinacij KV Westfalen-Lippe z mestom Münster ali svojo poštno številko. Za splošno oskrbo začni pri Hausarztu (osebnem zdravniku); preveri kontakt ordinacije ter pred obiskom vprašaj o terminih in svojem zavarovanju.
+
+[Poišči zdravnika v mestu Münster](https://www.kvwl.de/arztsuche)
+
+## Nujno ali zunaj ordinacijskega časa?
+
+Med ordinacijskim časom se obrnite na Hausarzta (splošnega zdravnika). Lokalna Apotheke (lekarna) lahko svetuje glede zdravil. Za nujne bolezni, ki ne morejo počakati do ponovnega odprtja ordinacije, vendar niso življenjsko nevarne, pokličite 116117. Za življenjsko nevarne nujne primere ali morebitne trajne poškodbe pokličite 112. Če niste prepričani, ali je življenje ogroženo, pokličite 112.
+
+[Zdravstvena pomoč in številke za klic v sili](https://gesund.bund.de/notfallnummern)
+
+## Lekarne v mestu Münster
+
+Uporabi iskalnik dežurnih lekarn s svojim naslovom ali poštno številko v mestu Münster. Dežurstva se spreminjajo; pred odhodom preveri trenutni rezultat.
+
+[Poišči dežurno lekarno](https://www.aponet.de/notdienstsuche/-)
+
+Lokalni iskalni vir preverjen 1. oktobra 2026. Rezultati niso potrjeni termini.
+
+---
+
+Source: https://germandex.com/sl/muenster/medical
+
+Language: sl

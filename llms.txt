@@ -1,0 +1,165 @@
+# germandex
+
+> Student starter guides to Germany for international students, covering Aachen, Berlin, Bochum, Dortmund, Düsseldorf, Frankfurt, Hamburg, Köln, München, Münster, Erlangen and Tübingen. Maintained by editorial agents, with no ads, tracking pixels or analytics.
+
+The guides cover arrival, university setup, housing, medical help, food, sports, nightlife, banking, jobs and everyday life in Germany. Advice and source links are provided for orientation, not as independent verification or legal, medical, tax or financial advice. Check official sources for decisions and cite the original Source URL in each Markdown export. Translations are not native-reviewed. Terms and privacy are English-only.
+
+## Start here
+
+- [Germandex homepage](https://germandex.com/): Choose a city and language.
+- [Homepage in Markdown](https://germandex.com/index.md): Text-only introduction and city entry points.
+
+## City hubs
+
+- [Aachen student guide](https://germandex.com/aachen/admin): Arrival and university setup, with links to housing, medical help, groceries, restaurants, nightlife and sports.
+- [Berlin student guide](https://germandex.com/berlin/admin): Arrival and university setup, with links to housing, medical help, groceries, restaurants, nightlife and sports.
+- [Bochum student guide](https://germandex.com/bochum/admin): Arrival and university setup, with links to housing, medical help, groceries, restaurants, nightlife and sports.
+- [Dortmund student guide](https://germandex.com/dortmund/admin): Arrival and university setup, with links to housing, medical help, groceries, restaurants, nightlife and sports.
+- [Düsseldorf student guide](https://germandex.com/duesseldorf/admin): Arrival and university setup, with links to housing, medical help, groceries, restaurants, nightlife and sports.
+- [Frankfurt student guide](https://germandex.com/frankfurt/admin): Arrival and university setup, with links to housing, medical help, groceries, restaurants, nightlife and sports.
+- [Hamburg student guide](https://germandex.com/hamburg/admin): Arrival and university setup, with links to housing, medical help, groceries, restaurants, nightlife and sports.
+- [Cologne student guide](https://germandex.com/koeln/admin): Arrival and university setup, with links to housing, medical help, groceries, restaurants, nightlife and sports.
+- [Munich student guide](https://germandex.com/muenchen/admin): Arrival and university setup, with links to housing, medical help, groceries, restaurants, nightlife and sports.
+- [Münster student guide](https://germandex.com/muenster/admin): Arrival and university setup, with links to housing, medical help, groceries, restaurants, nightlife and sports.
+
+## Germany-wide essentials
+
+- [Money in Germany](https://germandex.com/money.md): The five things to set up in order, each with its own guide.
+- [Bank accounts](https://germandex.com/germany/bank-account.md): Student Girokonto and an optional fee-free credit card.
+- [Health insurance](https://germandex.com/germany/health-insurance.md): Statutory vs private cover for students.
+- [Liability insurance](https://germandex.com/germany/liability-insurance.md): What Haftpflicht covers and what to check before buying.
+- [SIM cards](https://germandex.com/germany/sim-card.md): Prepaid options for new arrivals.
+- [SCHUFA](https://germandex.com/germany/schufa.md): Germany's credit record explained.
+- [Student jobs](https://germandex.com/job.md): Werkstudent and part-time work.
+- [Resume example](https://germandex.com/job/resume.md): A sample resume for student job applications.
+- [Work reference example](https://germandex.com/job/reference.md): Arbeitszeugnis explained with an English sample.
+- [Admin in Germany](https://germandex.com/germany/admin.md): Address registration, health insurance, residence status and official letters.
+- [Housing in Germany](https://germandex.com/germany/housing.md): Deposits, running costs, move-in confirmation and scam checks.
+- [Supermarkets in Germany](https://germandex.com/germany/groceries.md): Discount and full-range stores, with an editorial pick.
+- [Learning German](https://germandex.com/germany/language.md): Language learning advice and courses in all twelve cities.
+- [Everyday etiquette](https://germandex.com/germany/etiquette.md): Unwritten rules for newcomers.
+- [Food and parcel delivery](https://germandex.com/germany/delivery.md): Delivery services and Packstations.
+
+## Guides
+
+- [Moving to Germany as a Student: Guide | germandex](https://germandex.com/index.md)
+- [Aachen University and Arrival Guide | germandex](https://germandex.com/aachen/admin.md)
+- [Student Sports in Aachen: Hochschulsport Guide | germandex](https://germandex.com/aachen/sports.md)
+- [Best Cheap Restaurants in Aachen for Students | germandex](https://germandex.com/aachen/restaurants.md)
+- [Aachen Nightlife for Students: Bars and Clubs | germandex](https://germandex.com/aachen/party.md)
+- [How to Learn German Fast as an International Student](https://germandex.com/germany/language.md)
+- [German Etiquette: Unwritten Rules for Newcomers | germandex](https://germandex.com/germany/etiquette.md)
+- [Food and Parcel Delivery in Germany: Apps, Packstations](https://germandex.com/germany/delivery.md)
+- [Admin in Germany: Registration, Health Insurance, Official Letters](https://germandex.com/germany/admin.md)
+- [Housing in Germany | germandex](https://germandex.com/germany/housing.md)
+- [Supermarkets in Germany | germandex](https://germandex.com/germany/groceries.md)
+- [Bank Accounts in Germany: Student Girokonto and Credit Card](https://germandex.com/germany/bank-account.md)
+- [Health Insurance in Germany: Statutory vs Private for Students](https://germandex.com/germany/health-insurance.md)
+- [Liability Insurance (Haftpflicht) in Germany: What It Covers](https://germandex.com/germany/liability-insurance.md)
+- [SIM Cards in Germany: Prepaid Options for New Arrivals](https://germandex.com/germany/sim-card.md)
+- [SCHUFA Explained: Germany's Credit Record for Students](https://germandex.com/germany/schufa.md)
+- [Money in Germany: The Five Things to Set Up in Order](https://germandex.com/money.md)
+- [Student Jobs in Germany: Werkstudent and Part-Time Guide](https://germandex.com/job.md)
+- [Sample Resume for Student Jobs in Germany | germandex](https://germandex.com/job/resume.md)
+- [Arbeitszeugnis Sample in English: German Reference Letter](https://germandex.com/job/reference.md)
+- [International Supermarkets in Aachen | germandex](https://germandex.com/aachen/groceries.md)
+- [First Week in Berlin: University Setup and Arrival Guide](https://germandex.com/berlin/admin.md)
+- [Student Sports in Berlin: Hochschulsport Guide | germandex](https://germandex.com/berlin/sports.md)
+- [Best Cheap Restaurants in Berlin for Students | germandex](https://germandex.com/berlin/restaurants.md)
+- [Berlin Nightlife for Students: Bars and Clubs | germandex](https://germandex.com/berlin/party.md)
+- [International Supermarkets in Berlin | germandex](https://germandex.com/berlin/groceries.md)
+- [First Week in Bochum: University Setup and Arrival Guide](https://germandex.com/bochum/admin.md)
+- [Student Sports in Bochum: Hochschulsport Guide | germandex](https://germandex.com/bochum/sports.md)
+- [Best Cheap Restaurants in Bochum for Students | germandex](https://germandex.com/bochum/restaurants.md)
+- [Bochum Nightlife for Students: Bars and Clubs | germandex](https://germandex.com/bochum/party.md)
+- [International Supermarkets in Bochum | germandex](https://germandex.com/bochum/groceries.md)
+- [First Week in Dortmund: University Setup and Arrival Guide](https://germandex.com/dortmund/admin.md)
+- [Student Sports in Dortmund: Hochschulsport Guide | germandex](https://germandex.com/dortmund/sports.md)
+- [Best Cheap Restaurants in Dortmund for Students | germandex](https://germandex.com/dortmund/restaurants.md)
+- [Dortmund Nightlife for Students: Bars and Clubs | germandex](https://germandex.com/dortmund/party.md)
+- [International Supermarkets in Dortmund | germandex](https://germandex.com/dortmund/groceries.md)
+- [First Week in Düsseldorf: University Setup and Arrival Guide](https://germandex.com/duesseldorf/admin.md)
+- [Student Sports in Düsseldorf: Hochschulsport Guide | germandex](https://germandex.com/duesseldorf/sports.md)
+- [Best Cheap Restaurants in Düsseldorf for Students | germandex](https://germandex.com/duesseldorf/restaurants.md)
+- [Düsseldorf Nightlife for Students: Bars and Clubs | germandex](https://germandex.com/duesseldorf/party.md)
+- [International Supermarkets in Düsseldorf | germandex](https://germandex.com/duesseldorf/groceries.md)
+- [First Week in Frankfurt: University Setup and Arrival Guide](https://germandex.com/frankfurt/admin.md)
+- [Student Sports in Frankfurt: Hochschulsport Guide | germandex](https://germandex.com/frankfurt/sports.md)
+- [Best Cheap Restaurants in Frankfurt for Students | germandex](https://germandex.com/frankfurt/restaurants.md)
+- [Frankfurt Nightlife for Students: Bars and Clubs | germandex](https://germandex.com/frankfurt/party.md)
+- [International Supermarkets in Frankfurt | germandex](https://germandex.com/frankfurt/groceries.md)
+- [First Week in Hamburg: University Setup and Arrival Guide](https://germandex.com/hamburg/admin.md)
+- [Student Sports in Hamburg: Hochschulsport Guide | germandex](https://germandex.com/hamburg/sports.md)
+- [Best Cheap Restaurants in Hamburg for Students | germandex](https://germandex.com/hamburg/restaurants.md)
+- [Hamburg Nightlife for Students: Bars and Clubs | germandex](https://germandex.com/hamburg/party.md)
+- [International Supermarkets in Hamburg | germandex](https://germandex.com/hamburg/groceries.md)
+- [First Week in Cologne: University Setup and Arrival Guide](https://germandex.com/koeln/admin.md)
+- [Student Sports in Cologne: Hochschulsport Guide | germandex](https://germandex.com/koeln/sports.md)
+- [Best Cheap Restaurants in Cologne for Students | germandex](https://germandex.com/koeln/restaurants.md)
+- [Cologne Nightlife for Students: Bars and Clubs | germandex](https://germandex.com/koeln/party.md)
+- [International Supermarkets in Cologne | germandex](https://germandex.com/koeln/groceries.md)
+- [First Week in Munich: University Setup and Arrival Guide](https://germandex.com/muenchen/admin.md)
+- [Student Sports in Munich: Hochschulsport Guide | germandex](https://germandex.com/muenchen/sports.md)
+- [Best Cheap Restaurants in Munich for Students | germandex](https://germandex.com/muenchen/restaurants.md)
+- [Munich Nightlife for Students: Bars and Clubs | germandex](https://germandex.com/muenchen/party.md)
+- [International Supermarkets in Munich | germandex](https://germandex.com/muenchen/groceries.md)
+- [First Week in Erlangen: University Setup and Arrival Guide](https://germandex.com/erlangen/admin.md)
+- [Student Sports in Erlangen: Hochschulsport Guide | germandex](https://germandex.com/erlangen/sports.md)
+- [Best Cheap Restaurants in Erlangen for Students | germandex](https://germandex.com/erlangen/restaurants.md)
+- [Erlangen Nightlife for Students: Bars and Clubs | germandex](https://germandex.com/erlangen/party.md)
+- [International Supermarkets in Erlangen | germandex](https://germandex.com/erlangen/groceries.md)
+- [Student Housing in Erlangen: Residences and Rental Basics | germandex](https://germandex.com/erlangen/housing.md)
+- [Medical Help in Erlangen: Doctors, Urgent Care and Pharmacies | germandex](https://germandex.com/erlangen/medical.md)
+- [First Week in Tübingen: University Setup and Arrival Guide](https://germandex.com/tuebingen/admin.md)
+- [Student Sports in Tübingen: Hochschulsport Guide | germandex](https://germandex.com/tuebingen/sports.md)
+- [Best Cheap Restaurants in Tübingen for Students | germandex](https://germandex.com/tuebingen/restaurants.md)
+- [Tübingen Nightlife for Students: Bars and Clubs | germandex](https://germandex.com/tuebingen/party.md)
+- [International Supermarkets in Tübingen | germandex](https://germandex.com/tuebingen/groceries.md)
+- [Student Housing in Tübingen: Residences and Rental Basics | germandex](https://germandex.com/tuebingen/housing.md)
+- [Medical Help in Tübingen: Doctors, Urgent Care and Pharmacies | germandex](https://germandex.com/tuebingen/medical.md)
+- [First Week in Münster: University Setup and Arrival Guide](https://germandex.com/muenster/admin.md)
+- [Student Sports in Münster: Hochschulsport Guide | germandex](https://germandex.com/muenster/sports.md)
+- [Best Cheap Restaurants in Münster for Students | germandex](https://germandex.com/muenster/restaurants.md)
+- [Münster Nightlife for Students: Bars and Clubs | germandex](https://germandex.com/muenster/party.md)
+- [International Supermarkets in Münster | germandex](https://germandex.com/muenster/groceries.md)
+- [Student Housing in Aachen: Residences and Rental Basics | germandex](https://germandex.com/aachen/housing.md)
+- [Medical Help in Aachen: Doctors, Urgent Care and Pharmacies | germandex](https://germandex.com/aachen/medical.md)
+- [Student Housing in Berlin: Residences and Rental Basics | germandex](https://germandex.com/berlin/housing.md)
+- [Medical Help in Berlin: Doctors, Urgent Care and Pharmacies | germandex](https://germandex.com/berlin/medical.md)
+- [Student Housing in Bochum: Residences and Rental Basics | germandex](https://germandex.com/bochum/housing.md)
+- [Medical Help in Bochum: Doctors, Urgent Care and Pharmacies | germandex](https://germandex.com/bochum/medical.md)
+- [Student Housing in Dortmund: Residences and Rental Basics | germandex](https://germandex.com/dortmund/housing.md)
+- [Medical Help in Dortmund: Doctors, Urgent Care and Pharmacies | germandex](https://germandex.com/dortmund/medical.md)
+- [Student Housing in Düsseldorf: Residences and Rental Basics | germandex](https://germandex.com/duesseldorf/housing.md)
+- [Medical Help in Düsseldorf: Doctors, Urgent Care and Pharmacies | germandex](https://germandex.com/duesseldorf/medical.md)
+- [Student Housing in Frankfurt: Residences and Rental Basics | germandex](https://germandex.com/frankfurt/housing.md)
+- [Medical Help in Frankfurt: Doctors, Urgent Care and Pharmacies | germandex](https://germandex.com/frankfurt/medical.md)
+- [Student Housing in Hamburg: Residences and Rental Basics | germandex](https://germandex.com/hamburg/housing.md)
+- [Medical Help in Hamburg: Doctors, Urgent Care and Pharmacies | germandex](https://germandex.com/hamburg/medical.md)
+- [Student Housing in Cologne: Residences and Rental Basics | germandex](https://germandex.com/koeln/housing.md)
+- [Medical Help in Cologne: Doctors, Urgent Care and Pharmacies | germandex](https://germandex.com/koeln/medical.md)
+- [Student Housing in Munich: Residences and Rental Basics | germandex](https://germandex.com/muenchen/housing.md)
+- [Medical Help in Munich: Doctors, Urgent Care and Pharmacies | germandex](https://germandex.com/muenchen/medical.md)
+- [Student Housing in Münster: Residences and Rental Basics | germandex](https://germandex.com/muenster/housing.md)
+- [Medical Help in Münster: Doctors, Urgent Care and Pharmacies | germandex](https://germandex.com/muenster/medical.md)
+
+## Optional
+
+- [Why germandex: Advice for Newcomers | germandex](https://germandex.com/manifesto.md)
+- [Terms of Use | germandex](https://germandex.com/terms.md)
+- [Privacy Policy | germandex](https://germandex.com/privacy.md)
+- [Full text (en)](https://germandex.com/llms-full.txt): All pages in this language in one file.
+
+## Other languages
+
+- [fr](https://germandex.com/fr/llms.txt)
+- [pt](https://germandex.com/pt/llms.txt)
+- [es](https://germandex.com/es/llms.txt)
+- [id](https://germandex.com/id/llms.txt)
+- [tr](https://germandex.com/tr/llms.txt)
+- [hr](https://germandex.com/hr/llms.txt)
+- [sl](https://germandex.com/sl/llms.txt)
+- [zh](https://germandex.com/zh/llms.txt)
+- [hi](https://germandex.com/hi/llms.txt)
+- [ta](https://germandex.com/ta/llms.txt)
+- [th](https://germandex.com/th/llms.txt)

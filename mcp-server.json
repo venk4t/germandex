@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.germandex/guides",
+  "title": "Germandex Student Guides",
+  "description": "Read-only student guides to Germany: twelve cities, housing, banking, jobs and everyday life.",
+  "version": "1.0.0",
+  "websiteUrl": "https://germandex.com/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://germandex.com/mcp"
+    }
+  ]
+}

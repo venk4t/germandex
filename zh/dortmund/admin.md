@@ -1,0 +1,34 @@
+# 多特蒙德 - 手续
+
+第一周的大学设置
+
+这不是完整的抵达清单。地址登记、健康保险状况以及（如果需要）居住许可是单独的任务。
+
+### 1\. 在食堂刷卡或用手机付款
+
+用银行卡或手机感应支付。
+
+非接触付款失败？换一个收银台或询问 Studierendenwerk 工作人员。
+
+### 2\. [TU Dortmund](https://www.tu-dortmund.de/semesterticket/) 学生：领取 Deutschlandsemesterticket
+
+TU Dortmund 和 AStA 一起提供。覆盖德国所有本地和区域公交、火车。
+
+车票未签发？检查注册及学期费，再联系 AStA 或学生服务处。
+
+-   德国学期票涵盖当地和地区的二等舱交通，不包括 ICE/IC/EC。它是通过学期费用资助的，而不是免费门票。
+-   没有有效车票请勿登机。如果您的学期票尚未准备好，请先购买其他有效票价。
+
+## 不仅仅是大学设置
+
+### 登记你的多特蒙德住址
+
+住址登记：[市住址登记处（Anmeldung）](https://www.dortmund.de/services/wohnsitzanmeldung.html)，搬入后两周内办理。居留许可：[外国人管理局](https://application.dortmund.de/rathaus-und-verwaltung/verwaltung/amt-fuer-migration/kontakt/)。文件、健康保险、居留身份和官方信件：[全国事务指南](https://germandex.com/zh/germany/admin)。
+
+您可以完全[在线登记](https://www.dortmund.de/services/wohnsitzanmeldung.html)（身份证的 eID 功能和一个免费的 BundID 账户），或预约后亲自办理。
+
+---
+
+Source: https://germandex.com/zh/dortmund/admin
+
+Language: zh

@@ -1,0 +1,3084 @@
+# Guias iniciais para estudantes na Alemanha
+
+Mantido por agentes autônomos que acompanham e apresentam conselhos de alta qualidade para estudantes recém-chegados à Alemanha.
+
+## City guides
+
+- [Aachen](https://germandex.com/pt/aachen/admin.md)
+- [Berlin](https://germandex.com/pt/berlin/admin.md)
+- [Bochum](https://germandex.com/pt/bochum/admin.md)
+- [Dortmund](https://germandex.com/pt/dortmund/admin.md)
+- [Düsseldorf](https://germandex.com/pt/duesseldorf/admin.md)
+- [Frankfurt](https://germandex.com/pt/frankfurt/admin.md)
+- [Hamburgo](https://germandex.com/pt/hamburg/admin.md)
+- [Colônia](https://germandex.com/pt/koeln/admin.md)
+- [Munique](https://germandex.com/pt/muenchen/admin.md)
+- [Münster](https://germandex.com/pt/muenster/admin.md)
+- [Erlangen](https://germandex.com/pt/erlangen/admin.md)
+- [Tubinga](https://germandex.com/pt/tuebingen/admin.md)
+
+---
+
+Source: https://germandex.com/pt
+
+Language: pt
+
+
+# Aachen - Burocracia
+
+Configuração da universidade para sua primeira semana
+
+Esta não é uma lista de verificação de chegada completa. O registo do endereço, o estatuto do seguro de saúde e, quando necessário, a autorização de residência são tarefas distintas.
+
+### 1\. Para estudantes [RWTH](https://help.itc.rwth-aachen.de/en/service/rhb2fhkpjhb7/article/ea917d7e1ee048eca31f7a23d04cced5/): solicite seu BlueCard
+
+Pague a mensalidade, carregue sua foto no RWTH SelfService e verifique seu endereço de correspondência no RWTHonline. O BlueCard é sua carteira de estudante e cartão de pagamento Mensa.
+
+Não chegou? Verifique a taxa, foto e endereço postal e contacte o Posto de Atendimento [RWTH BlueCard](https://help.itc.rwth-aachen.de/en/service/rhb2fhkpjhb7/article/4ab6340c22ac486cbf2be44352a6fff5/). O cartão não é o ingresso semestral.
+
+### 2\. Para alunos [RWTH](https://www.asta.rwth-aachen.de/en/semesterticket-faq/): configure seu e-mail universitário
+
+Resgate seu cupom ConnectMe e abra sua caixa de correio RWTH. Lá chegam mensagens importantes sobre universidades e ingressos semestrais.
+
+Sem acesso? Verifique se resgatou o ConnectMe - a ativação pode levar 48 h; cupom em falta: contacte o ServiceDesk de TI.
+
+### 3\. Para alunos RWTH e FH Aachen: use o Mensa
+
+Use seu BlueCard ou FH Karte para pagar nos refeitórios [Studierendenwerk](https://www.studierendenwerk-aachen.de/en/eating-drinking/cashless-payment/bluecard-and-fh-card.html). O carregamento automático é opcional; você também pode recarregar nas máquinas.
+
+Sem chip de pagamento? Pergunte pelo cartão de estudante convidado Studierendenwerk (depósito + crédito) e mostre a carteira de estudante para o preço de estudante.
+
+### 4\. Para alunos RWTH: ative seu ingresso semestral
+
+Após a inscrição e ativação do ConnectMe, a ASEAG envia um código de link para o seu e-mail RWTH. Cadastre-se no naveo uma vez com esse código; verifique se um bilhete válido aparece antes de viajar.
+
+Sem código naveo? Verifique matrícula, mensalidade, ConnectMe e caixa RWTH e escreva para semesterticket@aseag.de. Código usado sem ticket: hallo@naveo.info - não exclua a conta.
+
+naveo indisponível? O RWTH AStA explica o bilhete físico com cartão chip; leva até duas semanas e não é provisório.
+
+-   O Deutschlandsemesterticket cobre transporte local e regional em segunda classe, não ICE/IC/EC. É financiado pela taxa semestral, não por um ingresso grátis.
+-   Não embarque sem um bilhete válido. Se o seu ingresso semestral não estiver pronto, compre primeiro outra tarifa válida.
+-   As paradas de ônibus podem ter diversas plataformas (H1, H2 e assim por diante). Verifique a plataforma para sua direção.
+
+Para estudantes da FH Aachen: use as instruções específicas da universidade da FH para seu FH Karte, e-mail e ingresso semestral; as etapas RWTH acima não se aplicam.
+
+## Mais do que uma configuração universitária
+
+### Registre seu endereço em Aachen
+
+Registo de morada: [Cidade de Aachen](https://serviceportal.aachen.de/suche/-/vr-bis-detail/dienstleistung/4599/show), dentro de duas semanas após a mudança. Títulos de residência: [Escritórios de imigração da região de Städte](https://www.staedteregion-aachen.de/en/navigation/residence-permit). Documentos, seguro saúde, status de residência e cartas oficiais: [guia administrativo nacional](https://germandex.com/pt/germany/admin).
+
+Pode registar-se totalmente [online](https://serviceportal.aachen.de/suche/-/vr-bis-detail/dienstleistung/4599/show) (cartão de cidadão ou cartão eID europeu com eID ativada, o respetivo PIN e uma conta BundID gratuita) ou presencialmente com marcação prévia no Bürgerbüro ou num Bezirksamt.
+
+---
+
+Source: https://germandex.com/pt/aachen/admin
+
+Language: pt
+
+
+# Aachen - Esportes
+
+## Para alunos RWTH: Hochschulsport
+
+RWTH [Hochschulsport](https://hochschulsport.rwth-aachen.de/cms/hsz/sport/~hpoua/sportangebot/) oferece muitos esportes com preços para estudantes; verifique a elegibilidade e os preços atuais antes de reservar.
+
+Os cursos incluem esportes com bola, escalada, dança e fitness. Verifique o site Hochschulsport para obter o programa atual e as regras de inscrição.
+
+Alguns cursos custam menos para estudantes elegíveis do que opções externas comparáveis. Compare o preço atual do curso antes de reservar.
+
+### Confira as [datas atuais de inscrição](https://hochschulsport.rwth-aachen.de/cms/hsz/sport/sportangebot/~bgxpbf/programmstart-anmeldung-und-termine/)
+
+Os cursos populares podem ser preenchidos rapidamente. Os horários de inscrição podem mudar a cada período; verifique a página oficial de datas antes de definir um alarme.
+
+## Opções gratuitas
+
+-   Corra ou caminhe até o alto do Lousberg, o parque no morro ao lado do centro.
+-   O Aachener Wald (floresta), ao sul da cidade, é ótimo para corridas mais longas e trilhas no fim de semana.
+-   Entre numa pelada: pergunte aos seus colegas. Entrar num time é um dos jeitos mais rápidos de fazer amigos alemães.
+
+---
+
+Source: https://germandex.com/pt/aachen/sports
+
+Language: pt
+
+
+# Aachen - Restaurantes
+
+## Recomendados
+
+### [AKL](https://www.akl-orient.de/)
+
+Comida libanesa num lugar descontraído e familiar. Pontstraße 1-3. Seg-sáb 11:30-23:00, fechado aos domingos.
+
+### [TAT Gemüsekebab](https://www.tat-gemuesekebab.de/restaurants) €9.60
+
+O melhor Döner e Dürüm de Aachen. No Markt 44 e no Elisenbrunnen (Friedrich-Wilhelm-Platz 11). Abre às 11:00, até tarde nos fins de semana.
+
+### [Al Triangolo](http://www.al-triangolo.de/)
+
+Pequeno italiano familiar na cidade velha, Rommelsgasse 2-3. Para jantar. Fechado às terças.
+
+### Vegetariano? Estas são suas melhores opções
+
+Os lugares recomendados também são as melhores opções vegetarianas da cidade. Peça o falafel ou o halloumi.
+
+## Barato e rápido
+
+### [Nobis](https://nobis-printen.de/oeffnungszeiten/)
+
+A rede de padarias da própria Aachen, com lojas pela cidade toda. Sanduíches, café e Printen (o biscoito de gengibre local). O café da Münsterplatz fica bem ao lado da catedral.
+
+### Subway
+
+Você conhece. Confiável, barato, enche a barriga.
+
+### Bäckerei [Moss](https://baeckerei-moss.de/filiale/)
+
+Padaria de Aachen com lojas pela cidade. Pãezinhos, sanduíches, bolos e café; a MOSS auf der Hörn, na Ahornstr. 42, fica perto da RWTH.
+
+---
+
+Source: https://germandex.com/pt/aachen/restaurants
+
+Language: pt
+
+
+# Aachen - Festa
+
+### Pontstraße
+
+A rua dos bares universitários. Comece a noite aqui. A Poststraße também tem muitos bares.
+
+### [Apollo](https://apollo-aachen.de/club/events/)
+
+A grande balada mainstream, Pontstraße 141-149, no Ponttor. Música mainstream, noites temáticas e as grandes festas de boas-vindas todo outubro.
+
+### [Musikbunker](https://mubu.ac/)
+
+Shows e noites de balada num antigo bunker. A escolha dos locais se você quer algo menos mainstream.
+
+### Barbarossa
+
+Bebidas baratas. Karaokê às quartas.
+
+### LikeLike
+
+Bar tiki perto da Pontstraße com cervejas de trigo baratas e diferentes.
+
+### Sowiso
+
+Boa música, além de cartas, dardos e sinuca.
+
+## Bom saber
+
+-   Outubro é temporada de festas: fique de olho no calendário da [AStA](https://www.asta.rwth-aachen.de/) para a Semesteranfangsparty e a festa de boas-vindas "Students United" no Apollo. No ano passado a entrada custava €5 antes da meia-noite e a cerveja era grátis até 1h.
+-   Os locais dizem para evitar a balada "Nightlife" perto de Rothe Erde.
+-   Para noites de balada grande de verdade, o pessoal vai a Colônia, cerca de uma hora de trem.
+
+---
+
+Source: https://germandex.com/pt/aachen/party
+
+Language: pt
+
+
+# Idioma
+
+Até um alemão básico _muda tudo_ aqui: empregos, procura de apartamento, a Ausländerbehörde, fazer amigos.
+
+### Melhor curso online: Pimsleur
+
+Para estudar sozinho, o Pimsleur é o melhor curso online.
+
+### O melhor professor é um trabalho de meio período
+
+Alguns turnos por semana num restaurante vão te ensinar mais alemão do dia a dia do que qualquer curso. Veja as vagas em restaurantes & varejo em [Trabalho](https://germandex.com/pt/job).
+
+## Aachen
+
+### [RWTH](https://www.sz.rwth-aachen.de/cms/sz/deutsch/kursangebot-daf/~ymonj/semesterkurse/) Sprachenzentrum
+
+O centro de idiomas da RWTH. Cursos de alemão do A1 ao C1 para estudantes internacionais, durante o semestre e como cursos intensivos nas férias. Inscrição pelo RWTHonline.
+
+### [VHS](https://www.vhs-aachen.de/programm/sprachen/deutsch-als-fremd-und-zweitsprache) Aachen
+
+O centro de educação de adultos da cidade, na Peterstraße. Cursos de alemão noturnos e intensivos em todos os níveis.
+
+### [Sprachenakademie](https://www.spraachen.org/en/german-courses/intensive-courses/) Aachen
+
+Caro, mas vale a pena. Reserve o curso intensivo com antecedência para coincidir com as férias do semestre.
+
+## Berlin
+
+### [FU](https://www.sprachenzentrum.fu-berlin.de/sprachangebot/sprachen/deutsch/kurse/semesterkurse/index.html) Sprachenzentrum
+
+Cursos de alemão como língua estrangeira (DaF) durante o semestre para estudantes da FU.
+
+### [HU](https://www.sprachenzentrum.hu-berlin.de/de/kursangebot-und-anmeldung/sprachen/deutsch) Sprachenzentrum
+
+Cursos de DaF de todos os níveis para estudantes da HU.
+
+### Volkshochschule ([VHS](https://www.berlin.de/vhs/kurse/deutsch-integration/))
+
+Cada distrito de Berlim tem sua própria VHS, com cursos de alemão de todos os níveis.
+
+## Bochum
+
+### [RUB](https://www.daf.ruhr-uni-bochum.de/daf/kurse/index.html.de), alemão como língua estrangeira
+
+Cursos de alemão junto com seus estudos na Ruhr-Universität.
+
+### [VHS](https://vhs.bochum.de/programm/deutsch-als-fremdsprache) Bochum
+
+Cursos de alemão de todos os níveis.
+
+## Dortmund
+
+### [TU Dortmund](https://fs.zhb.tu-dortmund.de/lehrgebiete/deutsch-als-fremdsprache/), alemão como língua estrangeira
+
+Cursos de alemão para estudantes internacionais.
+
+### [VHS](https://vhs.dortmund.de/programm/sprachen-und-kulturen-der-welt/kategorie/Deutsch+als+Fremdsprache/33) Dortmund
+
+Cursos de alemão de todos os níveis.
+
+## Düsseldorf
+
+### [HHU](https://www.hhu.de/internationales/internationale-studierende/neu-an-der-hhu/ankommen-leicht-gemacht/sprachen-lernen) Sprachenzentrum
+
+Cursos de alemão para estudantes da HHU.
+
+### [vhs](https://vhs.duesseldorf.de/programm/deutsch-und-integration) Düsseldorf
+
+Cursos de alemão de todos os níveis, a partir do A1.
+
+### [IIK](https://www.iik-duesseldorf.de/deutsch/) Düsseldorf
+
+Instituto de idiomas com cursos intensivos de alemão.
+
+## Frankfurt
+
+### [Goethe](https://www.uni-frankfurt.de/43669402/semesterbegleitkurse) University ISZ
+
+Cursos semestrais e intensivos de alemão para estudantes.
+
+### [Frankfurt UAS](https://www.frankfurt-university.de/de/hochschule/einrichtungen-und-services/fachsprachenzentrum/sprachangebot) Fachsprachenzentrum
+
+Cursos de alemão durante o semestre.
+
+### [vhs](https://vhs.frankfurt.de/de/deutschalsfremdsprache) Frankfurt
+
+Cursos de alemão de todos os níveis.
+
+## Hamburgo
+
+### [Universität Hamburg](https://www.uni-hamburg.de/sprachenzentrum/daf/kurse.html) Sprachenzentrum
+
+Cursos de alemão durante o semestre e cursos intensivos antes.
+
+### [Cursos de alemão TUHH](https://www.tuhh.de/tuhh/studium/im-studium/sprachen-lernen/deutsch-lernen/deutschkurse-internationale-studiengaenge)
+
+Para estudantes dos programas internacionais da TUHH.
+
+### [Hamburger Volkshochschule](https://www.vhs-hamburg.de/deutsch-17)
+
+Cursos de alemão de todos os níveis, do A1 ao C2.
+
+## Colônia
+
+### Universidade de Colônia, alemão como língua estrangeira
+
+Cursos de alemão do A1 ao C1 junto com seus estudos.
+
+### TH [Köln](https://uni-koeln.de/studium-lehre/international/studium-in-koeln/lehrbereich-deutsch-als-fremdsprache) Sprachlernzentrum
+
+Módulos de [alemão](https://www.th-koeln.de/internationales/deutsch-als-fremdsprache_25247.php) para estudantes da TH Köln.
+
+### Kölner [VHS](https://www.koelner-vhs.de/deutsch-integration/deutsch-fremdsprache)
+
+Uma grande oferta de cursos de alemão de todos os níveis.
+
+## Munique
+
+### [Cursos de alemão LMU](https://www.lmu.de/de/studium/internationale-vollzeit-studierende/sprachkurse/)
+
+Cursos de alemão para estudantes internacionais da LMU.
+
+### [TUM](https://www.sprachenzentrum.tum.de/sz/sprachen/deutsch/) Sprachenzentrum
+
+Cursos de alemão para estudantes da TUM, a partir do nível iniciante.
+
+### Münchner Volkshochschule ([MVHS](https://www.mvhs.de/kurse/deutsch-integration/deutsch-fuer-studierende-460-CAT-KAT21360))
+
+Cursos pensados para estudantes, como "Deutsch für Studium und Alltag".
+
+## Münster
+
+### [Uni Münster](https://www.uni-muenster.de/Sprachenzentrum/internationales/internationalestudierende/deutschimsemester.html) Sprachenzentrum
+
+Cursos de alemão durante o semestre e intensivos nas férias.
+
+### [VHS](https://kurse.vhs-muenster.de/p/558-CAT-KAT4175273) Münster
+
+Cursos de alemão de todos os níveis.
+
+## Erlangen
+
+### [FAU](https://sz.fau.de/abteilung-deutsch-als-fremdsprache/kursangebot/daf-studienbegleitende-kurse/) Sprachenzentrum
+
+Cursos de alemão paralelos ao curso para estudantes matriculados. É preciso um teste de nível antes de entrar num curso; inscrição online no StudOn. A lista de cursos está no sistema campo.
+
+### [VHS](https://www.vhs-erlangen.de/programm/sprachen/allgemeine-informationen-zum-sprachenbereich) Erlangen
+
+O centro de educação de adultos da cidade oferece aconselhamento linguístico e um teste de nível online gratuito. Os cursos de alemão não admitem aula experimental, por isso inscreva-se com antecedência.
+
+## Tubinga
+
+### [Uni Tübingen](https://uni-tuebingen.de/international/sprachen-lernen/deutschkurse/) Deutsch als Fremdsprache
+
+Cursos de alemão para estudantes da universidade. Inscrição no alma. As inscrições para o semestre de inverno 2026/27 estavam encerradas quando verificámos, mas alguns cursos ainda tinham vagas.
+
+### [VHS](https://www.vhs-tuebingen.de/kurse/deutschkurse) Tübingen
+
+Cursos de alemão de A1 a C1 todos os semestres, com aulas de manhã e à noite, exames regulares e teste de nível gratuito.
+
+---
+
+Source: https://germandex.com/pt/germany/language
+
+Language: pt
+
+
+# Etiqueta
+
+### Fique em silêncio no transporte público
+
+Fale baixo nos ônibus e trens, e faça ligações curtas.
+
+### Siga as regras de trânsito
+
+Faixas de pedestres e semáforos são levados muito a sério!
+
+### Seja cortês
+
+Um pouco de cortesia vai muito longe aqui. Dizer «Danke» sempre que recebes alguma coisa é sempre apreciado.
+
+---
+
+Source: https://germandex.com/pt/germany/etiquette
+
+Language: pt
+
+
+# Entregas
+
+## Comida
+
+### [Wolt](https://wolt.com/)
+
+Entrega de comida de restaurantes da cidade toda.
+
+### [Lieferando](https://www.lieferando.de/)
+
+O outro grande app de entrega de comida na Alemanha.
+
+## Encomendas
+
+### Ativa as Packstations na app da [DHL](https://www.dhl.de/de/privatkunden/pakete-empfangen/an-einem-abholort-empfangen/packstation.html)
+
+Na Alemanha, os estafetas (Amazon e os outros) normalmente não ligam. Muitas vezes deixam a encomenda à porta ou devolvem-na. Uma Packstation é um cacifo onde levantas as tuas encomendas, e é uma opção fiável para a maioria das entregas.
+
+## Remédios
+
+### [Shop Apotheke](https://www.shop-apotheke.com/)
+
+Encomenda online medicamentos sem receita e suplementos.
+
+---
+
+Source: https://germandex.com/pt/germany/delivery
+
+Language: pt
+
+
+# Burocracia na Alemanha
+
+As tarefas administrativas nacionais ao chegar: registar a morada, resolver o seguro saúde e o status de residência, e entender as cartas oficiais. Os passos universitários estão no guia da sua cidade.
+
+Dinheiro na Alemanha: guias de [conta bancária](https://germandex.com/pt/germany/bank-account), [seguro de saúde](https://germandex.com/pt/germany/health-insurance), [seguro de responsabilidade civil](https://germandex.com/pt/germany/liability-insurance), [cartão SIM](https://germandex.com/pt/germany/sim-card) e [SCHUFA](https://germandex.com/pt/germany/schufa).
+
+## Registe a sua morada
+
+Depois de te mudares, regista a morada em duas semanas no Bürgeramt ou Einwohnermeldeamt. Leva identificação ou passaporte e a Wohnungsgeberbestätigung assinada por quem fornece o alojamento; o contrato não a substitui. Se vieres do estrangeiro ou tiveres título de residência eletrónico, verifica se precisas de atendimento presencial.
+
+Sem confirmação a tempo? Contacta diretamente o serviço de registo. Nunca registes uma morada onde não vives.
+
+## Verifique o seguro saúde e o status de residência
+
+Pergunte à sua seguradora de saúde se a confirmação de matrícula chegou à sua universidade e leia as solicitações de documentos faltantes. Os estudantes não pertencentes à UE que necessitam de uma autorização de residência devem verificar a autoridade de imigração responsável pela sua universidade e o prazo do seu próprio visto ou autorização.
+
+Comprovante de seguro em falta? Peça à seguradora para enviar a notificação eletrónica à universidade. Prazo de residência próximo? Contacte diretamente a autoridade de imigração.
+
+## Cartas oficiais: o que fazer
+
+-   Steuer-ID: a Receita Federal Central emite este número fiscal permanente. Guarde a carta. Caso não chegue ou seja extraviado, solicite nova notificação ao [BZSt](https://www.bzst.de/EN/Private_individuals/Tax_identification_number/tax_identification_number_node.html); é enviado por correio.
+-   [Rundfunkbeitrag](https://www.rundfunkbeitrag.de/informationen): verifique se sua casa já está cadastrada e quem paga. Normalmente aplica-se uma contribuição por apartamento, com exceções; use os formulários oficiais de serviço de contribuição em vez de ignorar a carta.
+-   Carta do seguro saúde: leia-a em caso de falta de documento, cobertura ou solicitação de pagamento. Para comprovação de matrícula, pergunte à sua seguradora sobre a mensagem eletrônica enviada à sua universidade.
+-   [Sozialversicherungsnummer](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Sozialversicherungsausweis): guarde o número do seguro de pensão quando você trabalhar pela primeira vez na Alemanha. Em caso de perda, solicite a sua substituição à seguradora de pensões ou à sua seguradora de saúde.
+-   Carta relativa à residência: verifique o prazo e a autoridade nela indicada. Se não estiver claro, entre em contato com o escritório de imigração responsável pela sua universidade antes do prazo.
+
+---
+
+Source: https://germandex.com/pt/germany/admin
+
+Language: pt
+
+
+# Alojamento na Alemanha
+
+Encontra um quarto. Compreende o que estás a assinar.
+
+## Antes de assinar
+
+-   Kaution é um depósito reembolsável. Para arrendamentos residenciais normais, o limite legal é de três meses de aluguel, excluindo os custos operacionais declarados separadamente; um depósito em dinheiro pode ser pago em três parcelas mensais. Verifique seu contrato antes de pagar.
+-   Warmmiete é o aluguel básico mais os custos operacionais declarados; Nebenkosten são os custos extras de construção/serviço, muitas vezes pagos antecipadamente e posteriormente reconciliados. Pergunte quais custos, incluindo aquecimento e eletricidade, estão no seu contrato.
+-   Wohnungsgeberbestätigung confirma sua mudança real para registro de endereço. O proprietário ou inquilino principal assina. É separado do contrato de aluguel.
+-   Cuidado com fraudes: confirma a pessoa e o quarto antes de enviar dinheiro ou documentos sensíveis. As universidades alertam para ofertas falsas e depósitos exigidos antes da entrega das chaves. O serviço de alojamento da universidade pode ajudar a verificar uma oferta suspeita.
+
+---
+
+Source: https://germandex.com/pt/germany/housing
+
+Language: pt
+
+
+# Supermercados na Alemanha
+
+As lojas de desconto e os supermercados de gama alargada servem necessidades diferentes. Compara os produtos que compras.
+
+### Lojas de desconto
+
+[Netto](https://www.netto-online.de/), [Aldi](https://www.aldi-sued.de/marken) e [Lidl](https://www.lidl.de/c/eigenmarken-food/s10007656) vendem alimentos do dia a dia e produtos de marca própria. Compara o teu cabaz habitual e as ofertas atuais.
+
+### Supermercados de gama alargada
+
+[Rewe](https://www.rewe-group.com/en/company/structure-and-saleslines/), [Edeka](https://verbund.edeka/unternehmen/was-ist-der-edeka-verbund/m%C3%A4rkte-vertrieb/edeka/) e [Kaufland](https://filiale.kaufland.de/sortiment.html) oferecem uma vasta gama de alimentos. A seleção varia de loja para loja.
+
+### A nossa escolha editorial
+
+Rewe é a nossa escolha para um supermercado de gama alargada. É uma preferência editorial, não uma classificação de preços.
+
+---
+
+Source: https://germandex.com/pt/germany/groceries
+
+Language: pt
+
+
+# Contas bancárias na Alemanha
+
+Um Girokonto (conta corrente) é a primeira coisa a montar: renda, seguro de saúde e salários passam por ele.
+
+### Girokonto de estudante numa Sparkasse
+
+A Sparkasse oferece um Girokonto para estudantes e aprendizes com aplicativo, pagamentos por aproximação e cerca de 20.000 caixas eletrônicos em toda a Alemanha. É gratuito em muitas agências: cada Sparkasse define suas próprias condições e tarifas, então pergunte na sua agência local se ela oferece a conta de estudante gratuita e se há limite de idade. (Fonte: [sparkasse.de](https://www.sparkasse.de/pk/produkte/konten-und-karten/girokonto/studenten-und-auszubildende.html), verificado em 19 de outubro de 2026.) Recusado numa agência? Tente outra ou abra online; um banco online serve como solução temporária e você pode migrar para a Sparkasse depois.
+
+### Ponha a renda em ordem de transferência permanente
+
+Configura a renda como Dauerauftrag (transferência permanente) para sair automaticamente todos os meses. Um histórico de pagamentos pontuais conta ao candidatares-te a casas.
+
+### Cartão de crédito (opcional)
+
+O [PAYBACK Visa](https://www.payback.de/info/visa) custa 29 EUR por ano. Os pagamentos são isentos de taxas no mundo todo e acumulam pontos Payback em cada pagamento; os pontos não expiram enquanto o cartão estiver ativo. Saques são gratuitos no exterior, mas custam 2% (mínimo de 5 EUR) dentro da Alemanha. (Fonte: payback.de, verificado em 19 de outubro de 2026.)
+
+### A nossa escolha editorial
+
+Um Girokonto de estudante da Sparkasse. Critérios: gratuito para estudantes em muitas agências segundo a própria página da Sparkasse (cada Sparkasse define suas próprias condições), uma rede de agências e caixas eletrônicos que cobre todas as cidades deste guia, e um nome que todo proprietário e empregador reconhece. Esta é uma preferência editorial, não um ranking de preços.
+
+---
+
+Source: https://germandex.com/pt/germany/bank-account
+
+Language: pt
+
+
+# Seguro de saúde na Alemanha
+
+O seguro de saúde é obrigatório: tem de provar a cobertura ao matricular-se na universidade. Esta página descreve os tipos de opções; não é aconselhamento médico.
+
+### Seguro público (estatutário)
+
+A maioria dos estudantes usa o seguro estatutário (gesetzliche Krankenversicherung). A cobertura básica exigida por lei - médicos, medicamentos, emergências, hospital - é idêntica em qualquer Krankenkasse. Como exemplo datado, a TK lista para 2026 uma contribuição de estudante de 141,16 EUR por mês até os 23 anos e de 146,29 EUR a partir dos 23 anos sem filhos, incluindo seguro de cuidados, e observa que a contribuição quase não difere entre as Krankenkassen. A tarifa de estudante normalmente vale até o fim do semestre em que você completa 30 anos. (Fontes: [daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/) e [tk.de](https://www.tk.de/techniker/versicherung/gut-versichert-in-jeder-lebenslage/versichert-als-studierende/krankenversicherung-und-studium/beitrag-studierende-2131472), verificado em 19 de outubro de 2026.)
+
+### Seguro privado
+
+Os planos privados podem oferecer mais benefícios mas são bem mais caros e normalmente exigem pagar primeiro e pedir reembolso. Voltar ao seguro estatutário depois é difícil. (Fonte: [daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/), verificado em 19 de outubro de 2026.)
+
+### Confirmação para a matrícula
+
+A sua Krankenkasse comunica o seu estado de seguro à universidade por via eletrónica; a matrícula não fica completa sem isso. Com a matrícula fica também automaticamente coberto pelo seguro de acidentes da universidade para atividades no campus e ligadas aos estudos. (Fonte: [daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/), verificado em 19 de outubro de 2026.)
+
+### Cobertura odontológica + óculos (opcional)
+
+Opcional, mas se usas óculos, vale a pena ver as coberturas. A [BarmeniaGothaer](https://www.barmeniagothaer.de/versicherung/krankenzusatz-pflege/) oferece seguro dentário complementar e cobertura ótica Mehr Sehen. Confirma prémio atual, limites, condições e prazo de reembolso antes de contratar.
+
+### A nossa escolha editorial
+
+Seguro estatutário como estudante, em qualquer Krankenkasse que você preferir. Critérios: a cobertura básica é legalmente idêntica em todas, a tarifa reduzida de estudante é a opção padrão adequada (os valores da TK acima são um exemplo datado, não uma recomendação), e qualquer Krankenkasse pode informar seu status à universidade. Esta é uma preferência editorial, não um conselho médico ou financeiro.
+
+---
+
+Source: https://germandex.com/pt/germany/health-insurance
+
+Language: pt
+
+
+# Seguro de responsabilidade civil (Haftpflicht)
+
+O Haftpflichtversicherung privado cobre danos que cause a outras pessoas ou aos seus bens. A maioria das pessoas na Alemanha tem um, por poucos euros por mês.
+
+### O que cobre
+
+Os casos clássicos: parte o portátil de um amigo, perde a chave do senhorio ou risca um carro estacionado com a bicicleta. Sem seguro, paga do seu bolso; o seguro de responsabilidade civil paga por si.
+
+### O que verificar antes de subscrever
+
+O valor de cobertura (aponte alto - danos a pessoas podem ser muito caros), se inclui chaves perdidas e a franquia. Leia a página da tarifa, não só o preço.
+
+### A nossa escolha editorial
+
+Die Haftpflichtkasse, tarifa [Einfach Besser](https://www.haftpflichtkasse.de/versicherungen/privatkunden/privathaftpflicht/Einfach-Besser/). Critérios: uma seguradora especializada em responsabilidade civil, e a tarifa cobre danos pessoais, materiais e financeiros até 50 milhões de euros segundo sua própria página. A página não indica um prêmio fixo - o preço depende dos seus dados, então peça uma cotação lá. (Fonte: haftpflichtkasse.de, verificado em 19 de outubro de 2026.) Esta é uma preferência editorial, não um ranking de preços.
+
+---
+
+Source: https://germandex.com/pt/germany/liability-insurance
+
+Language: pt
+
+
+# Cartões SIM na Alemanha
+
+O pré-pago ganha do contrato à chegada: sem conta bancária alemã nem historial SCHUFA, e sem fidelização longa.
+
+### Um só pagamento para o ano
+
+O [MagentaMobil Prepaid Jahrestarif](https://www.telekom.de/shop/tarife/prepaid-jahrestarif) da Telekom custa 99,95 EUR uma única vez por 12 meses: 20 GB de dados em alta velocidade por mês (5G onde disponível) mais ligações e SMS ilimitados para redes alemãs. Se você não cancelar com aviso de um mês ao fim dos 12 meses, a tarifa renova automaticamente por prazo indeterminado e pode então ser cancelada mensalmente. (Fonte: telekom.de, verificado em 19 de outubro de 2026.)
+
+### Opções mensais
+
+Se preferir faturação mensal, todas as redes (Telekom, Vodafone, O2) e as marcas de supermercado vendem pacotes pré-pagos mensais. Verifique o preço e o volume de dados atuais antes de comprar - as ofertas mudam muitas vezes.
+
+### A nossa escolha editorial
+
+O Telekom MagentaMobil Prepaid Jahrestarif. Critérios: um só pagamento cobre doze meses, por isso não há fatura mensal antes do primeiro salário; usa a rede Telekom; e o preço e os 20 GB estão escritos no telekom.de. É uma preferência editorial, não um ranking de preços.
+
+---
+
+Source: https://germandex.com/pt/germany/sim-card
+
+Language: pt
+
+
+# SCHUFA explicada
+
+### Entende a SCHUFA
+
+A SCHUFA é o registo de crédito alemão; os senhorios costumam pedir um relatório. Não precisas de abrir produtos extra para melhorar a pontuação: a SCHUFA recomenda pagar a tempo e manter as finanças simples. Um bom histórico nas contas que já tens ajuda com o tempo. Consulta os dados na aplicação SCHUFA ou pede uma cópia gratuita à SCHUFA. ([Android](https://play.google.com/store/apps/details?id=com.schufamobileapp) / [iPhone](https://apps.apple.com/de/app/schufa/id6448636299))
+
+A SCHUFA oferece uma cópia gratuita dos seus dados (Datenkopie) em [schufa.de](https://www.schufa.de/datenkopie). (Fonte: schufa.de, verificado em 19 de outubro de 2026.)
+
+---
+
+Source: https://germandex.com/pt/germany/schufa
+
+Language: pt
+
+
+# Uma experiência com agentes editoriais
+
+Germandex é um experimento para compilar conselhos de alta qualidade com agentes autônomos. Os agentes por trás do Germandex pesquisam, editam e mantêm conselhos qualitativos da internet para recém-chegados à Alemanha.
+
+Eles são projetados para ser claros, sem interesses comerciais e para priorizar a clareza em vez da variedade.
+
+Se você gostou, ajude a deixá-lo [melhor](https://germandex.com/).
+
+Obrigado pela visita!
+
+![](https://germandex.com/img/venkat-pixel-mono.png)
+
+[Venkat Srinivasan](mailto:venkatragavan@protonmail.com)
+
+[](https://linkedin.com/in/venkatragavan "LinkedIn")[](https://x.com/venkgator "X")
+
+---
+
+Source: https://germandex.com/pt/manifesto
+
+Language: pt
+
+
+# Dinheiro
+
+Organize as coisas nesta ordem.
+
+### 1\. [Abrir uma conta bancária](https://germandex.com/pt/germany/bank-account)
+
+Gratuita para estudantes; monte isto primeiro.
+
+### 2\. [Fazer seguro de saúde](https://germandex.com/pt/germany/health-insurance)
+
+Obrigatório para a matrícula; leia os tipos de opções.
+
+### 3\. [Fazer seguro de responsabilidade civil](https://germandex.com/pt/germany/liability-insurance)
+
+Poucos euros por mês cobrem acidentes caros.
+
+### 4\. [Arranjar um SIM](https://germandex.com/pt/germany/sim-card)
+
+Pré-pago primeiro; contratos depois.
+
+### 5\. [Compreender a SCHUFA](https://germandex.com/pt/germany/schufa)
+
+O registo de crédito da Alemanha, explicado.
+
+---
+
+Source: https://germandex.com/pt/money
+
+Language: pt
+
+
+# Empregos
+
+A Alemanha tem salário mínimo por lei, então até um trabalho simples paga direito. Hoje é €13,90 por hora, e sobe para €14,60 em janeiro de 2027.
+
+### Escritório & empresas
+
+Vagas de estudante trabalhador (Werkstudent) em empresas. Ótimo para o currículo e para a carreira depois do curso.
+
+### Restaurantes & varejo
+
+Restaurantes, cafés, lojas. O jeito mais rápido de ganhar dinheiro, e ajuda muito a aprender alemão.
+
+### Distingue as regras de horas de trabalho
+
+-   Regra de imigração para estudantes de fora da UE: podes trabalhar 140 dias completos ou 280 meios-dias por ano sem autorização adicional. Consulta a regra exata no teu título de residência.
+-   Regra Werkstudent: até 20 horas semanais durante o semestre, os estudos continuam a ser a atividade principal e manténs as vantagens deste estatuto na segurança social. Nas férias, à noite ou ao fim de semana, podes trabalhar mais segundo a regra das 26 semanas.
+-   Seguro de saúde estudantil: as tarifas aplicam-se enquanto estudar for claramente a atividade principal. Se trabalhares regularmente mais de 20 horas semanais, pergunta à seguradora se passas ao regime de trabalhador.
+
+## Vagas em escritório & empresas
+
+1.  Seu currículo precisa estar no formato alemão. Copie o layout do [currículo de exemplo](https://germandex.com/pt/job/resume).
+2.  Para vagas de Werkstudent, quantidade vence tudo. Não espere a vaga perfeita.
+3.  Procure vagas no LinkedIn, StepStone, onde for. Mas sempre se candidate direto no site de carreiras da própria empresa.
+4.  Sempre anexe um pacote de candidatura na seção "Additional Documents".
+
+### Seu pacote de candidatura
+
+### 1\. Comprovante de matrícula
+
+Immatrikulationsbescheinigung. Baixe no portal online da sua universidade.
+
+### 2\. Histórico consolidado da graduação
+
+Todas as notas da sua graduação num só documento.
+
+### 3\. Arbeitszeugnis
+
+Uma carta de referência de um empregador anterior.
+
+### A carta de referência precisa seguir o formato alemão
+
+Uma carta de recomendação no estilo do seu país não vai causar boa impressão. Peça ao seu antigo empregador um Arbeitszeugnis no formato alemão. Pode ser em inglês: em papel timbrado da empresa, com assinatura e carimbo da empresa.
+
+As referências alemãs usam frases de avaliação fixas. Os recrutadores leem como notas, então a carta deve usar esta linguagem:
+
+Muito bom (sehr gut)
+
+"always to our fullest satisfaction" (stets zu unserer vollsten Zufriedenheit)
+
+Bom (gut)
+
+"always to our full satisfaction" (stets zu unserer vollen Zufriedenheit)
+
+Busque frases de "muito bom" nas seções de desempenho e conduta. Veja o [Arbeitszeugnis de exemplo](https://germandex.com/pt/job/reference) para um exemplo completo em inglês.
+
+## Vagas em restaurantes & varejo
+
+Podes encontrar estes trabalhos em plataformas como Indeed, Zenjob e outras. Mas a melhor forma é entrar em restaurantes e hotéis e perguntar se estão a contratar alguém a tempo parcial.
+
+1.  Todo dia, escolha uma região da cidade.
+2.  Comece pela praça de alimentação de um shopping. Depois, bairros mais longe do centro são melhores: menos estudantes procurando.
+3.  Entra em cada restaurante e hotel e pede trabalho, em alemão.
+4.  Não importa se você fala com fluência, o que importa é mostrar que você tenta.
+
+---
+
+Source: https://germandex.com/pt/job
+
+Language: pt
+
+
+# Currículo de exemplo
+
+Um CV fictício de um programador em início de carreira para candidaturas internacionais. Destaca a experiência relevante, mantém cada entrada breve e facilita a leitura das competências. Altera a ordem se a formação for o teu ponto mais forte.
+
+Alex Morgan
+
+Programador
+
+Berlim, Alemanha · alex.morgan@example.com  
++49 \[telefone\] · github.com/\[utilizador\] · linkedin.com/in/\[utilizador\]
+
+### Perfil
+
+Programador com experiência em serviços backend e aplicações web. Está a concluir um mestrado em informática. Procura um emprego para estudantes numa equipa de engenharia de produto.
+
+### Experiência
+
+Abr 2026 - Presente
+
+Estudante trabalhador, desenvolvimento backend
+
+Nordwerk Logistics · Berlim, Alemanha
+
+-   Criou APIs de rastreamento de envios com Python e FastAPI; reduziu o tempo mediano de resposta em 40% nos testes de desempenho.
+-   Adicionou testes automatizados e um processo de publicação baseado em Docker com GitHub Actions.
+
+Jun 2024 - Ago 2025
+
+Programador júnior
+
+Brightpath · Roterdão, Países Baixos
+
+-   Desenvolveu funcionalidades de pagamentos em Java e Spring Boot com uma equipa multidisciplinar.
+-   Aumentou a cobertura dos testes unitários de 45% para 80% e documentou verificações de revisão para novos colaboradores.
+
+### Formação
+
+Out 2025 - Presente
+
+Mestrado em Informática (MSc)
+
+\[Nome da universidade\] · Berlim, Alemanha
+
+Especialização: sistemas distribuídos e engenharia de software.
+
+Set 2021 - Jun 2024
+
+Licenciatura em Informática (BSc)
+
+\[Nome da universidade\] · \[Cidade, país\]
+
+### Projeto selecionado
+
+Study Space · Pesquisa de salas no campus
+
+Criou uma aplicação React e TypeScript com uma API ligada a PostgreSQL para encontrar salas de estudo disponíveis. Adicionou navegação acessível por teclado e testes automatizados.
+
+github.com/\[username\]/study-space
+
+### Competências técnicas
+
+**Linguagens:** Python, Java, TypeScript, SQL  
+**Frameworks:** FastAPI, Spring Boot, React  
+**Ferramentas:** Git, Docker, GitHub Actions, PostgreSQL
+
+### Idiomas
+
+Inglês: C1 · Alemão: A2 · \[Outro idioma\]: \[nível\]
+
+Tudo neste currículo é inventado. Substitua pelos seus próprios dados.
+
+Nomes, empregadores, locais e resultados ilustrativos, não qualificações reais. Substitui todos os exemplos por factos corretos. Cidade e país bastam; acrescenta uma morada completa apenas se necessário. Não inclui fotografia, data de nascimento, estado civil, declaração ou assinatura.
+
+---
+
+Source: https://germandex.com/pt/job/resume
+
+Language: pt
+
+
+# Arbeitszeugnis de exemplo
+
+Um Arbeitszeugnis (referência de trabalho) de exemplo, escrito em inglês. Inglês serve para sua candidatura. O que faz funcionar na Alemanha é o formato: papel timbrado, assinatura, carimbo da empresa e as frases de avaliação fixas que os recrutadores procuram. A pessoa e a empresa são inventadas.
+
+Brightpath Fintech Pvt. Ltd.
+
+\[Company address\]  ·  \[Phone\]  ·  \[Website\]
+
+\[City\], 31 August 20XX
+
+### Employment Reference
+
+Mr. Arjun Rao, born on \[date\] in \[city\], worked for our company as a Software Developer from 1 July 20XX to 31 August 20XX.
+
+Brightpath Fintech builds digital payment products for banks and retailers, with about 150 employees.
+
+Mr. Rao's main tasks were:
+
+-   Developing backend services for our payment platform in Java and Spring Boot
+-   Building and maintaining the mobile payment flow
+-   Writing unit tests and reviewing code from other developers
+-   Planning sprints together with the product and design teams
+
+Mr. Rao has very good, well-founded technical knowledge, which he always applied with great success in his daily work. He learned new technologies very quickly and always worked independently, carefully and to a very high standard.
+
+He always completed the tasks given to him to our fullest satisfaction.
+
+His behavior towards managers, colleagues and customers was always exemplary. He was a valued team member at all times.
+
+Mr. Rao is leaving our company at his own request to start a master's degree in Germany. We very much regret his departure, thank him for his always excellent work, and wish him continued success and all the best for his future, both professionally and personally.
+
+\[Signature\]  
+\[Name\], Head of Engineering  
+\[Company stamp\]
+
+Frase de avaliação
+
+"Always to our fullest satisfaction" é a nota: "fullest" + "always" = muito bom (sehr gut); "full" + "always" = bom (gut).
+
+Frase de conduta
+
+Comportamento "always exemplary" com gestores, colegas e clientes = muito bom.
+
+Encerramento
+
+Lamentar a saída, agradecer e desejar sucesso indicam uma referência muito boa. A falta de encerramento é um mau sinal.
+
+---
+
+Source: https://germandex.com/pt/job/reference
+
+Language: pt
+
+
+# Aachen - Supermercados
+
+Para conheceres as cadeias e como escolher, lê o nosso [guia de supermercados na Alemanha](https://germandex.com/pt/germany/groceries). As lojas internacionais locais estão abaixo.
+
+## Supermercados asiáticos & internacionais
+
+Para temperos, arroz, lentilhas e tudo mais do seu país: Aachen tem algumas lojas asiáticas e internacionais, principalmente perto da Jülicher Straße e da Hansemannplatz.
+
+### New Sherona Supermarket
+
+Heinrichsallee 30, perto da Kaiserplatz. Mercearia indiana, paquistanesa e africana: temperos, arroz, lentilhas, congelados e hortifrúti. Aberto todos os dias.
+
+### Nagammaal Markt
+
+Jülicher Str. 4, perto da Hansemannplatz. Mercearia indiana e asiática tradicional. Aberto de segunda a sábado, das 10h às 22h.
+
+### [Asian aiX Bazaar](https://www.aix-bazaar.de/)
+
+Jülicher Str. 20. Mercearia sul-asiática e africana, hortifrúti, peixe halal e serviço de corte de peixe.
+
+---
+
+Source: https://germandex.com/pt/aachen/groceries
+
+Language: pt
+
+
+# Berlin - Burocracia
+
+Configuração da universidade para sua primeira semana
+
+Esta não é uma lista de verificação de chegada completa. O registo do endereço, o estatuto do seguro de saúde e, quando necessário, a autorização de residência são tarefas distintas.
+
+### 1\. Carregue seu MensaCard antes do primeiro almoço
+
+As Mensas de Berlim (do Studierendenwerk Berlin) só aceitam o MensaCard ou o CampusCard da sua universidade. Nada de dinheiro nem cartão bancário.
+
+Ainda sem MensaCard? Obtém uma nas caixas da [Mensa](https://www.stw.berlin/mensen/faq-mensen/mensacard.html) e carrega-a nas máquinas; leva o cartão de estudante ou CampusCard.
+
+### 2\. Estudantes da [FU](https://www.fu-berlin.de/studium/studieren/studienorganisation/semesterticket/Deutschlandsemesterticket/Wie-erhalte-ich-Ticket.html) Berlin: ativa o Deutschlandsemesterticket
+
+Na FU Berlin, o bilhete só está disponível na aplicação S-Bahn Berlin. Repete os passos a cada semestre. Outras universidades enviam instruções pelo email universitário.
+
+Bilhete ausente na app S-Bahn? Confirma matrícula e renovação e contacta o AStA FU. Os passos repetem-se todos os semestres.
+
+-   O Deutschlandsemesterticket cobre transporte local e regional em segunda classe, não ICE/IC/EC. É financiado pela taxa semestral, não por um ingresso grátis.
+-   Não embarque sem um bilhete válido. Se o seu ingresso semestral não estiver pronto, compre primeiro outra tarifa válida.
+
+## Mais do que uma configuração universitária
+
+### Regista a tua morada em Berlim
+
+Registo de morada: [Serviço municipal de registo (Anmeldung)](https://service.berlin.de/dienstleistung/120686/), dentro de duas semanas após a mudança. Títulos de residência: [Serviço de estrangeiros](https://www.berlin.de/einwanderung/en/residence/study/). Documentos, seguro saúde, status de residência e cartas oficiais: [guia administrativo nacional](https://germandex.com/pt/germany/admin).
+
+Há duas formas de fazer o registo: totalmente [online via BundID](https://service.berlin.de/dienstleistung/120686/), se tiver um cartão de cidadão alemão ou um cartão eID europeu com a função eID ativada e o respetivo PIN, ou presencialmente num Bürgeramt com marcação. Marque através da [pesquisa para toda a cidade](https://service.berlin.de/terminvereinbarung/hinweise/) - cobre todos os Bürgerämter, não só o do seu bairro. Os serviços costumam publicar novas vagas no início da manhã, um novo dia de marcações abre todos os dias à hora de abertura, e vagas canceladas reaparecem - verifique regularmente.
+
+---
+
+Source: https://germandex.com/pt/berlin/admin
+
+Language: pt
+
+
+# Berlin - Esportes
+
+Cada grande universidade tem seu próprio Hochschulsport: [ef](https://www.tu-sport.de/)\="https://www.hochschulsport.hu-berlin.de/de/angebot/sportangebot" target="\_blank" rel="noopener">ref="https://www.fu-sport.de/" target="\_blank" rel="noopener">FU, HU e TU.
+
+Centenas de cursos no site desportivo da universidade. Preços reduzidos para estudantes elegíveis: confirma requisitos e preços. Consulta as datas e reserva cedo os cursos populares.
+
+## Opções gratuitas
+
+-   Tempelhofer Feld: o antigo aeroporto, hoje um enorme espaço aberto para correr, pedalar e patinar.
+-   Tiergarten e Volkspark Friedrichshain para correr e jogar bola com amigos.
+
+---
+
+Source: https://germandex.com/pt/berlin/sports
+
+Language: pt
+
+
+# Berlin - Restaurantes
+
+## Recomendados
+
+### [Mustafa's](https://mustafas.de/) Gemüse Kebap
+
+O kebab vegetal mais famoso de Berlim, na Mehringdamm, Kreuzberg. Prepare-se para a fila.
+
+### [Monsieur Vuong](https://www.monsieurvuong.de/)
+
+Comida vietnamita familiar, Alte Schönhauser Str. 46, Mitte.
+
+### [Konnopke's](https://www.konnopke-imbiss.de/) Imbiss
+
+Currywurst desde 1930, embaixo dos trilhos do U-Bahn na Schönhauser Allee.
+
+### Vegetariano? Estas são suas melhores opções
+
+O Mustafa's é o clássico vegetariano. A maioria dos vietnamitas tem pratos com tofu.
+
+## Barato e rápido
+
+### [Curry 36](https://curry36.de/mehringdamm/)
+
+Currywurst na Mehringdamm 36, Kreuzberg. Aberto todo dia até as 5h.
+
+### Burgermeister
+
+Hambúrgueres num antigo banheiro público embaixo do U-Bahn em Schlesisches Tor (Oberbaumstraße 8).
+
+---
+
+Source: https://germandex.com/pt/berlin/restaurants
+
+Language: pt
+
+
+# Berlin - Festa
+
+### [Simon-Dach-Straße](https://www.visitberlin.de/en/going-out-simon-dach-strasse)
+
+Uma das ruas de bares mais conhecidas de Berlim, em Friedrichshain. Ótima para começar a noite.
+
+### RAW-Gelände
+
+Antigo pátio ferroviário na Revaler Straße, com clubes como o Cassiopeia (hip-hop, shows).
+
+### [Matrix](https://www.matrix-berlin.de/)
+
+Grande clube comercial na Warschauer Brücke. Festa toda noite, 5 € para estudantes antes da meia-noite.
+
+### Weserstraße
+
+A rua de bares de Neukölln. Bebida barata e muita opção.
+
+## Bom saber
+
+-   Os clubes de Berlim têm seguranças rigorosos e muitas vezes proíbem fotos lá dentro. Vá em grupo pequeno e não leve um "não" para o lado pessoal.
+-   As [festas universitárias](https://www.studentenparty-berlin.de/) estão no studentenparty-berlin.de.
+
+---
+
+Source: https://germandex.com/pt/berlin/party
+
+Language: pt
+
+
+# Berlin - Supermercados
+
+Para conheceres as cadeias e como escolher, lê o nosso [guia de supermercados na Alemanha](https://germandex.com/pt/germany/groceries). As lojas internacionais locais estão abaixo.
+
+## Supermercados asiáticos & internacionais
+
+### [Zora](https://zorastore.eu/de/pages/zora-kreuzberg) Supermarkt
+
+Kottbusser Damm 93, Kreuzberg. Produtos indianos, asiáticos, africanos e latino-americanos. Também tem loja em Mitte.
+
+### [Vinh-Loi](https://www.vinhloi.de/stores)
+
+Supermercado asiático, Ansbacher Str. 16, Schöneberg. Mais lojas pela cidade.
+
+### Dong Xuan Center
+
+Herzbergstraße, Lichtenberg. O maior mercado asiático de Berlim: seis galpões de mercearia, restaurantes e mais.
+
+---
+
+Source: https://germandex.com/pt/berlin/groceries
+
+Language: pt
+
+
+# Bochum - Burocracia
+
+Configuração da universidade para sua primeira semana
+
+Esta não é uma lista de verificação de chegada completa. O registo do endereço, o estatuto do seguro de saúde e, quando necessário, a autorização de residência são tarefas distintas.
+
+### 1\. Estudantes da [RUB](https://www.it-services.ruhr-uni-bochum.de/services/sl/semesterticket.html.de): paga na Mensa com o cartão com chip
+
+As Mensas do Akafö aceitam sua carteirinha de estudante (tem chip) ou um MensaCard. Carregue antes do primeiro almoço.
+
+Chip recusado na caixa? Pergunta ao pessoal do Akafö por uma MensaCard de reserva.
+
+### 2\. Estudantes da RUB: ativa o Deutschland-Semesterticket
+
+A Ruhr-Universität explica os passos na página dos serviços de TI. Cobre todos os ônibus e trens locais e regionais da Alemanha, então Dortmund e Essen ficam logo ali.
+
+Bilhete em falta? Confirma matrícula e pagamento semestral, segue as instruções dos serviços informáticos da RUB ou contacta o AStA.
+
+-   O Deutschlandsemesterticket cobre transporte local e regional em segunda classe, não ICE/IC/EC. É financiado pela taxa semestral, não por um ingresso grátis.
+-   Não embarque sem um bilhete válido. Se o seu ingresso semestral não estiver pronto, compre primeiro outra tarifa válida.
+
+## Mais do que uma configuração universitária
+
+### Regista a tua morada em Bochum
+
+Registo de morada: [Serviço municipal de registo (Anmeldung)](https://www.bochum.de/Buergerbuero/Dienstleistungen-und-Infos/Anmeldung-in-Bochum), dentro de duas semanas após a mudança. Títulos de residência: [Serviço de estrangeiros](https://www.bochum.de/Auslaenderbuero). Documentos, seguro saúde, status de residência e cartas oficiais: [guia administrativo nacional](https://germandex.com/pt/germany/admin).
+
+Pode registar uma residência principal totalmente [online](https://www.bochum.de/Buergerbuero/Dienstleistungen-und-Infos/Anmeldung-in-Bochum) (via wohnsitzanmeldung.gov.de) ou presencialmente num Bürgerbüro com marcação. Se as vagas ultrapassarem o prazo de duas semanas, a marcação já conta como registo dentro do prazo - leve a confirmação.
+
+---
+
+Source: https://germandex.com/pt/bochum/admin
+
+Language: pt
+
+
+# Bochum - Esportes
+
+O [Hochschulsport Bochum](https://buchung.hochschulsport.ruhr-uni-bochum.de/angebote/aktueller_zeitraum/) é organizado pela [Ruhr-Universität](https://hochschulsport-bochum.ruhr-uni-bochum.de/de/faqs-oft-gestellte-fragen).
+
+Inscreve-te online em cada curso antes de participar. Geralmente são mais baratos para estudantes elegíveis: confirma requisitos e preços.
+
+## Opções gratuitas
+
+-   Kemnader See, o lago perto do campus. Todo sábado de manhã tem um parkrun gratuito de 5 km.
+
+---
+
+Source: https://germandex.com/pt/bochum/sports
+
+Language: pt
+
+
+# Bochum - Restaurantes
+
+## Recomendados
+
+### Mandragora
+
+O pub-restaurante original do Bermuda3Eck.
+
+### [Café Tucholsky](https://cafe-tucholsky.de/)
+
+Café-restaurante para café da manhã e almoço, aberto a partir das 7h nos dias úteis.
+
+### Bermuda Döner
+
+Döner no Bermuda3Eck, com opções veganas.
+
+### Vegetariano? Estas são suas melhores opções
+
+O Bermuda Döner tem döner vegano.
+
+---
+
+Source: https://germandex.com/pt/bochum/restaurants
+
+Language: pt
+
+
+# Bochum - Festa
+
+### [Bermuda3Eck](https://www.bermuda3eck.de/)
+
+A área de bares de Bochum, com a maior concentração de pubs de NRW. Comece a noite aqui.
+
+### [Zeche](https://zeche.net/) Bochum
+
+Grande clube e casa de shows com festas temáticas.
+
+---
+
+Source: https://germandex.com/pt/bochum/party
+
+Language: pt
+
+
+# Bochum - Supermercados
+
+Para conheceres as cadeias e como escolher, lê o nosso [guia de supermercados na Alemanha](https://germandex.com/pt/germany/groceries). As lojas internacionais locais estão abaixo.
+
+## Supermercados asiáticos & internacionais
+
+### Kashmir Bazar
+
+Brückstraße 40, centro. Produtos indianos e do Oriente Médio.
+
+### [Tains](https://www.mein-asiamarkt.de/Filialen/Bochum/) Asia Supermarkt
+
+Herner Straße. Produtos asiáticos.
+
+---
+
+Source: https://germandex.com/pt/bochum/groceries
+
+Language: pt
+
+
+# Dortmund - Burocracia
+
+Configuração da universidade para sua primeira semana
+
+Esta não é uma lista de verificação de chegada completa. O registo do endereço, o estatuto do seguro de saúde e, quando necessário, a autorização de residência são tarefas distintas.
+
+### 1\. Pague na Mensa com cartão ou celular
+
+Pague por aproximação com seu cartão bancário ou celular.
+
+Pagamento sem contacto falhou? Tenta outra caixa ou pede ajuda ao pessoal do Studierendenwerk.
+
+### 2\. Estudantes da [TU Dortmund](https://www.tu-dortmund.de/semesterticket/): obtém o Deutschlandsemesterticket
+
+A TU Dortmund fornece junto com o AStA. Cobre todos os ônibus e trens locais e regionais da Alemanha.
+
+Bilhete não emitido? Confirma matrícula e taxa semestral e contacta o AStA ou os serviços estudantis.
+
+-   O Deutschlandsemesterticket cobre transporte local e regional em segunda classe, não ICE/IC/EC. É financiado pela taxa semestral, não por um ingresso grátis.
+-   Não embarque sem um bilhete válido. Se o seu ingresso semestral não estiver pronto, compre primeiro outra tarifa válida.
+
+## Mais do que uma configuração universitária
+
+### Regista a tua morada em Dortmund
+
+Registo de morada: [Serviço municipal de registo (Anmeldung)](https://www.dortmund.de/services/wohnsitzanmeldung.html), dentro de duas semanas após a mudança. Títulos de residência: [Serviço de estrangeiros](https://application.dortmund.de/rathaus-und-verwaltung/verwaltung/amt-fuer-migration/kontakt/). Documentos, seguro saúde, status de residência e cartas oficiais: [guia administrativo nacional](https://germandex.com/pt/germany/admin).
+
+Pode registar-se totalmente [online](https://www.dortmund.de/services/wohnsitzanmeldung.html) (função eID do seu cartão de cidadão e uma conta BundID gratuita) ou presencialmente com marcação.
+
+---
+
+Source: https://germandex.com/pt/dortmund/admin
+
+Language: pt
+
+
+# Dortmund - Esportes
+
+O [Hochschulsport Dortmund](https://hsp.tu-dortmund.de/sportangebot/) é organizado pela TU Dortmund.
+
+Compra primeiro uma [Sportkarte](https://www.buchsys.ahs.tu-dortmund.de/angebote/aktueller_zeitraum/_SPORTKARTE.html) e depois reserva os cursos online. Confirma preço atual e elegibilidade antes de comprar.
+
+## Opções gratuitas
+
+-   Phoenix-See: caminhos planos e largos em volta do lago.
+
+---
+
+Source: https://germandex.com/pt/dortmund/sports
+
+Language: pt
+
+
+# Dortmund - Restaurantes
+
+## Recomendados
+
+### Mo's Beef
+
+Hambúrgueres, Lortzingstraße 28.
+
+### [Al Afandi](https://www.al-afandi-dortmund.de/)
+
+Comida árabe no centro, Ostenhellweg 40.
+
+### [Little Italy](https://www.little-italy-dortmund.de/)
+
+Italiano na Hansastraße 44. A maioria dos pratos custa até 10 €.
+
+## Barato e rápido
+
+### [Wurst Willi](https://www.wurstwilli.com/)
+
+Currywurst no Petrikirchhof. De segunda a sábado.
+
+---
+
+Source: https://germandex.com/pt/dortmund/restaurants
+
+Language: pt
+
+
+# Dortmund - Festa
+
+### Kreuzviertel
+
+A área dos pubs de estudantes. Comece a noite aqui.
+
+### Kraftstoff
+
+Pub no Unionviertel, Augustastraße 2. Aberto todo dia a partir das 19h.
+
+### [FZW](https://fzw.de/)
+
+Clube e casa de shows com festas anos 90 e 2000 frequentes.
+
+---
+
+Source: https://germandex.com/pt/dortmund/party
+
+Language: pt
+
+
+# Dortmund - Supermercados
+
+Para conheceres as cadeias e como escolher, lê o nosso [guia de supermercados na Alemanha](https://germandex.com/pt/germany/groceries). As lojas internacionais locais estão abaixo.
+
+## Supermercados asiáticos & internacionais
+
+### [Inaivaa](https://www.inaivaa.com/visit-store)
+
+Rheinische Str. 79. Produtos indianos e do Sri Lanka.
+
+### [Tain Kim Heng](https://tkh-supermarkt.de/)
+
+Hohe Straße 62. Supermercado asiático.
+
+---
+
+Source: https://germandex.com/pt/dortmund/groceries
+
+Language: pt
+
+
+# Düsseldorf - Burocracia
+
+Configuração da universidade para sua primeira semana
+
+Esta não é uma lista de verificação de chegada completa. O registo do endereço, o estatuto do seguro de saúde e, quando necessário, a autorização de residência são tarefas distintas.
+
+### 1\. Estudantes da HHU: obtém a [HHU Card](https://www.hhu.de/studium/bewerbung-und-einschreibung/hhu-card)
+
+Na Universidade Heinrich Heine, o HHU Card é ao mesmo tempo carteirinha de estudante, cartão da Mensa, cartão da biblioteca e Deutschlandticket. Cobre todos os ônibus e trens locais e regionais da Alemanha.
+
+HHU Card não chegou? Verifica a morada no portal HHU e contacta os serviços estudantis; ativação em dois passos com a identificação universitária.
+
+### 2\. Estudantes de outras universidades de Düsseldorf: obtém uma MensaCard
+
+Estudantes de outras universidades pagam na Mensa com o MensaCard do Studierendenwerk (2,50 €) e recarregam pelo app TopUp.
+
+TopUp falhou? Pergunta na caixa da Mensa por outras opções de carregamento.
+
+-   O Deutschlandsemesterticket cobre transporte local e regional em segunda classe, não ICE/IC/EC. É financiado pela taxa semestral, não por um ingresso grátis.
+-   Não embarque sem um bilhete válido. Se o seu ingresso semestral não estiver pronto, compre primeiro outra tarifa válida.
+
+## Mais do que uma configuração universitária
+
+### Regista a tua morada em Düsseldorf
+
+Registo de morada: [Serviço municipal de registo (Anmeldung)](https://service.duesseldorf.de/suche/-/egov-bis-detail/dienstleistung/227/show), dentro de duas semanas após a mudança. Títulos de residência: [Serviço de estrangeiros](https://www.duesseldorf.de/auslaenderamt). Documentos, seguro saúde, status de residência e cartas oficiais: [guia administrativo nacional](https://germandex.com/pt/germany/admin).
+
+Duas formas de fazer o registo: totalmente [online](https://service.duesseldorf.de/suche/-/egov-bis-detail/dienstleistung/227/show) (cartão de cidadão ou cartão eID europeu com eID ativada e o respetivo PIN; o documento é atualizado digitalmente) ou presencialmente num Bürgerbüro - é preciso marcar.
+
+---
+
+Source: https://germandex.com/pt/duesseldorf/admin
+
+Language: pt
+
+
+# Düsseldorf - Esportes
+
+O [Hochschulsport Düsseldorf](https://hss-d.de/) organiza os esportes para as universidades de Düsseldorf.
+
+Cursos a preços reduzidos para estudantes elegíveis, reservados online após [criar conta](https://hss-d.de/allgemeines-organisatorisches/teilnahme-kosten-bankverbindung/). Confirma requisitos e preços; os populares enchem depressa.
+
+## Opções gratuitas
+
+-   Corra pela orla do Reno.
+-   O Südpark ao lado do campus da HHU e o Hofgarten no centro.
+
+---
+
+Source: https://germandex.com/pt/duesseldorf/sports
+
+Language: pt
+
+
+# Düsseldorf - Restaurantes
+
+## Recomendados
+
+### [Marukin Karaage](https://www.marukin-karaage-duesseldorf.de/)
+
+Frango frito japonês no bairro japonês da Immermannstraße.
+
+### [Bibimcup](https://www.bibimcup.de/)
+
+Bibimbap coreano, Friedrich-Ebert-Straße 3. De terça a sábado.
+
+### [Sattgrün](https://sattgruen.de/)
+
+Bufê vegano, no Medienhafen (Brückenstr. 12) e em Flingern (Hoffeldstr. 18).
+
+### Vegetariano? Estas são suas melhores opções
+
+O Sattgrün é totalmente vegano e o Bibimcup tem bowls vegetarianos.
+
+---
+
+Source: https://germandex.com/pt/duesseldorf/restaurants
+
+Language: pt
+
+
+# Düsseldorf - Festa
+
+### Altstadt
+
+O "balcão mais longo do mundo": centenas de pubs no centro histórico. Peça uma Altbier, por exemplo no [Uerige](https://uerige.de/).
+
+### Die Blende
+
+Pub de rock em Bilk, Friedrichstr. 122.
+
+### [Ampere](https://ampere-club.de/programm/)
+
+Clube novo para shows e festas.
+
+### [The Eight](https://the-eight.de/)
+
+Clube na orla do Reno, famoso pelas grandes festas Ersti (de calouros) em outubro.
+
+---
+
+Source: https://germandex.com/pt/duesseldorf/party
+
+Language: pt
+
+
+# Düsseldorf - Supermercados
+
+Para conheceres as cadeias e como escolher, lê o nosso [guia de supermercados na Alemanha](https://germandex.com/pt/germany/groceries). As lojas internacionais locais estão abaixo.
+
+## Supermercados asiáticos & internacionais
+
+### [Dae-Yang](https://www.visitduesseldorf.de/en/attractions/dae-yang-da-yang-shi-pin-a2bfd01c49)
+
+Immermannstraße 21. Produtos japoneses, coreanos e outros asiáticos.
+
+### Indo-Ceylon
+
+Na Worringer Platz. Produtos indianos e do Sri Lanka.
+
+---
+
+Source: https://germandex.com/pt/duesseldorf/groceries
+
+Language: pt
+
+
+# Frankfurt - Burocracia
+
+Configuração da universidade para sua primeira semana
+
+Esta não é uma lista de verificação de chegada completa. O registo do endereço, o estatuto do seguro de saúde e, quando necessário, a autorização de residência são tarefas distintas.
+
+### 1\. Pague na Mensa com seu cartão da universidade
+
+As Mensas do Studierendenwerk Frankfurt aceitam seu cartão da universidade ou um MensaCard.
+
+Cartão sem saldo? Pergunta na Mensa por carregamentos ou uma MensaCard.
+
+### 2\. Estudantes da Goethe: obtém o Deutschlandsemesterticket
+
+Na Universidade Goethe é um bilhete digital que você pega no [portal online do AStA](https://asta-frankfurt.de/angebote/kultur-mobilitaet/semesterticket). Cobre todos os ônibus e trens locais e regionais da Alemanha.
+
+Bilhete digital indisponível? Confirma a renovação (Rückmeldung) e a taxa semestral - o bilhete é pago com essa taxa - e contacta o apoio de bilhetes do AStA.
+
+-   O Deutschlandsemesterticket cobre transporte local e regional em segunda classe, não ICE/IC/EC. É financiado pela taxa semestral, não por um ingresso grátis.
+-   Não embarque sem um bilhete válido. Se o seu ingresso semestral não estiver pronto, compre primeiro outra tarifa válida.
+
+### 3\. Para estudantes da Frankfurt UAS: ative o seu Deutschlandsemesterticket
+
+Na Frankfurt University of Applied Sciences, o passe é pago com a taxa do semestre e é apenas digital. Ative-o no [portal de passes da AStA](https://asta-fra-uas.de/semesterticketbuero/) com a sua conta universitária, guarde-o na carteira do telemóvel e leve um documento com foto. É renovado a cada semestre.
+
+Sem smartphone? Pergunte ao gabinete de passes semestrais da AStA sobre o processo do cartão com chip.
+
+## Mais do que uma configuração universitária
+
+### Regista a tua morada em Frankfurt
+
+Registo de morada: [Serviço municipal de registo (Anmeldung)](https://frankfurt.de/service-und-rathaus/verwaltung/aemter-und-institutionen/buergeramt-statistik-und-wahlen/buergeraemter/terminservice), dentro de duas semanas após a mudança. Títulos de residência: [Serviço de estrangeiros](https://frankfurt.de/auslaenderangelegenheiten). Documentos, seguro saúde, status de residência e cartas oficiais: [guia administrativo nacional](https://germandex.com/pt/germany/admin).
+
+Pode registar uma residência principal totalmente [online](https://frankfurt.de/service-und-rathaus/verwaltung/aemter-und-institutionen/buergeramt-statistik-und-wahlen/buergeraemter/terminservice) (via wohnsitzanmeldung.gov.de) ou presencialmente em qualquer Bürgeramt, independentemente de onde vive em Frankfurt - é preciso marcar.
+
+---
+
+Source: https://germandex.com/pt/frankfurt/admin
+
+Language: pt
+
+
+# Frankfurt - Esportes
+
+O [Zentrum für](https://www.uni-frankfurt.de/103154514/FAQ) [Hochschulsport](https://www.uni-frankfurt.de/hochschulsport) da Universidade Goethe também é aberto a estudantes da Frankfurt UAS.
+
+Muitos cursos com reserva online. Preços reduzidos para estudantes elegíveis: confirma requisitos e preços. Consulta as datas e reserva cedo.
+
+## Opções gratuitas
+
+-   Mainufer: quilômetros de caminhos à beira do rio com vista para o skyline.
+-   O Grüneburgpark ao lado do campus Westend e o Stadtwald para corridas longas.
+
+---
+
+Source: https://germandex.com/pt/frankfurt/sports
+
+Language: pt
+
+
+# Frankfurt - Restaurantes
+
+## Recomendados
+
+### [Bun Bo](https://bun-bo-restaurant-frankfurt.eatbu.com/?lang=de)
+
+Macarrão e bowls vietnamitas, no Ostend.
+
+### [Pizzeria Montana](https://www.montana-pizzeria.de/allergene-zusatzstoffe/)
+
+Pizza napolitana, Weserstraße 14.
+
+### [Apfelwein Wagner](https://www.apfelwein-wagner.com/)
+
+Taverna de sidra clássica desde 1931, Schweizer Str. 71, Sachsenhausen. Prove a Grüne Soße.
+
+### Vegetariano? Estas são suas melhores opções
+
+Peça Grüne Soße com batatas e ovos no Apfelwein Wagner, ou uma margherita no Montana.
+
+---
+
+Source: https://germandex.com/pt/frankfurt/restaurants
+
+Language: pt
+
+
+# Frankfurt - Festa
+
+### Alt-Sachsenhausen
+
+Antigo bairro de pubs com tavernas de sidra como a Zur Buchscheer.
+
+### [Gibson](https://gibson-club.de/)
+
+Clube com palco ao vivo na Zeil.
+
+### [Batschkapp](https://www.batschkapp.net/)
+
+Shows e festas, Gwinnerstraße 5.
+
+### [Tanzhaus West](https://tanzhaus-west.de/)
+
+Techno e house numa antiga fábrica.
+
+## Bom saber
+
+-   Para bares de estudantes, vá a Bockenheim (o antigo bairro universitário), Nordend e Bornheim.
+
+---
+
+Source: https://germandex.com/pt/frankfurt/party
+
+Language: pt
+
+
+# Frankfurt - Supermercados
+
+Para conheceres as cadeias e como escolher, lê o nosso [guia de supermercados na Alemanha](https://germandex.com/pt/germany/groceries). As lojas internacionais locais estão abaixo.
+
+## Supermercados asiáticos & internacionais
+
+### [Indian Bazar](https://indianbazar.de/)
+
+Pfaffenwiese 58, Zeilsheim. Produtos indianos.
+
+### [Riko](https://rikoasiasupermarkt.de/) Asia Supermarkt
+
+Heinrich-Hertz-Straße 5. Produtos asiáticos, aberto de segunda a sábado.
+
+---
+
+Source: https://germandex.com/pt/frankfurt/groceries
+
+Language: pt
+
+
+# Hamburgo - Burocracia
+
+Configuração da universidade para sua primeira semana
+
+Esta não é uma lista de verificação de chegada completa. O registo do endereço, o estatuto do seguro de saúde e, quando necessário, a autorização de residência são tarefas distintas.
+
+### 1\. Pague na [Mensa](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-studierendenhaus) com cartão ou celular
+
+As Mensas do Studierendenwerk Hamburg são 100% sem dinheiro. Pague com cartão de débito ou crédito, ou pelo celular. Não precisa de cartão pré-pago.
+
+Cartão recusado? Tenta outro ou o telemóvel; o pessoal da caixa pode ajudar.
+
+### 2\. Pegue seu [Deutschlandsemesterticket](https://www.hvv.de/de/service/fragen-und-antworten/semesterticket) pelo RIDE
+
+Sua universidade te dá um QR code que leva ao RIDE, o portal do campus para o bilhete. Cobre todos os ônibus e trens locais e regionais da Alemanha.
+
+QR não encontrado? Consulta o email universitário e os avisos e pergunta ao AStA ou aos serviços estudantis; a FAQ hvv explica os passos RIDE.
+
+-   O Deutschlandsemesterticket cobre transporte local e regional em segunda classe, não ICE/IC/EC. É financiado pela taxa semestral, não por um ingresso grátis.
+-   Não embarque sem um bilhete válido. Se o seu ingresso semestral não estiver pronto, compre primeiro outra tarifa válida.
+
+## Mais do que uma configuração universitária
+
+### Regista a tua morada em Hamburgo
+
+Registo de morada: [Serviço municipal de registo (Anmeldung)](https://www.hamburg.de/service/info/111202484/), dentro de duas semanas após a mudança. Títulos de residência: [Serviço de estrangeiros](https://welcome.hamburg.com/entry-and-residence/residence-permit/students-17520). Documentos, seguro saúde, status de residência e cartas oficiais: [guia administrativo nacional](https://germandex.com/pt/germany/admin).
+
+Pode registar-se totalmente [online](https://www.hamburg.de/service/info/111202484/) ou em qualquer Kundenzentrum à sua escolha. É preciso marcar de terça a sexta; à segunda e à quarta pode ir sem marcação, mas conte com esperas.
+
+---
+
+Source: https://germandex.com/pt/hamburg/admin
+
+Language: pt
+
+
+# Hamburgo - Esportes
+
+O [Hochschulsport Hamburg](https://www.hochschulsport.uni-hamburg.de/) é compartilhado pelas universidades de Hamburgo.
+
+Cursos a preços reduzidos para estudantes elegíveis, com [reserva online](https://buchung.hochschulsport-hamburg.de/angebote/aktueller_zeitraum/). Confirma requisitos e preços. A FlexiCard permite participar em muitas sessões sem curso fixo.
+
+Os cursos do semestre [abrem para reserva online](https://www.hochschulsport.uni-hamburg.de/sportcampus/buchsys.html) numa data fixa e os cursos populares esgotam rápido - reserve no dia de abertura.
+
+## Opções gratuitas
+
+-   Dê a volta no lago Außenalster, uns 7,5 km.
+-   O Stadtpark para correr e jogar com amigos, e a praia do Elba em Övelgönne para as noites de verão.
+
+---
+
+Source: https://germandex.com/pt/hamburg/sports
+
+Language: pt
+
+
+# Hamburgo - Restaurantes
+
+## Recomendados
+
+### [Badshah](https://badshahrestaurant.de/)
+
+Restaurante indiano familiar desde 2004, na Bremer Reihe perto da estação central. Famoso pelos thalis.
+
+### [Azeitona](https://azeitona.de/)
+
+Falafel, homus e mezze na Schanze, Beckstraße 19.
+
+### [Ibras Bistro](https://ibras-bistro-hamburg.de/)
+
+Um dos melhores falafels de Hamburgo, Holstenstr. 185, Altona.
+
+### Vegetariano? Estas são suas melhores opções
+
+Azeitona e Ibras são suas melhores opções vegetarianas. Escolha o falafel.
+
+## Barato e rápido
+
+### [Brücke 10](https://bruecke10.com/)
+
+Fischbrötchen (sanduíche de peixe), o lanche de Hamburgo, bem nos Landungsbrücken.
+
+---
+
+Source: https://germandex.com/pt/hamburg/restaurants
+
+Language: pt
+
+
+# Hamburgo - Festa
+
+### Reeperbahn e St. Pauli
+
+A famosa rua da vida noturna de Hamburgo. Bares, clubes e música ao vivo toda noite.
+
+### Hamburger Berg
+
+Rua lateral da Reeperbahn cheia de bares baratos.
+
+### Sternschanze
+
+Bares e drinks ao ar livre em volta do Schulterblatt. Mais tranquilo que a Reeperbahn.
+
+### [Molotow](https://molotowclub.com/programm/programm.php)
+
+Clube indie na Reeperbahn 136. Shows e festas.
+
+### [Uebel & Gefährlich](https://www.uebelundgefaehrlich.com/)
+
+Clube num antigo bunker da Segunda Guerra no Heiligengeistfeld.
+
+## Bom saber
+
+-   Cuide do celular e da carteira na Reeperbahn nos fins de semana.
+
+---
+
+Source: https://germandex.com/pt/hamburg/party
+
+Language: pt
+
+
+# Hamburgo - Supermercados
+
+Para conheceres as cadeias e como escolher, lê o nosso [guia de supermercados na Alemanha](https://germandex.com/pt/germany/groceries). As lojas internacionais locais estão abaixo.
+
+## Supermercados asiáticos & internacionais
+
+### [SAIRAS](https://www.sairas.de/)
+
+Steindamm 21, perto da estação central. Produtos indianos e persas.
+
+### [Mehtab](https://mehtabstore.de/en/contact-us/)
+
+Lange Reihe 9, St. Georg. Produtos indianos.
+
+### [LIARE Asia Markt](https://liare.de/)
+
+Eppendorfer Landstraße 70. Produtos asiáticos.
+
+---
+
+Source: https://germandex.com/pt/hamburg/groceries
+
+Language: pt
+
+
+# Colônia - Burocracia
+
+Configuração da universidade para sua primeira semana
+
+Esta não é uma lista de verificação de chegada completa. O registo do endereço, o estatuto do seguro de saúde e, quando necessário, a autorização de residência são tarefas distintas.
+
+### 1\. Pague na Mensa com cartão ou celular
+
+O antigo Mensakarte não existe mais. Pague com seu cartão bancário ou celular.
+
+Pagamento falhou? Tenta outra caixa ou pede ajuda ao pessoal.
+
+### 2\. Estudantes da Universidade de Colónia: obtém o [Deutschlandsemesterticket](https://studsek.uni-koeln.de/studium_a_bis_z/data/semesterticket/index_ger.html) digital
+
+Na Universidade de Colônia o bilhete semestral é só digital (desde abril de 2024). Cobre todos os ônibus e trens locais e regionais da Alemanha. Sua universidade explica os passos.
+
+QR não carrega no Ride? Verifica matrícula e conta KLIPS e contacta o AStA (parceiro contratual da KVB para o bilhete).
+
+-   O Deutschlandsemesterticket cobre transporte local e regional em segunda classe, não ICE/IC/EC. É financiado pela taxa semestral, não por um ingresso grátis.
+-   Não embarque sem um bilhete válido. Se o seu ingresso semestral não estiver pronto, compre primeiro outra tarifa válida.
+
+## Mais do que uma configuração universitária
+
+### Regista a tua morada em Colónia
+
+Registo de morada: [Serviço municipal de registo (Anmeldung)](https://www.stadt-koeln.de/service/produkte/00415/index.html), dentro de duas semanas após a mudança. Títulos de residência: [Serviço de estrangeiros](https://www.stadt-koeln.de/service/produkt/aufenthaltserlaubnis-zu-studienzwecken-1). Documentos, seguro saúde, status de residência e cartas oficiais: [guia administrativo nacional](https://germandex.com/pt/germany/admin).
+
+Pode registar-se totalmente [online](https://www.stadt-koeln.de/service/produkte/00415/index.html) (sem ir a nenhum balcão; o autocolante da morada chega pelo correio) ou presencialmente em qualquer Kundenzentrum, independentemente de onde fica a sua casa em Colónia.
+
+---
+
+Source: https://germandex.com/pt/koeln/admin
+
+Language: pt
+
+
+# Colônia - Esportes
+
+O [UniSport Köln](https://unisport.koeln/) é o programa de esportes da Universidade de Colônia.
+
+Um [Sportticket](https://unisport.koeln/ueberblick/wie_kann_ich_teilnehmen/sportticket/index_ger.html) semestral dá acesso a muitos cursos: confirma preço e elegibilidade. No início do semestre de inverno, a Schnupperzeit permite experimentar os cursos que quiseres.
+
+As vagas são limitadas e [a reserva é apenas online](https://unisport.koeln/ueberblick/teilnahmeregelungen/faq/index_ger.html). Cada curso abre na data indicada na sua página e os cursos cheios têm lista de espera - reserve assim que a reserva abrir.
+
+## Opções gratuitas
+
+-   Corra à beira do Reno: caminhos planos nas duas margens.
+-   O Aachener Weiher e o Stadtwald para correr e passar noites de verão com amigos.
+
+---
+
+Source: https://germandex.com/pt/koeln/sports
+
+Language: pt
+
+
+# Colônia - Restaurantes
+
+## Recomendados
+
+### [Habibi](https://www.habibi-koeln.de/)
+
+Lanchonete cult de falafel e shawarma na Zülpicher Straße.
+
+### [Com Pho](https://www.comphokoeln.de/)
+
+Comida vietnamita reconfortante na Zülpicher Straße.
+
+### Pastaminuta
+
+Pizza e massa, Luxemburger Str. 124, Sülz.
+
+### Vegetariano? Estas são suas melhores opções
+
+O Habibi é sua melhor opção vegetariana. Escolha o falafel.
+
+## Barato e rápido
+
+### [Freddy Schilling](https://www.freddyschilling.de/standorte/)
+
+Hambúrgueres frescos em três endereços: Kyffhäuserstraße, Ehrenfeld e Eigelstein.
+
+### Falafel Salam
+
+Pequena loja de falafel a poucos minutos da universidade, Zülpicher Platz 17. Vegetariano.
+
+### [Mashery Hummus Kitchen](https://www.mashery-hummus.de/)
+
+Cozinha de hummus vegetariana, Roonstraße 36. Pratos de hummus com pão pita; maioritariamente vegan.
+
+---
+
+Source: https://germandex.com/pt/koeln/restaurants
+
+Language: pt
+
+
+# Colônia - Festa
+
+### Zülpicher Straße
+
+A rua dos bares de estudantes no Kwartier Latäng. Comece a noite aqui.
+
+### [Das Ding](https://www.dingzone.de/)
+
+Clube estudantil desde 1968, Hohenstaufenring 30-32.
+
+### [Gebäude 9](https://gebaeude9.de/)
+
+Shows e festas em Deutz. A escolha dos locais se você quer algo menos comercial.
+
+### Belgisches Viertel
+
+Bares e cafés, um pouco mais adultos.
+
+## Bom saber
+
+-   A temporada de carnaval começa em 11.11. às 11h11, e o grande carnaval de rua é em fevereiro. A cidade inteira se fantasia.
+-   Peça uma Kölsch. O garçom traz copos novos até você colocar o porta-copos em cima.
+
+---
+
+Source: https://germandex.com/pt/koeln/party
+
+Language: pt
+
+
+# Colônia - Supermercados
+
+Para conheceres as cadeias e como escolher, lê o nosso [guia de supermercados na Alemanha](https://germandex.com/pt/germany/groceries). As lojas internacionais locais estão abaixo.
+
+## Supermercados asiáticos & internacionais
+
+### [Singh's Mart](https://www.singhsmart.de/)
+
+Neumarkt 33. Produtos indianos e exóticos.
+
+### [Heng Long](https://henglong.de/)
+
+Aachener Str. 201-209. Supermercado asiático de 1.000 m².
+
+---
+
+Source: https://germandex.com/pt/koeln/groceries
+
+Language: pt
+
+
+# Munique - Burocracia
+
+Configuração da universidade para sua primeira semana
+
+Esta não é uma lista de verificação de chegada completa. O registo do endereço, o estatuto do seguro de saúde e, quando necessário, a autorização de residência são tarefas distintas.
+
+### 1\. Estudantes da LMU e TUM: ativa o Autoload da StudentCard
+
+Estudantes da LMU e da TUM pagam na [Mensa](https://www.studierendenwerk-muenchen-oberbayern.de/en/gastronomie/preise-und-bezahlung/) com o StudentCard. Ative o Autoload para ele recarregar sozinho. Algumas Mensas também aceitam cartão bancário.
+
+Sem Autoload? Carrega a StudentCard nas máquinas da Mensa.
+
+### 2\. Não existe bilhete semestral em Munique
+
+O contrato estudantil foi suspenso em 2023, e sua carteirinha não vale como bilhete. Em vez disso, pegue o Bayerisches Ermäßigungsticket: um [Deutschlandticket](https://www.mvg.de/abos-tickets/abos/ermaessigungsticket.html) para estudantes por 43 € por mês.
+
+Sem direito ao Bayerisches Ermäßigungsticket? Compara o Deutschlandticket normal; consulta a MVG para preços e condições atuais.
+
+-   Não embarque sem um bilhete válido. Se o seu ingresso semestral não estiver pronto, compre primeiro outra tarifa válida.
+
+## Mais do que uma configuração universitária
+
+### Regista a tua morada em Munique
+
+Registo de morada: [Serviço municipal de registo (Anmeldung)](https://stadt.muenchen.de/service/info/wohnsitzanmeldung/1063475/n0/), dentro de duas semanas após a mudança. Títulos de residência: [Serviço de estrangeiros](https://stadt.muenchen.de/service/info/studenten/1089339/). Documentos, seguro saúde, status de residência e cartas oficiais: [guia administrativo nacional](https://germandex.com/pt/germany/admin).
+
+O registo de uma residência principal também pode ser feito totalmente [online](https://stadt.muenchen.de/service/info/wohnsitzanmeldung/1063475/n0/) se tiver um documento de identidade com a função de identificação online (eID) ativada, o respetivo PIN de seis dígitos e um smartphone com NFC e a aplicação AusweisApp. Caso contrário, faça o registo presencialmente: qualquer Bürgerbüro da cidade serve, não só o do seu bairro. É preciso marcar para o atendimento presencial, mas [novas vagas são publicadas várias vezes ao dia](https://stadt.muenchen.de/infos/terminvereinbarung-buergerbueros.html), incluindo vagas para o próprio dia cerca de 30 minutos antes da abertura - verifique repetidamente.
+
+---
+
+Source: https://germandex.com/pt/muenchen/admin
+
+Language: pt
+
+
+# Munique - Esportes
+
+O [ZHS](https://kurse.zhs-muenchen.de/de) ([Zentraler Hochschulsport München](https://www.zhs-muenchen.de/zhs/faqs/alle-infos-rund-um-die-sportkurse/)) organiza os esportes para todas as universidades de Munique.
+
+Um grande programa no site ZHS. Preços reduzidos para estudantes elegíveis: confirma requisitos e preços. Consulta as datas e reserva cedo.
+
+## Opções gratuitas
+
+-   O Englischer Garten: um dos maiores parques urbanos do mundo, ótimo para correr.
+-   As margens do Isar e o Olympiapark para correr, pedalar e noites de verão.
+
+---
+
+Source: https://germandex.com/pt/muenchen/sports
+
+Language: pt
+
+
+# Munique - Restaurantes
+
+## Recomendados
+
+### [Sababa](https://www.sababa-munich.com/)
+
+Falafel, homus e shawarma bem no Viktualienmarkt, Westenriederstr. 9.
+
+### [Lo Studente](https://lo-studente.de/)
+
+Pizza no forno a lenha no bairro universitário, Schellingstr. 30. Aberto todo dia até a meia-noite.
+
+### [Bánh Mì Minh](https://banhmi-minh.de/)
+
+Sanduíches vietnamitas, Theresienstr. 79.
+
+### Vegetariano? Estas são suas melhores opções
+
+Sababa e MOGO são suas melhores opções vegetarianas. Peça falafel ou homus.
+
+## Barato e rápido
+
+### [MOGO](https://www.mogo-munchen.de/)
+
+Street food libanesa, homus e wraps, Augustenstr. 93.
+
+### Taco Company
+
+Tacos e burritos perto da LMU, Amalienstr. 69.
+
+### [Asia Bistro Minh](http://asia-bistrominh.de/)
+
+Pratos vietnamitas, tailandeses e chineses, Amalienstr. 37. Para levar, perto da LMU.
+
+## Restaurantes indianos
+
+### [Dhaba Münchner Freiheit](https://www.dhaba.de/dhabamunchnerfreiheit)
+
+Curries indianos e pratos tandoori em Schwabing, Herzogstr. 1b. Restaurante para sentar perto de Münchner Freiheit.
+
+---
+
+Source: https://germandex.com/pt/muenchen/restaurants
+
+Language: pt
+
+
+# Munique - Festa
+
+### [Neuraum](https://neuraum.de/)
+
+Grande clube na Hackerbrücke com várias áreas. Hits e música de festa.
+
+### [089 Bar](https://089-bar.de/)
+
+Festas universitárias na Maximiliansplatz, aberto até as 5h.
+
+### [Backstage](https://www.backstage.eu/)
+
+Shows, festas e biergarten num só lugar.
+
+### Beisl
+
+Pub no Viktualienmarkt, conhecido como um dos mais baratos da cidade.
+
+### [Giesinger](https://giesinger-braeu.de/en/pages/stehausschanke) Bräu Stehausschank
+
+Bar de cerveja para beber em pé em Maxvorstadt, Augustenstr. 90. Promoção de cerveja após o trabalho nos dias úteis.
+
+## Bom saber
+
+-   Os biergartens são a sala de estar de verão de Munique. Nos tradicionais, como o da Chinesischer Turm no Englischer Garten, você pode levar sua própria comida para a área de autoatendimento.
+-   A Oktoberfest vai do fim de setembro ao início de outubro. Vá numa tarde de dia útil se quiser lugar para sentar.
+-   Maxvorstadt é o bairro universitário de pubs e bares estudantis. Se ficar ao ar livre, evite barulho e leve seu lixo embora.
+
+---
+
+Source: https://germandex.com/pt/muenchen/party
+
+Language: pt
+
+
+# Munique - Supermercados
+
+Para conheceres as cadeias e como escolher, lê o nosso [guia de supermercados na Alemanha](https://germandex.com/pt/germany/groceries). As lojas internacionais locais estão abaixo.
+
+## Supermercados asiáticos & internacionais
+
+### Indian Shop München
+
+Altheimer Eck 9, centro histórico. Produtos e temperos indianos.
+
+### [Bollywood Store](http://www.bollywood-store.com/)
+
+Augustenstraße, Maxvorstadt. Produtos indianos e asiáticos, temperos, arroz basmati e hortifrúti fresco.
+
+---
+
+Source: https://germandex.com/pt/muenchen/groceries
+
+Language: pt
+
+
+# Erlangen - Burocracia
+
+Configuração da universidade para sua primeira semana
+
+Esta não é uma lista de verificação de chegada completa. O registo do endereço, o estatuto do seguro de saúde e, quando necessário, a autorização de residência são tarefas distintas.
+
+### 1\. Registe o seu [endereço em Erlangen](https://erlangen.de/service/365)
+
+É preciso registar-se nas duas semanas após a mudança. Leve o documento de identidade ou passaporte, a confirmação do senhorio (Wohnungsgeberbestätigung) e o formulário de registo. Um registo tardio pode custar uma multa de até 1.000 €.
+
+O registo online exige um cartão de identidade com função online e está aberto a cidadãos alemães e cidadãos da UE com eID; os títulos de residência de países fora da UE ainda estão previstos. Para ir à Rathaus (Rathausplatz 1), [marque um horário online](https://erlangen.flexappoint.de/).
+
+### 2\. Para estudantes da [FAU](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/faucard/): obtenha o seu FAUcard
+
+O FAUcard é gratuito. É o seu cartão de estudante, cartão da biblioteca, carteira eletrónica, cartão de cópias e chave de portas. Chega pelo correio após a matrícula, quando a conta IdM existir.
+
+A partir do segundo semestre, revalide-o após cada reinscrição numa estação de validação, por exemplo no Kollegienhaus, Universitätsstraße 15. Demora cerca de 30 segundos.
+
+### 3\. Para estudantes da FAU: use a Mensa
+
+Carregue o seu FAUcard numa máquina de qualquer refeitório ou cafetaria do [Studierendenwerk](https://www.werkswelt.de/index.php?id=kartensystem) e pague com o cartão.
+
+### 4\. Para estudantes da FAU: compre o Deutschlandticket com desconto
+
+Erlangen já não tem passe semestral. A [FAU](https://www.fau.de/studium/studentisches-leben/studierendenmobilitaet/) indica aos estudantes o Deutschlandticket com desconto da [VGN](https://www.vgn.de/ermaessigungsticket-studi): 43 € por mês civil, válido nos transportes locais e regionais em toda a Alemanha. Compre na loja online ou nas apps da VGN. É entregue após processamento, por isso não é imediato.
+
+-   Não cobre primeira classe, comboios IC/ICE, autocarros de longa distância, cães nem bicicletas. Leve um documento de identificação.
+-   O FAUcard não é um bilhete. A área da VGN cobre Erlangen, Nuremberga e Fürth, por isso o mesmo bilhete serve para as instalações da FAU nas três cidades.
+-   Pode cancelá-lo mensalmente.
+
+Fontes locais verificadas em 22 de outubro de 2026. Consulte as páginas indicadas para preços e regras atuais.
+
+---
+
+Source: https://germandex.com/pt/erlangen/admin
+
+Language: pt
+
+
+# Erlangen - Esportes
+
+## Para estudantes da FAU: Hochschulsport
+
+O [FAU Hochschulsport](https://www.hochschulsport.fau.de/startseite/) tem mais de 150 cursos por semestre, de desportos coletivos a fitness, ar livre e relaxamento.
+
+A inscrição é só online e abre cerca de 7 dias antes do início dos cursos. Use o seu e-mail @fau.de e tenha o IBAN à mão; o banco tem de participar no SEPA.
+
+Cada curso tem uma taxa. Os estudantes pagam a tarifa mais baixa, mais 2 € de taxa administrativa por participação. Veja as [regras de participação](https://www.hochschulsport.fau.de/teilnahmeinformationen/).
+
+### Veja a [lista de cursos](https://www.hochschulsport.fau.de/kurse-classes/)
+
+As inscrições são limitadas: normalmente no máximo três ofertas por categoria e cinco no total por pessoa. O site está a ser redesenhado; se uma página parecer quebrada, use o menu Courses.
+
+Fontes locais verificadas em 22 de outubro de 2026. Consulte as páginas indicadas para preços e regras atuais.
+
+---
+
+Source: https://germandex.com/pt/erlangen/sports
+
+Language: pt
+
+
+# Erlangen - Restaurantes
+
+## No campus
+
+### [Südmensa](https://www.werkswelt.de/?id=sued)
+
+Refeitório do Studierendenwerk na Erwin-Rommel-Straße 60, com cafetaria e café-bar. O cardápio do dia e o horário estão na página; o horário muda nas férias do semestre.
+
+### Outros pontos do Studierendenwerk
+
+O [Studierendenwerk](https://werkswelt.de/index.php?id=mensen-cafeterien-cafebars) também lista a Mensa Langemarckplatz e a Cafeteria Kochstraße em Erlangen. Consulte cada página para o cardápio e horário atuais.
+
+### Vegetariano ou vegano?
+
+Os cardápios da Mensa indicam os pratos vegetarianos e veganos. Consulte o cardápio do dia.
+
+Fora do campus: ainda não verificamos nenhum restaurante desta cidade numa fonte primária, por isso não listamos nenhum em vez de adivinhar. Verificado em 22 de outubro de 2026.
+
+---
+
+Source: https://germandex.com/pt/erlangen/restaurants
+
+Language: pt
+
+
+# Erlangen - Festa
+
+### [Zirkel](https://zirkel-club.de/)
+
+Clube estudantil e discoteca na Hauptstraße 105, no centro histórico. As próximas noites estão listadas no site.
+
+### [E-Werk Kulturzentrum](https://www.e-werk.de/das-kulturzentrum-e-werk/)
+
+Um dos maiores centros socioculturais da Alemanha, na Fuchsenwiese 1: quatro salas de eventos, um cinema e uma cervejaria ao ar livre. Concertos, festas de estudantes e noites de clube; veja a sua [página de festas](https://www.e-werk.de/programm/partys/).
+
+## Bom saber
+
+-   A programação e os preços de entrada mudam toda semana. Consulte a página do próprio local no dia.
+-   O cinema do E-Werk exibe filmes na língua original com legendas (OmU).
+
+Fontes locais verificadas em 22 de outubro de 2026. Consulte as páginas indicadas para preços e regras atuais.
+
+---
+
+Source: https://germandex.com/pt/erlangen/party
+
+Language: pt
+
+
+# Erlangen - Supermercados
+
+Para conheceres as cadeias e como escolher, lê o nosso [guia de supermercados na Alemanha](https://germandex.com/pt/germany/groceries). As lojas internacionais locais estão abaixo.
+
+## Supermercados asiáticos & internacionais
+
+### [Want Want Asia Supermarkt](https://www.wantwant-asia.de/%C3%BCber-uns/)
+
+Nägelsbachstr. 26 / Sedanstr. 1. Mercearia asiática da China continental, Taiwan, Japão, Coreia e Sudeste Asiático. Aberto de segunda a sábado, das 9h às 20h, segundo o site.
+
+Fontes locais verificadas em 22 de outubro de 2026. Consulte as páginas indicadas para preços e regras atuais.
+
+---
+
+Source: https://germandex.com/pt/erlangen/groceries
+
+Language: pt
+
+
+# Erlangen - Moradia em Erlangen
+
+Encontra um quarto. Compreende o que estás a assinar.
+
+### Comece pelo Studierendenwerk Erlangen-Nürnberg
+
+Só é possível candidatar-se online. O Studierendenwerk indica mais de 3.600 vagas, de quartos individuais a apartamentos familiares, e um serviço gratuito de quartos particulares em Erlangen e Nuremberga. A procura é mais difícil nas semanas antes do semestre de inverno, sobretudo para estudantes internacionais e admissões tardias.
+
+[Moradia do Studierendenwerk Erlangen-Nürnberg](https://werkswelt.de/index.php?id=wohnen)
+
+## Mantém outra pesquisa em paralelo
+
+Um pedido de residência não é uma reserva. Compare quartos em apartamentos partilhados e arrendamentos privados enquanto espera. Verifique o endereço, o senhorio ou inquilino principal, o custo mensal total e o contrato antes de pagar.
+
+## Antes de assinar
+
+Caução, encargos, confirmação de entrada na habitação e prevenção de burlas: lê o [guia de alojamento na Alemanha](https://germandex.com/pt/germany/housing) antes de assinares.
+
+Fontes locais verificadas em 22 de outubro de 2026. Consulte as páginas indicadas para preços e regras atuais.
+
+---
+
+Source: https://germandex.com/pt/erlangen/housing
+
+Language: pt
+
+
+# Erlangen - Ajuda médica em Erlangen
+
+A ajuda certa, sem adivinhar onde ir.
+
+### Encontra um médico perto de ti
+
+Use a pesquisa de médicos 116117 com Erlangen ou o seu código postal. Comece por um Hausarzt para cuidados gerais; verifique os contactos do consultório e pergunte sobre consultas e o seu seguro antes de ir.
+
+[Encontrar um médico em Erlangen](https://arztsuche.116117.de/)
+
+## Urgente ou fora do horário?
+
+Durante o horário comercial, entre em contato com um Hausarzt (clínico geral). Uma Apotheke (farmácia) local pode aconselhar sobre medicamentos. Para doenças urgentes que não podem esperar até a reabertura do consultório, mas não representam risco de vida, ligue para 116117. Para emergências com risco de vida ou possíveis danos duradouros, ligue para 112. Quando não tiver certeza se a vida está em risco, ligue para 112.
+
+[Ajuda médica e números de emergência](https://gesund.bund.de/notfallnummern)
+
+## Urgências hospitalares
+
+O Uniklinikum Erlangen indica urgências 24 horas: cirurgia, Krankenhausstr. 12 (entrada na Maximiliansplatz), tel. 09131 85-33260; medicina interna, Ulmenweg 18, tel. 09131 85-35420; crianças, Loschgestr. 15, tel. 09131 85-33118. Em emergências com risco de vida, ligue 112.
+
+[Urgências do Uniklinikum Erlangen](https://www.uk-erlangen.de/944/)
+
+## Farmácias em Erlangen
+
+Use a pesquisa de farmácias de serviço com o seu endereço ou código postal em Erlangen. A escala muda; verifique o resultado atual antes de se deslocar.
+
+[Encontrar uma farmácia de serviço](https://www.aponet.de/notdienstsuche/-)
+
+Fontes locais verificadas em 22 de outubro de 2026. Os resultados da pesquisa de consultórios não são consultas confirmadas.
+
+---
+
+Source: https://germandex.com/pt/erlangen/medical
+
+Language: pt
+
+
+# Tubinga - Burocracia
+
+Configuração da universidade para sua primeira semana
+
+Esta não é uma lista de verificação de chegada completa. O registo do endereço, o estatuto do seguro de saúde e, quando necessário, a autorização de residência são tarefas distintas.
+
+### 1\. Registe o seu [endereço em Tubinga](https://www.tuebingen.de/verwaltung/verfahren/anmeldung_wohnsitz)
+
+É preciso registar-se nas duas semanas após a mudança. É gratuito. Leve o documento de identidade ou passaporte e a confirmação do senhorio (Wohnungsgeberbescheinigung). O registo tardio é uma infração e pode ser multado.
+
+Pode registar-se online com um cartão de identidade com função online. Presencialmente, o Bürgerbüro (Schmiedtorstraße 4) atende só com hora marcada; [marque online](https://www.tuebingen.de/dienststellen).
+
+### 2\. Para estudantes da [Universidade de Tubinga](https://uni-tuebingen.de/studium/studienorganisation/administration/chipkarte/): obtenha o seu cartão de estudante
+
+O Studierendensekretariat envia o cartão com chip pelo correio após a matrícula. É o seu cartão de estudante, abre alguns edifícios e paga na Mensa e nas fotocopiadoras.
+
+Após cada reinscrição, atualize a impressão do semestre num terminal de autoatendimento. Substituir um cartão perdido custa 15 € e o saldo não usado não é reembolsado.
+
+### 3\. Para estudantes: use a Mensa
+
+Pague com o cartão de estudante ou um Mensakarte nos refeitórios e cafetarias do [Studierendenwerk](https://www.my-stuwe.de/mensa/bezahlung/). O Autoload é opcional; também pode carregar nas máquinas do campus.
+
+### 4\. Para estudantes da Universidade de Tubinga: compre o [passe semestral naldo](https://www.naldo.de/tickets/semesterticket/)
+
+O passe semestral cobre toda a rede naldo e só é vendido para o semestre completo. Compre-o no Studi-Web-Shop da naldo depois de matriculado ou reinscrito. Vem como bilhete móvel com uma cópia Print@Home, só vale com o cartão de estudante atual e não é transferível.
+
+-   A tabela tarifária da naldo, válida desde 1 de outubro de 2025, indica 161,10 € por semestre. A [página da universidade](https://uni-tuebingen.de/studium/rund-ums-studium/semesterticket/) ainda mostra um preço antigo, por isso confirme o preço atual na loja.
+-   Sem passe, o cartão de estudante é válido em autocarros e comboios naldo de segunda a sexta a partir das 19h e o dia todo aos fins de semana e feriados de Baden-Württemberg. A página da universidade refere uma regra de transição; consulte-a.
+
+Fontes locais verificadas em 22 de outubro de 2026. Consulte as páginas indicadas para preços e regras atuais.
+
+---
+
+Source: https://germandex.com/pt/tuebingen/admin
+
+Language: pt
+
+
+# Tubinga - Esportes
+
+## Para estudantes da Universidade de Tubinga: Hochschulsport
+
+O [Hochschulsport Tübingen](https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/) tem mais de 350 cursos por semestre. Reserve online na [página de reservas](https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/m.html).
+
+A página anuncia a inscrição para o semestre de inverno 2026/27, com os cursos de ténis a abrir inscrições a 23 de outubro de 2026 às 17h.
+
+O escritório do Hochschulsport fica na Wilhelmstr. 124.
+
+### Veja as [datas de inscrição](https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/m.html) atuais
+
+Os cursos populares podem esgotar depressa. Os horários de inscrição variam por curso; consulte a página de reservas antes de pôr um alarme.
+
+Fontes locais verificadas em 22 de outubro de 2026. Consulte as páginas indicadas para preços e regras atuais.
+
+---
+
+Source: https://germandex.com/pt/tuebingen/sports
+
+Language: pt
+
+
+# Tubinga - Restaurantes
+
+## No campus
+
+### [Mensa Wilhelmstraße](https://www.my-stuwe.de/mensa/mensa-wilhelmstrasse-tuebingen/)
+
+Refeitório do Studierendenwerk na Wilhelmstraße 13. O cardápio do dia está na página. O Studierendenwerk diz que os alergénios e aditivos só são indicados nos balcões de serviço, por isso verifique lá.
+
+### [Mensa Morgenstelle](https://www.my-stuwe.de/mensa/mensa-morgenstelle-tuebingen/)
+
+Outra Mensa do Studierendenwerk em Tubinga. Consulte a página para o cardápio e horário atuais.
+
+### [Asien-Haus Imbiss](https://www.asien-haus.net/)
+
+Balcão tailandês para levar no centro histórico, Schmiedtorstraße 7 e 11: sopa de noodles e pratos do dia ao almoço, de segunda a sexta das 11h30 às 15h, segundo o site.
+
+### Vegetariano ou vegano?
+
+Os cardápios da Mensa indicam os pratos vegetarianos e veganos. Consulte o cardápio do dia.
+
+Fora do campus: ainda não verificamos nenhum restaurante desta cidade numa fonte primária, por isso não listamos nenhum em vez de adivinhar. Verificado em 22 de outubro de 2026.
+
+---
+
+Source: https://germandex.com/pt/tuebingen/restaurants
+
+Language: pt
+
+
+# Tubinga - Festa
+
+### [Kuckuck](https://kuckuck-bar.de/)
+
+Bar e clube geridos por estudantes para estudantes. A programação inclui karaoke, pub quiz, beer pong e noites temáticas.
+
+### [Sudhaus](https://www.sudhaus-tuebingen.de/veranstaltungen/party.html)
+
+Espaço na Hechinger Straße 203 com festas regulares, por exemplo Zeitgeist, com música dos anos 70, 80 e 90.
+
+## Bom saber
+
+-   A programação e os preços de entrada mudam toda semana. Consulte a página do próprio local no dia.
+
+Fontes locais verificadas em 22 de outubro de 2026. Consulte as páginas indicadas para preços e regras atuais.
+
+---
+
+Source: https://germandex.com/pt/tuebingen/party
+
+Language: pt
+
+
+# Tubinga - Supermercados
+
+Para conheceres as cadeias e como escolher, lê o nosso [guia de supermercados na Alemanha](https://germandex.com/pt/germany/groceries). As lojas internacionais locais estão abaixo.
+
+## Supermercados asiáticos & internacionais
+
+### [Asien-Haus](https://www.asien-haus.net/)
+
+Schmiedtorstraße 7 e 11, no centro histórico, desde 1997. Mais de 200 m² de mercearia asiática, legumes e ervas frescas, produtos biológicos e louça. Aberto de segunda a sexta das 10h às 19h, sábado das 10h às 15h, fechado ao domingo, segundo o site.
+
+Fontes locais verificadas em 22 de outubro de 2026. Consulte as páginas indicadas para preços e regras atuais.
+
+---
+
+Source: https://germandex.com/pt/tuebingen/groceries
+
+Language: pt
+
+
+# Tubinga - Moradia em Tubinga
+
+Encontra um quarto. Compreende o que estás a assinar.
+
+### Comece pelo Studierendenwerk Tübingen-Hohenheim
+
+Só é possível candidatar-se online. Pode candidatar-se antes de ter a carta de admissão, mas envie-a assim que a receber. As candidaturas para o semestre de inverno abrem a 1 de abril e as do semestre de verão a 1 de outubro do ano anterior. Casais e famílias precisam de uma candidatura por adulto, e pelo menos um dos parceiros deve estar admitido ou matriculado.
+
+[Moradia do Studierendenwerk Tübingen-Hohenheim](https://www.my-stuwe.de/wohnen/online-bewerbung/)
+
+## Mantém outra pesquisa em paralelo
+
+Um pedido de residência não é uma reserva. Compare quartos em apartamentos partilhados e arrendamentos privados enquanto espera. Verifique o endereço, o senhorio ou inquilino principal, o custo mensal total e o contrato antes de pagar.
+
+## Antes de assinar
+
+Caução, encargos, confirmação de entrada na habitação e prevenção de burlas: lê o [guia de alojamento na Alemanha](https://germandex.com/pt/germany/housing) antes de assinares.
+
+Fontes locais verificadas em 22 de outubro de 2026. Consulte as páginas indicadas para preços e regras atuais.
+
+---
+
+Source: https://germandex.com/pt/tuebingen/housing
+
+Language: pt
+
+
+# Tubinga - Ajuda médica em Tubinga
+
+A ajuda certa, sem adivinhar onde ir.
+
+### Encontra um médico perto de ti
+
+Use a pesquisa de consultórios da KV Baden-Württemberg com Tubinga ou o seu código postal. Comece por um Hausarzt para cuidados gerais; verifique os contactos do consultório e pergunte sobre consultas e o seu seguro antes de ir.
+
+[Encontrar um médico em Tubinga](https://www.kvbawue.de/patienten/praxissuche)
+
+## Urgente ou fora do horário?
+
+Durante o horário comercial, entre em contato com um Hausarzt (clínico geral). Uma Apotheke (farmácia) local pode aconselhar sobre medicamentos. Para doenças urgentes que não podem esperar até a reabertura do consultório, mas não representam risco de vida, ligue para 116117. Para emergências com risco de vida ou possíveis danos duradouros, ligue para 112. Quando não tiver certeza se a vida está em risco, ligue para 112.
+
+[Ajuda médica e números de emergência](https://gesund.bund.de/notfallnummern)
+
+## Urgência hospitalar
+
+O Universitätsklinikum Tübingen indica a sua Zentrale Notaufnahme na Hoppe-Seyler-Str. 3. Fora do horário dos consultórios, pode também ligar 116117, usar o docdirekt ou ir a um consultório de urgência no Klinikum. Intoxicação: Giftzentrale Baden-Württemberg, 0761 192-40. Em emergências com risco de vida, ligue 112.
+
+[Página de urgências do Universitätsklinikum Tübingen](https://www.medizin.uni-tuebingen.de/de/kontakt/notfall)
+
+## Farmácias em Tubinga
+
+Use a pesquisa de farmácias de serviço com o seu endereço ou código postal em Tubinga. A escala muda; verifique o resultado atual antes de se deslocar.
+
+[Encontrar uma farmácia de serviço](https://www.aponet.de/notdienstsuche/-)
+
+Fontes locais verificadas em 22 de outubro de 2026. Os resultados da pesquisa de consultórios não são consultas confirmadas.
+
+---
+
+Source: https://germandex.com/pt/tuebingen/medical
+
+Language: pt
+
+
+# Münster - Esportes
+
+Configuração da universidade para sua primeira semana
+
+Esta não é uma lista de verificação de chegada completa. O registo do endereço, o estatuto do seguro de saúde e, quando necessário, a autorização de residência são tarefas distintas.
+
+### 1\. Arrume uma bicicleta
+
+A bicicleta ("Leeze" em Münster) é o principal meio de transporte. A cidade é feita para ela.
+
+### 2\. Pague na Mensa sem dinheiro
+
+As Mensas não aceitam dinheiro. Pague com sua carteirinha de estudante, um MensaCard ou seu cartão bancário.
+
+Pagamento falhou? Tenta outra caixa ou pede ajuda ao pessoal.
+
+### 3\. Estudantes da Universidade de [Münster](https://www.uni-muenster.de/studium/orga/studienverwaltung/selfservice.html): descarrega o bilhete semestral
+
+Na Universidade de Münster você pega no portal SelfService. Cobre todos os ônibus e trens locais e regionais da Alemanha.
+
+Bilhete ausente no SelfService? Confirma renovação e taxa semestral e contacta a administração estudantil.
+
+-   O Deutschlandsemesterticket cobre transporte local e regional em segunda classe, não ICE/IC/EC. É financiado pela taxa semestral, não por um ingresso grátis.
+-   Não embarque sem um bilhete válido. Se o seu ingresso semestral não estiver pronto, compre primeiro outra tarifa válida.
+
+## Mais do que uma configuração universitária
+
+### Regista a tua morada em Münster
+
+Registo de morada: [Serviço municipal de registo (Anmeldung)](https://www.stadt-muenster.de/buergerservice/meldeangelegenheiten/anmeldung), dentro de duas semanas após a mudança. Títulos de residência: [Serviço de estrangeiros](https://www.stadt-muenster.de/aufenthaltsrecht/studium-und-promotion/waehrend-des-studiums). Documentos, seguro saúde, status de residência e cartas oficiais: [guia administrativo nacional](https://germandex.com/pt/germany/admin).
+
+Pode registar-se totalmente [online](https://www.stadt-muenster.de/buergerservice/meldeangelegenheiten/anmeldung) (o chip do seu cartão é atualizado e o autocolante da morada chega pelo correio) ou presencialmente com marcação num Bürgerbüro ou Bezirksverwaltung.
+
+---
+
+Source: https://germandex.com/pt/muenster/admin
+
+Language: pt
+
+
+# Münster - Esportes
+
+O [Hochschulsport Münster](https://www.uni-muenster.de/Hochschulsport/) oferece muitos desportos.
+
+Adesões flexíveis ([Sportpass](https://www.uni-muenster.de/Hochschulsport/mitglied/mitgliedschaften.shtml)) em vez de cursos individuais, mais o Campus Gym. Reserva online após confirmar preços e elegibilidade atuais.
+
+## Opções gratuitas
+
+-   Dê a volta no lago Aasee.
+-   A Promenade: um anel verde em volta do centro histórico, só para bicicletas e pedestres.
+
+---
+
+Source: https://germandex.com/pt/muenster/sports
+
+Language: pt
+
+
+# Münster - Restaurantes
+
+## Recomendados
+
+### [Cavete](https://cavete-muenster.de/)
+
+A "cervejaria acadêmica" de Münster no Kuhviertel, Kreuzstraße 37/38. Massa e cerveja.
+
+### [Pinkus Müller](https://www.pinkus.de/)
+
+Cervejaria desde 1816, Kreuzstr. 7-10. Cozinha da Vestfália.
+
+### [Das Blaue Haus](https://www.blaue-haus-muenster.de/)
+
+Pub estudantil com cozinha da Vestfália, Kreuzstraße 16-17.
+
+---
+
+Source: https://germandex.com/pt/muenster/restaurants
+
+Language: pt
+
+
+# Münster - Festa
+
+### Kuhviertel
+
+A área de pubs do centro histórico em volta da Kreuzstraße. Comece a noite aqui.
+
+### Hafen e Hawerkamp
+
+Clubes e bares em volta do porto.
+
+### [Sputnikhalle](https://sputnikhalle.de/partys/)
+
+Festas do eletrônico ao gótico, além de shows.
+
+### [Gazelle](https://www.gazelle.ms/)
+
+Casa noturna no centro.
+
+---
+
+Source: https://germandex.com/pt/muenster/party
+
+Language: pt
+
+
+# Münster - Supermercados
+
+Para conheceres as cadeias e como escolher, lê o nosso [guia de supermercados na Alemanha](https://germandex.com/pt/germany/groceries). As lojas internacionais locais estão abaixo.
+
+## Supermercados asiáticos & internacionais
+
+### [Jaffna Supermarkt](https://www.jaffna-supermarkt.de/)
+
+Wolbecker Str. 16a, na Hansaplatz. Produtos asiáticos e indianos.
+
+### go asia
+
+Salzstraße 20, centro histórico. Grande supermercado asiático.
+
+---
+
+Source: https://germandex.com/pt/muenster/groceries
+
+Language: pt
+
+
+# Aachen - Alojamento em Aachen
+
+Encontra um quarto. Compreende o que estás a assinar.
+
+### Começa por Studierendenwerk Aachen
+
+Podes candidatar-te antes da admissão ou matrícula. É necessário comprovativo de matrícula para assinar o contrato. Flexibilidade na data de entrada e no tipo de quarto aumenta as hipóteses. A página indica atualmente uma falha no portal; consulta o aviso mais recente e contacta a equipa se não conseguires candidatar-te.
+
+[Alojamento de Studierendenwerk Aachen](https://www.studierendenwerk-aachen.de/de/wohnen.html)
+
+## Mantém outra pesquisa em paralelo
+
+Uma candidatura a uma residência não é uma reserva. Compara quartos partilhados e arrendamentos privados em Aachen enquanto esperas. Verifica a morada, o senhorio ou arrendatário principal, o custo mensal total e o contrato antes de pagar.
+
+## Antes de assinar
+
+Caução, encargos, confirmação de entrada na habitação e prevenção de burlas: lê o [guia de alojamento na Alemanha](https://germandex.com/pt/germany/housing) antes de assinares.
+
+Aviso de fraude: verifique a pessoa e o quarto antes de enviar dinheiro ou documentos confidenciais. RWTH alerta sobre ofertas falsas e solicitações de depósito para recebimento de chaves. Seu Housing Advice Service pode ajudar os alunos da RWTH a verificar uma oferta suspeita.
+
+Fonte local verificada em 1 de outubro de 2026. Consulta o prestador sobre os requisitos e a disponibilidade atuais.
+
+---
+
+Source: https://germandex.com/pt/aachen/housing
+
+Language: pt
+
+
+# Aachen - Ajuda médica em Aachen
+
+A ajuda certa, sem adivinhar onde ir.
+
+### Encontra um médico perto de ti
+
+Usa a pesquisa de consultórios de KV Nordrhein com Aachen ou o teu código postal. Começa por um Hausarzt (médico de família); verifica os contactos e pergunta sobre consultas e o teu seguro antes de ir.
+
+[Encontrar um médico em Aachen](https://patienten.kvno.de/praxissuche)
+
+## Urgente ou fora do horário?
+
+Durante o horário comercial, entre em contato com um Hausarzt (clínico geral). Uma Apotheke (farmácia) local pode aconselhar sobre medicamentos. Para doenças urgentes que não podem esperar até a reabertura do consultório, mas não representam risco de vida, ligue para 116117. Para emergências com risco de vida ou possíveis danos duradouros, ligue para 112. Quando não tiver certeza se a vida está em risco, ligue para 112.
+
+[Ajuda médica e números de emergência](https://gesund.bund.de/notfallnummern)
+
+## Farmácias em Aachen
+
+Usa a pesquisa de farmácias de serviço com a tua morada ou código postal em Aachen. A escala muda; verifica o resultado atual antes de viajar.
+
+[Encontrar uma farmácia de serviço](https://www.aponet.de/notdienstsuche/-)
+
+Fonte de pesquisa local verificada em 1 de outubro de 2026. Os resultados não são consultas confirmadas.
+
+---
+
+Source: https://germandex.com/pt/aachen/medical
+
+Language: pt
+
+
+# Berlin - Alojamento em Berlin
+
+Encontra um quarto. Compreende o que estás a assinar.
+
+### Começa por studierendenWERK BERLIN
+
+Usa o portal de alojamento para te candidatares e gerires a candidatura. Verifica a lista de universidades de Berlim abrangidas e o aviso de contacto atual antes de te candidatares.
+
+[Alojamento de studierendenWERK BERLIN](https://www.stw.berlin/en/housing/housing-portal.html)
+
+## Mantém outra pesquisa em paralelo
+
+Uma candidatura a uma residência não é uma reserva. Compara quartos partilhados e arrendamentos privados em Berlin enquanto esperas. Verifica a morada, o senhorio ou arrendatário principal, o custo mensal total e o contrato antes de pagar.
+
+## Antes de assinar
+
+Caução, encargos, confirmação de entrada na habitação e prevenção de burlas: lê o [guia de alojamento na Alemanha](https://germandex.com/pt/germany/housing) antes de assinares.
+
+Fonte local verificada em 1 de outubro de 2026. Consulta o prestador sobre os requisitos e a disponibilidade atuais.
+
+---
+
+Source: https://germandex.com/pt/berlin/housing
+
+Language: pt
+
+
+# Berlin - Ajuda médica em Berlin
+
+A ajuda certa, sem adivinhar onde ir.
+
+### Encontra um médico perto de ti
+
+Usa a pesquisa de consultórios de 116117 com Berlin ou o teu código postal. Começa por um Hausarzt (médico de família); verifica os contactos e pergunta sobre consultas e o teu seguro antes de ir.
+
+[Encontrar um médico em Berlin](https://arztsuche.116117.de/)
+
+## Urgente ou fora do horário?
+
+Durante o horário comercial, entre em contato com um Hausarzt (clínico geral). Uma Apotheke (farmácia) local pode aconselhar sobre medicamentos. Para doenças urgentes que não podem esperar até a reabertura do consultório, mas não representam risco de vida, ligue para 116117. Para emergências com risco de vida ou possíveis danos duradouros, ligue para 112. Quando não tiver certeza se a vida está em risco, ligue para 112.
+
+[Ajuda médica e números de emergência](https://gesund.bund.de/notfallnummern)
+
+## Farmácias em Berlin
+
+Usa a pesquisa de farmácias de serviço com a tua morada ou código postal em Berlin. A escala muda; verifica o resultado atual antes de viajar.
+
+[Encontrar uma farmácia de serviço](https://www.aponet.de/notdienstsuche/-)
+
+Fonte de pesquisa local verificada em 1 de outubro de 2026. Os resultados não são consultas confirmadas.
+
+---
+
+Source: https://germandex.com/pt/berlin/medical
+
+Language: pt
+
+
+# Bochum - Alojamento em Bochum
+
+Encontra um quarto. Compreende o que estás a assinar.
+
+### Começa por AKAFÖ
+
+A AKAFÖ oferece quartos partilhados, apartamentos e alojamento familiar perto das suas universidades. Compara opções mobiladas e não mobiladas e verifica se a tua universidade é abrangida.
+
+[Alojamento de AKAFÖ](https://www.akafoe.de/wohnen/mietinteressenten)
+
+## Mantém outra pesquisa em paralelo
+
+Uma candidatura a uma residência não é uma reserva. Compara quartos partilhados e arrendamentos privados em Bochum enquanto esperas. Verifica a morada, o senhorio ou arrendatário principal, o custo mensal total e o contrato antes de pagar.
+
+## Antes de assinar
+
+Caução, encargos, confirmação de entrada na habitação e prevenção de burlas: lê o [guia de alojamento na Alemanha](https://germandex.com/pt/germany/housing) antes de assinares.
+
+Fonte local verificada em 1 de outubro de 2026. Consulta o prestador sobre os requisitos e a disponibilidade atuais.
+
+---
+
+Source: https://germandex.com/pt/bochum/housing
+
+Language: pt
+
+
+# Bochum - Ajuda médica em Bochum
+
+A ajuda certa, sem adivinhar onde ir.
+
+### Encontra um médico perto de ti
+
+Usa a pesquisa de consultórios de KV Westfalen-Lippe com Bochum ou o teu código postal. Começa por um Hausarzt (médico de família); verifica os contactos e pergunta sobre consultas e o teu seguro antes de ir.
+
+[Encontrar um médico em Bochum](https://www.kvwl.de/arztsuche)
+
+## Urgente ou fora do horário?
+
+Durante o horário comercial, entre em contato com um Hausarzt (clínico geral). Uma Apotheke (farmácia) local pode aconselhar sobre medicamentos. Para doenças urgentes que não podem esperar até a reabertura do consultório, mas não representam risco de vida, ligue para 116117. Para emergências com risco de vida ou possíveis danos duradouros, ligue para 112. Quando não tiver certeza se a vida está em risco, ligue para 112.
+
+[Ajuda médica e números de emergência](https://gesund.bund.de/notfallnummern)
+
+## Farmácias em Bochum
+
+Usa a pesquisa de farmácias de serviço com a tua morada ou código postal em Bochum. A escala muda; verifica o resultado atual antes de viajar.
+
+[Encontrar uma farmácia de serviço](https://www.aponet.de/notdienstsuche/-)
+
+Fonte de pesquisa local verificada em 1 de outubro de 2026. Os resultados não são consultas confirmadas.
+
+---
+
+Source: https://germandex.com/pt/bochum/medical
+
+Language: pt
+
+
+# Dortmund - Alojamento em Dortmund
+
+Encontra um quarto. Compreende o que estás a assinar.
+
+### Começa por Studierendenwerk Dortmund
+
+Consulta as páginas do Studierendenwerk para residências, ofertas atuais e perguntas frequentes. Verifica as condições para a tua universidade e continua também uma pesquisa independente.
+
+[Alojamento de Studierendenwerk Dortmund](https://www.stwdo.de/wohnen)
+
+## Mantém outra pesquisa em paralelo
+
+Uma candidatura a uma residência não é uma reserva. Compara quartos partilhados e arrendamentos privados em Dortmund enquanto esperas. Verifica a morada, o senhorio ou arrendatário principal, o custo mensal total e o contrato antes de pagar.
+
+## Antes de assinar
+
+Caução, encargos, confirmação de entrada na habitação e prevenção de burlas: lê o [guia de alojamento na Alemanha](https://germandex.com/pt/germany/housing) antes de assinares.
+
+Fonte local verificada em 1 de outubro de 2026. Consulta o prestador sobre os requisitos e a disponibilidade atuais.
+
+---
+
+Source: https://germandex.com/pt/dortmund/housing
+
+Language: pt
+
+
+# Dortmund - Ajuda médica em Dortmund
+
+A ajuda certa, sem adivinhar onde ir.
+
+### Encontra um médico perto de ti
+
+Usa a pesquisa de consultórios de KV Westfalen-Lippe com Dortmund ou o teu código postal. Começa por um Hausarzt (médico de família); verifica os contactos e pergunta sobre consultas e o teu seguro antes de ir.
+
+[Encontrar um médico em Dortmund](https://www.kvwl.de/arztsuche)
+
+## Urgente ou fora do horário?
+
+Durante o horário comercial, entre em contato com um Hausarzt (clínico geral). Uma Apotheke (farmácia) local pode aconselhar sobre medicamentos. Para doenças urgentes que não podem esperar até a reabertura do consultório, mas não representam risco de vida, ligue para 116117. Para emergências com risco de vida ou possíveis danos duradouros, ligue para 112. Quando não tiver certeza se a vida está em risco, ligue para 112.
+
+[Ajuda médica e números de emergência](https://gesund.bund.de/notfallnummern)
+
+## Farmácias em Dortmund
+
+Usa a pesquisa de farmácias de serviço com a tua morada ou código postal em Dortmund. A escala muda; verifica o resultado atual antes de viajar.
+
+[Encontrar uma farmácia de serviço](https://www.aponet.de/notdienstsuche/-)
+
+Fonte de pesquisa local verificada em 1 de outubro de 2026. Os resultados não são consultas confirmadas.
+
+---
+
+Source: https://germandex.com/pt/dortmund/medical
+
+Language: pt
+
+
+# Düsseldorf - Alojamento em Düsseldorf
+
+Encontra um quarto. Compreende o que estás a assinar.
+
+### Começa por Studierendenwerk Düsseldorf
+
+Os estudantes da HHU e Hochschule Düsseldorf estão entre os elegíveis para as residências. Escolhe um local em Düsseldorf: o mesmo prestador serve várias cidades. Gere listas de espera e recomenda candidatar-te cedo.
+
+[Alojamento de Studierendenwerk Düsseldorf](https://www.stw-d.de/studentisches-wohnen/)
+
+## Mantém outra pesquisa em paralelo
+
+Uma candidatura a uma residência não é uma reserva. Compara quartos partilhados e arrendamentos privados em Düsseldorf enquanto esperas. Verifica a morada, o senhorio ou arrendatário principal, o custo mensal total e o contrato antes de pagar.
+
+## Antes de assinar
+
+Caução, encargos, confirmação de entrada na habitação e prevenção de burlas: lê o [guia de alojamento na Alemanha](https://germandex.com/pt/germany/housing) antes de assinares.
+
+Fonte local verificada em 1 de outubro de 2026. Consulta o prestador sobre os requisitos e a disponibilidade atuais.
+
+---
+
+Source: https://germandex.com/pt/duesseldorf/housing
+
+Language: pt
+
+
+# Düsseldorf - Ajuda médica em Düsseldorf
+
+A ajuda certa, sem adivinhar onde ir.
+
+### Encontra um médico perto de ti
+
+Usa a pesquisa de consultórios de KV Nordrhein com Düsseldorf ou o teu código postal. Começa por um Hausarzt (médico de família); verifica os contactos e pergunta sobre consultas e o teu seguro antes de ir.
+
+[Encontrar um médico em Düsseldorf](https://patienten.kvno.de/praxissuche)
+
+## Urgente ou fora do horário?
+
+Durante o horário comercial, entre em contato com um Hausarzt (clínico geral). Uma Apotheke (farmácia) local pode aconselhar sobre medicamentos. Para doenças urgentes que não podem esperar até a reabertura do consultório, mas não representam risco de vida, ligue para 116117. Para emergências com risco de vida ou possíveis danos duradouros, ligue para 112. Quando não tiver certeza se a vida está em risco, ligue para 112.
+
+[Ajuda médica e números de emergência](https://gesund.bund.de/notfallnummern)
+
+## Farmácias em Düsseldorf
+
+Usa a pesquisa de farmácias de serviço com a tua morada ou código postal em Düsseldorf. A escala muda; verifica o resultado atual antes de viajar.
+
+[Encontrar uma farmácia de serviço](https://www.aponet.de/notdienstsuche/-)
+
+Fonte de pesquisa local verificada em 1 de outubro de 2026. Os resultados não são consultas confirmadas.
+
+---
+
+Source: https://germandex.com/pt/duesseldorf/medical
+
+Language: pt
+
+
+# Frankfurt - Alojamento em Frankfurt
+
+Encontra um quarto. Compreende o que estás a assinar.
+
+### Começa por Studierendenwerk Frankfurt am Main
+
+Usa a candidatura online do Studierendenwerk e compara as residências em Frankfurt. Lê as perguntas frequentes antes de enviar documentos ou contar com uma data de entrada.
+
+[Alojamento de Studierendenwerk Frankfurt am Main](https://www.swffm.de/wohnen/online-bewerbung)
+
+## Mantém outra pesquisa em paralelo
+
+Uma candidatura a uma residência não é uma reserva. Compara quartos partilhados e arrendamentos privados em Frankfurt enquanto esperas. Verifica a morada, o senhorio ou arrendatário principal, o custo mensal total e o contrato antes de pagar.
+
+## Antes de assinar
+
+Caução, encargos, confirmação de entrada na habitação e prevenção de burlas: lê o [guia de alojamento na Alemanha](https://germandex.com/pt/germany/housing) antes de assinares.
+
+Fonte local verificada em 1 de outubro de 2026. Consulta o prestador sobre os requisitos e a disponibilidade atuais.
+
+---
+
+Source: https://germandex.com/pt/frankfurt/housing
+
+Language: pt
+
+
+# Frankfurt - Ajuda médica em Frankfurt
+
+A ajuda certa, sem adivinhar onde ir.
+
+### Encontra um médico perto de ti
+
+Usa a pesquisa de consultórios de Arztsuche Hessen com Frankfurt ou o teu código postal. Começa por um Hausarzt (médico de família); verifica os contactos e pergunta sobre consultas e o teu seguro antes de ir.
+
+[Encontrar um médico em Frankfurt](https://www.arztsuchehessen.de/)
+
+## Urgente ou fora do horário?
+
+Durante o horário comercial, entre em contato com um Hausarzt (clínico geral). Uma Apotheke (farmácia) local pode aconselhar sobre medicamentos. Para doenças urgentes que não podem esperar até a reabertura do consultório, mas não representam risco de vida, ligue para 116117. Para emergências com risco de vida ou possíveis danos duradouros, ligue para 112. Quando não tiver certeza se a vida está em risco, ligue para 112.
+
+[Ajuda médica e números de emergência](https://gesund.bund.de/notfallnummern)
+
+## Farmácias em Frankfurt
+
+Usa a pesquisa de farmácias de serviço com a tua morada ou código postal em Frankfurt. A escala muda; verifica o resultado atual antes de viajar.
+
+[Encontrar uma farmácia de serviço](https://www.aponet.de/notdienstsuche/-)
+
+Fonte de pesquisa local verificada em 1 de outubro de 2026. Os resultados não são consultas confirmadas.
+
+---
+
+Source: https://germandex.com/pt/frankfurt/medical
+
+Language: pt
+
+
+# Hamburgo - Alojamento em Hamburgo
+
+Encontra um quarto. Compreende o que estás a assinar.
+
+### Começa por Studierendenwerk Hamburg
+
+Podes escolher até três residências ou candidatar-te a todas. O prestador diz que escolher todas aumenta as hipóteses. Responde aos emails periódicos de confirmação de interesse dentro do prazo para continuares na lista.
+
+[Alojamento de Studierendenwerk Hamburg](https://www.stwhh.de/wohnen/bewerbungsinformationen)
+
+## Mantém outra pesquisa em paralelo
+
+Uma candidatura a uma residência não é uma reserva. Compara quartos partilhados e arrendamentos privados em Hamburgo enquanto esperas. Verifica a morada, o senhorio ou arrendatário principal, o custo mensal total e o contrato antes de pagar.
+
+## Antes de assinar
+
+Caução, encargos, confirmação de entrada na habitação e prevenção de burlas: lê o [guia de alojamento na Alemanha](https://germandex.com/pt/germany/housing) antes de assinares.
+
+Fonte local verificada em 1 de outubro de 2026. Consulta o prestador sobre os requisitos e a disponibilidade atuais.
+
+---
+
+Source: https://germandex.com/pt/hamburg/housing
+
+Language: pt
+
+
+# Hamburgo - Ajuda médica em Hamburgo
+
+A ajuda certa, sem adivinhar onde ir.
+
+### Encontra um médico perto de ti
+
+Usa a pesquisa de consultórios de KV Hamburg com Hamburgo ou o teu código postal. Começa por um Hausarzt (médico de família); verifica os contactos e pergunta sobre consultas e o teu seguro antes de ir.
+
+[Encontrar um médico em Hamburgo](https://www.kvhh.net/de/physicianfinder.html)
+
+## Urgente ou fora do horário?
+
+Durante o horário comercial, entre em contato com um Hausarzt (clínico geral). Uma Apotheke (farmácia) local pode aconselhar sobre medicamentos. Para doenças urgentes que não podem esperar até a reabertura do consultório, mas não representam risco de vida, ligue para 116117. Para emergências com risco de vida ou possíveis danos duradouros, ligue para 112. Quando não tiver certeza se a vida está em risco, ligue para 112.
+
+[Ajuda médica e números de emergência](https://gesund.bund.de/notfallnummern)
+
+## Farmácias em Hamburgo
+
+Usa a pesquisa de farmácias de serviço com a tua morada ou código postal em Hamburgo. A escala muda; verifica o resultado atual antes de viajar.
+
+[Encontrar uma farmácia de serviço](https://www.aponet.de/notdienstsuche/-)
+
+Fonte de pesquisa local verificada em 1 de outubro de 2026. Os resultados não são consultas confirmadas.
+
+---
+
+Source: https://germandex.com/pt/hamburg/medical
+
+Language: pt
+
+
+# Colônia - Alojamento em Colônia
+
+Encontra um quarto. Compreende o que estás a assinar.
+
+### Começa por Kölner Studierendenwerk
+
+Candidata-te cedo online. Podes indicar tipo de quarto, data de entrada e orçamento, mas não uma residência específica. Confirma o email de interesse em cinco dias; caso contrário, a candidatura é desativada.
+
+[Alojamento de Kölner Studierendenwerk](https://www.kstw.de/wohnen/bewerbung/)
+
+## Mantém outra pesquisa em paralelo
+
+Uma candidatura a uma residência não é uma reserva. Compara quartos partilhados e arrendamentos privados em Colônia enquanto esperas. Verifica a morada, o senhorio ou arrendatário principal, o custo mensal total e o contrato antes de pagar.
+
+## Antes de assinar
+
+Caução, encargos, confirmação de entrada na habitação e prevenção de burlas: lê o [guia de alojamento na Alemanha](https://germandex.com/pt/germany/housing) antes de assinares.
+
+Fonte local verificada em 1 de outubro de 2026. Consulta o prestador sobre os requisitos e a disponibilidade atuais.
+
+---
+
+Source: https://germandex.com/pt/koeln/housing
+
+Language: pt
+
+
+# Colônia - Ajuda médica em Colônia
+
+A ajuda certa, sem adivinhar onde ir.
+
+### Encontra um médico perto de ti
+
+Usa a pesquisa de consultórios de KV Nordrhein com Colônia ou o teu código postal. Começa por um Hausarzt (médico de família); verifica os contactos e pergunta sobre consultas e o teu seguro antes de ir.
+
+[Encontrar um médico em Colônia](https://patienten.kvno.de/praxissuche)
+
+## Urgente ou fora do horário?
+
+Durante o horário comercial, entre em contato com um Hausarzt (clínico geral). Uma Apotheke (farmácia) local pode aconselhar sobre medicamentos. Para doenças urgentes que não podem esperar até a reabertura do consultório, mas não representam risco de vida, ligue para 116117. Para emergências com risco de vida ou possíveis danos duradouros, ligue para 112. Quando não tiver certeza se a vida está em risco, ligue para 112.
+
+[Ajuda médica e números de emergência](https://gesund.bund.de/notfallnummern)
+
+## Farmácias em Colônia
+
+Usa a pesquisa de farmácias de serviço com a tua morada ou código postal em Colônia. A escala muda; verifica o resultado atual antes de viajar.
+
+[Encontrar uma farmácia de serviço](https://www.aponet.de/notdienstsuche/-)
+
+Fonte de pesquisa local verificada em 1 de outubro de 2026. Os resultados não são consultas confirmadas.
+
+---
+
+Source: https://germandex.com/pt/koeln/medical
+
+Language: pt
+
+
+# Munique - Alojamento em Munique
+
+Encontra um quarto. Compreende o que estás a assinar.
+
+### Começa por Studierendenwerk München Oberbayern
+
+Verifica os tempos de espera e as regras para a tua categoria de estudante. A candidatura só fica completa com os documentos exigidos; não é um quarto confirmado.
+
+[Alojamento de Studierendenwerk München Oberbayern](https://www.studierendenwerk-muenchen-oberbayern.de/wohnheime/bewerbung/)
+
+## Mantém outra pesquisa em paralelo
+
+Uma candidatura a uma residência não é uma reserva. Compara quartos partilhados e arrendamentos privados em Munique enquanto esperas. Verifica a morada, o senhorio ou arrendatário principal, o custo mensal total e o contrato antes de pagar.
+
+## Antes de assinar
+
+Caução, encargos, confirmação de entrada na habitação e prevenção de burlas: lê o [guia de alojamento na Alemanha](https://germandex.com/pt/germany/housing) antes de assinares.
+
+Fonte local verificada em 1 de outubro de 2026. Consulta o prestador sobre os requisitos e a disponibilidade atuais.
+
+---
+
+Source: https://germandex.com/pt/muenchen/housing
+
+Language: pt
+
+
+# Munique - Ajuda médica em Munique
+
+A ajuda certa, sem adivinhar onde ir.
+
+### Encontra um médico perto de ti
+
+Usa a pesquisa de consultórios de 116117 com Munique ou o teu código postal. Começa por um Hausarzt (médico de família); verifica os contactos e pergunta sobre consultas e o teu seguro antes de ir.
+
+[Encontrar um médico em Munique](https://arztsuche.116117.de/)
+
+## Urgente ou fora do horário?
+
+Durante o horário comercial, entre em contato com um Hausarzt (clínico geral). Uma Apotheke (farmácia) local pode aconselhar sobre medicamentos. Para doenças urgentes que não podem esperar até a reabertura do consultório, mas não representam risco de vida, ligue para 116117. Para emergências com risco de vida ou possíveis danos duradouros, ligue para 112. Quando não tiver certeza se a vida está em risco, ligue para 112.
+
+[Ajuda médica e números de emergência](https://gesund.bund.de/notfallnummern)
+
+## Farmácias em Munique
+
+Usa a pesquisa de farmácias de serviço com a tua morada ou código postal em Munique. A escala muda; verifica o resultado atual antes de viajar.
+
+[Encontrar uma farmácia de serviço](https://www.aponet.de/notdienstsuche/-)
+
+Fonte de pesquisa local verificada em 1 de outubro de 2026. Os resultados não são consultas confirmadas.
+
+---
+
+Source: https://germandex.com/pt/muenchen/medical
+
+Language: pt
+
+
+# Münster - Alojamento em Münster
+
+Encontra um quarto. Compreende o que estás a assinar.
+
+### Começa por Studierendenwerk Münster
+
+Novos estudantes podem candidatar-se sem carta de admissão. Escolhe cuidadosamente até três residências: não podes alterar a escolha depois. Acompanha as ofertas por email e responde; ignorar uma oferta pode eliminar a candidatura.
+
+[Alojamento de Studierendenwerk Münster](https://www.stw-muenster.de/wohnen/bewerbung-wohnraum/)
+
+## Mantém outra pesquisa em paralelo
+
+Uma candidatura a uma residência não é uma reserva. Compara quartos partilhados e arrendamentos privados em Münster enquanto esperas. Verifica a morada, o senhorio ou arrendatário principal, o custo mensal total e o contrato antes de pagar.
+
+## Antes de assinar
+
+Caução, encargos, confirmação de entrada na habitação e prevenção de burlas: lê o [guia de alojamento na Alemanha](https://germandex.com/pt/germany/housing) antes de assinares.
+
+Fonte local verificada em 1 de outubro de 2026. Consulta o prestador sobre os requisitos e a disponibilidade atuais.
+
+---
+
+Source: https://germandex.com/pt/muenster/housing
+
+Language: pt
+
+
+# Münster - Ajuda médica em Münster
+
+A ajuda certa, sem adivinhar onde ir.
+
+### Encontra um médico perto de ti
+
+Usa a pesquisa de consultórios de KV Westfalen-Lippe com Münster ou o teu código postal. Começa por um Hausarzt (médico de família); verifica os contactos e pergunta sobre consultas e o teu seguro antes de ir.
+
+[Encontrar um médico em Münster](https://www.kvwl.de/arztsuche)
+
+## Urgente ou fora do horário?
+
+Durante o horário comercial, entre em contato com um Hausarzt (clínico geral). Uma Apotheke (farmácia) local pode aconselhar sobre medicamentos. Para doenças urgentes que não podem esperar até a reabertura do consultório, mas não representam risco de vida, ligue para 116117. Para emergências com risco de vida ou possíveis danos duradouros, ligue para 112. Quando não tiver certeza se a vida está em risco, ligue para 112.
+
+[Ajuda médica e números de emergência](https://gesund.bund.de/notfallnummern)
+
+## Farmácias em Münster
+
+Usa a pesquisa de farmácias de serviço com a tua morada ou código postal em Münster. A escala muda; verifica o resultado atual antes de viajar.
+
+[Encontrar uma farmácia de serviço](https://www.aponet.de/notdienstsuche/-)
+
+Fonte de pesquisa local verificada em 1 de outubro de 2026. Os resultados não são consultas confirmadas.
+
+---
+
+Source: https://germandex.com/pt/muenster/medical
+
+Language: pt

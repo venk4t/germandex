@@ -1,0 +1,3084 @@
+# 德国留学生入门指南
+
+由自主智能体维护，为刚抵达德国的学生追踪并呈现高质量的建议。
+
+## City guides
+
+- [亚琛](https://germandex.com/zh/aachen/admin.md)
+- [柏林](https://germandex.com/zh/berlin/admin.md)
+- [波鸿](https://germandex.com/zh/bochum/admin.md)
+- [多特蒙德](https://germandex.com/zh/dortmund/admin.md)
+- [杜塞尔多夫](https://germandex.com/zh/duesseldorf/admin.md)
+- [法兰克福](https://germandex.com/zh/frankfurt/admin.md)
+- [汉堡](https://germandex.com/zh/hamburg/admin.md)
+- [科隆](https://germandex.com/zh/koeln/admin.md)
+- [慕尼黑](https://germandex.com/zh/muenchen/admin.md)
+- [明斯特](https://germandex.com/zh/muenster/admin.md)
+- [埃尔兰根](https://germandex.com/zh/erlangen/admin.md)
+- [图宾根](https://germandex.com/zh/tuebingen/admin.md)
+
+---
+
+Source: https://germandex.com/zh
+
+Language: zh
+
+
+# 亚琛 - 手续
+
+第一周的大学设置
+
+这不是完整的抵达清单。地址登记、健康保险状况以及（如果需要）居住许可是单独的任务。
+
+### 1\. 对于 [RWTH](https://help.itc.rwth-aachen.de/en/service/rhb2fhkpjhb7/article/ea917d7e1ee048eca31f7a23d04cced5/) 学生：索取您的蓝卡
+
+支付学期费用，在 RWTH SelfService 中上传您的照片，并在 RWTHonline 中检查您的邮寄地址。 BlueCard 是您的学生证和门萨支付卡。
+
+BlueCard 未到？检查费用、照片和邮寄地址，再联系 [RWTH BlueCard](https://help.itc.rwth-aachen.de/en/service/rhb2fhkpjhb7/article/4ab6340c22ac486cbf2be44352a6fff5/) 服务点。该卡不是学期票。
+
+### 2\. 对于 [RWTH](https://www.asta.rwth-aachen.de/en/semesterticket-faq/) 学生：设置您的大学电子邮件
+
+兑换您的 ConnectMe 优惠券并打开您的 RWTH 邮箱。重要的大学和学期票信息会到达那里。
+
+邮箱无法访问？确认已兑换 ConnectMe - 激活可能需 48 小时；优惠券缺失请联系 IT 服务台。
+
+### 3\. 对于 RWTH 和 FH Aachen 学生：使用 Mensa
+
+使用您的 BlueCard 或 FH Karte 在 [Studierendenwerk](https://www.studierendenwerk-aachen.de/en/eating-drinking/cashless-payment/bluecard-and-fh-card.html) 餐厅付款。自动加载是可选的；您也可以在机器上充值。
+
+卡无支付芯片？询问 Studierendenwerk 学生访客卡（押金+储值），并出示学生证享学生价。
+
+### 4\. 对于 RWTH 学生：激活您的学期票
+
+注册并激活 ConnectMe 后，ASEAG 会将链接代码发送到您的 RWTH 电子邮件。使用该代码在 naveo 注册一次；出行前检查车票是否有效。
+
+naveo 代码未到？检查注册、学期费、ConnectMe 和 RWTH 邮箱，再邮件 semesterticket@aseag.de。代码已用但无票：联系 hallo@naveo.info，勿删账号。
+
+naveo 不可用？RWTH AStA 说明如何申请实体芯片卡车票，最长两周，不是临时票。
+
+-   德国学期票涵盖当地和地区的二等舱交通，不包括 ICE/IC/EC。它是通过学期费用资助的，而不是免费门票。
+-   没有有效车票请勿登机。如果您的学期票尚未准备好，请先购买其他有效票价。
+-   公交车站可以有多个站台（H1、H2 等）。检查平台以了解您的方向。
+
+对于亚琛应用技术大学的学生：使用 FH 特定的大学说明来获取 FH Karte、电子邮件和学期票；上述 RWTH 步骤不适用。
+
+## 不仅仅是大学设置
+
+### 注册您的亚琛地址
+
+住址登记：[亚琛市](https://serviceportal.aachen.de/suche/-/vr-bis-detail/dienstleistung/4599/show)，搬入后两周内办理。居留许可：[Städte地区移民办公室](https://www.staedteregion-aachen.de/en/navigation/residence-permit)。文件、健康保险、居留身份和官方信件：[全国事务指南](https://germandex.com/zh/germany/admin)。
+
+您可以完全[在线登记](https://serviceportal.aachen.de/suche/-/vr-bis-detail/dienstleistung/4599/show)（已激活 eID 功能的身份证或欧盟 eID 卡、其 PIN 和一个免费的 BundID 账户），或提前预约后亲自前往 Bürgerbüro 或 Bezirksamt 办理。
+
+---
+
+Source: https://germandex.com/zh/aachen/admin
+
+Language: zh
+
+
+# 亚琛 - 运动
+
+## 对于 RWTH 学生：Hochschulsport
+
+RWTH [Hochschulsport](https://hochschulsport.rwth-aachen.de/cms/hsz/sport/~hpoua/sportangebot/) 以学生价格提供多种运动项目；预订前检查资格和当前价格。
+
+课程包括球类运动、攀岩、舞蹈和健身。检查 Hochschulsport 网站了解当前的计划和报名规则。
+
+对于符合条件的学生来说，某些课程的费用低于同类外部课程的费用。预订前比较当前课程价格。
+
+### 检查当前[注册日期](https://hochschulsport.rwth-aachen.de/cms/hsz/sport/sportangebot/~bgxpbf/programmstart-anmeldung-und-termine/)
+
+热门课程可能很快就会满员。每个时期的报名时间可能会有变化；设置闹钟之前请检查官方日期页面。
+
+## 免费选择
+
+-   去 Lousberg 跑步或散步，这座山丘公园就在市中心旁边。
+-   城南的 Aachener Wald（森林）很适合长跑和周末徒步。
+-   加入临时组队的比赛：问问你的同学。加入球队是交到德国朋友最快的方式之一。
+
+---
+
+Source: https://germandex.com/zh/aachen/sports
+
+Language: zh
+
+
+# 亚琛 - 餐厅
+
+## 推荐
+
+### [AKL](https://www.akl-orient.de/)
+
+轻松、家庭式的黎巴嫩餐厅。Pontstraße 1-3。周一至周六 11:30-23:00，周日休息。
+
+### [TAT Gemüsekebab](https://www.tat-gemuesekebab.de/restaurants) €9.60
+
+亚琛最好的 Döner 和 Dürüm。在 Markt 44 和 Elisenbrunnen（Friedrich-Wilhelm-Platz 11）。11:00 开门，周末营业到很晚。
+
+### [Al Triangolo](http://www.al-triangolo.de/)
+
+老城区一家家庭经营的小意大利餐厅，Rommelsgasse 2-3。适合晚餐。周二休息。
+
+### 吃素？这些是你最好的选择
+
+推荐的餐厅也是城里最好的素食选择。点 Falafel（炸豆丸子）或 Halloumi（哈罗米奶酪）。
+
+## 便宜快捷
+
+### [Nobis](https://nobis-printen.de/oeffnungszeiten/)
+
+亚琛本地的连锁面包店，全城都有分店。三明治、咖啡和 Printen（本地姜饼）。Münsterplatz 的咖啡馆就在大教堂旁边。
+
+### Subway
+
+你懂的。靠谱、便宜、管饱。
+
+### Bäckerei [Moss](https://baeckerei-moss.de/filiale/)
+
+亚琛本地面包店，市内有多家分店。提供面包卷、三明治、蛋糕和咖啡；Ahornstr. 42 的 MOSS auf der Hörn 靠近亚琛工大。
+
+---
+
+Source: https://germandex.com/zh/aachen/restaurants
+
+Language: zh
+
+
+# 亚琛 - 派对
+
+### Pontstraße
+
+学生酒吧街。从这里开始你的夜晚。Poststraße 也有很多酒吧。
+
+### [Apollo](https://apollo-aachen.de/club/events/)
+
+大型主流夜店，Pontstraße 141-149，在 Ponttor 旁。主流音乐、主题之夜，每年十月还有大型迎新派对。
+
+### [Musikbunker](https://mubu.ac/)
+
+在一座旧地堡里的音乐会和夜店之夜。想要不那么主流的，这是本地人的选择。
+
+### Barbarossa
+
+酒水便宜。周三有卡拉 OK。
+
+### LikeLike
+
+Pontstraße 附近的提基酒吧，有便宜又特别的小麦啤酒。
+
+### Sowiso
+
+音乐不错，还有扑克、飞镖和台球。
+
+## 须知
+
+-   十月是派对季：关注 [AStA](https://www.asta.rwth-aachen.de/) 日历上的 Semesteranfangsparty（开学派对）和 Apollo 的 "Students United" 迎新派对。去年午夜前门票 5 欧元，凌晨 1 点前啤酒免费。
+-   本地人建议别去 Rothe Erde 附近的 "Nightlife" 夜店。
+-   想去真正的大型夜店，大家会去科隆，坐火车大约一小时。
+
+---
+
+Source: https://germandex.com/zh/aachen/party
+
+Language: zh
+
+
+# 语言
+
+哪怕只会基础德语，在这里也_完全不一样_：找工作、找房子、外国人管理局（Ausländerbehörde）、交朋友。
+
+### 最佳在线课程：Pimsleur
+
+自学的话，Pimsleur 是最好的在线课程。
+
+### 最好的老师是一份兼职
+
+每周在餐厅上几个班，学到的日常德语比任何课程都多。见[工作](https://germandex.com/zh/job)下的餐饮和零售工作。
+
+## 亚琛
+
+### [RWTH](https://www.sz.rwth-aachen.de/cms/sz/deutsch/kursangebot-daf/~ymonj/semesterkurse/) Sprachenzentrum
+
+RWTH 语言中心。为国际学生开设 A1 到 C1 的德语课，学期中上课，假期有强化班。通过 RWTHonline 报名。
+
+### [VHS](https://www.vhs-aachen.de/programm/sprachen/deutsch-als-fremd-und-zweitsprache) Aachen
+
+位于 Peterstraße 的市成人教育中心。各级别的晚间和强化德语课。
+
+### [Sprachenakademie](https://www.spraachen.org/en/german-courses/intensive-courses/) Aachen
+
+贵，但值得。提前预订强化班，让它和你的学期假期对上。
+
+## 柏林
+
+### [FU](https://www.sprachenzentrum.fu-berlin.de/sprachangebot/sprachen/deutsch/kurse/semesterkurse/index.html) Sprachenzentrum
+
+学期中为 FU 学生开设的对外德语（DaF）课程。
+
+### [HU](https://www.sprachenzentrum.hu-berlin.de/de/kursangebot-und-anmeldung/sprachen/deutsch) Sprachenzentrum
+
+为 HU 学生开设的各级别 DaF 课程。
+
+### Volkshochschule ([VHS](https://www.berlin.de/vhs/kurse/deutsch-integration/))
+
+柏林每个区都有自己的 VHS，提供各级别德语课。
+
+## 波鸿
+
+### [RUB](https://www.daf.ruhr-uni-bochum.de/daf/kurse/index.html.de) 对外德语
+
+在 Ruhr-Universität 一边上学一边上德语课。
+
+### [VHS](https://vhs.bochum.de/programm/deutsch-als-fremdsprache) Bochum
+
+各级别德语课。
+
+## 多特蒙德
+
+### [TU Dortmund](https://fs.zhb.tu-dortmund.de/lehrgebiete/deutsch-als-fremdsprache/) 对外德语
+
+为国际学生开设的德语课。
+
+### [VHS](https://vhs.dortmund.de/programm/sprachen-und-kulturen-der-welt/kategorie/Deutsch+als+Fremdsprache/33) Dortmund
+
+各级别德语课。
+
+## 杜塞尔多夫
+
+### [HHU](https://www.hhu.de/internationales/internationale-studierende/neu-an-der-hhu/ankommen-leicht-gemacht/sprachen-lernen) Sprachenzentrum
+
+为 HHU 学生开设的德语课。
+
+### [vhs](https://vhs.duesseldorf.de/programm/deutsch-und-integration) Düsseldorf
+
+各级别德语课，从 A1 开始。
+
+### [IIK](https://www.iik-duesseldorf.de/deutsch/) Düsseldorf
+
+提供德语强化课程的语言学校。
+
+## 法兰克福
+
+### [Goethe](https://www.uni-frankfurt.de/43669402/semesterbegleitkurse) University ISZ
+
+为学生开设的学期德语课和强化课。
+
+### [Frankfurt UAS](https://www.frankfurt-university.de/de/hochschule/einrichtungen-und-services/fachsprachenzentrum/sprachangebot) Fachsprachenzentrum
+
+学期中的德语课。
+
+### [vhs](https://vhs.frankfurt.de/de/deutschalsfremdsprache) Frankfurt
+
+各级别德语课。
+
+## 汉堡
+
+### [Universität Hamburg](https://www.uni-hamburg.de/sprachenzentrum/daf/kurse.html) Sprachenzentrum
+
+学期中的德语课，开学前有强化课。
+
+### [TUHH 德语课](https://www.tuhh.de/tuhh/studium/im-studium/sprachen-lernen/deutsch-lernen/deutschkurse-internationale-studiengaenge)
+
+面向 TUHH 国际项目的学生。
+
+### [Hamburger Volkshochschule](https://www.vhs-hamburg.de/deutsch-17)
+
+各级别德语课，从 A1 到 C2。
+
+## 科隆
+
+### 科隆大学对外德语
+
+一边上学一边上的 A1 到 C1 德语课。
+
+### TH [Köln](https://uni-koeln.de/studium-lehre/international/studium-in-koeln/lehrbereich-deutsch-als-fremdsprache) Sprachlernzentrum
+
+为 TH [Köln](https://www.th-koeln.de/internationales/deutsch-als-fremdsprache_25247.php) 学生开设的德语模块。
+
+### Kölner [VHS](https://www.koelner-vhs.de/deutsch-integration/deutsch-fremdsprache)
+
+选择很多的各级别德语课。
+
+## 慕尼黑
+
+### [LMU 德语课](https://www.lmu.de/de/studium/internationale-vollzeit-studierende/sprachkurse/)
+
+为 LMU 国际学生开设的德语课。
+
+### [TUM](https://www.sprachenzentrum.tum.de/sz/sprachen/deutsch/) Sprachenzentrum
+
+为 TUM 学生开设的德语课，零基础也可以。
+
+### Münchner Volkshochschule ([MVHS](https://www.mvhs.de/kurse/deutsch-integration/deutsch-fuer-studierende-460-CAT-KAT21360))
+
+专为学生设计的课程，比如「Deutsch für Studium und Alltag」。
+
+## 明斯特
+
+### [Uni Münster](https://www.uni-muenster.de/Sprachenzentrum/internationales/internationalestudierende/deutschimsemester.html) Sprachenzentrum
+
+学期中的德语课，假期有强化课。
+
+### [VHS](https://kurse.vhs-muenster.de/p/558-CAT-KAT4175273) Münster
+
+各级别德语课。
+
+## 埃尔兰根
+
+### [FAU](https://sz.fau.de/abteilung-deutsch-als-fremdsprache/kursangebot/daf-studienbegleitende-kurse/) Sprachenzentrum
+
+面向在读学生的随学德语课程。选课前需要先做分级；在StudOn在线报名。课程列表在campo中。
+
+### [VHS](https://www.vhs-erlangen.de/programm/sprachen/allgemeine-informationen-zum-sprachenbereich) Erlangen
+
+市立成人教育中心提供语言咨询和免费在线水平测试。德语课程不接受试听，请提前报名。
+
+## 图宾根
+
+### [Uni Tübingen](https://uni-tuebingen.de/international/sprachen-lernen/deutschkurse/) Deutsch als Fremdsprache
+
+面向大学学生的德语课程。在alma报名。我们核对时，2026/27冬季学期的报名已关闭，但部分课程仍有空位。
+
+### [VHS](https://www.vhs-tuebingen.de/kurse/deutschkurse) Tübingen
+
+每学期开设A1至C1德语课程，有上午班和晚班，定期考试，并提供免费水平测试。
+
+---
+
+Source: https://germandex.com/zh/germany/language
+
+Language: zh
+
+
+# 礼仪
+
+### 在公共交通上保持安静
+
+在公交和火车上小声说话，电话尽量简短。
+
+### 遵守交通规则
+
+人行横道和红绿灯都被看得非常严肃！
+
+### 待人礼貌
+
+在这里，一点礼貌会很有帮助。每次收到东西时说一声“Danke”，总是会受到欢迎。
+
+---
+
+Source: https://germandex.com/zh/germany/etiquette
+
+Language: zh
+
+
+# 外卖快递
+
+## 外卖
+
+### [Wolt](https://wolt.com/)
+
+全城餐厅的外卖。
+
+### [Lieferando](https://www.lieferando.de/)
+
+德国另一个大型外卖应用。
+
+## 包裹
+
+### 在 [DHL](https://www.dhl.de/de/privatkunden/pakete-empfangen/an-einem-abholort-empfangen/packstation.html) 应用中激活 Packstation
+
+在德国，快递员（亚马逊等）通常不会给你打电话。他们常常把包裹放在你门外，或者直接退回。Packstation 是一种取件柜，你可以去那里取包裹，对大多数快递来说都是可靠的选择。
+
+## 药品
+
+### [Shop Apotheke](https://www.shop-apotheke.com/)
+
+在线订购非处方药和保健品。
+
+---
+
+Source: https://germandex.com/zh/germany/delivery
+
+Language: zh
+
+
+# 德国的手续
+
+抵达后需要办理的全国性事务：登记住址、办理健康保险和居留身份、看懂官方信件。大学注册步骤在你所在城市的指南中。
+
+德国理财：[银行账户](https://germandex.com/zh/germany/bank-account)、[医疗保险](https://germandex.com/zh/germany/health-insurance)、[责任险](https://germandex.com/zh/germany/liability-insurance)、[SIM 卡](https://germandex.com/zh/germany/sim-card)和 [SCHUFA](https://germandex.com/zh/germany/schufa) 指南。
+
+## 登记你的住址
+
+搬入后两周内，到当地 Bürgeramt 或 Einwohnermeldeamt 登记住址。携带身份证或护照及住房提供者签署的 Wohnungsgeberbestätigung；租约不能代替这份证明。如果你从国外迁入或持有电子居留证，请确认是否需要现场预约。
+
+未按时拿到证明？直接联系登记处。切勿登记你实际不住的地址。
+
+## 检查健康保险和居住状况
+
+询问您的健康保险公司是否已收到您的大学的注册确认信息，并阅读丢失文件的请求。需要居留许可的非欧盟学生应检查负责其大学的移民当局以及自己的签证或许可截止日期。
+
+缺少保险证明？请保险公司向大学发送电子学生保险通知。居留期限临近？直接联系移民局。
+
+## 官方信件：该怎么办
+
+-   Steuer-ID：联邦中央税务局颁发此永久税号。保留这封信。如果未到达或丢失，请向 [BZSt](https://www.bzst.de/EN/Private_individuals/Tax_identification_number/tax_identification_number_node.html) 请求新的通知；它是通过邮寄发送的。
+-   [Rundfunkbeitrag](https://www.rundfunkbeitrag.de/informationen)：检查您的房屋是否已注册以及由谁付款。通常每间公寓只需缴纳一份费用，但有例外；使用官方捐款服务表格而不是忽略这封信。
+-   健康保险信：阅读其中是否有任何缺失的文件、承保范围或付款请求。如需注册证明，请向您的保险公司询问其发给您大学的电子信息。
+-   [Sozialversicherungsnummer](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Sozialversicherungsausweis)：当您第一次在德国工作时，请保留养老金保险号码通知。如果丢失，请向养老保险提供商或您的健康保险公司请求更换。
+-   与居住相关的信件：检查其截止日期和其中指定的机构。如果不清楚，请在截止日期前联系您所在大学的移民办公室。
+
+---
+
+Source: https://germandex.com/zh/germany/admin
+
+Language: zh
+
+
+# 德国住房指南
+
+找到房间，了解你要签署的内容。
+
+## 签约前
+
+-   Kaution 是可退还的保证金。对于普通住宅租赁，法定上限为三个月的租金，不包括单独规定的运营费用；现金押金可以按三个月分期支付。付款前请检查您的合同。
+-   Warmmiete 是基本租金加上规定的运营成本； Nebenkosten 是那些额外的建筑/服务成本，通常提前支付并随后进行调节。询问合同中包含哪些费用，包括供暖费和电费。
+-   Wohnungsgeberbestätigung 确认您实际入住并进行地址登记。业主或主要租户签署。它与租赁合同分开。
+-   防骗提醒：汇款或发送敏感文件前，核实对方和房间。大学提醒学生警惕虚假房源和交钥匙前索要押金的情况。大学住房咨询服务可帮助核查可疑房源。
+
+---
+
+Source: https://germandex.com/zh/germany/housing
+
+Language: zh
+
+
+# 德国超市指南
+
+折扣超市和综合超市满足不同的需求。请比较你实际购买的商品。
+
+### 折扣超市
+
+[Netto](https://www.netto-online.de/)、[Aldi](https://www.aldi-sued.de/marken)和[Lidl](https://www.lidl.de/c/eigenmarken-food/s10007656)销售日常食品和自有品牌商品。请比较你的日常购物清单和当前优惠。
+
+### 综合超市
+
+[Rewe](https://www.rewe-group.com/en/company/structure-and-saleslines/)、[Edeka](https://verbund.edeka/unternehmen/was-ist-der-edeka-verbund/m%C3%A4rkte-vertrieb/edeka/)和[Kaufland](https://filiale.kaufland.de/sortiment.html)提供种类丰富的食品。各分店的商品选择有所不同。
+
+### 我们的编辑推荐
+
+如果想找一家综合超市，我们推荐Rewe。这是编辑偏好，不是价格排名。
+
+---
+
+Source: https://germandex.com/zh/germany/groceries
+
+Language: zh
+
+
+# 德国的银行账户
+
+Girokonto（活期账户）是要办的第一件事：房租、医疗保险和工资都走这个账户。
+
+### Sparkasse 的学生 Girokonto
+
+Sparkasse 为学生和实习生提供 Girokonto，含手机应用、非接触支付，全德国约 20,000 台 ATM。在许多分行免费：每家 Sparkasse 自行制定账户条件和费用，请向当地分行确认是否提供免费学生账户以及是否有年龄限制。（来源：[sparkasse.de](https://www.sparkasse.de/pk/produkte/konten-und-karten/girokonto/studenten-und-auszubildende.html)，2026 年 10 月 19 日核实。）在一家分行被拒？换一家试试或在线开户；网上银行也是不错的过渡方案，之后可以转到 Sparkasse。
+
+### 把房租设为自动转账
+
+将房租设置为 Dauerauftrag（定期转账），每月自动支付。良好的房租付款记录对申请住房很重要。
+
+### 信用卡（可选）
+
+[PAYBACK Visa](https://www.payback.de/info/visa) 每年 29 欧元。在全球范围付款免手续费，每笔消费都累积 Payback 积分；只要卡有效，积分不过期。境外取现免手续费，但在德国境内取现收 2%（最低 5 欧元）。（来源：payback.de，2026 年 10 月 19 日核实。）
+
+### 我们的编辑推荐
+
+Sparkasse 学生 Girokonto。选择标准：据 Sparkasse 官网在许多分行对学生免费（每家 Sparkasse 自行制定条件）；分行和 ATM 网络覆盖本指南中的每个城市；是每位房东和雇主都认识的名字。这是我们的编辑选择，不是价格排名。
+
+---
+
+Source: https://germandex.com/zh/germany/bank-account
+
+Language: zh
+
+
+# 德国的医疗保险
+
+医疗保险是强制的：在大学注册时你必须证明自己有保险。本页面介绍各类选项；不构成医疗建议。
+
+### 公立（法定）保险
+
+大多数学生使用法定保险（gesetzliche Krankenversicherung）。法律规定的基本保障——医生、药品、急救、住院——在每家 Krankenkasse 都是相同的。作为一个注明日期的例子，TK 列出的 2026 年学生保费为：23 岁以下每月 141.16 欧元，23 岁起无子女每月 146.29 欧元（含护理保险），并指出各家 Krankenkasse 的保费几乎没有差别。学生费率通常持续到您满 30 岁那个学期结束。（来源：[daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/) 和 [tk.de](https://www.tk.de/techniker/versicherung/gut-versichert-in-jeder-lebenslage/versichert-als-studierende/krankenversicherung-und-studium/beitrag-studierende-2131472)，2026 年 10 月 19 日核实。）
+
+### 私人保险
+
+私人保险方案可能提供更多保障，但价格明显更贵，而且通常要求你先自付账单再申请报销。日后再转回法定保险很困难。（来源：[daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/)，2026 年 10 月 19 日核实。）
+
+### 注册确认
+
+你的 Krankenkasse 会以电子方式向大学报告你的保险状态；没有这一步注册就无法完成。注册后你还会自动获得大学意外保险，涵盖校内和与学业相关的活动。（来源：[daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/)，2026 年 10 月 19 日核实。）
+
+### 牙科 + 视力险（可选）
+
+可选，但戴眼镜的话可了解保障。[BarmeniaGothaer](https://www.barmeniagothaer.de/versicherung/krankenzusatz-pflege/) 提供补充牙科保险及 Mehr Sehen 视力保障。投保前查看当前保费、限额、条款和报销间隔。
+
+### 我们的编辑推荐
+
+作为学生参加法定保险，任选一家 Krankenkasse。选择标准：基本保障在法律上处处相同；优惠学生费率是标准的合适选项（上面的 TK 数字只是注明日期的示例，不是推荐）；每家 Krankenkasse 都能向大学报告你的状态。这是我们的编辑选择，不是医疗或财务建议。
+
+---
+
+Source: https://germandex.com/zh/germany/health-insurance
+
+Language: zh
+
+
+# 责任险（Haftpflicht）
+
+私人 Haftpflichtversicherung 承保你对他人或其财物造成的损害。德国大多数人都有，每月只需几欧元。
+
+### 承保范围
+
+典型情形：你摔坏了朋友的笔记本电脑、弄丢了房东的钥匙，或骑车刮花了停着的汽车。没有保险你得自己掏钱；责任险替你付。
+
+### 购买前要看什么
+
+保额（尽量选高——对人的伤害可能非常昂贵）、是否包含丢失钥匙、免赔额。要看费率页面，不要只看价格。
+
+### 我们的编辑推荐
+
+Die Haftpflichtkasse 的 [Einfach Besser](https://www.haftpflichtkasse.de/versicherungen/privatkunden/privathaftpflicht/Einfach-Besser/) 费率。选择标准：专注责任险的保险公司；据其官网，该费率承保最高 5,000 万欧元的人身、财产和财务损害。该页面未列出固定保费——价格取决于您的个人情况，请在该页面获取报价。（来源：haftpflichtkasse.de，2026 年 10 月 19 日核实。）这是我们的编辑选择，不是价格排名。
+
+---
+
+Source: https://germandex.com/zh/germany/liability-insurance
+
+Language: zh
+
+
+# 德国的 SIM 卡
+
+刚到德国时预付卡比合约好：不需要德国银行账户或 SCHUFA 记录，也没有长期合约。
+
+### 一次付费用一年
+
+Telekom 的 [MagentaMobil Prepaid Jahrestarif](https://www.telekom.de/shop/tarife/prepaid-jahrestarif) 一次性 99.95 欧元用 12 个月：每月 20 GB 高速流量（有 5G 的地方用 5G），另加德国网络内无限通话和短信。如果在 12 个月到期时未提前一个月取消，套餐会自动转为无限期续约，之后可按月取消。（来源：telekom.de，2026 年 10 月 19 日核实。）
+
+### 按月选项
+
+如果你更喜欢按月计费，所有运营商（Telekom、Vodafone、O2）和超市品牌都出售按月预付套餐。购买前请核实当前价格和流量——优惠经常变动。
+
+### 我们的编辑推荐
+
+Telekom MagentaMobil Prepaid Jahrestarif。选择标准：一次付费覆盖十二个月，第一份工资之前没有月账单；使用 Telekom 网络；价格和 20 GB 在 telekom.de 上有书面确认。这是我们的编辑选择，不是价格排名。
+
+---
+
+Source: https://germandex.com/zh/germany/sim-card
+
+Language: zh
+
+
+# SCHUFA 详解
+
+### 了解 SCHUFA
+
+SCHUFA 是德国信用记录，房东常要求租房申请者提供报告。无需为提高分数开通额外产品；SCHUFA 建议按时付账、保持财务简单。现有账户的良好付款记录会逐渐有所帮助。可在 SCHUFA 应用查看数据，或向 SCHUFA 申请免费数据副本。 ([Android](https://play.google.com/store/apps/details?id=com.schufamobileapp) / [iPhone](https://apps.apple.com/de/app/schufa/id6448636299))
+
+SCHUFA 在其网站 [schufa.de](https://www.schufa.de/datenkopie) 上提供免费的数据副本（Datenkopie）。（来源：schufa.de，2026 年 10 月 19 日核实。）
+
+---
+
+Source: https://germandex.com/zh/germany/schufa
+
+Language: zh
+
+
+# 与编辑代理的一次实验
+
+Germandex 是一个利用自主智能体汇集高质量建议的实验。Germandex 背后的智能体从互联网上研究、编辑和维护面向初来德国者的优质建议。
+
+它们旨在保持清晰，不涉及商业利益，并优先考虑清晰度而非多样性。
+
+如果你喜欢，帮它变得[更好](https://germandex.com/)。
+
+感谢来访！
+
+![](https://germandex.com/img/venkat-pixel-mono.png)
+
+[Venkat Srinivasan](mailto:venkatragavan@protonmail.com)
+
+[](https://linkedin.com/in/venkatragavan "LinkedIn")[](https://x.com/venkgator "X")
+
+---
+
+Source: https://germandex.com/zh/manifesto
+
+Language: zh
+
+
+# 财务
+
+按这个顺序办理。
+
+### 1\. [开银行账户](https://germandex.com/zh/germany/bank-account)
+
+学生免费；先办这个。
+
+### 2\. [办医疗保险](https://germandex.com/zh/germany/health-insurance)
+
+注册必需；了解各类选项。
+
+### 3\. [办责任险](https://germandex.com/zh/germany/liability-insurance)
+
+每月几欧元，承保昂贵的意外。
+
+### 4\. [办 SIM 卡](https://germandex.com/zh/germany/sim-card)
+
+先用预付；合约以后再说。
+
+### 5\. [了解 SCHUFA](https://germandex.com/zh/germany/schufa)
+
+德国信用记录详解。
+
+---
+
+Source: https://germandex.com/zh/money
+
+Language: zh
+
+
+# 工作
+
+德国有法定最低工资，所以即使简单的工作收入也不错。目前是每小时 13.90 欧元，2027 年 1 月涨到 14.60 欧元。
+
+### 办公室与企业
+
+在公司做工读生（Werkstudent）。对简历和毕业后的职业发展很有帮助。
+
+### 餐饮与零售
+
+餐厅、咖啡馆、商店。赚钱最快，而且对学德语帮助很大。
+
+### 分清不同的工作时长规则
+
+-   非欧盟学生的居留规则：每年可工作140个全天或280个半天，无需额外许可。具体规则以你的居留证为准。
+-   Werkstudent 规则：学期内每周工作不超过20小时，学习仍被视为主要活动，可保留学生雇员的社会保险待遇。学期假期、晚间或周末可按26周规则工作更长时间。
+-   学生医疗保险：学习明确是主要活动时，适用学生费率。如果经常每周工作超过20小时，请向医保机构确认是否需转为雇员保险。
+
+## 办公室与企业工作
+
+1.  你的简历必须是德国格式。照着[简历示例](https://germandex.com/zh/job/resume)的版式来做。
+2.  找工读生职位，数量最重要。不要等完美的工作。
+3.  在 LinkedIn、StepStone 或任何地方找职位。但一定要直接在公司自己的招聘网站上申请。
+4.  一定要在 "Additional Documents"（附加文件）部分附上申请材料包。
+
+### 你的申请材料包
+
+### 1\. 注册证明
+
+Immatrikulationsbescheinigung（注册证明）。在你学校的线上门户下载。
+
+### 2\. 本科综合成绩单
+
+所有本科成绩在一份文件里。
+
+### 3\. Arbeitszeugnis
+
+前雇主开的推荐信。
+
+### 推荐信必须是德国格式
+
+按你家乡习惯写的推荐信在这里效果不好。请前雇主按德国格式开一份 Arbeitszeugnis。可以用英文写：用公司抬头纸，有签名和公司盖章。
+
+德国的推荐信用固定的评级用语。招聘人员把它当分数来读，所以信里要用这些说法：
+
+非常好（sehr gut）
+
+"always to our fullest satisfaction"（stets zu unserer vollsten Zufriedenheit）
+
+好（gut）
+
+"always to our full satisfaction"（stets zu unserer vollen Zufriedenheit）
+
+在工作表现和行为部分争取用"非常好"的措辞。完整的英文例子见 [Arbeitszeugnis 示例](https://germandex.com/zh/job/reference)。
+
+## 餐饮与零售工作
+
+你可以在 Indeed、Zenjob 等平台上找到这类工作。但最好的办法是直接走进餐厅和酒店，问他们是否招兼职。
+
+1.  每天选城里的一个区域。
+2.  先去商场的美食广场试试。之后可以找离市中心远一点的地方：投简历的学生更少。
+3.  走进每家餐厅和酒店，用德语询问有没有工作。
+4.  说得流不流利不重要，重要的是让对方看到你愿意尝试。
+
+---
+
+Source: https://germandex.com/zh/job
+
+Language: zh
+
+
+# 简历示例
+
+这是面向国际求职的虚构初级软件开发者简历。优先展示相关经验，保持每项内容简洁，让技能一目了然。如果教育背景是你最有力的证明，可以调整顺序。
+
+Alex Morgan
+
+软件开发者
+
+德国柏林 · alex.morgan@example.com  
++49 \[电话号码\] · github.com/\[用户名\] · linkedin.com/in/\[用户名\]
+
+### 个人简介
+
+具有后端服务和网页应用开发经验的软件开发者。目前正在完成计算机科学硕士学位。希望在产品工程团队寻找学生兼职岗位。
+
+### 工作经历
+
+2026 年 4 月 - 至今
+
+学生兼职，后端开发
+
+Nordwerk Logistics · 德国柏林
+
+-   使用 Python 和 FastAPI 开发货运跟踪 API；在性能测试中将响应时间中位数降低了 40%。
+-   添加自动化测试，以及使用 Docker 和 GitHub Actions 的发布流程。
+
+2024 年 6 月 - 2025 年 8 月
+
+初级软件开发者
+
+Brightpath · 荷兰鹿特丹
+
+-   与跨职能团队合作，使用 Java 和 Spring Boot 开发支付服务功能。
+-   将单元测试覆盖率从 45% 提高到 80%，并为新参与者编写代码审查检查文档。
+
+### 教育背景
+
+2025 年 10 月 - 至今
+
+计算机科学硕士（MSc）
+
+\[大学名称\] · 德国柏林
+
+方向：分布式系统和软件工程。
+
+2021 年 9 月 - 2024 年 6 月
+
+计算机科学学士（BSc）
+
+\[大学名称\] · \[城市，国家\]
+
+### 精选项目
+
+Study Space · 校园房间查找工具
+
+开发 React 和 TypeScript 应用，通过基于 PostgreSQL 的 API 帮助学生查找空闲自习室。添加无障碍键盘导航和自动化测试。
+
+github.com/\[username\]/study-space
+
+### 技术技能
+
+**语言：**Python、Java、TypeScript、SQL  
+**框架：**FastAPI、Spring Boot、React  
+**工具：**Git、Docker、GitHub Actions、PostgreSQL
+
+### 语言能力
+
+英语：C1 · 德语：A2 · \[其他语言\]：\[级别\]
+
+这份简历上的一切都是虚构的。请换成你自己的信息。
+
+姓名、雇主、地点和成果均为示例，并非真实资历。请用准确事实替换每个示例。本模板填写城市和国家即可，仅在需要时添加完整邮寄地址。不包含照片、出生日期、婚姻状况、声明或签名。
+
+---
+
+Source: https://germandex.com/zh/job/resume
+
+Language: zh
+
+
+# Arbeitszeugnis 示例
+
+一份英文写的 Arbeitszeugnis（工作证明）示例。申请时用英文没问题。在德国让它管用的是格式：公司抬头纸、签名、公司盖章，以及招聘人员会找的固定评级用语。人名和公司都是虚构的。
+
+Brightpath Fintech Pvt. Ltd.
+
+\[Company address\]  ·  \[Phone\]  ·  \[Website\]
+
+\[City\], 31 August 20XX
+
+### Employment Reference
+
+Mr. Arjun Rao, born on \[date\] in \[city\], worked for our company as a Software Developer from 1 July 20XX to 31 August 20XX.
+
+Brightpath Fintech builds digital payment products for banks and retailers, with about 150 employees.
+
+Mr. Rao's main tasks were:
+
+-   Developing backend services for our payment platform in Java and Spring Boot
+-   Building and maintaining the mobile payment flow
+-   Writing unit tests and reviewing code from other developers
+-   Planning sprints together with the product and design teams
+
+Mr. Rao has very good, well-founded technical knowledge, which he always applied with great success in his daily work. He learned new technologies very quickly and always worked independently, carefully and to a very high standard.
+
+He always completed the tasks given to him to our fullest satisfaction.
+
+His behavior towards managers, colleagues and customers was always exemplary. He was a valued team member at all times.
+
+Mr. Rao is leaving our company at his own request to start a master's degree in Germany. We very much regret his departure, thank him for his always excellent work, and wish him continued success and all the best for his future, both professionally and personally.
+
+\[Signature\]  
+\[Name\], Head of Engineering  
+\[Company stamp\]
+
+评级句
+
+"Always to our fullest satisfaction" 就是评级："fullest" + "always" = 非常好（sehr gut）；"full" + "always" = 好（gut）。
+
+行为句
+
+对上级、同事和客户的行为 "always exemplary" = 非常好。
+
+结尾
+
+对离职表示遗憾、感谢和祝福，代表一份非常好的推荐信。没有结尾会被看作不好的信号。
+
+---
+
+Source: https://germandex.com/zh/job/reference
+
+Language: zh
+
+
+# 亚琛 - 超市
+
+想了解各连锁超市以及如何选择，请阅读我们的[德国超市指南](https://germandex.com/zh/germany/groceries)。本地国际食品店见下文。
+
+## 亚洲及国际超市
+
+想买香料、大米、豆类和其他家乡食材：亚琛有几家亚洲和国际商店，大多在 Jülicher Straße 和 Hansemannplatz 附近。
+
+### New Sherona Supermarket
+
+Heinrichsallee 30，靠近 Kaiserplatz。印度、巴基斯坦和非洲食品：香料、大米、扁豆、冷冻食品和新鲜蔬果。每天营业。
+
+### Nagammaal Markt
+
+Jülicher Str. 4，靠近 Hansemannplatz。开了很多年的印度和亚洲食品店。周一至周六 10:00-22:00。
+
+### [Asian aiX Bazaar](https://www.aix-bazaar.de/)
+
+Jülicher Str. 20。南亚和非洲食品、新鲜蔬果、清真鱼，还提供切鱼服务。
+
+---
+
+Source: https://germandex.com/zh/aachen/groceries
+
+Language: zh
+
+
+# 柏林 - 手续
+
+第一周的大学设置
+
+这不是完整的抵达清单。地址登记、健康保险状况以及（如果需要）居住许可是单独的任务。
+
+### 1\. 第一次吃午饭前先给 MensaCard 充值
+
+柏林的食堂（由 Studierendenwerk Berlin 经营）只收 MensaCard 或你学校的 CampusCard。不收现金，也不能刷银行卡。
+
+还没有 [MensaCard](https://www.stw.berlin/mensen/faq-mensen/mensacard.html)？在食堂收银处办理，机器上充值；带学生证或 CampusCard。
+
+### 2\. [FU](https://www.fu-berlin.de/studium/studieren/studienorganisation/semesterticket/Deutschlandsemesterticket/Wie-erhalte-ich-Ticket.html) Berlin 学生：激活 Deutschlandsemesterticket
+
+FU Berlin 车票仅在 S-Bahn Berlin 应用提供。每学期都须重复操作。其他大学会向大学邮箱发送自己的说明。
+
+S-Bahn Berlin 应用中没有车票？确认本学期注册及续注册，再联系 AStA FU。每学期都须重复操作。
+
+-   德国学期票涵盖当地和地区的二等舱交通，不包括 ICE/IC/EC。它是通过学期费用资助的，而不是免费门票。
+-   没有有效车票请勿登机。如果您的学期票尚未准备好，请先购买其他有效票价。
+
+## 不仅仅是大学设置
+
+### 登记你的柏林住址
+
+住址登记：[市住址登记处（Anmeldung）](https://service.berlin.de/dienstleistung/120686/)，搬入后两周内办理。居留许可：[外国人管理局](https://www.berlin.de/einwanderung/en/residence/study/)。文件、健康保险、居留身份和官方信件：[全国事务指南](https://germandex.com/zh/germany/admin)。
+
+登记地址有两种方式：如果您持有已激活 eID 功能的德国身份证或欧盟 eID 卡及其 PIN，可通过 [BundID 完全在线办理](https://service.berlin.de/dienstleistung/120686/)；或者预约后亲自前往 Bürgeramt 办理。请使用[全市范围搜索](https://service.berlin.de/terminvereinbarung/hinweise/)预约 - 它涵盖所有 Bürgeramt，不限于所在区。各办事处通常在清晨加载新名额，每天开放时间会释放一个新的预约日，被取消的名额也会重新出现 - 请定期查看。
+
+---
+
+Source: https://germandex.com/zh/berlin/admin
+
+Language: zh
+
+
+# 柏林 - 运动
+
+每所大学都有自己的 Hochschulsport：[ef](https://www.tu-sport.de/)\="https://www.hochschulsport.hu-berlin.de/de/angebot/sportangebot" target="\_blank" rel="noopener">href="https://www.fu-sport.de/" target="\_blank" rel="noopener">FU、HU 和 TU。
+
+大学体育网站提供数百门课程，可网上报名。符合条件的学生享优惠；报名前查看资格和现价。热门课程请关注日期并尽早报名。
+
+## 免费选择
+
+-   Tempelhofer Feld：以前是机场，现在是一大片空地，适合跑步、骑车和滑轮滑。
+-   Tiergarten 和 Volkspark Friedrichshain，适合跑步和跟朋友踢球。
+
+---
+
+Source: https://germandex.com/zh/berlin/sports
+
+Language: zh
+
+
+# 柏林 - 餐厅
+
+## 推荐
+
+### [Mustafa's](https://mustafas.de/) Gemüse Kebap
+
+柏林最有名的蔬菜烤肉卷，在 Kreuzberg 的 Mehringdamm。准备好排队。
+
+### [Monsieur Vuong](https://www.monsieurvuong.de/)
+
+家庭经营的越南菜，Alte Schönhauser Str. 46，Mitte。
+
+### [Konnopke's](https://www.konnopke-imbiss.de/) Imbiss
+
+1930 年开到现在的咖喱香肠，在 Schönhauser Allee 的 U-Bahn 轨道下面。
+
+### 吃素？这些是你最好的选择
+
+Mustafa's 是经典素食选择。大多数越南餐馆都有豆腐菜。
+
+## 便宜快捷
+
+### [Curry 36](https://curry36.de/mehringdamm/)
+
+咖喱香肠，Kreuzberg 的 Mehringdamm 36。每天营业到凌晨 5 点。
+
+### Burgermeister
+
+开在 Schlesisches Tor 的 U-Bahn 下一个旧公共厕所里的汉堡店（Oberbaumstraße 8）。
+
+---
+
+Source: https://germandex.com/zh/berlin/restaurants
+
+Language: zh
+
+
+# 柏林 - 派对
+
+### [Simon-Dach-Straße](https://www.visitberlin.de/en/going-out-simon-dach-strasse)
+
+柏林最有名的酒吧街之一，在 Friedrichshain。很适合作为夜晚的起点。
+
+### RAW-Gelände
+
+Revaler Straße 上的旧铁路场，里面有 Cassiopeia（嘻哈、演出）等俱乐部。
+
+### [Matrix](https://www.matrix-berlin.de/)
+
+Warschauer Brücke 的大型主流俱乐部。每晚都有派对，午夜前学生 5 €。
+
+### Weserstraße
+
+Neukölln 的酒吧街。酒便宜，选择多。
+
+## 须知
+
+-   柏林的俱乐部门卫很严，里面常常不让拍照。小团体去，被拒了别往心里去。
+-   [学生派对](https://www.studentenparty-berlin.de/)都列在 studentenparty-berlin.de 上。
+
+---
+
+Source: https://germandex.com/zh/berlin/party
+
+Language: zh
+
+
+# 柏林 - 超市
+
+想了解各连锁超市以及如何选择，请阅读我们的[德国超市指南](https://germandex.com/zh/germany/groceries)。本地国际食品店见下文。
+
+## 亚洲及国际超市
+
+### [Zora](https://zorastore.eu/de/pages/zora-kreuzberg) Supermarkt
+
+Kottbusser Damm 93，Kreuzberg。印度、亚洲、非洲和拉美食品。Mitte 也有分店。
+
+### [Vinh-Loi](https://www.vinhloi.de/stores)
+
+亚洲超市，Ansbacher Str. 16，Schöneberg。城里还有其他分店。
+
+### Dong Xuan Center
+
+Herzbergstraße，Lichtenberg。柏林最大的亚洲市场：六个大厅，有食品店、餐馆等。
+
+---
+
+Source: https://germandex.com/zh/berlin/groceries
+
+Language: zh
+
+
+# 波鸿 - 手续
+
+第一周的大学设置
+
+这不是完整的抵达清单。地址登记、健康保险状况以及（如果需要）居住许可是单独的任务。
+
+### 1\. [RUB](https://www.it-services.ruhr-uni-bochum.de/services/sl/semesterticket.html.de) 学生：用芯片卡在食堂付款
+
+Akafö 食堂收你的学生证（带芯片）或 MensaCard。第一次吃午饭前先充值。
+
+芯片在收银处失效？向 Akafö 工作人员询问备用 MensaCard。
+
+### 2\. RUB 学生：激活 Deutschland-Semesterticket
+
+Ruhr-Universität 在 IT 服务页面上说明了步骤。覆盖德国所有本地和区域公交、火车，所以去多特蒙德和埃森都很方便。
+
+车票缺失？检查注册及学期费付款，再按 RUB IT 服务页操作或联系 AStA。
+
+-   德国学期票涵盖当地和地区的二等舱交通，不包括 ICE/IC/EC。它是通过学期费用资助的，而不是免费门票。
+-   没有有效车票请勿登机。如果您的学期票尚未准备好，请先购买其他有效票价。
+
+## 不仅仅是大学设置
+
+### 登记你的波鸿住址
+
+住址登记：[市住址登记处（Anmeldung）](https://www.bochum.de/Buergerbuero/Dienstleistungen-und-Infos/Anmeldung-in-Bochum)，搬入后两周内办理。居留许可：[外国人管理局](https://www.bochum.de/Auslaenderbuero)。文件、健康保险、居留身份和官方信件：[全国事务指南](https://germandex.com/zh/germany/admin)。
+
+主要住所可以完全[在线登记](https://www.bochum.de/Buergerbuero/Dienstleistungen-und-Infos/Anmeldung-in-Bochum)（通过 wohnsitzanmeldung.gov.de），或预约后亲自前往 Bürgerbüro 办理。如果可约时间超过了您的两周期限，预约成功即视为按时登记 - 请携带预约确认。
+
+---
+
+Source: https://germandex.com/zh/bochum/admin
+
+Language: zh
+
+
+# 波鸿 - 运动
+
+[Hochschulsport Bochum](https://buchung.hochschulsport.ruhr-uni-bochum.de/angebote/aktueller_zeitraum/) 由 [Ruhr-Universität](https://hochschulsport-bochum.ruhr-uni-bochum.de/de/faqs-oft-gestellte-fragen) 运营。
+
+参加前须逐门课程网上报名。符合条件的学生通常价格较低；先查看资格和现价。
+
+## 免费选择
+
+-   Kemnader See，校园旁的湖。每周六早上有免费的 5 公里 parkrun。
+
+---
+
+Source: https://germandex.com/zh/bochum/sports
+
+Language: zh
+
+
+# 波鸿 - 餐厅
+
+## 推荐
+
+### Mandragora
+
+Bermuda3Eck 最早的酒吧餐厅。
+
+### [Café Tucholsky](https://cafe-tucholsky.de/)
+
+吃早餐和午餐的咖啡餐厅，工作日早上 7 点开门。
+
+### Bermuda Döner
+
+Bermuda3Eck 里的土耳其烤肉，有纯素选择。
+
+### 吃素？这些是你最好的选择
+
+Bermuda Döner 有纯素烤肉卷。
+
+---
+
+Source: https://germandex.com/zh/bochum/restaurants
+
+Language: zh
+
+
+# 波鸿 - 派对
+
+### [Bermuda3Eck](https://www.bermuda3eck.de/)
+
+波鸿的酒吧区，北威州酒吧密度最高的地方。从这里开始你的夜晚。
+
+### [Zeche](https://zeche.net/) Bochum
+
+大型俱乐部和演出场地，有主题派对。
+
+---
+
+Source: https://germandex.com/zh/bochum/party
+
+Language: zh
+
+
+# 波鸿 - 超市
+
+想了解各连锁超市以及如何选择，请阅读我们的[德国超市指南](https://germandex.com/zh/germany/groceries)。本地国际食品店见下文。
+
+## 亚洲及国际超市
+
+### Kashmir Bazar
+
+Brückstraße 40，市中心。印度和中东食品。
+
+### [Tains](https://www.mein-asiamarkt.de/Filialen/Bochum/) Asia Supermarkt
+
+Herner Straße。亚洲食品。
+
+---
+
+Source: https://germandex.com/zh/bochum/groceries
+
+Language: zh
+
+
+# 多特蒙德 - 手续
+
+第一周的大学设置
+
+这不是完整的抵达清单。地址登记、健康保险状况以及（如果需要）居住许可是单独的任务。
+
+### 1\. 在食堂刷卡或用手机付款
+
+用银行卡或手机感应支付。
+
+非接触付款失败？换一个收银台或询问 Studierendenwerk 工作人员。
+
+### 2\. [TU Dortmund](https://www.tu-dortmund.de/semesterticket/) 学生：领取 Deutschlandsemesterticket
+
+TU Dortmund 和 AStA 一起提供。覆盖德国所有本地和区域公交、火车。
+
+车票未签发？检查注册及学期费，再联系 AStA 或学生服务处。
+
+-   德国学期票涵盖当地和地区的二等舱交通，不包括 ICE/IC/EC。它是通过学期费用资助的，而不是免费门票。
+-   没有有效车票请勿登机。如果您的学期票尚未准备好，请先购买其他有效票价。
+
+## 不仅仅是大学设置
+
+### 登记你的多特蒙德住址
+
+住址登记：[市住址登记处（Anmeldung）](https://www.dortmund.de/services/wohnsitzanmeldung.html)，搬入后两周内办理。居留许可：[外国人管理局](https://application.dortmund.de/rathaus-und-verwaltung/verwaltung/amt-fuer-migration/kontakt/)。文件、健康保险、居留身份和官方信件：[全国事务指南](https://germandex.com/zh/germany/admin)。
+
+您可以完全[在线登记](https://www.dortmund.de/services/wohnsitzanmeldung.html)（身份证的 eID 功能和一个免费的 BundID 账户），或预约后亲自办理。
+
+---
+
+Source: https://germandex.com/zh/dortmund/admin
+
+Language: zh
+
+
+# 多特蒙德 - 运动
+
+[Hochschulsport Dortmund](https://hsp.tu-dortmund.de/sportangebot/) 由 TU Dortmund 运营。
+
+先购买 [Sportkarte](https://www.buchsys.ahs.tu-dortmund.de/angebote/aktueller_zeitraum/_SPORTKARTE.html)，再网上报名课程。购买前查看现价和资格。
+
+## 免费选择
+
+-   Phoenix-See：环湖的平坦宽阔步道。
+
+---
+
+Source: https://germandex.com/zh/dortmund/sports
+
+Language: zh
+
+
+# 多特蒙德 - 餐厅
+
+## 推荐
+
+### Mo's Beef
+
+汉堡，Lortzingstraße 28。
+
+### [Al Afandi](https://www.al-afandi-dortmund.de/)
+
+市中心的阿拉伯菜，Ostenhellweg 40。
+
+### [Little Italy](https://www.little-italy-dortmund.de/)
+
+Hansastraße 44 的意大利菜。大多数菜 10 € 以内。
+
+## 便宜快捷
+
+### [Wurst Willi](https://www.wurstwilli.com/)
+
+Petrikirchhof 的咖喱香肠。周一至周六。
+
+---
+
+Source: https://germandex.com/zh/dortmund/restaurants
+
+Language: zh
+
+
+# 多特蒙德 - 派对
+
+### Kreuzviertel
+
+学生酒吧区。从这里开始你的夜晚。
+
+### Kraftstoff
+
+Unionviertel 的酒吧，Augustastraße 2。每天晚上 7 点开门。
+
+### [FZW](https://fzw.de/)
+
+俱乐部和演出场地，经常有 90 年代和 2000 年代主题派对。
+
+---
+
+Source: https://germandex.com/zh/dortmund/party
+
+Language: zh
+
+
+# 多特蒙德 - 超市
+
+想了解各连锁超市以及如何选择，请阅读我们的[德国超市指南](https://germandex.com/zh/germany/groceries)。本地国际食品店见下文。
+
+## 亚洲及国际超市
+
+### [Inaivaa](https://www.inaivaa.com/visit-store)
+
+Rheinische Str. 79。印度和斯里兰卡食品。
+
+### [Tain Kim Heng](https://tkh-supermarkt.de/)
+
+Hohe Straße 62。亚洲超市。
+
+---
+
+Source: https://germandex.com/zh/dortmund/groceries
+
+Language: zh
+
+
+# 杜塞尔多夫 - 手续
+
+第一周的大学设置
+
+这不是完整的抵达清单。地址登记、健康保险状况以及（如果需要）居住许可是单独的任务。
+
+### 1\. HHU 学生：领取 [HHU Card](https://www.hhu.de/studium/bewerbung-und-einschreibung/hhu-card)
+
+在杜塞尔多夫大学（Heinrich Heine），HHU Card 同时是学生证、食堂卡、图书馆卡和 Deutschlandticket。覆盖德国所有本地和区域公交、火车。
+
+HHU Card 未到？检查 HHU 学生门户邮寄地址并联系学生服务处；用大学账号分两步激活。
+
+### 2\. 杜塞尔多夫其他大学学生：办理 MensaCard
+
+其他学校的学生在食堂用 Studierendenwerk 的 MensaCard（2.50 €）付款，并用 TopUp App 充值。
+
+TopUp 故障？向食堂收银处询问其他充值方式。
+
+-   德国学期票涵盖当地和地区的二等舱交通，不包括 ICE/IC/EC。它是通过学期费用资助的，而不是免费门票。
+-   没有有效车票请勿登机。如果您的学期票尚未准备好，请先购买其他有效票价。
+
+## 不仅仅是大学设置
+
+### 登记你的杜塞尔多夫住址
+
+住址登记：[市住址登记处（Anmeldung）](https://service.duesseldorf.de/suche/-/egov-bis-detail/dienstleistung/227/show)，搬入后两周内办理。居留许可：[外国人管理局](https://www.duesseldorf.de/auslaenderamt)。文件、健康保险、居留身份和官方信件：[全国事务指南](https://germandex.com/zh/germany/admin)。
+
+有两种登记方式：完全[在线办理](https://service.duesseldorf.de/suche/-/egov-bis-detail/dienstleistung/227/show)（已激活 eID 功能的身份证或欧盟 eID 卡及其 PIN；证件将在线更新），或亲自前往 Bürgerbüro 办理 - 必须预约。
+
+---
+
+Source: https://germandex.com/zh/duesseldorf/admin
+
+Language: zh
+
+
+# 杜塞尔多夫 - 运动
+
+[Hochschulsport Düsseldorf](https://hss-d.de/) 负责杜塞尔多夫各高校的体育课程。
+
+符合条件的学生享优惠，[注册账号](https://hss-d.de/allgemeines-organisatorisches/teilnahme-kosten-bankverbindung/)后网上报名。先查看资格和现价；热门课程很快满额。
+
+## 免费选择
+
+-   沿莱茵河滨步道跑步。
+-   HHU 校园旁的 Südpark，以及市中心的 Hofgarten。
+
+---
+
+Source: https://germandex.com/zh/duesseldorf/sports
+
+Language: zh
+
+
+# 杜塞尔多夫 - 餐厅
+
+## 推荐
+
+### [Marukin Karaage](https://www.marukin-karaage-duesseldorf.de/)
+
+Immermannstraße 一带日本街区的日式炸鸡。
+
+### [Bibimcup](https://www.bibimcup.de/)
+
+韩式拌饭，Friedrich-Ebert-Straße 3。周二至周六。
+
+### [Sattgrün](https://sattgruen.de/)
+
+纯素自助餐，在 Medienhafen（Brückenstr. 12）和 Flingern（Hoffeldstr. 18）。
+
+### 吃素？这些是你最好的选择
+
+Sattgrün 全部是纯素，Bibimcup 有素食碗。
+
+---
+
+Source: https://germandex.com/zh/duesseldorf/restaurants
+
+Language: zh
+
+
+# 杜塞尔多夫 - 派对
+
+### Altstadt
+
+「世界上最长的吧台」：老城里几百家酒吧。喝一杯 Altbier，比如在 [Uerige](https://uerige.de/)。
+
+### Die Blende
+
+Bilk 的摇滚酒吧，Friedrichstr. 122。
+
+### [Ampere](https://ampere-club.de/programm/)
+
+新开的演出和派对俱乐部。
+
+### [The Eight](https://the-eight.de/)
+
+莱茵河滨步道上的俱乐部，以十月的大型 Ersti（新生）派对出名。
+
+---
+
+Source: https://germandex.com/zh/duesseldorf/party
+
+Language: zh
+
+
+# 杜塞尔多夫 - 超市
+
+想了解各连锁超市以及如何选择，请阅读我们的[德国超市指南](https://germandex.com/zh/germany/groceries)。本地国际食品店见下文。
+
+## 亚洲及国际超市
+
+### [Dae-Yang](https://www.visitduesseldorf.de/en/attractions/dae-yang-da-yang-shi-pin-a2bfd01c49)
+
+Immermannstraße 21。日本、韩国及其他亚洲食品。
+
+### Indo-Ceylon
+
+在 Worringer Platz。印度和斯里兰卡食品。
+
+---
+
+Source: https://germandex.com/zh/duesseldorf/groceries
+
+Language: zh
+
+
+# 法兰克福 - 手续
+
+第一周的大学设置
+
+这不是完整的抵达清单。地址登记、健康保险状况以及（如果需要）居住许可是单独的任务。
+
+### 1\. 在食堂用校园卡付款
+
+Studierendenwerk Frankfurt 的食堂收你的校园卡或 MensaCard。
+
+大学卡没余额？向食堂收银处询问充值或 MensaCard。
+
+### 2\. 歌德大学学生：领取 Deutschlandsemesterticket
+
+在歌德大学，这是在 [AStA 线上门户](https://asta-frankfurt.de/angebote/kultur-mobilitaet/semesterticket)领取的电子票。覆盖德国所有本地和区域公交、火车。
+
+数字车票不可用？检查续注册（Rückmeldung）及学期费 - 车票费用已随学期费支付 - 再联系 AStA 车票支持。
+
+-   德国学期票涵盖当地和地区的二等舱交通，不包括 ICE/IC/EC。它是通过学期费用资助的，而不是免费门票。
+-   没有有效车票请勿登机。如果您的学期票尚未准备好，请先购买其他有效票价。
+
+### 3\. Frankfurt UAS 学生：激活您的 Deutschlandsemesterticket
+
+在 Frankfurt University of Applied Sciences，车票随学期费支付，仅提供数字形式。用您的大学账户在 [AStA 车票门户](https://asta-fra-uas.de/semesterticketbuero/)激活，保存在手机钱包中，并携带带照片的身份证件。每学期需重新激活。
+
+没有智能手机？请向 AStA 学期票办公室咨询芯片卡流程。
+
+## 不仅仅是大学设置
+
+### 登记你的法兰克福住址
+
+住址登记：[市住址登记处（Anmeldung）](https://frankfurt.de/service-und-rathaus/verwaltung/aemter-und-institutionen/buergeramt-statistik-und-wahlen/buergeraemter/terminservice)，搬入后两周内办理。居留许可：[外国人管理局](https://frankfurt.de/auslaenderangelegenheiten)。文件、健康保险、居留身份和官方信件：[全国事务指南](https://germandex.com/zh/germany/admin)。
+
+主要住所可以完全[在线登记](https://frankfurt.de/service-und-rathaus/verwaltung/aemter-und-institutionen/buergeramt-statistik-und-wahlen/buergeraemter/terminservice)（通过 wohnsitzanmeldung.gov.de），或亲自前往任何 Bürgeramt 办理，无论您住在法兰克福哪个区 - 必须预约。
+
+---
+
+Source: https://germandex.com/zh/frankfurt/admin
+
+Language: zh
+
+
+# 法兰克福 - 运动
+
+歌德大学的 [Zentrum für](https://www.uni-frankfurt.de/103154514/FAQ) [Hochschulsport](https://www.uni-frankfurt.de/hochschulsport) 也对 Frankfurt UAS 的学生开放。
+
+许多课程可网上报名。符合条件的学生享优惠；先查看资格和现价。关注报名日期并尽早报名。
+
+## 免费选择
+
+-   Mainufer：几公里长的河边步道，看得到天际线。
+-   Westend 校区旁的 Grüneburgpark，长跑可以去 Stadtwald。
+
+---
+
+Source: https://germandex.com/zh/frankfurt/sports
+
+Language: zh
+
+
+# 法兰克福 - 餐厅
+
+## 推荐
+
+### [Bun Bo](https://bun-bo-restaurant-frankfurt.eatbu.com/?lang=de)
+
+越南粉和拌饭碗，在 Ostend。
+
+### [Pizzeria Montana](https://www.montana-pizzeria.de/allergene-zusatzstoffe/)
+
+那不勒斯披萨，Weserstraße 14。
+
+### [Apfelwein Wagner](https://www.apfelwein-wagner.com/)
+
+1931 年开业的经典苹果酒馆，Schweizer Str. 71，Sachsenhausen。尝尝 Grüne Soße（绿酱）。
+
+### 吃素？这些是你最好的选择
+
+在 Apfelwein Wagner 点绿酱配土豆和鸡蛋，或者去 Montana 点玛格丽特披萨。
+
+---
+
+Source: https://germandex.com/zh/frankfurt/restaurants
+
+Language: zh
+
+
+# 法兰克福 - 派对
+
+### Alt-Sachsenhausen
+
+老牌酒吧区，有 Zur Buchscheer 这样的苹果酒馆。
+
+### [Gibson](https://gibson-club.de/)
+
+Zeil 上带现场舞台的俱乐部。
+
+### [Batschkapp](https://www.batschkapp.net/)
+
+演出和派对，Gwinnerstraße 5。
+
+### [Tanzhaus West](https://tanzhaus-west.de/)
+
+开在旧工厂里的 techno 和 house 俱乐部。
+
+## 须知
+
+-   学生酒吧可以去 Bockenheim（老大学区）、Nordend 和 Bornheim。
+
+---
+
+Source: https://germandex.com/zh/frankfurt/party
+
+Language: zh
+
+
+# 法兰克福 - 超市
+
+想了解各连锁超市以及如何选择，请阅读我们的[德国超市指南](https://germandex.com/zh/germany/groceries)。本地国际食品店见下文。
+
+## 亚洲及国际超市
+
+### [Indian Bazar](https://indianbazar.de/)
+
+Pfaffenwiese 58，Zeilsheim。印度食品。
+
+### [Riko](https://rikoasiasupermarkt.de/) Asia Supermarkt
+
+Heinrich-Hertz-Straße 5。亚洲食品，周一至周六营业。
+
+---
+
+Source: https://germandex.com/zh/frankfurt/groceries
+
+Language: zh
+
+
+# 汉堡 - 手续
+
+第一周的大学设置
+
+这不是完整的抵达清单。地址登记、健康保险状况以及（如果需要）居住许可是单独的任务。
+
+### 1\. 在[食堂](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-studierendenhaus)刷卡或用手机付款
+
+Studierendenwerk Hamburg 的食堂 100% 无现金。用借记卡、信用卡或手机付款，不需要充值卡。
+
+银行卡被拒？试另一张卡或手机；收银人员可帮忙。
+
+### 2\. 通过 RIDE 领取 [Deutschlandsemesterticket](https://www.hvv.de/de/service/fragen-und-antworten/semesterticket)
+
+学校会给你一个二维码，打开是 RIDE，也就是学校的车票门户。覆盖德国所有本地和区域公交、火车。
+
+找不到二维码？查看大学邮箱和公告栏，问 AStA 或学生办公室；hvv 常见问题说明 RIDE 步骤。
+
+-   德国学期票涵盖当地和地区的二等舱交通，不包括 ICE/IC/EC。它是通过学期费用资助的，而不是免费门票。
+-   没有有效车票请勿登机。如果您的学期票尚未准备好，请先购买其他有效票价。
+
+## 不仅仅是大学设置
+
+### 登记你的汉堡住址
+
+住址登记：[市住址登记处（Anmeldung）](https://www.hamburg.de/service/info/111202484/)，搬入后两周内办理。居留许可：[外国人管理局](https://welcome.hamburg.com/entry-and-residence/residence-permit/students-17520)。文件、健康保险、居留身份和官方信件：[全国事务指南](https://germandex.com/zh/germany/admin)。
+
+您可以完全[在线登记](https://www.hamburg.de/service/info/111202484/)，或前往您选择的任何 Kundenzentrum 办理。周二至周五必须预约；周一和周三可以免预约直接前往，但可能需要排队。
+
+---
+
+Source: https://germandex.com/zh/hamburg/admin
+
+Language: zh
+
+
+# 汉堡 - 运动
+
+[Hochschulsport Hamburg](https://www.hochschulsport.uni-hamburg.de/) 由汉堡各高校共享。
+
+符合条件的学生享优惠，可[网上报名](https://buchung.hochschulsport-hamburg.de/angebote/aktueller_zeitraum/)；先查看资格和现价。FlexiCard 允许不参加固定课程，灵活参加多种活动。
+
+学期课程在固定日期[开放在线报名](https://www.hochschulsport.uni-hamburg.de/sportcampus/buchsys.html)，热门课程很快报满，请在开放当天预订。
+
+## 免费选择
+
+-   环 Außenalster 湖跑一圈，大约 7.5 公里。
+-   Stadtpark 适合跑步和跟朋友玩，夏天傍晚去 Övelgönne 的易北河沙滩。
+
+---
+
+Source: https://germandex.com/zh/hamburg/sports
+
+Language: zh
+
+
+# 汉堡 - 餐厅
+
+## 推荐
+
+### [Badshah](https://badshahrestaurant.de/)
+
+2004 年起家庭经营的印度餐馆，在中央车站附近的 Bremer Reihe。以塔利套餐出名。
+
+### [Azeitona](https://azeitona.de/)
+
+Schanze 的沙拉三明治、鹰嘴豆泥和中东小菜，Beckstraße 19。
+
+### [Ibras Bistro](https://ibras-bistro-hamburg.de/)
+
+汉堡最好吃的沙拉三明治之一，Holstenstr. 185，Altona。
+
+### 吃素？这些是你最好的选择
+
+Azeitona 和 Ibras 是最好的素食选择。点炸豆丸子。
+
+## 便宜快捷
+
+### [Brücke 10](https://bruecke10.com/)
+
+Fischbrötchen（鱼肉面包），汉堡的招牌小吃，就在 Landungsbrücken。
+
+---
+
+Source: https://germandex.com/zh/hamburg/restaurants
+
+Language: zh
+
+
+# 汉堡 - 派对
+
+### Reeperbahn 与 St. Pauli
+
+汉堡有名的夜生活大街。每晚都有酒吧、俱乐部和现场音乐。
+
+### Hamburger Berg
+
+Reeperbahn 旁边的小街，满是便宜酒吧。
+
+### Sternschanze
+
+Schulterblatt 一带的酒吧和户外小酌。比 Reeperbahn 轻松。
+
+### [Molotow](https://molotowclub.com/programm/programm.php)
+
+Reeperbahn 136 的独立音乐俱乐部。演出和派对。
+
+### [Uebel & Gefährlich](https://www.uebelundgefaehrlich.com/)
+
+开在 Heiligengeistfeld 一座二战旧地堡里的俱乐部。
+
+## 须知
+
+-   周末在 Reeperbahn 看好手机和钱包。
+
+---
+
+Source: https://germandex.com/zh/hamburg/party
+
+Language: zh
+
+
+# 汉堡 - 超市
+
+想了解各连锁超市以及如何选择，请阅读我们的[德国超市指南](https://germandex.com/zh/germany/groceries)。本地国际食品店见下文。
+
+## 亚洲及国际超市
+
+### [SAIRAS](https://www.sairas.de/)
+
+Steindamm 21，中央车站附近。印度和波斯食品。
+
+### [Mehtab](https://mehtabstore.de/en/contact-us/)
+
+Lange Reihe 9，St. Georg。印度食品。
+
+### [LIARE Asia Markt](https://liare.de/)
+
+Eppendorfer Landstraße 70。亚洲食品。
+
+---
+
+Source: https://germandex.com/zh/hamburg/groceries
+
+Language: zh
+
+
+# 科隆 - 手续
+
+第一周的大学设置
+
+这不是完整的抵达清单。地址登记、健康保险状况以及（如果需要）居住许可是单独的任务。
+
+### 1\. 在食堂刷卡或用手机付款
+
+旧的 Mensakarte 已经取消了。用银行卡或手机付款。
+
+付款失败？换一个收银台或询问工作人员。
+
+### 2\. 科隆大学学生：领取数字 [Deutschlandsemesterticket](https://studsek.uni-koeln.de/studium_a_bis_z/data/semesterticket/index_ger.html)
+
+科隆大学的学期票只有电子版（2024 年 4 月起）。覆盖德国所有本地和区域公交、火车。学校会说明步骤。
+
+Ride 网站二维码加载失败？检查注册和 KLIPS 账号，再联系 AStA（KVB 车票的合同伙伴）。
+
+-   德国学期票涵盖当地和地区的二等舱交通，不包括 ICE/IC/EC。它是通过学期费用资助的，而不是免费门票。
+-   没有有效车票请勿登机。如果您的学期票尚未准备好，请先购买其他有效票价。
+
+## 不仅仅是大学设置
+
+### 登记你的科隆住址
+
+住址登记：[市住址登记处（Anmeldung）](https://www.stadt-koeln.de/service/produkte/00415/index.html)，搬入后两周内办理。居留许可：[外国人管理局](https://www.stadt-koeln.de/service/produkt/aufenthaltserlaubnis-zu-studienzwecken-1)。文件、健康保险、居留身份和官方信件：[全国事务指南](https://germandex.com/zh/germany/admin)。
+
+您可以完全[在线登记](https://www.stadt-koeln.de/service/produkte/00415/index.html)（无需前往办事处；地址贴纸将邮寄给您），或亲自前往任何 Kundenzentrum 办理，无论您的住所位于科隆哪个位置。
+
+---
+
+Source: https://germandex.com/zh/koeln/admin
+
+Language: zh
+
+
+# 科隆 - 运动
+
+[UniSport Köln](https://unisport.koeln/) 是科隆大学的体育项目。
+
+每学期一张 [Sportticket](https://unisport.koeln/ueberblick/wie_kann_ich_teilnehmen/sportticket/index_ger.html) 可参加许多课程；先查看现价和资格。冬季学期初的 Schnupperzeit 可试上任意多门课程。
+
+课程名额有限，[只能在线预订](https://unisport.koeln/ueberblick/teilnahmeregelungen/faq/index_ger.html)。每门课程在其页面上标注的日期开放报名，满员课程有候补名单，所以报名一开放就尽快预订。
+
+## 免费选择
+
+-   沿莱茵河跑步：两岸都是平路。
+-   Aachener Weiher 和 Stadtwald，适合跑步和夏天傍晚跟朋友玩。
+
+---
+
+Source: https://germandex.com/zh/koeln/sports
+
+Language: zh
+
+
+# 科隆 - 餐厅
+
+## 推荐
+
+### [Habibi](https://www.habibi-koeln.de/)
+
+Zülpicher Straße 上的人气沙拉三明治和沙威玛小店。
+
+### [Com Pho](https://www.comphokoeln.de/)
+
+Zülpicher Straße 上暖胃的越南菜。
+
+### Pastaminuta
+
+披萨和意面，Luxemburger Str. 124，Sülz。
+
+### 吃素？这些是你最好的选择
+
+Habibi 是最好的素食选择。点炸豆丸子。
+
+## 便宜快捷
+
+### [Freddy Schilling](https://www.freddyschilling.de/standorte/)
+
+三家店的新鲜汉堡：Kyffhäuserstraße、Ehrenfeld 和 Eigelstein。
+
+### Falafel Salam
+
+距大学几分钟路程的小法拉费店，Zülpicher Platz 17。素食。
+
+### [Mashery Hummus Kitchen](https://www.mashery-hummus.de/)
+
+素食鹰嘴豆泥餐厅，Roonstraße 36。鹰嘴豆泥盘配皮塔饼；大部分为纯素。
+
+---
+
+Source: https://germandex.com/zh/koeln/restaurants
+
+Language: zh
+
+
+# 科隆 - 派对
+
+### Zülpicher Straße
+
+Kwartier Latäng 的学生酒吧街。从这里开始你的夜晚。
+
+### [Das Ding](https://www.dingzone.de/)
+
+1968 年开业的学生俱乐部，Hohenstaufenring 30-32。
+
+### [Gebäude 9](https://gebaeude9.de/)
+
+Deutz 的演出和派对。想要不那么主流的，本地人都去这里。
+
+### Belgisches Viertel
+
+酒吧和咖啡馆，客群稍微成熟一点。
+
+## 须知
+
+-   狂欢节季在 11.11. 11:11 开始，二月有大型街头狂欢。全城都穿上变装。
+-   点一杯 Kölsch。服务员会一直给你上新杯，直到你把杯垫盖在杯子上。
+
+---
+
+Source: https://germandex.com/zh/koeln/party
+
+Language: zh
+
+
+# 科隆 - 超市
+
+想了解各连锁超市以及如何选择，请阅读我们的[德国超市指南](https://germandex.com/zh/germany/groceries)。本地国际食品店见下文。
+
+## 亚洲及国际超市
+
+### [Singh's Mart](https://www.singhsmart.de/)
+
+Neumarkt 33。印度和异国食品。
+
+### [Heng Long](https://henglong.de/)
+
+Aachener Str. 201-209。1000 平方米的亚洲超市。
+
+---
+
+Source: https://germandex.com/zh/koeln/groceries
+
+Language: zh
+
+
+# 慕尼黑 - 手续
+
+第一周的大学设置
+
+这不是完整的抵达清单。地址登记、健康保险状况以及（如果需要）居住许可是单独的任务。
+
+### 1\. LMU 和 TUM 学生：为 StudentCard 开启 Autoload
+
+LMU 和 TUM 的学生在[食堂](https://www.studierendenwerk-muenchen-oberbayern.de/en/gastronomie/preise-und-bezahlung/)用 StudentCard 付款。打开 Autoload，卡会自动充值。有些食堂也收银行卡。
+
+没设 Autoload？在食堂机器上给 StudentCard 充值。
+
+### 2\. 慕尼黑没有学期票
+
+学生合同在 2023 年暂停了，学生证不能当车票用。改办 Bayerisches Ermäßigungsticket：学生版 [Deutschlandticket](https://www.mvg.de/abos-tickets/abos/ermaessigungsticket.html)，每月 43 €。
+
+不符合 Bayerisches Ermäßigungsticket 资格？对比普通 Deutschlandticket；MVG 页面有现价和条件。
+
+-   没有有效车票请勿登机。如果您的学期票尚未准备好，请先购买其他有效票价。
+
+## 不仅仅是大学设置
+
+### 登记你的慕尼黑住址
+
+住址登记：[市住址登记处（Anmeldung）](https://stadt.muenchen.de/service/info/wohnsitzanmeldung/1063475/n0/)，搬入后两周内办理。居留许可：[外国人管理局](https://stadt.muenchen.de/service/info/studenten/1089339/)。文件、健康保险、居留身份和官方信件：[全国事务指南](https://germandex.com/zh/germany/admin)。
+
+如果持有已激活在线身份（eID）功能的身份证件、其六位数字 PIN 以及装有 AusweisApp 并支持 NFC 的智能手机，主要住所的登记也可以完全[在线办理](https://stadt.muenchen.de/service/info/wohnsitzanmeldung/1063475/n0/)。否则请亲自前往办理：市内任何 Bürgerbüro 都可以，不限于所在区的办事处。现场办理必须预约，但[每天会多次放出新的预约名额](https://stadt.muenchen.de/infos/terminvereinbarung-buergerbueros.html)，包括办事处开门前约 30 分钟放出的当天名额，请反复查看。
+
+---
+
+Source: https://germandex.com/zh/muenchen/admin
+
+Language: zh
+
+
+# 慕尼黑 - 运动
+
+[ZHS](https://kurse.zhs-muenchen.de/de)（[Zentraler Hochschulsport München](https://www.zhs-muenchen.de/zhs/faqs/alle-infos-rund-um-die-sportkurse/)）负责慕尼黑所有高校的体育课程。
+
+ZHS 网站提供大量课程，可网上报名。符合条件的学生享优惠；先查看资格和现价。关注报名日期并尽早报名。
+
+## 免费选择
+
+-   英国花园：世界上最大的城市公园之一，很适合跑步。
+-   伊萨尔河岸和奥林匹克公园，适合慢跑、骑车和夏天傍晚。
+
+---
+
+Source: https://germandex.com/zh/muenchen/sports
+
+Language: zh
+
+
+# 慕尼黑 - 餐厅
+
+## 推荐
+
+### [Sababa](https://www.sababa-munich.com/)
+
+就在 Viktualienmarkt 的炸豆丸子、鹰嘴豆泥和沙威玛，Westenriederstr. 9。
+
+### [Lo Studente](https://lo-studente.de/)
+
+大学区的柴火披萨，Schellingstr. 30。每天营业到午夜。
+
+### [Bánh Mì Minh](https://banhmi-minh.de/)
+
+越南法棍，Theresienstr. 79。
+
+### 吃素？这些是你最好的选择
+
+Sababa 和 MOGO 是最好的素食选择。点炸豆丸子或鹰嘴豆泥。
+
+## 便宜快捷
+
+### [MOGO](https://www.mogo-munchen.de/)
+
+黎巴嫩街头小吃、鹰嘴豆泥和卷饼，Augustenstr. 93。
+
+### Taco Company
+
+LMU 附近的塔可和墨西哥卷饼，Amalienstr. 69。
+
+### [Asia Bistro Minh](http://asia-bistrominh.de/)
+
+越南、泰国和中餐，Amalienstr. 37。靠近慕尼黑大学，可外带。
+
+## 印度餐厅
+
+### [Dhaba Münchner Freiheit](https://www.dhaba.de/dhabamunchnerfreiheit)
+
+位于 Schwabing 的印度咖喱和坦都里餐厅，Herzogstr. 1b。靠近 Münchner Freiheit，可堂食。
+
+---
+
+Source: https://germandex.com/zh/muenchen/restaurants
+
+Language: zh
+
+
+# 慕尼黑 - 派对
+
+### [Neuraum](https://neuraum.de/)
+
+Hackerbrücke 的大型俱乐部，有好几个区。流行金曲和派对音乐。
+
+### [089 Bar](https://089-bar.de/)
+
+Maximiliansplatz 的学生派对，营业到凌晨 5 点。
+
+### [Backstage](https://www.backstage.eu/)
+
+演出、派对和啤酒花园都在一个地方。
+
+### Beisl
+
+Viktualienmarkt 的酒吧，号称城里最便宜的之一。
+
+### [Giesinger](https://giesinger-braeu.de/en/pages/stehausschanke) Bräu Stehausschank
+
+位于 Maxvorstadt 的站饮啤酒吧，Augustenstr. 90。工作日有下班后啤酒优惠。
+
+## 须知
+
+-   啤酒花园是慕尼黑夏天的客厅。在传统的啤酒花园，比如英国花园里的中国塔，可以带自己的食物到自助区。
+-   啤酒节从九月底到十月初。想要座位就工作日下午去。
+-   Maxvorstadt 是大学区，有学生常去的酒吧。户外聚会时注意音量，并带走垃圾。
+
+---
+
+Source: https://germandex.com/zh/muenchen/party
+
+Language: zh
+
+
+# 慕尼黑 - 超市
+
+想了解各连锁超市以及如何选择，请阅读我们的[德国超市指南](https://germandex.com/zh/germany/groceries)。本地国际食品店见下文。
+
+## 亚洲及国际超市
+
+### Indian Shop München
+
+Altheimer Eck 9，老城。印度食品和香料。
+
+### [Bollywood Store](http://www.bollywood-store.com/)
+
+Augustenstraße，Maxvorstadt。印度和亚洲食品、香料、印度香米和新鲜蔬果。
+
+---
+
+Source: https://germandex.com/zh/muenchen/groceries
+
+Language: zh
+
+
+# 埃尔兰根 - 手续
+
+第一周的大学设置
+
+这不是完整的抵达清单。地址登记、健康保险状况以及（如果需要）居住许可是单独的任务。
+
+### 1\. 登记你的[埃尔朗根地址](https://erlangen.de/service/365)
+
+搬入后两周内必须登记。请带上身份证或护照、房东确认书（Wohnungsgeberbestätigung）和登记表。逾期登记可被罚款，最高1,000欧元。
+
+在线登记需要带在线功能的身份证，目前面向德国公民和持eID的欧盟公民；非欧盟居留许可仍在规划中。如需前往市政厅（Rathausplatz 1），请[在线预约](https://erlangen.flexappoint.de/)。
+
+### 2\. [FAU](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/faucard/)学生：领取你的FAUcard
+
+FAUcard免费。它是你的学生证、图书证、电子钱包、复印卡和门禁钥匙。入学后，待你的IdM账户创建完成，会通过邮寄送达。
+
+从第二学期起，每次重新注册后都要在验证站重新验证，例如在Kollegienhaus（Universitätsstraße 15）。大约需要30秒。
+
+### 3\. FAU学生：使用Mensa
+
+在任何[Studierendenwerk](https://www.werkswelt.de/index.php?id=kartensystem)食堂或咖啡厅的机器上给FAUcard充值，然后刷卡付款。
+
+### 4\. FAU学生：购买优惠版Deutschlandticket
+
+埃尔朗根已不再有学期票。[FAU](https://www.fau.de/studium/studentisches-leben/studierendenmobilitaet/)建议学生购买[VGN](https://www.vgn.de/ermaessigungsticket-studi)的优惠版Deutschlandticket：每个日历月43欧元，在德国全国范围内的本地和区域交通有效。可在VGN网店或应用购买。需处理后才会送达，所以不能立刻使用。
+
+-   不含头等舱、IC/ICE列车、长途巴士，也不能带狗或自行车。请随身携带身份证件。
+-   FAUcard不是车票。VGN区域覆盖埃尔朗根、纽伦堡和菲尔特，所以同一张票可用于FAU在这三座城市的校区。
+-   可按月取消。
+
+本地来源已于2026年10月22日核对。请查看所附链接页面了解最新价格和规则。
+
+---
+
+Source: https://germandex.com/zh/erlangen/admin
+
+Language: zh
+
+
+# 埃尔兰根 - 运动
+
+## FAU学生：Hochschulsport
+
+[FAU Hochschulsport](https://www.hochschulsport.fau.de/startseite/)每学期开设150多门课程，从团队运动到健身、户外和放松都有。
+
+只能在线报名，课程开始前约7天开放。请使用你的@fau.de邮箱，并准备好IBAN；银行须参与SEPA。
+
+每门课程收费。学生适用最低档，另加每次参与2欧元的管理费。请看[参与规则](https://www.hochschulsport.fau.de/teilnahmeinformationen/)。
+
+### 浏览[课程列表](https://www.hochschulsport.fau.de/kurse-classes/)
+
+预订有限制：通常每人每类最多三项，总共最多五项。网站正在改版；如果页面显示异常，请使用Courses菜单。
+
+本地来源已于2026年10月22日核对。请查看所附链接页面了解最新价格和规则。
+
+---
+
+Source: https://germandex.com/zh/erlangen/sports
+
+Language: zh
+
+
+# 埃尔兰根 - 餐厅
+
+## 校园内
+
+### [Südmensa](https://www.werkswelt.de/?id=sued)
+
+Studierendenwerk食堂，位于Erwin-Rommel-Straße 60，设有咖啡厅和咖啡吧。每日菜单和营业时间见其页面；学期假期营业时间会变化。
+
+### Studierendenwerk的其他餐饮点
+
+[Studierendenwerk](https://werkswelt.de/index.php?id=mensen-cafeterien-cafebars)还列出埃尔朗根的Mensa Langemarckplatz和Cafeteria Kochstraße。请在各自页面查看当前菜单和营业时间。
+
+### 吃素或纯素？
+
+Mensa菜单会标出素食和纯素菜品。请查看当天菜单。
+
+校外：我们尚未通过一手来源核实这座城市的任何餐厅，所以宁可一家不列，也不乱猜。2026年10月22日核对。
+
+---
+
+Source: https://germandex.com/zh/erlangen/restaurants
+
+Language: zh
+
+
+# 埃尔兰根 - 派对
+
+### [Zirkel](https://zirkel-club.de/)
+
+位于老城Hauptstraße 105的学生俱乐部和迪斯科。接下来几晚的安排列在其网站上。
+
+### [E-Werk Kulturzentrum](https://www.e-werk.de/das-kulturzentrum-e-werk/)
+
+德国较大的社会文化中心之一，位于Fuchsenwiese 1：四个活动厅、一家电影院和一个啤酒花园。举办音乐会、学生派对和俱乐部之夜；请看其[派对页面](https://www.e-werk.de/programm/partys/)。
+
+## 须知
+
+-   活动安排和入场价格每周都会变。出发当天请查看场地自己的页面。
+-   E-Werk电影院放映原声带字幕电影（OmU）。
+
+本地来源已于2026年10月22日核对。请查看所附链接页面了解最新价格和规则。
+
+---
+
+Source: https://germandex.com/zh/erlangen/party
+
+Language: zh
+
+
+# 埃尔兰根 - 超市
+
+想了解各连锁超市以及如何选择，请阅读我们的[德国超市指南](https://germandex.com/zh/germany/groceries)。本地国际食品店见下文。
+
+## 亚洲及国际超市
+
+### [Want Want Asia Supermarkt](https://www.wantwant-asia.de/%C3%BCber-uns/)
+
+Nägelsbachstr. 26 / Sedanstr. 1。经营中国大陆、台湾、日本、韩国和东南亚的亚洲食品。据其网站，周一至周六9:00至20:00营业。
+
+本地来源已于2026年10月22日核对。请查看所附链接页面了解最新价格和规则。
+
+---
+
+Source: https://germandex.com/zh/erlangen/groceries
+
+Language: zh
+
+
+# 埃尔兰根 - 埃尔朗根住房
+
+找到房间，了解你要签署的内容。
+
+### 先从Studierendenwerk Erlangen-Nürnberg开始
+
+只能在线申请。Studierendenwerk列出3,600多个床位，从单人间到家庭公寓，并为埃尔朗根和纽伦堡提供免费的私人房源介绍服务。冬季学期前的几周最难找房，对国际学生和较晚拿到录取的人尤其如此。
+
+[Studierendenwerk Erlangen-Nürnberg住房](https://werkswelt.de/index.php?id=wohnen)
+
+## 同时继续寻找其他住房
+
+申请宿舍不等于订到房间。等待期间，请同时比较合租房间和私人出租房。付款前先核实地址、房东或主租户、每月总费用和合同。
+
+## 签约前
+
+押金、杂费、入住证明和防骗检查：签约前请阅读[德国住房指南](https://germandex.com/zh/germany/housing)。
+
+本地来源已于2026年10月22日核对。请查看所附链接页面了解最新价格和规则。
+
+---
+
+Source: https://germandex.com/zh/erlangen/housing
+
+Language: zh
+
+
+# 埃尔兰根 - 埃尔朗根就医
+
+找到正确的帮助，不必猜测该去哪儿。
+
+### 寻找附近的医生
+
+用116117医生搜索，输入埃尔朗根或你的邮编。一般看病先找Hausarzt（家庭医生）；去之前核对诊所联系方式，并询问预约和你的保险情况。
+
+[在埃尔朗根找医生](https://arztsuche.116117.de/)
+
+## 紧急情况或非营业时间？
+
+在办公时间内，联系 Hausarzt（全科医生）。当地的 Apotheke（药房）可以提供药物建议。对于无法等到诊所重新开放但不危及生命的紧急疾病，请致电 116117。对于危及生命的紧急情况或可能造成持久伤害，请致电 112。当不确定生命是否有危险时，请致电 112。
+
+[医疗帮助和紧急电话号码](https://gesund.bund.de/notfallnummern)
+
+## 医院急诊科
+
+Uniklinikum Erlangen列出全天候急诊：外科在Krankenhausstr. 12（入口在Maximiliansplatz），电话09131 85-33260；内科在Ulmenweg 18，电话09131 85-35420；儿科在Loschgestr. 15，电话09131 85-33118。危及生命的紧急情况请拨112。
+
+[Uniklinikum Erlangen急诊科](https://www.uk-erlangen.de/944/)
+
+## 埃尔朗根药房
+
+用紧急药房搜索，输入你的埃尔朗根地址或邮编。值班表会变化；出发前请查看当前结果。
+
+[寻找值班药房](https://www.aponet.de/notdienstsuche/-)
+
+本地来源已于2026年10月22日核对。诊所搜索结果不等于已确认的预约。
+
+---
+
+Source: https://germandex.com/zh/erlangen/medical
+
+Language: zh
+
+
+# 图宾根 - 手续
+
+第一周的大学设置
+
+这不是完整的抵达清单。地址登记、健康保险状况以及（如果需要）居住许可是单独的任务。
+
+### 1\. 登记你的[图宾根地址](https://www.tuebingen.de/verwaltung/verfahren/anmeldung_wohnsitz)
+
+搬入后两周内必须登记。免费。请带上身份证或护照和房东确认书（Wohnungsgeberbescheinigung）。逾期登记属违规，可能被罚款。
+
+带在线功能的身份证可以在线登记。现场办理时，Bürgerbüro（Schmiedtorstraße 4）只接受预约；请[在线预约](https://www.tuebingen.de/dienststellen)。
+
+### 2\. [图宾根大学](https://uni-tuebingen.de/studium/studienorganisation/administration/chipkarte/)学生：领取你的学生卡
+
+入学后，Studierendensekretariat会把芯片卡寄给你。它是你的学生证，可开启部分楼宇的门，并可在Mensa和复印机付款。
+
+每次重新注册后，在自助终端更新学期印记。补办遗失的卡需15欧元，未用完的余额不退。
+
+### 3\. 学生：使用Mensa
+
+在[Studierendenwerk](https://www.my-stuwe.de/mensa/bezahlung/)食堂和咖啡厅，用学生卡或Mensakarte付款。Autoload是可选的；你也可以在校园内的机器上充值。
+
+### 4\. 图宾根大学学生：购买[naldo学期票](https://www.naldo.de/tickets/semesterticket/)
+
+学期票覆盖整个naldo网络，只按整个学期出售。入学或重新注册后，在naldo Studi-Web-Shop购买。它是手机票，附带Print@Home副本，只能配合你当前的学生证使用，不可转让。
+
+-   naldo自2025年10月1日起生效的价格表列出每学期161.10欧元。[大学页面](https://uni-tuebingen.de/studium/rund-ums-studium/semesterticket/)仍显示旧价格，请在网店确认当前价格。
+-   没有车票时，你的学生证在naldo公交和火车上周一至周五19:00后有效，周末和巴登-符腾堡州公共假日全天有效。大学页面提到一项过渡规则，请查看。
+
+本地来源已于2026年10月22日核对。请查看所附链接页面了解最新价格和规则。
+
+---
+
+Source: https://germandex.com/zh/tuebingen/admin
+
+Language: zh
+
+
+# 图宾根 - 运动
+
+## 图宾根大学学生：Hochschulsport
+
+[Hochschulsport Tübingen](https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/)每学期提供350多门课程。请在[预订页面](https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/m.html)在线预订。
+
+该页面公布了2026/27冬季学期的报名，网球课程将于2026年10月23日17:00开放报名。
+
+Hochschulsport办公室位于Wilhelmstr. 124。
+
+### 查看当前[报名日期](https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/m.html)
+
+热门课程可能很快满员。各课程报名时间不同；设闹钟前请先查看预订页面。
+
+本地来源已于2026年10月22日核对。请查看所附链接页面了解最新价格和规则。
+
+---
+
+Source: https://germandex.com/zh/tuebingen/sports
+
+Language: zh
+
+
+# 图宾根 - 餐厅
+
+## 校园内
+
+### [Mensa Wilhelmstraße](https://www.my-stuwe.de/mensa/mensa-wilhelmstrasse-tuebingen/)
+
+Studierendenwerk食堂，位于Wilhelmstraße 13。每日菜单见其页面。Studierendenwerk说，过敏原和添加剂标注只在取餐台显示，请在那里核对。
+
+### [Mensa Morgenstelle](https://www.my-stuwe.de/mensa/mensa-morgenstelle-tuebingen/)
+
+图宾根的另一家Studierendenwerk Mensa。请在其页面查看当前菜单和营业时间。
+
+### [Asien-Haus Imbiss](https://www.asien-haus.net/)
+
+老城的泰式外带窗口，Schmiedtorstraße 7和11：午餐时间供应汤面和每日更换的菜品，据其网站，周一至周五11:30至15:00。
+
+### 吃素或纯素？
+
+Mensa菜单会标出素食和纯素菜品。请查看当天菜单。
+
+校外：我们尚未通过一手来源核实这座城市的任何餐厅，所以宁可一家不列，也不乱猜。2026年10月22日核对。
+
+---
+
+Source: https://germandex.com/zh/tuebingen/restaurants
+
+Language: zh
+
+
+# 图宾根 - 派对
+
+### [Kuckuck](https://kuckuck-bar.de/)
+
+由学生为学生经营的酒吧和俱乐部。节目有卡拉OK、酒吧问答、啤酒乒乓和主题之夜。
+
+### [Sudhaus](https://www.sudhaus-tuebingen.de/veranstaltungen/party.html)
+
+位于Hechinger Straße 203的场地，定期举办派对之夜，例如播放70、80、90年代音乐的Zeitgeist。
+
+## 须知
+
+-   活动安排和入场价格每周都会变。出发当天请查看场地自己的页面。
+
+本地来源已于2026年10月22日核对。请查看所附链接页面了解最新价格和规则。
+
+---
+
+Source: https://germandex.com/zh/tuebingen/party
+
+Language: zh
+
+
+# 图宾根 - 超市
+
+想了解各连锁超市以及如何选择，请阅读我们的[德国超市指南](https://germandex.com/zh/germany/groceries)。本地国际食品店见下文。
+
+## 亚洲及国际超市
+
+### [Asien-Haus](https://www.asien-haus.net/)
+
+Schmiedtorstraße 7和11，位于老城，1997年起营业。200多平方米的亚洲食品、新鲜蔬菜和香草、有机产品和餐具。据其网站，商店周一至周五10:00至19:00、周六10:00至15:00营业，周日休息。
+
+本地来源已于2026年10月22日核对。请查看所附链接页面了解最新价格和规则。
+
+---
+
+Source: https://germandex.com/zh/tuebingen/groceries
+
+Language: zh
+
+
+# 图宾根 - 图宾根住房
+
+找到房间，了解你要签署的内容。
+
+### 先从Studierendenwerk Tübingen-Hohenheim开始
+
+只能在线申请。拿到录取通知前也可以申请，但收到后请立即提交。冬季学期的申请自4月1日开放，夏季学期的申请自上一年10月1日开放。情侣和家庭每位成年人各需一份申请，且至少一人已被录取或已注册。
+
+[Studierendenwerk Tübingen-Hohenheim住房](https://www.my-stuwe.de/wohnen/online-bewerbung/)
+
+## 同时继续寻找其他住房
+
+申请宿舍不等于订到房间。等待期间，请同时比较合租房间和私人出租房。付款前先核实地址、房东或主租户、每月总费用和合同。
+
+## 签约前
+
+押金、杂费、入住证明和防骗检查：签约前请阅读[德国住房指南](https://germandex.com/zh/germany/housing)。
+
+本地来源已于2026年10月22日核对。请查看所附链接页面了解最新价格和规则。
+
+---
+
+Source: https://germandex.com/zh/tuebingen/housing
+
+Language: zh
+
+
+# 图宾根 - 图宾根就医
+
+找到正确的帮助，不必猜测该去哪儿。
+
+### 寻找附近的医生
+
+用KV Baden-Württemberg诊所搜索，输入图宾根或你的邮编。一般看病先找Hausarzt（家庭医生）；去之前核对诊所联系方式，并询问预约和你的保险情况。
+
+[在图宾根找医生](https://www.kvbawue.de/patienten/praxissuche)
+
+## 紧急情况或非营业时间？
+
+在办公时间内，联系 Hausarzt（全科医生）。当地的 Apotheke（药房）可以提供药物建议。对于无法等到诊所重新开放但不危及生命的紧急疾病，请致电 116117。对于危及生命的紧急情况或可能造成持久伤害，请致电 112。当不确定生命是否有危险时，请致电 112。
+
+[医疗帮助和紧急电话号码](https://gesund.bund.de/notfallnummern)
+
+## 医院急诊科
+
+Universitätsklinikum Tübingen在Hoppe-Seyler-Str. 3列出其Zentrale Notaufnahme。诊所下班后，你也可以拨打116117、使用docdirekt，或前往Klinikum的急诊诊所。中毒：Giftzentrale Baden-Württemberg，0761 192-40。危及生命的紧急情况请拨112。
+
+[Universitätsklinikum Tübingen急诊页面](https://www.medizin.uni-tuebingen.de/de/kontakt/notfall)
+
+## 图宾根药房
+
+用紧急药房搜索，输入你的图宾根地址或邮编。值班表会变化；出发前请查看当前结果。
+
+[寻找值班药房](https://www.aponet.de/notdienstsuche/-)
+
+本地来源已于2026年10月22日核对。诊所搜索结果不等于已确认的预约。
+
+---
+
+Source: https://germandex.com/zh/tuebingen/medical
+
+Language: zh
+
+
+# 明斯特 - 运动
+
+第一周的大学设置
+
+这不是完整的抵达清单。地址登记、健康保险状况以及（如果需要）居住许可是单独的任务。
+
+### 1\. 买辆自行车
+
+自行车（明斯特叫「Leeze」）是主要的出行方式。这座城市就是为骑车设计的。
+
+### 2\. 食堂无现金付款
+
+食堂不收现金。用学生证、MensaCard 或银行卡付款。
+
+付款失败？换一个收银台或询问工作人员。
+
+### 3\. [明斯特大学](https://www.uni-muenster.de/studium/orga/studienverwaltung/selfservice.html)学生：下载学期车票
+
+在明斯特大学，你在 SelfService 门户领取。覆盖德国所有本地和区域公交、火车。
+
+SelfService 没有车票？检查续注册和学期费，再联系学生管理处。
+
+-   德国学期票涵盖当地和地区的二等舱交通，不包括 ICE/IC/EC。它是通过学期费用资助的，而不是免费门票。
+-   没有有效车票请勿登机。如果您的学期票尚未准备好，请先购买其他有效票价。
+
+## 不仅仅是大学设置
+
+### 登记你的明斯特住址
+
+住址登记：[市住址登记处（Anmeldung）](https://www.stadt-muenster.de/buergerservice/meldeangelegenheiten/anmeldung)，搬入后两周内办理。居留许可：[外国人管理局](https://www.stadt-muenster.de/aufenthaltsrecht/studium-und-promotion/waehrend-des-studiums)。文件、健康保险、居留身份和官方信件：[全国事务指南](https://germandex.com/zh/germany/admin)。
+
+您可以完全[在线登记](https://www.stadt-muenster.de/buergerservice/meldeangelegenheiten/anmeldung)（证件芯片将在线更新，地址贴纸邮寄给您），或预约后亲自前往 Bürgerbüro 或 Bezirksverwaltung 办理。
+
+---
+
+Source: https://germandex.com/zh/muenster/admin
+
+Language: zh
+
+
+# 明斯特 - 运动
+
+[Hochschulsport Münster](https://www.uni-muenster.de/Hochschulsport/) 提供多种体育活动。
+
+提供灵活的 [Sportpass](https://www.uni-muenster.de/Hochschulsport/mitglied/mitgliedschaften.shtml) 会员制而非单门课程，另有 Campus Gym。网上报名之前查看当前会员价格和资格。
+
+## 免费选择
+
+-   环 Aasee 湖跑一圈。
+-   Promenade：环绕老城的绿道，只允许自行车和行人通行。
+
+---
+
+Source: https://germandex.com/zh/muenster/sports
+
+Language: zh
+
+
+# 明斯特 - 餐厅
+
+## 推荐
+
+### [Cavete](https://cavete-muenster.de/)
+
+明斯特 Kuhviertel 的「学术啤酒屋」，Kreuzstraße 37/38。意面和啤酒。
+
+### [Pinkus Müller](https://www.pinkus.de/)
+
+1816 年开业的啤酒屋，Kreuzstr. 7-10。威斯特法伦菜。
+
+### [Das Blaue Haus](https://www.blaue-haus-muenster.de/)
+
+有威斯特法伦菜的学生酒吧，Kreuzstraße 16-17。
+
+---
+
+Source: https://germandex.com/zh/muenster/restaurants
+
+Language: zh
+
+
+# 明斯特 - 派对
+
+### Kuhviertel
+
+Kreuzstraße 一带的老城酒吧区。从这里开始你的夜晚。
+
+### Hafen 与 Hawerkamp
+
+港口附近的俱乐部和酒吧。
+
+### [Sputnikhalle](https://sputnikhalle.de/partys/)
+
+从电子到哥特的各种派对，还有演出。
+
+### [Gazelle](https://www.gazelle.ms/)
+
+市区的舞厅。
+
+---
+
+Source: https://germandex.com/zh/muenster/party
+
+Language: zh
+
+
+# 明斯特 - 超市
+
+想了解各连锁超市以及如何选择，请阅读我们的[德国超市指南](https://germandex.com/zh/germany/groceries)。本地国际食品店见下文。
+
+## 亚洲及国际超市
+
+### [Jaffna Supermarkt](https://www.jaffna-supermarkt.de/)
+
+Wolbecker Str. 16a，在 Hansaplatz。亚洲和印度食品。
+
+### go asia
+
+Salzstraße 20，老城。大型亚洲超市。
+
+---
+
+Source: https://germandex.com/zh/muenster/groceries
+
+Language: zh
+
+
+# 亚琛 - 亚琛的住房
+
+找到房间，了解你要签署的内容。
+
+### 先查看 Studierendenwerk Aachen
+
+可在录取或注册前申请，签租约时需提供在读证明。入住日期和房型越灵活，机会越大。住房页面目前报告申请平台故障；请查看最新通知，无法申请时联系住房团队。
+
+[Studierendenwerk Aachen 住房](https://www.studierendenwerk-aachen.de/de/wohnen.html)
+
+## 同时继续寻找其他住房
+
+宿舍申请并非预订。等待期间请比较亚琛的合住房间和私人出租房。付款前核实地址、房东或主租客、每月总费用和合同。
+
+## 签约前
+
+押金、杂费、入住证明和防骗检查：签约前请阅读[德国住房指南](https://germandex.com/zh/germany/housing)。
+
+诈骗警告：在汇款或敏感文件之前验证人员和房间。 RWTH 就虚假报价和要求押金接收钥匙的行为发出警告。其住房咨询服务可以帮助 RWTH 学生检查可疑的报价。
+
+本地来源核查于 2026 年 10 月 1 日。最新资格要求和空房情况请向提供方确认。
+
+---
+
+Source: https://germandex.com/zh/aachen/housing
+
+Language: zh
+
+
+# 亚琛 - 亚琛的医疗帮助
+
+找到正确的帮助，不必猜测该去哪儿。
+
+### 寻找附近的医生
+
+在 KV Nordrhein 诊所搜索中输入亚琛或你的邮政编码。一般医疗先联系 Hausarzt（家庭医生）；出发前核实诊所联系方式，并询问预约和保险。
+
+[寻找亚琛的医生](https://patienten.kvno.de/praxissuche)
+
+## 紧急情况或非营业时间？
+
+在办公时间内，联系 Hausarzt（全科医生）。当地的 Apotheke（药房）可以提供药物建议。对于无法等到诊所重新开放但不危及生命的紧急疾病，请致电 116117。对于危及生命的紧急情况或可能造成持久伤害，请致电 112。当不确定生命是否有危险时，请致电 112。
+
+[医疗帮助和紧急电话号码](https://gesund.bund.de/notfallnummern)
+
+## 亚琛的药房
+
+使用值班药房搜索，输入你在亚琛的地址或邮政编码。值班安排会变化；出发前查看最新结果。
+
+[寻找值班药房](https://www.aponet.de/notdienstsuche/-)
+
+本地查询来源核查于 2026 年 10 月 1 日。诊所搜索结果不代表已确认预约。
+
+---
+
+Source: https://germandex.com/zh/aachen/medical
+
+Language: zh
+
+
+# 柏林 - 柏林的住房
+
+找到房间，了解你要签署的内容。
+
+### 先查看 studierendenWERK BERLIN
+
+使用住房平台申请并管理申请。申请前检查参与的柏林大学名单和最新联系通知。
+
+[studierendenWERK BERLIN 住房](https://www.stw.berlin/en/housing/housing-portal.html)
+
+## 同时继续寻找其他住房
+
+宿舍申请并非预订。等待期间请比较柏林的合住房间和私人出租房。付款前核实地址、房东或主租客、每月总费用和合同。
+
+## 签约前
+
+押金、杂费、入住证明和防骗检查：签约前请阅读[德国住房指南](https://germandex.com/zh/germany/housing)。
+
+本地来源核查于 2026 年 10 月 1 日。最新资格要求和空房情况请向提供方确认。
+
+---
+
+Source: https://germandex.com/zh/berlin/housing
+
+Language: zh
+
+
+# 柏林 - 柏林的医疗帮助
+
+找到正确的帮助，不必猜测该去哪儿。
+
+### 寻找附近的医生
+
+在 116117 诊所搜索中输入柏林或你的邮政编码。一般医疗先联系 Hausarzt（家庭医生）；出发前核实诊所联系方式，并询问预约和保险。
+
+[寻找柏林的医生](https://arztsuche.116117.de/)
+
+## 紧急情况或非营业时间？
+
+在办公时间内，联系 Hausarzt（全科医生）。当地的 Apotheke（药房）可以提供药物建议。对于无法等到诊所重新开放但不危及生命的紧急疾病，请致电 116117。对于危及生命的紧急情况或可能造成持久伤害，请致电 112。当不确定生命是否有危险时，请致电 112。
+
+[医疗帮助和紧急电话号码](https://gesund.bund.de/notfallnummern)
+
+## 柏林的药房
+
+使用值班药房搜索，输入你在柏林的地址或邮政编码。值班安排会变化；出发前查看最新结果。
+
+[寻找值班药房](https://www.aponet.de/notdienstsuche/-)
+
+本地查询来源核查于 2026 年 10 月 1 日。诊所搜索结果不代表已确认预约。
+
+---
+
+Source: https://germandex.com/zh/berlin/medical
+
+Language: zh
+
+
+# 波鸿 - 波鸿的住房
+
+找到房间，了解你要签署的内容。
+
+### 先查看 AKAFÖ
+
+AKAFÖ 在其服务大学附近提供合住房间、公寓和家庭住房。比较有家具和无家具的选项，申请前确认你的大学是否在服务范围内。
+
+[AKAFÖ 住房](https://www.akafoe.de/wohnen/mietinteressenten)
+
+## 同时继续寻找其他住房
+
+宿舍申请并非预订。等待期间请比较波鸿的合住房间和私人出租房。付款前核实地址、房东或主租客、每月总费用和合同。
+
+## 签约前
+
+押金、杂费、入住证明和防骗检查：签约前请阅读[德国住房指南](https://germandex.com/zh/germany/housing)。
+
+本地来源核查于 2026 年 10 月 1 日。最新资格要求和空房情况请向提供方确认。
+
+---
+
+Source: https://germandex.com/zh/bochum/housing
+
+Language: zh
+
+
+# 波鸿 - 波鸿的医疗帮助
+
+找到正确的帮助，不必猜测该去哪儿。
+
+### 寻找附近的医生
+
+在 KV Westfalen-Lippe 诊所搜索中输入波鸿或你的邮政编码。一般医疗先联系 Hausarzt（家庭医生）；出发前核实诊所联系方式，并询问预约和保险。
+
+[寻找波鸿的医生](https://www.kvwl.de/arztsuche)
+
+## 紧急情况或非营业时间？
+
+在办公时间内，联系 Hausarzt（全科医生）。当地的 Apotheke（药房）可以提供药物建议。对于无法等到诊所重新开放但不危及生命的紧急疾病，请致电 116117。对于危及生命的紧急情况或可能造成持久伤害，请致电 112。当不确定生命是否有危险时，请致电 112。
+
+[医疗帮助和紧急电话号码](https://gesund.bund.de/notfallnummern)
+
+## 波鸿的药房
+
+使用值班药房搜索，输入你在波鸿的地址或邮政编码。值班安排会变化；出发前查看最新结果。
+
+[寻找值班药房](https://www.aponet.de/notdienstsuche/-)
+
+本地查询来源核查于 2026 年 10 月 1 日。诊所搜索结果不代表已确认预约。
+
+---
+
+Source: https://germandex.com/zh/bochum/medical
+
+Language: zh
+
+
+# 多特蒙德 - 多特蒙德的住房
+
+找到房间，了解你要签署的内容。
+
+### 先查看 Studierendenwerk Dortmund
+
+从 Studierendenwerk 的住房页面查看宿舍、当前房源和申请常见问题。确认你所在大学的申请条件，同时继续独立找房。
+
+[Studierendenwerk Dortmund 住房](https://www.stwdo.de/wohnen)
+
+## 同时继续寻找其他住房
+
+宿舍申请并非预订。等待期间请比较多特蒙德的合住房间和私人出租房。付款前核实地址、房东或主租客、每月总费用和合同。
+
+## 签约前
+
+押金、杂费、入住证明和防骗检查：签约前请阅读[德国住房指南](https://germandex.com/zh/germany/housing)。
+
+本地来源核查于 2026 年 10 月 1 日。最新资格要求和空房情况请向提供方确认。
+
+---
+
+Source: https://germandex.com/zh/dortmund/housing
+
+Language: zh
+
+
+# 多特蒙德 - 多特蒙德的医疗帮助
+
+找到正确的帮助，不必猜测该去哪儿。
+
+### 寻找附近的医生
+
+在 KV Westfalen-Lippe 诊所搜索中输入多特蒙德或你的邮政编码。一般医疗先联系 Hausarzt（家庭医生）；出发前核实诊所联系方式，并询问预约和保险。
+
+[寻找多特蒙德的医生](https://www.kvwl.de/arztsuche)
+
+## 紧急情况或非营业时间？
+
+在办公时间内，联系 Hausarzt（全科医生）。当地的 Apotheke（药房）可以提供药物建议。对于无法等到诊所重新开放但不危及生命的紧急疾病，请致电 116117。对于危及生命的紧急情况或可能造成持久伤害，请致电 112。当不确定生命是否有危险时，请致电 112。
+
+[医疗帮助和紧急电话号码](https://gesund.bund.de/notfallnummern)
+
+## 多特蒙德的药房
+
+使用值班药房搜索，输入你在多特蒙德的地址或邮政编码。值班安排会变化；出发前查看最新结果。
+
+[寻找值班药房](https://www.aponet.de/notdienstsuche/-)
+
+本地查询来源核查于 2026 年 10 月 1 日。诊所搜索结果不代表已确认预约。
+
+---
+
+Source: https://germandex.com/zh/dortmund/medical
+
+Language: zh
+
+
+# 杜塞尔多夫 - 杜塞尔多夫的住房
+
+找到房间，了解你要签署的内容。
+
+### 先查看 Studierendenwerk Düsseldorf
+
+HHU 和 Hochschule Düsseldorf 的学生属于符合宿舍申请资格的群体。请选择杜塞尔多夫地点：同一提供方也服务其他城市。设有等待名单，建议尽早申请。
+
+[Studierendenwerk Düsseldorf 住房](https://www.stw-d.de/studentisches-wohnen/)
+
+## 同时继续寻找其他住房
+
+宿舍申请并非预订。等待期间请比较杜塞尔多夫的合住房间和私人出租房。付款前核实地址、房东或主租客、每月总费用和合同。
+
+## 签约前
+
+押金、杂费、入住证明和防骗检查：签约前请阅读[德国住房指南](https://germandex.com/zh/germany/housing)。
+
+本地来源核查于 2026 年 10 月 1 日。最新资格要求和空房情况请向提供方确认。
+
+---
+
+Source: https://germandex.com/zh/duesseldorf/housing
+
+Language: zh
+
+
+# 杜塞尔多夫 - 杜塞尔多夫的医疗帮助
+
+找到正确的帮助，不必猜测该去哪儿。
+
+### 寻找附近的医生
+
+在 KV Nordrhein 诊所搜索中输入杜塞尔多夫或你的邮政编码。一般医疗先联系 Hausarzt（家庭医生）；出发前核实诊所联系方式，并询问预约和保险。
+
+[寻找杜塞尔多夫的医生](https://patienten.kvno.de/praxissuche)
+
+## 紧急情况或非营业时间？
+
+在办公时间内，联系 Hausarzt（全科医生）。当地的 Apotheke（药房）可以提供药物建议。对于无法等到诊所重新开放但不危及生命的紧急疾病，请致电 116117。对于危及生命的紧急情况或可能造成持久伤害，请致电 112。当不确定生命是否有危险时，请致电 112。
+
+[医疗帮助和紧急电话号码](https://gesund.bund.de/notfallnummern)
+
+## 杜塞尔多夫的药房
+
+使用值班药房搜索，输入你在杜塞尔多夫的地址或邮政编码。值班安排会变化；出发前查看最新结果。
+
+[寻找值班药房](https://www.aponet.de/notdienstsuche/-)
+
+本地查询来源核查于 2026 年 10 月 1 日。诊所搜索结果不代表已确认预约。
+
+---
+
+Source: https://germandex.com/zh/duesseldorf/medical
+
+Language: zh
+
+
+# 法兰克福 - 法兰克福的住房
+
+找到房间，了解你要签署的内容。
+
+### 先查看 Studierendenwerk Frankfurt am Main
+
+使用 Studierendenwerk 的在线申请，比较法兰克福宿舍。提交文件或依赖某个入住日期前，先阅读申请常见问题。
+
+[Studierendenwerk Frankfurt am Main 住房](https://www.swffm.de/wohnen/online-bewerbung)
+
+## 同时继续寻找其他住房
+
+宿舍申请并非预订。等待期间请比较法兰克福的合住房间和私人出租房。付款前核实地址、房东或主租客、每月总费用和合同。
+
+## 签约前
+
+押金、杂费、入住证明和防骗检查：签约前请阅读[德国住房指南](https://germandex.com/zh/germany/housing)。
+
+本地来源核查于 2026 年 10 月 1 日。最新资格要求和空房情况请向提供方确认。
+
+---
+
+Source: https://germandex.com/zh/frankfurt/housing
+
+Language: zh
+
+
+# 法兰克福 - 法兰克福的医疗帮助
+
+找到正确的帮助，不必猜测该去哪儿。
+
+### 寻找附近的医生
+
+在 Arztsuche Hessen 诊所搜索中输入法兰克福或你的邮政编码。一般医疗先联系 Hausarzt（家庭医生）；出发前核实诊所联系方式，并询问预约和保险。
+
+[寻找法兰克福的医生](https://www.arztsuchehessen.de/)
+
+## 紧急情况或非营业时间？
+
+在办公时间内，联系 Hausarzt（全科医生）。当地的 Apotheke（药房）可以提供药物建议。对于无法等到诊所重新开放但不危及生命的紧急疾病，请致电 116117。对于危及生命的紧急情况或可能造成持久伤害，请致电 112。当不确定生命是否有危险时，请致电 112。
+
+[医疗帮助和紧急电话号码](https://gesund.bund.de/notfallnummern)
+
+## 法兰克福的药房
+
+使用值班药房搜索，输入你在法兰克福的地址或邮政编码。值班安排会变化；出发前查看最新结果。
+
+[寻找值班药房](https://www.aponet.de/notdienstsuche/-)
+
+本地查询来源核查于 2026 年 10 月 1 日。诊所搜索结果不代表已确认预约。
+
+---
+
+Source: https://germandex.com/zh/frankfurt/medical
+
+Language: zh
+
+
+# 汉堡 - 汉堡的住房
+
+找到房间，了解你要签署的内容。
+
+### 先查看 Studierendenwerk Hamburg
+
+可选择最多三栋宿舍，或申请所有宿舍。提供方表示申请所有宿舍可提高机会。按时回复定期的意向确认邮件，才能保留在等待名单中。
+
+[Studierendenwerk Hamburg 住房](https://www.stwhh.de/wohnen/bewerbungsinformationen)
+
+## 同时继续寻找其他住房
+
+宿舍申请并非预订。等待期间请比较汉堡的合住房间和私人出租房。付款前核实地址、房东或主租客、每月总费用和合同。
+
+## 签约前
+
+押金、杂费、入住证明和防骗检查：签约前请阅读[德国住房指南](https://germandex.com/zh/germany/housing)。
+
+本地来源核查于 2026 年 10 月 1 日。最新资格要求和空房情况请向提供方确认。
+
+---
+
+Source: https://germandex.com/zh/hamburg/housing
+
+Language: zh
+
+
+# 汉堡 - 汉堡的医疗帮助
+
+找到正确的帮助，不必猜测该去哪儿。
+
+### 寻找附近的医生
+
+在 KV Hamburg 诊所搜索中输入汉堡或你的邮政编码。一般医疗先联系 Hausarzt（家庭医生）；出发前核实诊所联系方式，并询问预约和保险。
+
+[寻找汉堡的医生](https://www.kvhh.net/de/physicianfinder.html)
+
+## 紧急情况或非营业时间？
+
+在办公时间内，联系 Hausarzt（全科医生）。当地的 Apotheke（药房）可以提供药物建议。对于无法等到诊所重新开放但不危及生命的紧急疾病，请致电 116117。对于危及生命的紧急情况或可能造成持久伤害，请致电 112。当不确定生命是否有危险时，请致电 112。
+
+[医疗帮助和紧急电话号码](https://gesund.bund.de/notfallnummern)
+
+## 汉堡的药房
+
+使用值班药房搜索，输入你在汉堡的地址或邮政编码。值班安排会变化；出发前查看最新结果。
+
+[寻找值班药房](https://www.aponet.de/notdienstsuche/-)
+
+本地查询来源核查于 2026 年 10 月 1 日。诊所搜索结果不代表已确认预约。
+
+---
+
+Source: https://germandex.com/zh/hamburg/medical
+
+Language: zh
+
+
+# 科隆 - 科隆的住房
+
+找到房间，了解你要签署的内容。
+
+### 先查看 Kölner Studierendenwerk
+
+尽早在线申请。可以指定房型、入住日期和预算，但不能指定某栋宿舍。须在五天内回复意向确认邮件，否则申请会被停用。
+
+[Kölner Studierendenwerk 住房](https://www.kstw.de/wohnen/bewerbung/)
+
+## 同时继续寻找其他住房
+
+宿舍申请并非预订。等待期间请比较科隆的合住房间和私人出租房。付款前核实地址、房东或主租客、每月总费用和合同。
+
+## 签约前
+
+押金、杂费、入住证明和防骗检查：签约前请阅读[德国住房指南](https://germandex.com/zh/germany/housing)。
+
+本地来源核查于 2026 年 10 月 1 日。最新资格要求和空房情况请向提供方确认。
+
+---
+
+Source: https://germandex.com/zh/koeln/housing
+
+Language: zh
+
+
+# 科隆 - 科隆的医疗帮助
+
+找到正确的帮助，不必猜测该去哪儿。
+
+### 寻找附近的医生
+
+在 KV Nordrhein 诊所搜索中输入科隆或你的邮政编码。一般医疗先联系 Hausarzt（家庭医生）；出发前核实诊所联系方式，并询问预约和保险。
+
+[寻找科隆的医生](https://patienten.kvno.de/praxissuche)
+
+## 紧急情况或非营业时间？
+
+在办公时间内，联系 Hausarzt（全科医生）。当地的 Apotheke（药房）可以提供药物建议。对于无法等到诊所重新开放但不危及生命的紧急疾病，请致电 116117。对于危及生命的紧急情况或可能造成持久伤害，请致电 112。当不确定生命是否有危险时，请致电 112。
+
+[医疗帮助和紧急电话号码](https://gesund.bund.de/notfallnummern)
+
+## 科隆的药房
+
+使用值班药房搜索，输入你在科隆的地址或邮政编码。值班安排会变化；出发前查看最新结果。
+
+[寻找值班药房](https://www.aponet.de/notdienstsuche/-)
+
+本地查询来源核查于 2026 年 10 月 1 日。诊所搜索结果不代表已确认预约。
+
+---
+
+Source: https://germandex.com/zh/koeln/medical
+
+Language: zh
+
+
+# 慕尼黑 - 慕尼黑的住房
+
+找到房间，了解你要签署的内容。
+
+### 先查看 Studierendenwerk München Oberbayern
+
+查看当前等待时间和适用于你的学生类别的申请规则。只有提交所需文件，申请才完整；不要把申请当作已确认的房间。
+
+[Studierendenwerk München Oberbayern 住房](https://www.studierendenwerk-muenchen-oberbayern.de/wohnheime/bewerbung/)
+
+## 同时继续寻找其他住房
+
+宿舍申请并非预订。等待期间请比较慕尼黑的合住房间和私人出租房。付款前核实地址、房东或主租客、每月总费用和合同。
+
+## 签约前
+
+押金、杂费、入住证明和防骗检查：签约前请阅读[德国住房指南](https://germandex.com/zh/germany/housing)。
+
+本地来源核查于 2026 年 10 月 1 日。最新资格要求和空房情况请向提供方确认。
+
+---
+
+Source: https://germandex.com/zh/muenchen/housing
+
+Language: zh
+
+
+# 慕尼黑 - 慕尼黑的医疗帮助
+
+找到正确的帮助，不必猜测该去哪儿。
+
+### 寻找附近的医生
+
+在 116117 诊所搜索中输入慕尼黑或你的邮政编码。一般医疗先联系 Hausarzt（家庭医生）；出发前核实诊所联系方式，并询问预约和保险。
+
+[寻找慕尼黑的医生](https://arztsuche.116117.de/)
+
+## 紧急情况或非营业时间？
+
+在办公时间内，联系 Hausarzt（全科医生）。当地的 Apotheke（药房）可以提供药物建议。对于无法等到诊所重新开放但不危及生命的紧急疾病，请致电 116117。对于危及生命的紧急情况或可能造成持久伤害，请致电 112。当不确定生命是否有危险时，请致电 112。
+
+[医疗帮助和紧急电话号码](https://gesund.bund.de/notfallnummern)
+
+## 慕尼黑的药房
+
+使用值班药房搜索，输入你在慕尼黑的地址或邮政编码。值班安排会变化；出发前查看最新结果。
+
+[寻找值班药房](https://www.aponet.de/notdienstsuche/-)
+
+本地查询来源核查于 2026 年 10 月 1 日。诊所搜索结果不代表已确认预约。
+
+---
+
+Source: https://germandex.com/zh/muenchen/medical
+
+Language: zh
+
+
+# 明斯特 - 明斯特的住房
+
+找到房间，了解你要签署的内容。
+
+### 先查看 Studierendenwerk Münster
+
+新生无需录取信即可申请。慎重选择最多三栋宿舍：之后无法修改选择。注意邮件中的房源邀请并回复；忽略邀请可能导致申请被删除。
+
+[Studierendenwerk Münster 住房](https://www.stw-muenster.de/wohnen/bewerbung-wohnraum/)
+
+## 同时继续寻找其他住房
+
+宿舍申请并非预订。等待期间请比较明斯特的合住房间和私人出租房。付款前核实地址、房东或主租客、每月总费用和合同。
+
+## 签约前
+
+押金、杂费、入住证明和防骗检查：签约前请阅读[德国住房指南](https://germandex.com/zh/germany/housing)。
+
+本地来源核查于 2026 年 10 月 1 日。最新资格要求和空房情况请向提供方确认。
+
+---
+
+Source: https://germandex.com/zh/muenster/housing
+
+Language: zh
+
+
+# 明斯特 - 明斯特的医疗帮助
+
+找到正确的帮助，不必猜测该去哪儿。
+
+### 寻找附近的医生
+
+在 KV Westfalen-Lippe 诊所搜索中输入明斯特或你的邮政编码。一般医疗先联系 Hausarzt（家庭医生）；出发前核实诊所联系方式，并询问预约和保险。
+
+[寻找明斯特的医生](https://www.kvwl.de/arztsuche)
+
+## 紧急情况或非营业时间？
+
+在办公时间内，联系 Hausarzt（全科医生）。当地的 Apotheke（药房）可以提供药物建议。对于无法等到诊所重新开放但不危及生命的紧急疾病，请致电 116117。对于危及生命的紧急情况或可能造成持久伤害，请致电 112。当不确定生命是否有危险时，请致电 112。
+
+[医疗帮助和紧急电话号码](https://gesund.bund.de/notfallnummern)
+
+## 明斯特的药房
+
+使用值班药房搜索，输入你在明斯特的地址或邮政编码。值班安排会变化；出发前查看最新结果。
+
+[寻找值班药房](https://www.aponet.de/notdienstsuche/-)
+
+本地查询来源核查于 2026 年 10 月 1 日。诊所搜索结果不代表已确认预约。
+
+---
+
+Source: https://germandex.com/zh/muenster/medical
+
+Language: zh

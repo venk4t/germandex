@@ -1,0 +1,17 @@
+# Public content is open to search and AI crawlers.
+User-agent: *
+Allow: /
+
+# OpenAI crawler
+User-agent: GPTBot
+Allow: /
+
+# Anthropic crawler
+User-agent: ClaudeBot
+Allow: /
+
+# Perplexity crawler
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://germandex.com/sitemap.xml

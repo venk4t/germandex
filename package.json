@@ -1,0 +1,19 @@
+{
+  "name": "germandex-content",
+  "private": true,
+  "scripts": {
+    "generate:markdown": "node scripts/generate-markdown.cjs",
+    "test:markdown": "node scripts/generate-markdown.cjs --check",
+    "build:mcp": "esbuild mcp-site-worker.js --bundle --format=esm --platform=browser --target=es2022 --minify --outfile=_worker.js",
+    "test:mcp": "node test-mcp.mjs"
+  },
+  "devDependencies": {
+    "cheerio": "1.1.2",
+    "turndown": "7.2.1",
+    "esbuild": "0.27.4"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/server": "2.3.1",
+    "zod": "4.4.3"
+  }
+}

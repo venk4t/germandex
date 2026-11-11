@@ -1,0 +1,3084 @@
+# คู่มือเริ่มต้นสำหรับนักศึกษาในเยอรมนี
+
+ดูแลโดยเอเจนต์อัตโนมัติที่ติดตามและนำเสนอคำแนะนำคุณภาพสูงสำหรับนักศึกษาที่เพิ่งเดินทางมาถึงเยอรมนี
+
+## City guides
+
+- [อาเคิน](https://germandex.com/th/aachen/admin.md)
+- [เบอร์ลิน](https://germandex.com/th/berlin/admin.md)
+- [โบฮุม](https://germandex.com/th/bochum/admin.md)
+- [ดอร์ทมุนด์](https://germandex.com/th/dortmund/admin.md)
+- [ดึสเซลดอร์ฟ](https://germandex.com/th/duesseldorf/admin.md)
+- [แฟรงก์เฟิร์ต](https://germandex.com/th/frankfurt/admin.md)
+- [ฮัมบูร์ก](https://germandex.com/th/hamburg/admin.md)
+- [โคโลญ](https://germandex.com/th/koeln/admin.md)
+- [มิวนิก](https://germandex.com/th/muenchen/admin.md)
+- [มึนสเตอร์](https://germandex.com/th/muenster/admin.md)
+- [เออร์ลังเงิน](https://germandex.com/th/erlangen/admin.md)
+- [ทือบิงเงิน](https://germandex.com/th/tuebingen/admin.md)
+
+---
+
+Source: https://germandex.com/th
+
+Language: th
+
+
+# อาเคิน - เรื่องเอกสาร
+
+การตั้งค่ามหาวิทยาลัยในสัปดาห์แรกของคุณ
+
+นี่ไม่ใช่รายการตรวจสอบการมาถึงที่สมบูรณ์ การลงทะเบียนที่อยู่ สถานะการประกันสุขภาพ และการอนุญาตให้มีถิ่นที่อยู่ (หากจำเป็น) เป็นงานแยกต่างหาก
+
+### 1\. สำหรับนักเรียน [RWTH](https://help.itc.rwth-aachen.de/en/service/rhb2fhkpjhb7/article/ea917d7e1ee048eca31f7a23d04cced5/): ขอ BlueCard ของคุณ
+
+ชำระค่าเทอม อัพโหลดรูปถ่ายของคุณใน RWTH SelfService และตรวจสอบที่อยู่ทางไปรษณีย์ของคุณใน RWTHonline BlueCard คือบัตรประจำตัวนักเรียนและบัตรชำระเงิน Mensa ของคุณ
+
+BlueCard ยังไม่ถึง? ตรวจค่าธรรมเนียม รูปถ่าย และที่อยู่ไปรษณีย์ แล้วติดต่อจุดบริการ [RWTH BlueCard](https://help.itc.rwth-aachen.de/en/service/rhb2fhkpjhb7/article/4ab6340c22ac486cbf2be44352a6fff5/) บัตรนี้ไม่ใช่ตั๋วภาคการศึกษา
+
+### 2\. สำหรับนักศึกษา [RWTH](https://www.asta.rwth-aachen.de/en/semesterticket-faq/): ตั้งค่าอีเมลมหาวิทยาลัยของคุณ
+
+แลกคูปอง ConnectMe ของคุณและเปิดกล่องจดหมาย RWTH ของคุณ ข้อความสำคัญของมหาวิทยาลัยและตั๋วภาคการศึกษามาถึงที่นั่น
+
+เข้าอีเมลไม่ได้? ตรวจว่าได้แลก ConnectMe แล้ว - เปิดใช้งานอาจใช้เวลาถึง 48 ชั่วโมง; คูปองหาย: ติดต่อ IT ServiceDesk
+
+### 3\. สำหรับนักเรียน RWTH และ FH Aachen: ใช้ Mensa
+
+ใช้ BlueCard หรือ FH Karte ของคุณเพื่อชำระเงินที่ห้องอาหาร [Studierendenwerk](https://www.studierendenwerk-aachen.de/en/eating-drinking/cashless-payment/bluecard-and-fh-card.html) การโหลดอัตโนมัติเป็นทางเลือก คุณสามารถเติมเงินที่เครื่องได้
+
+ไม่มีชิปชำระเงิน? สอบถามบัตรแขกนักเรียนของ Studierendenwerk (เงินฝาก + เครดิต) และแสดงบัตรนักศึกษาเพื่อราคานักเรียน
+
+### 4\. สำหรับนักเรียน RWTH: เปิดใช้งานตั๋วภาคการศึกษาของคุณ
+
+หลังจากลงทะเบียนและเปิดใช้งาน ConnectMe แล้ว ASEAG จะส่งรหัสเชื่อมโยงไปยังอีเมล RWTH ของคุณ ลงทะเบียนใน naveo หนึ่งครั้งด้วยรหัสนั้น ตรวจสอบว่าตั๋วที่ถูกต้องปรากฏก่อนการเดินทาง
+
+ไม่มีรหัส naveo? ตรวจการลงทะเบียน ค่าภาคเรียน ConnectMe และกล่อง RWTH แล้วเขียนถึง semesterticket@aseag.de ใช้รหัสแล้วแต่ไม่มีตั๋ว: hallo@naveo.info - อย่าลบบัญชี
+
+ใช้ naveo ไม่ได้? RWTH AStA อธิบายการขอตั๋วชิปการ์ดจริง ใช้เวลาถึงสองสัปดาห์และไม่ใช่ตั๋วชั่วคราว
+
+-   ตั๋ว Deutschlandsemester ครอบคลุมการขนส่งในท้องถิ่นและระดับภูมิภาคในชั้นสอง ไม่ใช่ ICE/IC/EC โดยจะจ่ายผ่านค่าธรรมเนียมภาคการศึกษา ไม่ใช่ตั๋วฟรี
+-   อย่าขึ้นเครื่องโดยไม่มีตั๋วที่ถูกต้อง หากตั๋วภาคเรียนของคุณยังไม่พร้อม ให้ซื้อค่าโดยสารที่ถูกต้องอื่นก่อน
+-   ป้ายรถเมล์อาจมีได้หลายชานชาลา (H1, H2 และอื่นๆ) ตรวจสอบแพลตฟอร์มเพื่อดูทิศทางของคุณ
+
+สำหรับนักเรียน FH Aachen: ใช้คำแนะนำของมหาวิทยาลัยเฉพาะของ FH สำหรับตั๋ว FH Karte อีเมล และภาคการศึกษาของคุณ ขั้นตอน RWTH ข้างต้นใช้ไม่ได้
+
+## มากกว่าการจัดตั้งมหาวิทยาลัย
+
+### ลงทะเบียนที่อยู่อาเค่นของคุณ
+
+การลงทะเบียนที่อยู่: [เมืองอาเค่น](https://serviceportal.aachen.de/suche/-/vr-bis-detail/dienstleistung/4599/show) ภายในสองสัปดาห์หลังย้ายเข้า ใบอนุญาตพำนัก: [สำนักงานตรวจคนเข้าเมืองStädteRegion](https://www.staedteregion-aachen.de/en/navigation/residence-permit) เอกสาร ประกันสุขภาพ สถานะการอยู่อาศัย และจดหมายอย่างเป็นทางการ: [คู่มือเรื่องเอกสารระดับประเทศ](https://germandex.com/th/germany/admin)
+
+คุณสามารถลงทะเบียนได้[ออนไลน์ทั้งหมด](https://serviceportal.aachen.de/suche/-/vr-bis-detail/dienstleistung/4599/show) (บัตรประจำตัวหรือบัตร eID ของ EU ที่เปิดใช้งาน eID รหัส PIN และบัญชี BundID ฟรี) หรือไปด้วยตนเองโดยนัดหมายล่วงหน้าที่ Bürgerbüro หรือ Bezirksamt
+
+---
+
+Source: https://germandex.com/th/aachen/admin
+
+Language: th
+
+
+# อาเคิน - กีฬา
+
+## สำหรับนักเรียน RWTH: Hochschulsport
+
+RWTH [Hochschulsport](https://hochschulsport.rwth-aachen.de/cms/hsz/sport/~hpoua/sportangebot/) มีกีฬาหลายประเภทในราคานักศึกษา ตรวจสอบคุณสมบัติและราคาปัจจุบันก่อนจอง
+
+หลักสูตรประกอบด้วยกีฬาที่ใช้ลูกบอล การปีนเขา การเต้นรำ และฟิตเนส ตรวจสอบเว็บไซต์ Hochschulsport เพื่อดูโปรแกรมปัจจุบันและกฎการลงทะเบียน
+
+บางหลักสูตรมีค่าใช้จ่ายน้อยกว่าสำหรับนักเรียนที่มีสิทธิ์มากกว่าตัวเลือกภายนอกที่เทียบเคียงได้ เปรียบเทียบราคาหลักสูตรปัจจุบันก่อนจอง
+
+### ตรวจสอบ[วันที่ลงทะเบียน](https://hochschulsport.rwth-aachen.de/cms/hsz/sport/sportangebot/~bgxpbf/programmstart-anmeldung-und-termine/)ปัจจุบัน
+
+หลักสูตรยอดนิยมอาจเต็มอย่างรวดเร็ว เวลาลงทะเบียนสามารถเปลี่ยนแปลงได้ในแต่ละช่วงเวลา ตรวจสอบหน้าวันที่อย่างเป็นทางการก่อนที่จะตั้งปลุก
+
+## ทางเลือกฟรี
+
+-   วิ่งหรือเดินขึ้น Lousberg สวนบนเนินเขาที่อยู่ติดกับใจกลางเมือง
+-   Aachener Wald (ป่า) ทางใต้ของเมือง เหมาะมากสำหรับวิ่งระยะไกลและเดินป่าวันหยุด
+-   ไปร่วมเล่นเกมแบบชวนกันเล่น: ถามเพื่อนร่วมชั้น การเข้าทีมเป็นหนึ่งในวิธีที่เร็วที่สุดในการได้เพื่อนชาวเยอรมัน
+
+---
+
+Source: https://germandex.com/th/aachen/sports
+
+Language: th
+
+
+# อาเคิน - ร้านอาหาร
+
+## แนะนำ
+
+### [AKL](https://www.akl-orient.de/)
+
+อาหารเลบานอนในร้านบรรยากาศสบาย ๆ แบบครอบครัว Pontstraße 1-3 จันทร์-เสาร์ 11:30-23:00 ปิดวันอาทิตย์
+
+### [TAT Gemüsekebab](https://www.tat-gemuesekebab.de/restaurants) €9.60
+
+Döner และ Dürüm ที่ดีที่สุดในอาเคิน ที่ Markt 44 และ Elisenbrunnen (Friedrich-Wilhelm-Platz 11) เปิดตั้งแต่ 11:00 วันหยุดสุดสัปดาห์เปิดดึก
+
+### [Al Triangolo](http://www.al-triangolo.de/)
+
+ร้านอาหารอิตาเลียนเล็ก ๆ ที่ครอบครัวดูแลในเมืองเก่า Rommelsgasse 2-3 เหมาะสำหรับมื้อเย็น ปิดวันอังคาร
+
+### กินมังสวิรัติ? นี่คือตัวเลือกที่ดีที่สุด
+
+ร้านที่แนะนำเป็นร้านที่มีตัวเลือกมังสวิรัติดีที่สุดในเมืองด้วย เลือก Falafel หรือ Halloumi
+
+## ถูกและเร็ว
+
+### [Nobis](https://nobis-printen.de/oeffnungszeiten/)
+
+ร้านเบเกอรี่เครือของอาเคินเอง มีสาขาทั่วเมือง แซนด์วิช กาแฟ และ Printen (ขนมปังขิงท้องถิ่น) คาเฟ่ที่ Münsterplatz อยู่ติดกับมหาวิหาร
+
+### Subway
+
+รู้จักกันดี ไว้ใจได้ ราคาถูก อิ่มท้อง
+
+### Bäckerei [Moss](https://baeckerei-moss.de/filiale/)
+
+ร้านเบเกอรีในอาเคินที่มีสาขาทั่วเมือง ขนมปังโรล แซนด์วิช เค้ก และกาแฟ; MOSS auf der Hörn ที่ Ahornstr. 42 อยู่ใกล้ RWTH
+
+---
+
+Source: https://germandex.com/th/aachen/restaurants
+
+Language: th
+
+
+# อาเคิน - ปาร์ตี้
+
+### Pontstraße
+
+ถนนบาร์ของนักศึกษา เริ่มต้นค่ำคืนที่นี่ Poststraße ก็มีบาร์เยอะเหมือนกัน
+
+### [Apollo](https://apollo-aachen.de/club/events/)
+
+คลับกระแสหลักขนาดใหญ่ Pontstraße 141-149 ที่ Ponttor เพลงกระแสหลัก ธีมไนท์ และปาร์ตี้ต้อนรับใหญ่ทุกเดือนตุลาคม
+
+### [Musikbunker](https://mubu.ac/)
+
+คอนเสิร์ตและคลับไนท์ในบังเกอร์เก่า ตัวเลือกของคนท้องถิ่นถ้าอยากได้อะไรที่ไม่ตลาดนัก
+
+### Barbarossa
+
+เครื่องดื่มราคาถูก คาราโอเกะทุกวันพุธ
+
+### LikeLike
+
+บาร์สไตล์ทิกิใกล้ Pontstraße มีเบียร์ข้าวสาลีราคาถูกและแปลกใหม่
+
+### Sowiso
+
+เพลงดี มีไพ่ ปาเป้า และบิลเลียด
+
+## ควรรู้
+
+-   ตุลาคมคือฤดูปาร์ตี้: ติดตามปฏิทิน [AStA](https://www.asta.rwth-aachen.de/) สำหรับ Semesteranfangsparty และปาร์ตี้ต้อนรับ "Students United" ที่ Apollo ปีที่แล้วค่าเข้า €5 ก่อนเที่ยงคืน และเบียร์ฟรีถึงตีหนึ่ง
+-   คนท้องถิ่นแนะนำให้ข้ามคลับ "Nightlife" ใกล้ Rothe Erde ไป
+-   ถ้าอยากไปคลับใหญ่จริง ๆ คนมักไปโคโลญ นั่งรถไฟประมาณหนึ่งชั่วโมง
+
+---
+
+Source: https://germandex.com/th/aachen/party
+
+Language: th
+
+
+# ภาษา
+
+แค่ภาษาเยอรมันพื้นฐานก็_เปลี่ยนทุกอย่าง_ที่นี่: งาน หาห้องพัก Ausländerbehörde (สำนักงานคนต่างชาติ) และหาเพื่อน
+
+### คอร์สออนไลน์ที่ดีที่สุด: Pimsleur
+
+ถ้าเรียนด้วยตัวเอง Pimsleur คือคอร์สออนไลน์ที่ดีที่สุด
+
+### ครูที่ดีที่สุดคืองานพาร์ตไทม์
+
+ทำงานในร้านอาหารไม่กี่กะต่อสัปดาห์จะสอนภาษาเยอรมันในชีวิตประจำวันได้มากกว่าคอร์สไหน ๆ ดูงานบริการและค้าปลีกในหัวข้อ[งาน](https://germandex.com/th/job)
+
+## อาเคิน
+
+### [RWTH](https://www.sz.rwth-aachen.de/cms/sz/deutsch/kursangebot-daf/~ymonj/semesterkurse/) Sprachenzentrum
+
+ศูนย์ภาษาของ RWTH คอร์สภาษาเยอรมันระดับ A1 ถึง C1 สำหรับนักศึกษาต่างชาติ ทั้งระหว่างเทอมและคอร์สเข้มข้นช่วงปิดเทอม ลงทะเบียนผ่าน RWTHonline
+
+### [VHS](https://www.vhs-aachen.de/programm/sprachen/deutsch-als-fremd-und-zweitsprache) Aachen
+
+ศูนย์การศึกษาผู้ใหญ่ของเมืองที่ Peterstraße คอร์สภาษาเยอรมันภาคค่ำและคอร์สเข้มข้นทุกระดับ
+
+### [Sprachenakademie](https://www.spraachen.org/en/german-courses/intensive-courses/) Aachen
+
+แพง แต่คุ้มค่า จองคอร์สเข้มข้นล่วงหน้าให้ตรงกับช่วงปิดเทอม
+
+## เบอร์ลิน
+
+### [FU](https://www.sprachenzentrum.fu-berlin.de/sprachangebot/sprachen/deutsch/kurse/semesterkurse/index.html) Sprachenzentrum
+
+คอร์สภาษาเยอรมันสำหรับชาวต่างชาติ (DaF) ระหว่างเทอม สำหรับนักศึกษา FU
+
+### [HU](https://www.sprachenzentrum.hu-berlin.de/de/kursangebot-und-anmeldung/sprachen/deutsch) Sprachenzentrum
+
+คอร์ส DaF ทุกระดับสำหรับนักศึกษา HU
+
+### Volkshochschule ([VHS](https://www.berlin.de/vhs/kurse/deutsch-integration/))
+
+แต่ละเขตในเบอร์ลินมี VHS ของตัวเอง มีคอร์สภาษาเยอรมันทุกระดับ
+
+## โบฮุม
+
+### [RUB](https://www.daf.ruhr-uni-bochum.de/daf/kurse/index.html.de) ภาษาเยอรมันสำหรับชาวต่างชาติ
+
+คอร์สภาษาเยอรมันควบคู่กับการเรียนที่ Ruhr-Universität
+
+### [VHS](https://vhs.bochum.de/programm/deutsch-als-fremdsprache) Bochum
+
+คอร์สภาษาเยอรมันทุกระดับ
+
+## ดอร์ทมุนด์
+
+### [TU Dortmund](https://fs.zhb.tu-dortmund.de/lehrgebiete/deutsch-als-fremdsprache/) ภาษาเยอรมันสำหรับชาวต่างชาติ
+
+คอร์สภาษาเยอรมันสำหรับนักศึกษานานาชาติ
+
+### [VHS](https://vhs.dortmund.de/programm/sprachen-und-kulturen-der-welt/kategorie/Deutsch+als+Fremdsprache/33) Dortmund
+
+คอร์สภาษาเยอรมันทุกระดับ
+
+## ดึสเซลดอร์ฟ
+
+### [HHU](https://www.hhu.de/internationales/internationale-studierende/neu-an-der-hhu/ankommen-leicht-gemacht/sprachen-lernen) Sprachenzentrum
+
+คอร์สภาษาเยอรมันสำหรับนักศึกษา HHU
+
+### [vhs](https://vhs.duesseldorf.de/programm/deutsch-und-integration) Düsseldorf
+
+คอร์สภาษาเยอรมันทุกระดับ เริ่มตั้งแต่ A1
+
+### [IIK](https://www.iik-duesseldorf.de/deutsch/) Düsseldorf
+
+สถาบันภาษาที่มีคอร์สเยอรมันแบบเข้มข้น
+
+## แฟรงก์เฟิร์ต
+
+### [Goethe](https://www.uni-frankfurt.de/43669402/semesterbegleitkurse) University ISZ
+
+คอร์สเทอมและคอร์สเยอรมันแบบเข้มข้นสำหรับนักศึกษา
+
+### [Frankfurt UAS](https://www.frankfurt-university.de/de/hochschule/einrichtungen-und-services/fachsprachenzentrum/sprachangebot) Fachsprachenzentrum
+
+คอร์สภาษาเยอรมันระหว่างเทอม
+
+### [vhs](https://vhs.frankfurt.de/de/deutschalsfremdsprache) Frankfurt
+
+คอร์สภาษาเยอรมันทุกระดับ
+
+## ฮัมบูร์ก
+
+### [Universität Hamburg](https://www.uni-hamburg.de/sprachenzentrum/daf/kurse.html) Sprachenzentrum
+
+คอร์สภาษาเยอรมันระหว่างเทอม และคอร์สเข้มข้นก่อนเปิดเทอม
+
+### [คอร์สเยอรมัน TUHH](https://www.tuhh.de/tuhh/studium/im-studium/sprachen-lernen/deutsch-lernen/deutschkurse-internationale-studiengaenge)
+
+สำหรับนักศึกษาหลักสูตรนานาชาติของ TUHH
+
+### [Hamburger Volkshochschule](https://www.vhs-hamburg.de/deutsch-17)
+
+คอร์สภาษาเยอรมันทุกระดับ ตั้งแต่ A1 ถึง C2
+
+## โคโลญ
+
+### มหาวิทยาลัยโคโลญ ภาษาเยอรมันสำหรับชาวต่างชาติ
+
+คอร์สภาษาเยอรมัน A1 ถึง C1 ควบคู่กับการเรียน
+
+### TH [Köln](https://uni-koeln.de/studium-lehre/international/studium-in-koeln/lehrbereich-deutsch-als-fremdsprache) Sprachlernzentrum
+
+โมดูล[ภาษาเยอรมัน](https://www.th-koeln.de/internationales/deutsch-als-fremdsprache_25247.php)สำหรับนักศึกษา TH Köln
+
+### Kölner [VHS](https://www.koelner-vhs.de/deutsch-integration/deutsch-fremdsprache)
+
+คอร์สภาษาเยอรมันให้เลือกเยอะทุกระดับ
+
+## มิวนิก
+
+### [คอร์สเยอรมัน LMU](https://www.lmu.de/de/studium/internationale-vollzeit-studierende/sprachkurse/)
+
+คอร์สภาษาเยอรมันสำหรับนักศึกษานานาชาติที่ LMU
+
+### [TUM](https://www.sprachenzentrum.tum.de/sz/sprachen/deutsch/) Sprachenzentrum
+
+คอร์สภาษาเยอรมันสำหรับนักศึกษา TUM ตั้งแต่ระดับเริ่มต้น
+
+### Münchner Volkshochschule ([MVHS](https://www.mvhs.de/kurse/deutsch-integration/deutsch-fuer-studierende-460-CAT-KAT21360))
+
+คอร์สที่ออกแบบมาสำหรับนักศึกษา เช่น "Deutsch für Studium und Alltag"
+
+## มึนสเตอร์
+
+### [Uni Münster](https://www.uni-muenster.de/Sprachenzentrum/internationales/internationalestudierende/deutschimsemester.html) Sprachenzentrum
+
+คอร์สภาษาเยอรมันระหว่างเทอมและคอร์สเข้มข้นช่วงปิดเทอม
+
+### [VHS](https://kurse.vhs-muenster.de/p/558-CAT-KAT4175273) Münster
+
+คอร์สภาษาเยอรมันทุกระดับ
+
+## เออร์ลังเงิน
+
+### [FAU](https://sz.fau.de/abteilung-deutsch-als-fremdsprache/kursangebot/daf-studienbegleitende-kurse/) Sprachenzentrum
+
+หลักสูตรภาษาเยอรมันควบคู่การเรียนสำหรับนักศึกษาที่ลงทะเบียนแล้ว ต้องมีการประเมินระดับก่อนเข้าเรียน ลงทะเบียนออนไลน์ใน StudOn รายชื่อวิชาอยู่ใน campo
+
+### [VHS](https://www.vhs-erlangen.de/programm/sprachen/allgemeine-informationen-zum-sprachenbereich) เออร์ลังเงิน
+
+ศูนย์การศึกษาผู้ใหญ่ของเมืองมีบริการให้คำปรึกษาด้านภาษาและแบบทดสอบระดับออนไลน์ฟรี หลักสูตรภาษาเยอรมันไม่เปิดให้ทดลองเรียน จึงควรลงทะเบียนล่วงหน้า
+
+## ทือบิงเงิน
+
+### [Uni Tübingen](https://uni-tuebingen.de/international/sprachen-lernen/deutschkurse/) Deutsch als Fremdsprache
+
+หลักสูตรภาษาเยอรมันสำหรับนักศึกษามหาวิทยาลัย ลงทะเบียนใน alma ตอนที่เราตรวจสอบ การลงทะเบียนภาคเรียนฤดูหนาว 2026/27 ปิดแล้ว แต่บางหลักสูตรยังมีที่ว่าง
+
+### [VHS](https://www.vhs-tuebingen.de/kurse/deutschkurse) ทือบิงเงิน
+
+หลักสูตรภาษาเยอรมันระดับ A1 ถึง C1 ทุกภาคเรียน มีคลาสเช้าและเย็น การสอบเป็นประจำ และแบบทดสอบระดับฟรี
+
+---
+
+Source: https://germandex.com/th/germany/language
+
+Language: th
+
+
+# มารยาท
+
+### เงียบบนขนส่งสาธารณะ
+
+พูดเบา ๆ บนรถบัสและรถไฟ และคุยโทรศัพท์ให้สั้น
+
+### ทำตามกฎจราจร
+
+ทางม้าลายและไฟจราจรเป็นเรื่องที่คนที่นี่จริงจังมาก!
+
+### สุภาพเสมอ
+
+ความสุภาพเล็กน้อยช่วยได้มากที่นี่ การพูดว่า “Danke” ทุกครั้งที่ได้รับอะไรสักอย่างเป็นสิ่งที่ชื่นชมเสมอ
+
+---
+
+Source: https://germandex.com/th/germany/etiquette
+
+Language: th
+
+
+# เดลิเวอรี
+
+## อาหาร
+
+### [Wolt](https://wolt.com/)
+
+สั่งอาหารจากร้านทั่วเมือง
+
+### [Lieferando](https://www.lieferando.de/)
+
+แอปสั่งอาหารรายใหญ่อีกเจ้าในเยอรมนี
+
+## พัสดุ
+
+### เปิดใช้งาน Packstation ในแอป [DHL](https://www.dhl.de/de/privatkunden/pakete-empfangen/an-einem-abholort-empfangen/packstation.html)
+
+ในเยอรมนี พนักงานส่งของ (Amazon และเจ้าอื่นๆ) มักไม่โทรหาคุณ พวกเขามักวางพัสดุไว้หน้าประตูหรือส่งกลับ Packstation คือตู้ล็อกเกอร์ที่คุณไปรับพัสดุเอง และเป็นตัวเลือกที่เชื่อถือได้สำหรับการส่งของส่วนใหญ่
+
+## ยา
+
+### [Shop Apotheke](https://www.shop-apotheke.com/)
+
+สั่งซื้อยาที่ไม่ต้องมีใบสั่งแพทย์และอาหารเสริมออนไลน์
+
+---
+
+Source: https://germandex.com/th/germany/delivery
+
+Language: th
+
+
+# เรื่องเอกสารในเยอรมนี
+
+เรื่องเอกสารระดับประเทศหลังจากเดินทางถึง: ลงทะเบียนที่อยู่ จัดการประกันสุขภาพและสถานะการอยู่อาศัย และทำความเข้าใจจดหมายอย่างเป็นทางการ ขั้นตอนมหาวิทยาลัยอยู่ในคู่มือของเมืองคุณ
+
+เงินในเยอรมนี: คู่มือ [บัญชีธนาคาร](https://germandex.com/th/germany/bank-account) [ประกันสุขภาพ](https://germandex.com/th/germany/health-insurance) [ประกันความรับผิด](https://germandex.com/th/germany/liability-insurance) [ซิมการ์ด](https://germandex.com/th/germany/sim-card) และ [SCHUFA](https://germandex.com/th/germany/schufa)
+
+## ลงทะเบียนที่อยู่ของคุณ
+
+หลังย้ายเข้า ให้ลงทะเบียนที่อยู่ภายในสองสัปดาห์ที่ Bürgeramt หรือ Einwohnermeldeamt นำบัตรประจำตัวหรือหนังสือเดินทางและ Wohnungsgeberbestätigung ที่ผู้ให้ที่พักลงชื่อมา สัญญาเช่าใช้แทนไม่ได้ หากย้ายจากต่างประเทศหรือมีใบอนุญาตพำนักอิเล็กทรอนิกส์ ให้ตรวจว่าต้องนัดไปด้วยตนเองหรือไม่
+
+ไม่ได้รับเอกสารยืนยันทันเวลา? ติดต่อสำนักงานทะเบียนโดยตรง อย่าลงทะเบียนที่อยู่ที่ไม่ได้อาศัยจริง
+
+## ตรวจสอบการประกันสุขภาพและสถานะการอยู่อาศัย
+
+สอบถามบริษัทประกันสุขภาพของคุณว่าการยืนยันการลงทะเบียนไปถึงมหาวิทยาลัยของคุณหรือไม่ และอ่านคำขอเอกสารที่หายไป นักเรียนนอกสหภาพยุโรปที่ต้องการใบอนุญาตมีถิ่นที่อยู่ควรตรวจสอบหน่วยงานตรวจคนเข้าเมืองที่รับผิดชอบมหาวิทยาลัยของตนและกำหนดเวลาวีซ่าหรือใบอนุญาตของตนเอง
+
+หลักฐานประกันหาย? ขอให้บริษัทประกันส่งการแจ้งอิเล็กทรอนิกส์ถึงมหาวิทยาลัย ใกล้กำหนดพักอาศัย? ติดต่อหน่วยงานตรวจคนเข้าเมืองโดยตรง
+
+## จดหมายอย่างเป็นทางการ: จะทำอย่างไร
+
+-   Steuer-ID: สำนักงานภาษีกลางของรัฐบาลกลางจะออกหมายเลขภาษีถาวรนี้ เก็บจดหมายไว้ หากมาไม่ถึงหรือสูญหาย ให้ขอการแจ้งเตือนใหม่จาก [BZSt](https://www.bzst.de/EN/Private_individuals/Tax_identification_number/tax_identification_number_node.html) มันถูกส่งทางไปรษณีย์
+-   [Rundfunkbeitrag](https://www.rundfunkbeitrag.de/informationen): ตรวจสอบว่าบ้านของคุณลงทะเบียนแล้วและใครเป็นผู้ชำระเงิน โดยปกติจะมีการบริจาคหนึ่งครั้งต่ออพาร์ตเมนต์ ยกเว้น; ใช้แบบฟอร์มบริการเงินสมทบอย่างเป็นทางการแทนที่จะเพิกเฉยต่อจดหมาย
+-   จดหมายประกันสุขภาพ: อ่านเอกสาร ความคุ้มครอง หรือคำขอชำระเงินที่หายไป หากต้องการหลักฐานการลงทะเบียน โปรดสอบถามบริษัทประกันภัยเกี่ยวกับข้อความอิเล็กทรอนิกส์ถึงมหาวิทยาลัยของคุณ
+-   [Sozialversicherungsnummer](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Sozialversicherungsausweis): โปรดจดแจ้งหมายเลขประกันบำนาญเมื่อคุณทำงานในเยอรมนีเป็นครั้งแรก หากสูญหาย ให้ขอเปลี่ยนใหม่จากผู้ให้บริการประกันบำนาญหรือบริษัทประกันสุขภาพของคุณ
+-   จดหมายที่เกี่ยวข้องกับถิ่นที่อยู่: ตรวจสอบกำหนดเวลาและหน่วยงานที่มีชื่ออยู่ในนั้น หากไม่มีความชัดเจน โปรดติดต่อสำนักงานตรวจคนเข้าเมืองที่รับผิดชอบมหาวิทยาลัยของคุณก่อนกำหนดเวลา
+
+---
+
+Source: https://germandex.com/th/germany/admin
+
+Language: th
+
+
+# ที่พักในเยอรมนี
+
+หาห้อง และเข้าใจสิ่งที่กำลังจะลงนาม
+
+## ก่อนลงนาม
+
+-   Kaution เป็นเงินประกันที่สามารถขอคืนได้ สำหรับการเช่าที่อยู่อาศัยทั่วไป เพดานทางกฎหมายคือค่าเช่าสามเดือนโดยไม่รวมค่าใช้จ่ายในการดำเนินการที่ระบุไว้แยกต่างหาก การฝากเงินสดอาจแบ่งชำระเป็นสามงวดเดือน ตรวจสอบสัญญาก่อนชำระเงิน
+-   Warmmiete คือค่าเช่าพื้นฐานบวกกับค่าใช้จ่ายในการดำเนินการตามที่ระบุ Nebenkosten คือต้นทุนการก่อสร้าง/บริการเพิ่มเติม ซึ่งมักจะจ่ายล่วงหน้าและปรับยอดในภายหลัง สอบถามค่าใช้จ่ายซึ่งรวมถึงค่าทำความร้อนและค่าไฟฟ้าที่อยู่ในสัญญาของคุณ
+-   Wohnungsgeberbestätigung ยืนยันการย้ายเข้าจริงของคุณเพื่อลงทะเบียนที่อยู่ เจ้าของหรือผู้เช่าหลักลงนาม มันแยกจากสัญญาเช่า
+-   ระวังมิจฉาชีพ: ตรวจสอบตัวบุคคลและห้องก่อนส่งเงินหรือเอกสารสำคัญ มหาวิทยาลัยเตือนเรื่องประกาศปลอมและการขอมัดจำก่อนส่งกุญแจ บริการแนะนำที่พักของมหาวิทยาลัยช่วยตรวจสอบข้อเสนอที่น่าสงสัยได้
+
+---
+
+Source: https://germandex.com/th/germany/housing
+
+Language: th
+
+
+# ซูเปอร์มาร์เก็ตในเยอรมนี
+
+ร้านลดราคาและซูเปอร์มาร์เก็ตที่มีสินค้าครบครันตอบโจทย์ต่างกัน ลองเทียบสินค้าที่คุณซื้อจริง
+
+### ร้านลดราคา
+
+[Netto](https://www.netto-online.de/), [Aldi](https://www.aldi-sued.de/marken) และ [Lidl](https://www.lidl.de/c/eigenmarken-food/s10007656) ขายของกินของใช้ประจำวันและสินค้าแบรนด์ของร้าน เทียบตะกร้าที่ซื้อประจำกับโปรโมชันปัจจุบัน
+
+### ซูเปอร์มาร์เก็ตที่มีสินค้าครบครัน
+
+[Rewe](https://www.rewe-group.com/en/company/structure-and-saleslines/), [Edeka](https://verbund.edeka/unternehmen/was-ist-der-edeka-verbund/m%C3%A4rkte-vertrieb/edeka/) และ [Kaufland](https://filiale.kaufland.de/sortiment.html) มีอาหารให้เลือกหลากหลาย สินค้าที่มีต่างกันไปตามสาขา
+
+### ตัวเลือกของกองบรรณาธิการ
+
+เราเลือก Rewe สำหรับซูเปอร์มาร์เก็ตที่มีสินค้าครบครัน นี่คือความชอบของกองบรรณาธิการ ไม่ใช่การจัดอันดับราคา
+
+---
+
+Source: https://germandex.com/th/germany/groceries
+
+Language: th
+
+
+# บัญชีธนาคารในเยอรมนี
+
+Girokonto (บัญชีกระแสรายวัน) คือสิ่งแรกที่ต้องเปิด: ค่าเช่า ประกันสุขภาพ และเงินเดือน ล้วนผ่านบัญชีนี้
+
+### Girokonto นักศึกษาของ Sparkasse
+
+Sparkasse เสนอ Girokonto สำหรับนักศึกษาและนักศึกษาฝึกงาน พร้อมแอป การจ่ายแบบไร้สัมผัส และตู้ ATM ราว 20,000 เครื่องทั่วเยอรมนี ฟรีที่หลายสาขา: แต่ละ Sparkasse กำหนดเงื่อนไขและค่าธรรมเนียมของตัวเอง ดังนั้นถามสาขาใกล้คุณว่ามีบัญชีนักศึกษาฟรีหรือไม่ และมีเพดานอายุหรือไม่ (ที่มา: [sparkasse.de](https://www.sparkasse.de/pk/produkte/konten-und-karten/girokonto/studenten-und-auszubildende.html) ตรวจสอบเมื่อ 19 ตุลาคม 2026) โดนปฏิเสธที่สาขาหนึ่ง? ลองสาขาอื่นหรือเปิดออนไลน์; ธนาคารออนไลน์เป็นทางออกชั่วคราวที่ดี และคุณย้ายมาที่ Sparkasse ทีหลังได้
+
+### ตั้งค่าเช่าเป็นการโอนอัตโนมัติ
+
+ตั้งค่าเช่าเป็น Dauerauftrag (โอนประจำ) ให้จ่ายอัตโนมัติทุกเดือน ประวัติจ่ายค่าเช่าตรงเวลามีผลเวลาสมัครเช่าห้อง
+
+### บัตรเครดิต (ไม่บังคับ)
+
+[PAYBACK Visa](https://www.payback.de/info/visa) ราคา 29 EUR ต่อปี ใช้จ่ายทั่วโลกฟรี และสะสมคะแนน Payback ทุกครั้งที่จ่าย; คะแนนไม่หมดอายุตราบใดที่บัตรยังใช้งานอยู่ การกดเงินสดฟรีในต่างประเทศ แต่ในเยอรมนีคิด 2% (ขั้นต่ำ 5 EUR) (ที่มา: payback.de ตรวจสอบเมื่อ 19 ตุลาคม 2026)
+
+### ตัวเลือกของกองบรรณาธิการ
+
+Girokonto นักศึกษาของ Sparkasse เกณฑ์การเลือก: ฟรีสำหรับนักศึกษาที่หลายสาขาตามหน้าเว็บของ Sparkasse เอง (แต่ละ Sparkasse กำหนดเงื่อนไขของตัวเอง); เครือข่ายสาขาและ ATM ครอบคลุมทุกเมืองในคู่มือนี้; และเป็นชื่อที่เจ้าของบ้านและนายจ้างทุกคนรู้จัก นี่คือทีเลือกเชิงบรรณาธิการของเรา ไม่ใช่การจัดอันดับราคา
+
+---
+
+Source: https://germandex.com/th/germany/bank-account
+
+Language: th
+
+
+# ประกันสุขภาพในเยอรมนี
+
+ประกันสุขภาพเป็นสิ่งบังคับ: คุณต้องพิสูจน์ความคุ้มครองตอนลงทะเบียนที่มหาวิทยาลัย หน้านี้อธิบายประเภทของตัวเลือก; ไม่ใช่คำแนะนำทางการแพทย์
+
+### ประกันสาธารณะ (ตามกฎหมาย)
+
+นักศึกษาส่วนใหญ่ใช้ประกันตามกฎหมาย (gesetzliche Krankenversicherung) ความคุ้มครองพื้นฐานที่กฎหมายกำหนด - แพทย์ ยา ฉุกเฉิน โรงพยาบาล - เหมือนกันในทุก Krankenkasse เป็นตัวอย่างที่ระบุวันที่ TK ระบุเบี้ยนักศึกษาปี 2026 ที่ 141,16 EUR ต่อเดือนสำหรับอายุไม่เกิน 23 และ 146,29 EUR ต่อเดือนสำหรับอายุ 23 ขึ้นไปไม่มีบุตร รวมประกันการดูแล และระบุว่าเบี้ยแทบไม่ต่างกันระหว่าง Krankenkasse อัตรานักศึกษามักใช้ได้ถึงสิ้นสุดเทอมที่คุณอายุครบ 30 (ที่มา: [daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/) และ [tk.de](https://www.tk.de/techniker/versicherung/gut-versichert-in-jeder-lebenslage/versichert-als-studierende/krankenversicherung-und-studium/beitrag-studierende-2131472) ตรวจสอบเมื่อ 19 ตุลาคม 2026)
+
+### ประกันเอกชน
+
+แผนเอกชนอาจให้ความคุ้มครองมากกว่า แต่แพงกว่าอย่างเห็นได้ชัด และมักต้องจ่ายบิลเองก่อนแล้วค่อยเคลมคืน การกลับไปประกันตามกฎหมายภายหลังทำได้ยาก (ที่มา: [daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/) ตรวจสอบเมื่อ 19 ตุลาคม 2026)
+
+### การยืนยันสำหรับลงทะเบียน
+
+Krankenkasse ของคุณจะรายงานสถานะประกันของคุณให้มหาวิทยาลัยทางอิเล็กทรอนิกส์; ไม่มีสิ่งนี้การลงทะเบียนไม่สมบูรณ์ เมื่อลงทะเบียนแล้ว คุณยังได้รับความคุ้มครองประกันอุบัติเหตุของมหาวิทยาลัยสำหรับกิจกรรมในมหาวิทยาลัยและที่เกี่ยวข้องกับการเรียนโดยอัตโนมัติ (ที่มา: [daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/) ตรวจสอบเมื่อ 19 ตุลาคม 2026)
+
+### ประกันทันตกรรม + สายตา (ไม่บังคับ)
+
+ไม่จำเป็น แต่ถ้าใส่แว่น ลองดูความคุ้มครอง [BarmeniaGothaer](https://www.barmeniagothaer.de/versicherung/krankenzusatz-pflege/) มีประกันฟันเสริมและความคุ้มครองสายตา Mehr Sehen ตรวจเบี้ยปัจจุบัน วงเงิน เงื่อนไข และช่วงเวลาการเบิกก่อนซื้อ
+
+### ตัวเลือกของกองบรรณาธิการ
+
+ประกันตามกฎหมายในฐานะนักศึกษา ที่ Krankenkasse ใดก็ได้ตามชอบ เกณฑ์การเลือก: ความคุ้มครองพื้นฐานเหมือนกันตามกฎหมายทุกแห่ง; อัตรานักศึกษาลดพิเศษเป็นตัวเลือกมาตรฐานที่เหมาะ (ตัวเลข TK ข้างต้นเป็นเพียงตัวอย่างที่ระบุวันที่ ไม่ใช่คำแนะนำ); และทุก Krankenkasse รายงานสถานะของคุณให้มหาวิทยาลัยได้ นี่คือทีเลือกเชิงบรรณาธิการของเรา ไม่ใช่คำแนะนำทางการแพทย์หรือการเงิน
+
+---
+
+Source: https://germandex.com/th/germany/health-insurance
+
+Language: th
+
+
+# ประกันความรับผิด (Haftpflicht)
+
+Haftpflichtversicherung ส่วนบุคคลคุ้มครองความเสียหายที่คุณก่อให้เกิดกับผู้อื่นหรือทรัพย์สินของเขา คนส่วนใหญ่ในเยอรมนีมี และราคาแค่ไม่กี่ยูโรต่อเดือน
+
+### ครอบคลุมอะไรบ้าง
+
+กรณีคลาสสิก: คุณทำโน้ตบุ๊กของเพื่อนพัง ทำกุญแจของเจ้าของบ้านหาย หรือขี่จักรยานไปขูดรถที่จอดอยู่ ถ้าไม่มีประกันคุณต้องจ่ายเอง; ประกันความรับผิดจ่ายแทนคุณ
+
+### ต้องดูอะไรก่อนซื้อ
+
+วงเงินคุ้มครอง (ตั้งเป้าสูงไว้ - ความเสียหายต่อบุคคลอาจแพงมาก) กุญแจหายรวมอยู่หรือไม่ และค่าส่วนแรก (deductible) อ่านหน้ารายละเอียดแผน ไม่ใช่ดูแค่ราคา
+
+### ตัวเลือกของกองบรรณาธิการ
+
+Die Haftpflichtkasse แผน [Einfach Besser](https://www.haftpflichtkasse.de/versicherungen/privatkunden/privathaftpflicht/Einfach-Besser/) เกณฑ์การเลือก: บริษัทประกันที่เชี่ยวชาญด้านความรับผิดโดยเฉพาะ และแผนนี้ตามหน้าเว็บของตัวเองคุ้มครองความเสียหายต่อบุคคล ทรัพย์สิน และการเงิน สูงสุด 50 ล้านยูโร หน้าเว็บไม่ระบุเบี้ยคงที่ - ราคาขึ้นกับข้อมูลของคุณ จึงควรขอใบเสนอราคาที่นั่น (ที่มา: haftpflichtkasse.de ตรวจสอบเมื่อ 19 ตุลาคม 2026) นี่คือทีเลือกเชิงบรรณาธิการของเรา ไม่ใช่การจัดอันดับราคา
+
+---
+
+Source: https://germandex.com/th/germany/liability-insurance
+
+Language: th
+
+
+# ซิมการ์ดในเยอรมนี
+
+ตอนเพิ่งมาถึง เติมเงินดีกว่าสัญญารายเดือน: ไม่ต้องมีบัญชีธนาคารเยอรมันหรือประวัติ SCHUFA และไม่มีสัญญาผูกมัดยาว
+
+### จ่ายครั้งเดียวใช้ทั้งปี
+
+[MagentaMobil Prepaid Jahrestarif](https://www.telekom.de/shop/tarife/prepaid-jahrestarif) ของ Telekom ราคา 99.95 EUR ครั้งเดียวสำหรับ 12 เดือน: ดาต้าเร็วสูง 20 GB ต่อเดือน (5G ในพื้นที่ที่มี) พร้อมโทรและ SMS ไม่จำกัดในเครือข่ายเยอรมัน หากไม่ยกเลิกโดยแจ้งล่วงหน้าหนึ่งเดือนเมื่อครบ 12 เดือน แพ็กเกจจะต่ออายุอัตโนมัติแบบไม่มีกำหนด และยกเลิกรายเดือนได้หลังจากนั้น (ที่มา: telekom.de ตรวจสอบเมื่อ 19 ตุลาคม 2026)
+
+### ตัวเลือกรายเดือน
+
+ถ้าชอบจ่ายรายเดือนมากกว่า ทุกเครือข่าย (Telekom, Vodafone, O2) และแบรนด์ซูเปอร์มาร์เก็ตมีแพ็กเกจเติมเงินรายเดือนขาย ตรวจสอบราคาและปริมาณดาต้าปัจจุบันก่อนซื้อ - โปรโมชันเปลี่ยนบ่อย
+
+### ตัวเลือกของกองบรรณาธิการ
+
+Telekom MagentaMobil Prepaid Jahrestarif เกณฑ์การเลือก: จ่ายครั้งเดียวครอบคลุมสิบสองเดือน จึงไม่มีบิลรายเดือนก่อนเงินเดือนแรก; ใช้เครือข่าย Telekom; และราคากับ 20 GB ยืนยันเป็นลายลักษณ์อักษรบน telekom.de นี่คือทีเลือกเชิงบรรณาธิการของเรา ไม่ใช่การจัดอันดับราคา
+
+---
+
+Source: https://germandex.com/th/germany/sim-card
+
+Language: th
+
+
+# อธิบาย SCHUFA
+
+### เข้าใจ SCHUFA
+
+SCHUFA คือข้อมูลเครดิตของเยอรมนี เจ้าของห้องมักขอรายงาน ไม่ต้องเปิดผลิตภัณฑ์เพิ่มเพื่อสร้างคะแนน SCHUFA แนะนำให้จ่ายบิลตรงเวลาและรักษาการเงินให้เรียบง่าย ประวัติจ่ายดีในบัญชีที่มีอยู่ช่วยได้เมื่อเวลาผ่านไป ตรวจข้อมูลในแอป SCHUFA หรือขอสำเนาข้อมูลฟรีจาก SCHUFA ([Android](https://play.google.com/store/apps/details?id=com.schufamobileapp) / [iPhone](https://apps.apple.com/de/app/schufa/id6448636299))
+
+SCHUFA มีสำเนาข้อมูลฟรี (Datenkopie) ที่ [schufa.de](https://www.schufa.de/datenkopie) (ที่มา: schufa.de ตรวจสอบเมื่อ 19 ตุลาคม 2026)
+
+---
+
+Source: https://germandex.com/th/germany/schufa
+
+Language: th
+
+
+# การทดลองกับเอเจนต์บรรณาธิการ
+
+Germandex เป็นการทดลองรวบรวมคำแนะนำคุณภาพสูงด้วยเอเจนต์อัตโนมัติ เอเจนต์เบื้องหลัง Germandex ค้นคว้า แก้ไข และดูแลคำแนะนำเชิงคุณภาพจากอินเทอร์เน็ตสำหรับผู้มาใหม่ในเยอรมนี
+
+เอเจนต์เหล่านี้ออกแบบมาให้ชัดเจน ปราศจากผลประโยชน์เชิงพาณิชย์ และให้ความสำคัญกับความชัดเจนมากกว่าความหลากหลาย
+
+ถ้าชอบ ช่วยกันทำให้มัน[ดีขึ้น](https://germandex.com/)นะ
+
+ขอบคุณที่แวะมา!
+
+![](https://germandex.com/img/venkat-pixel-mono.png)
+
+[Venkat Srinivasan](mailto:venkatragavan@protonmail.com)
+
+[](https://linkedin.com/in/venkatragavan "LinkedIn")[](https://x.com/venkgator "X")
+
+---
+
+Source: https://germandex.com/th/manifesto
+
+Language: th
+
+
+# การเงิน
+
+จัดการตามลำดับนี้
+
+### 1\. [เปิดบัญชีธนาคาร](https://germandex.com/th/germany/bank-account)
+
+ฟรีสำหรับนักศึกษา; ตั้งค่าอันนี้ก่อน
+
+### 2\. [ทำประกันสุขภาพ](https://germandex.com/th/germany/health-insurance)
+
+บังคับสำหรับลงทะเบียน; อ่านประเภทของตัวเลือก
+
+### 3\. [ทำประกันความรับผิด](https://germandex.com/th/germany/liability-insurance)
+
+ไม่กี่ยูโรต่อเดือนคุ้มครองอุบัติเหตุที่แพง
+
+### 4\. [รับซิม](https://germandex.com/th/germany/sim-card)
+
+เติมเงินก่อน; สัญญาทีหลัง
+
+### 5\. [ทำความเข้าใจ SCHUFA](https://germandex.com/th/germany/schufa)
+
+บันทึกเครดิตของเยอรมนี อธิบายไว้แล้ว
+
+---
+
+Source: https://germandex.com/th/money
+
+Language: th
+
+
+# งาน
+
+เยอรมนีมีค่าแรงขั้นต่ำตามกฎหมาย งานง่าย ๆ ก็ได้ค่าจ้างดี ตอนนี้อยู่ที่ €13.90 ต่อชั่วโมง และจะขึ้นเป็น €14.60 ในเดือนมกราคม 2027
+
+### สำนักงานและองค์กร
+
+งานนักศึกษาฝึกทำงาน (Werkstudent) ในบริษัท ดีมากสำหรับเรซูเม่และอาชีพหลังเรียนจบ
+
+### งานบริการและค้าปลีก
+
+ร้านอาหาร คาเฟ่ ร้านค้า วิธีหาเงินที่เร็วที่สุด และช่วยให้เรียนภาษาเยอรมันได้มาก
+
+### แยกให้ออกว่ากฎชั่วโมงทำงานต่างกันอย่างไร
+
+-   กฎการพำนักสำหรับนักศึกษานอกสหภาพยุโรป: ทำงานได้ปีละ 140 วันเต็มหรือ 280 ครึ่งวันโดยไม่ต้องขออนุญาตเพิ่ม ดูกฎที่ตรงกับคุณในใบอนุญาตพำนัก
+-   กฎ Werkstudent: หากทำงานไม่เกินสัปดาห์ละ 20 ชั่วโมงระหว่างภาคเรียน การเรียนยังถือเป็นกิจกรรมหลักและยังได้สิทธิประกันสังคมของนักศึกษาที่ทำงาน ช่วงปิดภาคเรียน กลางคืน หรือวันหยุดสุดสัปดาห์ อาจทำได้มากขึ้นตามกฎ 26 สัปดาห์
+-   ประกันสุขภาพนักศึกษา: อัตรานักศึกษาใช้ได้เมื่อการเรียนเป็นกิจกรรมหลักอย่างชัดเจน หากทำงานเกินสัปดาห์ละ 20 ชั่วโมงเป็นประจำ ให้ถามบริษัทประกันว่าต้องเปลี่ยนเป็นประกันลูกจ้างหรือไม่
+
+## งานสำนักงานและองค์กร
+
+1.  เรซูเม่ต้องเป็นรูปแบบเยอรมัน ใช้เลย์เอาต์ตาม[ตัวอย่างเรซูเม่](https://germandex.com/th/job/resume)
+2.  สำหรับตำแหน่ง Werkstudent จำนวนใบสมัครสำคัญที่สุด อย่ารองานที่สมบูรณ์แบบ
+3.  หางานได้จาก LinkedIn, StepStone หรือที่ไหนก็ได้ แต่ให้สมัครตรงผ่านเว็บไซต์รับสมัครงานของบริษัทเสมอ
+4.  แนบชุดเอกสารสมัครงานในส่วน "Additional Documents" ทุกครั้ง
+
+### ชุดเอกสารสมัครงานของคุณ
+
+### 1\. ใบรับรองการเป็นนักศึกษา
+
+Immatrikulationsbescheinigung ดาวน์โหลดได้จากพอร์ทัลออนไลน์ของมหาวิทยาลัย
+
+### 2\. ใบแสดงผลการเรียนปริญญาตรีฉบับรวม
+
+เกรดปริญญาตรีทั้งหมดในเอกสารเดียว
+
+### 3\. Arbeitszeugnis
+
+จดหมายรับรองจากนายจ้างเก่า
+
+### จดหมายรับรองต้องเป็นรูปแบบเยอรมัน
+
+จดหมายแนะนำแบบที่ใช้ในบ้านเกิดของคุณจะไม่ได้ผลดี ขอ Arbeitszeugnis ในรูปแบบเยอรมันจากนายจ้างเก่า เขียนเป็นภาษาอังกฤษได้: บนกระดาษหัวจดหมายบริษัท มีลายเซ็นและตราประทับบริษัท
+
+จดหมายรับรองเยอรมันใช้วลีประเมินผลแบบตายตัว ฝ่ายบุคคลอ่านเหมือนอ่านเกรด ดังนั้นจดหมายควรใช้ถ้อยคำเหล่านี้:
+
+ดีมาก (sehr gut)
+
+"always to our fullest satisfaction" (stets zu unserer vollsten Zufriedenheit)
+
+ดี (gut)
+
+"always to our full satisfaction" (stets zu unserer vollen Zufriedenheit)
+
+ตั้งเป้าใช้ถ้อยคำระดับ "ดีมาก" ในส่วนผลงานและความประพฤติ ดู[ตัวอย่าง Arbeitszeugnis](https://germandex.com/th/job/reference) สำหรับตัวอย่างเต็มเป็นภาษาอังกฤษ
+
+## งานบริการและค้าปลีก
+
+คุณหางานเหล่านี้ได้จากแพลตฟอร์มอย่าง Indeed, Zenjob และอื่นๆ แต่วิธีที่ดีที่สุดคือเดินเข้าไปในร้านอาหารและโรงแรม แล้วถามว่ารับพนักงานพาร์ทไทม์ไหม
+
+1.  ทุกวัน เลือกหนึ่งย่านในเมือง
+2.  เริ่มจากศูนย์อาหารในห้าง หลังจากนั้นย่านที่ห่างจากใจกลางเมืองจะดีกว่า เพราะนักศึกษาสมัครน้อยกว่า
+3.  เดินเข้าไปในร้านอาหารและโรงแรมทุกแห่ง แล้วขอทำงานเป็นภาษาเยอรมัน
+4.  พูดคล่องหรือไม่ไม่สำคัญ สิ่งสำคัญคือแสดงให้เห็นว่าคุณกล้าลอง
+
+---
+
+Source: https://germandex.com/th/job
+
+Language: th
+
+
+# ตัวอย่างเรซูเม่
+
+CV สมมติของนักพัฒนาซอฟต์แวร์ช่วงต้นอาชีพสำหรับสมัครงานนานาชาติ เริ่มด้วยประสบการณ์ที่เกี่ยวข้อง เขียนแต่ละรายการให้กระชับ และจัดทักษะให้อ่านง่าย เปลี่ยนลำดับได้หากการศึกษาเป็นหลักฐานที่เด่นที่สุดของคุณ
+
+Alex Morgan
+
+นักพัฒนาซอฟต์แวร์
+
+เบอร์ลิน เยอรมนี · alex.morgan@example.com  
++49 \[หมายเลขโทรศัพท์\] · github.com/\[ชื่อผู้ใช้\] · linkedin.com/in/\[ชื่อผู้ใช้\]
+
+### ประวัติโดยย่อ
+
+นักพัฒนาซอฟต์แวร์ที่มีประสบการณ์สร้างบริการ backend และเว็บแอป กำลังสำเร็จปริญญาโทวิทยาการคอมพิวเตอร์ มองหาตำแหน่งพนักงานนักศึกษาในทีมวิศวกรรมผลิตภัณฑ์
+
+### ประสบการณ์
+
+เม.ย. 2026 - ปัจจุบัน
+
+พนักงานนักศึกษา งานพัฒนา backend
+
+Nordwerk Logistics · เบอร์ลิน เยอรมนี
+
+-   สร้าง API ติดตามพัสดุด้วย Python และ FastAPI ลดค่ามัธยฐานเวลาตอบสนอง 40% ในการทดสอบประสิทธิภาพ
+-   เพิ่มการทดสอบอัตโนมัติและขั้นตอนเผยแพร่ที่ใช้ Docker กับ GitHub Actions
+
+มิ.ย. 2024 - ส.ค. 2025
+
+นักพัฒนาซอฟต์แวร์ระดับต้น
+
+Brightpath · รอตเทอร์ดาม เนเธอร์แลนด์
+
+-   พัฒนาฟังก์ชันบริการชำระเงินด้วย Java และ Spring Boot ร่วมกับทีมข้ามสายงาน
+-   เพิ่มความครอบคลุมของ unit test จาก 45% เป็น 80% และบันทึกขั้นตอนตรวจทานสำหรับผู้ร่วมพัฒนาใหม่
+
+### การศึกษา
+
+ต.ค. 2025 - ปัจจุบัน
+
+ปริญญาโทวิทยาการคอมพิวเตอร์ (MSc)
+
+\[ชื่อมหาวิทยาลัย\] · เบอร์ลิน เยอรมนี
+
+เน้นระบบแบบกระจายและวิศวกรรมซอฟต์แวร์
+
+ก.ย. 2021 - มิ.ย. 2024
+
+ปริญญาตรีวิทยาการคอมพิวเตอร์ (BSc)
+
+\[ชื่อมหาวิทยาลัย\] · \[เมือง ประเทศ\]
+
+### โครงการที่เลือก
+
+Study Space · เครื่องมือค้นหาห้องในมหาวิทยาลัย
+
+สร้างแอป React และ TypeScript พร้อม API ที่ใช้ PostgreSQL เพื่อช่วยนักศึกษาหาห้องอ่านหนังสือว่าง เพิ่มการนำทางด้วยแป้นพิมพ์ที่เข้าถึงได้และการทดสอบอัตโนมัติ
+
+github.com/\[username\]/study-space
+
+### ทักษะทางเทคนิค
+
+**ภาษา:** Python, Java, TypeScript, SQL  
+**เฟรมเวิร์ก:** FastAPI, Spring Boot, React  
+**เครื่องมือ:** Git, Docker, GitHub Actions, PostgreSQL
+
+### ภาษา
+
+อังกฤษ: C1 · เยอรมัน: A2 · \[ภาษาอื่น\]: \[ระดับ\]
+
+ทุกอย่างในเรซูเม่นี้เป็นเรื่องสมมติ แทนที่ด้วยข้อมูลของคุณเอง
+
+ชื่อ นายจ้าง สถานที่ และผลงานเป็นตัวอย่าง ไม่ใช่คุณสมบัติจริง แทนที่ทุกตัวอย่างด้วยข้อมูลที่ถูกต้อง เมืองและประเทศก็เพียงพอ เพิ่มที่อยู่ไปรษณีย์เต็มเฉพาะเมื่อจำเป็น ไม่มีรูปถ่าย วันเกิด สถานภาพสมรส คำรับรอง หรือลายเซ็น
+
+---
+
+Source: https://germandex.com/th/job/resume
+
+Language: th
+
+
+# ตัวอย่าง Arbeitszeugnis
+
+ตัวอย่าง Arbeitszeugnis (หนังสือรับรองการทำงาน) ที่เขียนเป็นภาษาอังกฤษ ภาษาอังกฤษใช้สมัครงานได้ สิ่งที่ทำให้ได้ผลในเยอรมนีคือรูปแบบ: กระดาษหัวจดหมายบริษัท ลายเซ็น ตราประทับบริษัท และวลีประเมินผลตายตัวที่ฝ่ายบุคคลมองหา ชื่อคนและบริษัทเป็นเรื่องสมมติ
+
+Brightpath Fintech Pvt. Ltd.
+
+\[Company address\]  ·  \[Phone\]  ·  \[Website\]
+
+\[City\], 31 August 20XX
+
+### Employment Reference
+
+Mr. Arjun Rao, born on \[date\] in \[city\], worked for our company as a Software Developer from 1 July 20XX to 31 August 20XX.
+
+Brightpath Fintech builds digital payment products for banks and retailers, with about 150 employees.
+
+Mr. Rao's main tasks were:
+
+-   Developing backend services for our payment platform in Java and Spring Boot
+-   Building and maintaining the mobile payment flow
+-   Writing unit tests and reviewing code from other developers
+-   Planning sprints together with the product and design teams
+
+Mr. Rao has very good, well-founded technical knowledge, which he always applied with great success in his daily work. He learned new technologies very quickly and always worked independently, carefully and to a very high standard.
+
+He always completed the tasks given to him to our fullest satisfaction.
+
+His behavior towards managers, colleagues and customers was always exemplary. He was a valued team member at all times.
+
+Mr. Rao is leaving our company at his own request to start a master's degree in Germany. We very much regret his departure, thank him for his always excellent work, and wish him continued success and all the best for his future, both professionally and personally.
+
+\[Signature\]  
+\[Name\], Head of Engineering  
+\[Company stamp\]
+
+ประโยคประเมินผล
+
+"Always to our fullest satisfaction" คือเกรด: "fullest" + "always" = ดีมาก (sehr gut); "full" + "always" = ดี (gut)
+
+ประโยคความประพฤติ
+
+ความประพฤติ "always exemplary" ต่อหัวหน้า เพื่อนร่วมงาน และลูกค้า = ดีมาก
+
+ปิดท้าย
+
+การแสดงความเสียดายที่ลาออก ขอบคุณ และอวยพร บ่งบอกว่าเป็นจดหมายรับรองที่ดีมาก ถ้าไม่มีส่วนปิดท้ายจะถูกมองว่าเป็นสัญญาณไม่ดี
+
+---
+
+Source: https://germandex.com/th/job/reference
+
+Language: th
+
+
+# อาเคิน - ซูเปอร์มาร์เก็ต
+
+หากต้องการรู้จักเครือร้านและวิธีเลือก อ่าน[คู่มือซูเปอร์มาร์เก็ตในเยอรมนี](https://germandex.com/th/germany/groceries)ของเรา ร้านนานาชาติในพื้นที่อยู่ด้านล่าง
+
+## ซูเปอร์มาร์เก็ตเอเชียและนานาชาติ
+
+สำหรับเครื่องเทศ ข้าว ถั่ว และของจากบ้านเกิด: อาเคินมีร้านเอเชียและนานาชาติอยู่ไม่กี่ร้าน ส่วนใหญ่อยู่แถว Jülicher Straße และ Hansemannplatz
+
+### New Sherona Supermarket
+
+Heinrichsallee 30 ใกล้ Kaiserplatz ของชำอินเดีย ปากีสถาน และแอฟริกา: เครื่องเทศ ข้าว ถั่ว อาหารแช่แข็ง และผักผลไม้สด เปิดทุกวัน
+
+### Nagammaal Markt
+
+Jülicher Str. 4 ใกล้ Hansemannplatz ร้านของชำอินเดียและเอเชียที่เปิดมานาน เปิดวันจันทร์ถึงเสาร์ 10:00-22:00
+
+### [Asian aiX Bazaar](https://www.aix-bazaar.de/)
+
+Jülicher Str. 20 ของชำเอเชียใต้และแอฟริกา ผักผลไม้สด ปลาฮาลาล และบริการแล่ปลา
+
+---
+
+Source: https://germandex.com/th/aachen/groceries
+
+Language: th
+
+
+# เบอร์ลิน - เรื่องเอกสาร
+
+การตั้งค่ามหาวิทยาลัยในสัปดาห์แรกของคุณ
+
+นี่ไม่ใช่รายการตรวจสอบการมาถึงที่สมบูรณ์ การลงทะเบียนที่อยู่ สถานะการประกันสุขภาพ และการอนุญาตให้มีถิ่นที่อยู่ (หากจำเป็น) เป็นงานแยกต่างหาก
+
+### 1\. เติมเงิน MensaCard ก่อนมื้อกลางวันแรก
+
+Mensa ในเบอร์ลิน (ดำเนินการโดย Studierendenwerk Berlin) รับแค่ MensaCard หรือ CampusCard ของมหาวิทยาลัย ไม่รับเงินสดหรือบัตรธนาคาร
+
+ยังไม่มี MensaCard? รับที่แคชเชียร์ [Mensa](https://www.stw.berlin/mensen/faq-mensen/mensacard.html) และเติมเงินที่เครื่อง; นำบัตรนักศึกษาหรือ CampusCard มาด้วย
+
+### 2\. นักศึกษา [FU](https://www.fu-berlin.de/studium/studieren/studienorganisation/semesterticket/Deutschlandsemesterticket/Wie-erhalte-ich-Ticket.html) Berlin: เปิดใช้ Deutschlandsemesterticket
+
+ที่ FU Berlin ตั๋วมีเฉพาะในแอป S-Bahn Berlin ต้องทำขั้นตอนซ้ำทุกภาคเรียน มหาวิทยาลัยอื่นส่งคำแนะนำของตนทางอีเมลมหาวิทยาลัย
+
+ตั๋วไม่ขึ้นในแอป S-Bahn? ตรวจการลงทะเบียนและต่อทะเบียน แล้วติดต่อ AStA FU ต้องทำซ้ำทุกภาคเรียน
+
+-   ตั๋ว Deutschlandsemester ครอบคลุมการขนส่งในท้องถิ่นและระดับภูมิภาคในชั้นสอง ไม่ใช่ ICE/IC/EC โดยจะจ่ายผ่านค่าธรรมเนียมภาคการศึกษา ไม่ใช่ตั๋วฟรี
+-   อย่าขึ้นเครื่องโดยไม่มีตั๋วที่ถูกต้อง หากตั๋วภาคเรียนของคุณยังไม่พร้อม ให้ซื้อค่าโดยสารที่ถูกต้องอื่นก่อน
+
+## มากกว่าการจัดตั้งมหาวิทยาลัย
+
+### ลงทะเบียนที่อยู่ในเบอร์ลิน
+
+การลงทะเบียนที่อยู่: [สำนักงานทะเบียนที่อยู่ของเมือง (Anmeldung)](https://service.berlin.de/dienstleistung/120686/) ภายในสองสัปดาห์หลังย้ายเข้า ใบอนุญาตพำนัก: [สำนักงานคนต่างชาติ](https://www.berlin.de/einwanderung/en/residence/study/) เอกสาร ประกันสุขภาพ สถานะการอยู่อาศัย และจดหมายอย่างเป็นทางการ: [คู่มือเรื่องเอกสารระดับประเทศ](https://germandex.com/th/germany/admin)
+
+มีสองวิธีในการลงทะเบียนที่อยู่: [ออนไลน์ทั้งหมดผ่าน BundID](https://service.berlin.de/dienstleistung/120686/) หากคุณมีบัตรประจำตัวประชาชนเยอรมันหรือบัตร eID ของ EU ที่เปิดใช้งานฟังก์ชัน eID พร้อมรหัส PIN หรือไปที่ Bürgeramt ด้วยตนเองโดยนัดหมายล่วงหน้า จองผ่าน[การค้นหาทั่วทั้งเมือง](https://service.berlin.de/terminvereinbarung/hinweise/) - ครอบคลุม Bürgeramt ทุกแห่ง ไม่ใช่แค่ในเขตของคุณ สำนักงานมักปล่อยเวลานัดใหม่ในช่วงเช้าตรู่ มีการเปิดวันจองใหม่ทุกวันเมื่อถึงเวลาเปิดทำการ และเวลานัดที่ถูกยกเลิกจะกลับมาว่างอีก - ตรวจสอบเป็นประจำ
+
+---
+
+Source: https://germandex.com/th/berlin/admin
+
+Language: th
+
+
+# เบอร์ลิน - กีฬา
+
+มหาวิทยาลัยใหญ่แต่ละแห่งมี Hochschulsport ของตัวเอง: [\="](https://www.tu-sport.de/)https://www.hochschulsport.hu-berlin.de/de/angebot/sportangebot" target="\_blank" rel="noopener">ref="https://www.fu-sport.de/" target="\_blank" rel="noopener">FU, HU และ TU
+
+มีหลายร้อยคอร์สให้จองออนไลน์บนเว็บกีฬามหาวิทยาลัย ราคาลดสำหรับนักศึกษาที่มีสิทธิ ตรวจสิทธิและราคาก่อนจอง ดูวันรับสมัครและจองคอร์สยอดนิยมแต่เนิ่น ๆ
+
+## ทางเลือกฟรี
+
+-   Tempelhofer Feld: สนามบินเก่า ตอนนี้เป็นพื้นที่โล่งกว้างสำหรับวิ่ง ปั่นจักรยาน และเล่นสเก็ต
+-   Tiergarten และ Volkspark Friedrichshain สำหรับวิ่งและเตะบอลกับเพื่อน
+
+---
+
+Source: https://germandex.com/th/berlin/sports
+
+Language: th
+
+
+# เบอร์ลิน - ร้านอาหาร
+
+## แนะนำ
+
+### [Mustafa's](https://mustafas.de/) Gemüse Kebap
+
+เคบับผักที่ดังที่สุดในเบอร์ลิน ที่ Mehringdamm ย่าน Kreuzberg เตรียมต่อคิวได้เลย
+
+### [Monsieur Vuong](https://www.monsieurvuong.de/)
+
+อาหารเวียดนามแบบครอบครัว Alte Schönhauser Str. 46, Mitte
+
+### [Konnopke's](https://www.konnopke-imbiss.de/) Imbiss
+
+Currywurst ตั้งแต่ปี 1930 ใต้รางรถไฟ U-Bahn ที่ Schönhauser Allee
+
+### กินมังสวิรัติ? นี่คือตัวเลือกที่ดีที่สุด
+
+Mustafa's คือตัวเลือกมังสวิรัติคลาสสิก ร้านเวียดนามส่วนใหญ่มีเมนูเต้าหู้
+
+## ถูกและเร็ว
+
+### [Curry 36](https://curry36.de/mehringdamm/)
+
+Currywurst ที่ Mehringdamm 36, Kreuzberg เปิดทุกวันถึงตี 5
+
+### Burgermeister
+
+เบอร์เกอร์ในห้องน้ำสาธารณะเก่าใต้ U-Bahn ที่ Schlesisches Tor (Oberbaumstraße 8)
+
+---
+
+Source: https://germandex.com/th/berlin/restaurants
+
+Language: th
+
+
+# เบอร์ลิน - ปาร์ตี้
+
+### [Simon-Dach-Straße](https://www.visitberlin.de/en/going-out-simon-dach-strasse)
+
+หนึ่งในถนนบาร์ที่ดังที่สุดของเบอร์ลิน ในย่าน Friedrichshain เหมาะสำหรับเริ่มต้นคืน
+
+### RAW-Gelände
+
+ลานรถไฟเก่าบน Revaler Straße มีคลับอย่าง Cassiopeia (ฮิปฮอป คอนเสิร์ต)
+
+### [Matrix](https://www.matrix-berlin.de/)
+
+คลับกระแสหลักขนาดใหญ่ที่ Warschauer Brücke ปาร์ตี้ทุกคืน นักศึกษาจ่าย 5 € ก่อนเที่ยงคืน
+
+### Weserstraße
+
+ถนนบาร์ของ Neukölln เครื่องดื่มถูก ตัวเลือกเยอะ
+
+## ควรรู้
+
+-   คลับในเบอร์ลินมีการ์ดหน้าประตูที่เข้มงวด และมักห้ามถ่ายรูปข้างใน ไปเป็นกลุ่มเล็ก ๆ และถ้าโดนปฏิเสธก็อย่าคิดมาก
+-   [ปาร์ตี้นักศึกษา](https://www.studentenparty-berlin.de/)ดูได้ที่ studentenparty-berlin.de
+
+---
+
+Source: https://germandex.com/th/berlin/party
+
+Language: th
+
+
+# เบอร์ลิน - ซูเปอร์มาร์เก็ต
+
+หากต้องการรู้จักเครือร้านและวิธีเลือก อ่าน[คู่มือซูเปอร์มาร์เก็ตในเยอรมนี](https://germandex.com/th/germany/groceries)ของเรา ร้านนานาชาติในพื้นที่อยู่ด้านล่าง
+
+## ซูเปอร์มาร์เก็ตเอเชียและนานาชาติ
+
+### [Zora](https://zorastore.eu/de/pages/zora-kreuzberg) Supermarkt
+
+Kottbusser Damm 93, Kreuzberg สินค้าอินเดีย เอเชีย แอฟริกา และละตินอเมริกา มีอีกร้านที่ Mitte
+
+### [Vinh-Loi](https://www.vinhloi.de/stores)
+
+ซูเปอร์มาร์เก็ตเอเชีย Ansbacher Str. 16, Schöneberg มีอีกหลายสาขาในเมือง
+
+### Dong Xuan Center
+
+Herzbergstraße, Lichtenberg ตลาดเอเชียที่ใหญ่ที่สุดในเบอร์ลิน มีหกฮอลล์ทั้งร้านของชำ ร้านอาหาร และอื่น ๆ
+
+---
+
+Source: https://germandex.com/th/berlin/groceries
+
+Language: th
+
+
+# โบฮุม - เรื่องเอกสาร
+
+การตั้งค่ามหาวิทยาลัยในสัปดาห์แรกของคุณ
+
+นี่ไม่ใช่รายการตรวจสอบการมาถึงที่สมบูรณ์ การลงทะเบียนที่อยู่ สถานะการประกันสุขภาพ และการอนุญาตให้มีถิ่นที่อยู่ (หากจำเป็น) เป็นงานแยกต่างหาก
+
+### 1\. นักศึกษา [RUB](https://www.it-services.ruhr-uni-bochum.de/services/sl/semesterticket.html.de): จ่ายที่ Mensa ด้วยบัตรชิป
+
+Mensa ของ Akafö รับบัตรนักศึกษา (มีชิป) หรือ MensaCard เติมเงินก่อนมื้อกลางวันแรก
+
+ชิปใช้ที่แคชเชียร์ไม่ได้? ถามเจ้าหน้าที่ Akafö เรื่อง MensaCard สำรอง
+
+### 2\. นักศึกษา RUB: เปิดใช้ Deutschland-Semesterticket
+
+Ruhr-Universität อธิบายขั้นตอนไว้ในหน้าบริการ IT ใช้ได้กับรถบัสและรถไฟท้องถิ่นและภูมิภาคทั้งหมดในเยอรมนี ไป Dortmund กับ Essen ได้สบาย
+
+ไม่มีตั๋ว? ตรวจการลงทะเบียนและค่าภาคเรียน แล้วทำตามหน้า IT services ของ RUB หรือติดต่อ AStA
+
+-   ตั๋ว Deutschlandsemester ครอบคลุมการขนส่งในท้องถิ่นและระดับภูมิภาคในชั้นสอง ไม่ใช่ ICE/IC/EC โดยจะจ่ายผ่านค่าธรรมเนียมภาคการศึกษา ไม่ใช่ตั๋วฟรี
+-   อย่าขึ้นเครื่องโดยไม่มีตั๋วที่ถูกต้อง หากตั๋วภาคเรียนของคุณยังไม่พร้อม ให้ซื้อค่าโดยสารที่ถูกต้องอื่นก่อน
+
+## มากกว่าการจัดตั้งมหาวิทยาลัย
+
+### ลงทะเบียนที่อยู่ในโบคุม
+
+การลงทะเบียนที่อยู่: [สำนักงานทะเบียนที่อยู่ของเมือง (Anmeldung)](https://www.bochum.de/Buergerbuero/Dienstleistungen-und-Infos/Anmeldung-in-Bochum) ภายในสองสัปดาห์หลังย้ายเข้า ใบอนุญาตพำนัก: [สำนักงานคนต่างชาติ](https://www.bochum.de/Auslaenderbuero) เอกสาร ประกันสุขภาพ สถานะการอยู่อาศัย และจดหมายอย่างเป็นทางการ: [คู่มือเรื่องเอกสารระดับประเทศ](https://germandex.com/th/germany/admin)
+
+คุณสามารถลงทะเบียนที่พักอาศัยหลักได้[ออนไลน์ทั้งหมด](https://www.bochum.de/Buergerbuero/Dienstleistungen-und-Infos/Anmeldung-in-Bochum) (ผ่าน wohnsitzanmeldung.gov.de) หรือไปที่ Bürgerbüro ด้วยตนเองโดยนัดหมาย หากเวลานัดที่ว่างเลยกำหนดสองสัปดาห์ของคุณไป การจองนัดหมายถือเป็นการลงทะเบียนตรงเวลาแล้ว - นำหลักฐานยืนยันไปด้วย
+
+---
+
+Source: https://germandex.com/th/bochum/admin
+
+Language: th
+
+
+# โบฮุม - กีฬา
+
+[Hochschulsport Bochum](https://buchung.hochschulsport.ruhr-uni-bochum.de/angebote/aktueller_zeitraum/) ดำเนินการโดย [Ruhr-Universität](https://hochschulsport-bochum.ruhr-uni-bochum.de/de/faqs-oft-gestellte-fragen)
+
+ลงทะเบียนออนไลน์แต่ละคอร์สก่อนเข้าร่วม นักศึกษาที่มีสิทธิมักได้ราคาถูกลง ตรวจสิทธิและราคาปัจจุบันก่อนจอง
+
+## ทางเลือกฟรี
+
+-   Kemnader See ทะเลสาบใกล้แคมปัส ทุกเช้าวันเสาร์มี parkrun 5 กม. ฟรี
+
+---
+
+Source: https://germandex.com/th/bochum/sports
+
+Language: th
+
+
+# โบฮุม - ร้านอาหาร
+
+## แนะนำ
+
+### Mandragora
+
+ผับ-ร้านอาหารแห่งแรกของ Bermuda3Eck
+
+### [Café Tucholsky](https://cafe-tucholsky.de/)
+
+คาเฟ่-ร้านอาหารสำหรับมื้อเช้าและกลางวัน วันธรรมดาเปิด 7 โมง
+
+### Bermuda Döner
+
+โดเนอร์ใน Bermuda3Eck มีตัวเลือกวีแกน
+
+### กินมังสวิรัติ? นี่คือตัวเลือกที่ดีที่สุด
+
+Bermuda Döner มีโดเนอร์วีแกน
+
+---
+
+Source: https://germandex.com/th/bochum/restaurants
+
+Language: th
+
+
+# โบฮุม - ปาร์ตี้
+
+### [Bermuda3Eck](https://www.bermuda3eck.de/)
+
+ย่านบาร์ของ Bochum ที่มีผับหนาแน่นที่สุดใน NRW เริ่มคืนที่นี่
+
+### [Zeche](https://zeche.net/) Bochum
+
+คลับและฮอลล์คอนเสิร์ตขนาดใหญ่ มีปาร์ตี้ธีม
+
+---
+
+Source: https://germandex.com/th/bochum/party
+
+Language: th
+
+
+# โบฮุม - ซูเปอร์มาร์เก็ต
+
+หากต้องการรู้จักเครือร้านและวิธีเลือก อ่าน[คู่มือซูเปอร์มาร์เก็ตในเยอรมนี](https://germandex.com/th/germany/groceries)ของเรา ร้านนานาชาติในพื้นที่อยู่ด้านล่าง
+
+## ซูเปอร์มาร์เก็ตเอเชียและนานาชาติ
+
+### Kashmir Bazar
+
+Brückstraße 40 ใจกลางเมือง สินค้าอินเดียและตะวันออกกลาง
+
+### [Tains](https://www.mein-asiamarkt.de/Filialen/Bochum/) Asia Supermarkt
+
+Herner Straße สินค้าเอเชีย
+
+---
+
+Source: https://germandex.com/th/bochum/groceries
+
+Language: th
+
+
+# ดอร์ทมุนด์ - เรื่องเอกสาร
+
+การตั้งค่ามหาวิทยาลัยในสัปดาห์แรกของคุณ
+
+นี่ไม่ใช่รายการตรวจสอบการมาถึงที่สมบูรณ์ การลงทะเบียนที่อยู่ สถานะการประกันสุขภาพ และการอนุญาตให้มีถิ่นที่อยู่ (หากจำเป็น) เป็นงานแยกต่างหาก
+
+### 1\. จ่ายที่ Mensa ด้วยบัตรหรือโทรศัพท์
+
+จ่ายแบบไร้สัมผัสด้วยบัตรธนาคารหรือโทรศัพท์
+
+จ่ายแบบไร้สัมผัสไม่ได้? ลองแคชเชียร์อื่นหรือถามเจ้าหน้าที่ Studierendenwerk
+
+### 2\. นักศึกษา [TU Dortmund](https://www.tu-dortmund.de/semesterticket/): รับ Deutschlandsemesterticket
+
+TU Dortmund ให้ร่วมกับ AStA ใช้ได้กับรถบัสและรถไฟท้องถิ่นและภูมิภาคทั้งหมดในเยอรมนี
+
+ตั๋วยังไม่ออก? ตรวจการลงทะเบียนและค่าภาคเรียน แล้วติดต่อ AStA หรือบริการนักศึกษา
+
+-   ตั๋ว Deutschlandsemester ครอบคลุมการขนส่งในท้องถิ่นและระดับภูมิภาคในชั้นสอง ไม่ใช่ ICE/IC/EC โดยจะจ่ายผ่านค่าธรรมเนียมภาคการศึกษา ไม่ใช่ตั๋วฟรี
+-   อย่าขึ้นเครื่องโดยไม่มีตั๋วที่ถูกต้อง หากตั๋วภาคเรียนของคุณยังไม่พร้อม ให้ซื้อค่าโดยสารที่ถูกต้องอื่นก่อน
+
+## มากกว่าการจัดตั้งมหาวิทยาลัย
+
+### ลงทะเบียนที่อยู่ในดอร์ทมุนด์
+
+การลงทะเบียนที่อยู่: [สำนักงานทะเบียนที่อยู่ของเมือง (Anmeldung)](https://www.dortmund.de/services/wohnsitzanmeldung.html) ภายในสองสัปดาห์หลังย้ายเข้า ใบอนุญาตพำนัก: [สำนักงานคนต่างชาติ](https://application.dortmund.de/rathaus-und-verwaltung/verwaltung/amt-fuer-migration/kontakt/) เอกสาร ประกันสุขภาพ สถานะการอยู่อาศัย และจดหมายอย่างเป็นทางการ: [คู่มือเรื่องเอกสารระดับประเทศ](https://germandex.com/th/germany/admin)
+
+คุณสามารถลงทะเบียนได้[ออนไลน์ทั้งหมด](https://www.dortmund.de/services/wohnsitzanmeldung.html) (ฟังก์ชัน eID ของบัตรประจำตัวและบัญชี BundID ฟรี) หรือไปด้วยตนเองโดยนัดหมาย
+
+---
+
+Source: https://germandex.com/th/dortmund/admin
+
+Language: th
+
+
+# ดอร์ทมุนด์ - กีฬา
+
+[Hochschulsport Dortmund](https://hsp.tu-dortmund.de/sportangebot/) ดำเนินการโดย TU Dortmund
+
+ซื้อ [Sportkarte](https://www.buchsys.ahs.tu-dortmund.de/angebote/aktueller_zeitraum/_SPORTKARTE.html) ก่อน แล้วจองคอร์สออนไลน์ ตรวจราคาปัจจุบันและสิทธิก่อนซื้อ
+
+## ทางเลือกฟรี
+
+-   Phoenix-See: ทางเรียบกว้างรอบทะเลสาบ
+
+---
+
+Source: https://germandex.com/th/dortmund/sports
+
+Language: th
+
+
+# ดอร์ทมุนด์ - ร้านอาหาร
+
+## แนะนำ
+
+### Mo's Beef
+
+เบอร์เกอร์ Lortzingstraße 28
+
+### [Al Afandi](https://www.al-afandi-dortmund.de/)
+
+อาหารอาหรับใจกลางเมือง Ostenhellweg 40
+
+### [Little Italy](https://www.little-italy-dortmund.de/)
+
+อาหารอิตาเลียนที่ Hansastraße 44 จานส่วนใหญ่ไม่เกิน 10 €
+
+## ถูกและเร็ว
+
+### [Wurst Willi](https://www.wurstwilli.com/)
+
+Currywurst ที่ Petrikirchhof จันทร์ถึงเสาร์
+
+---
+
+Source: https://germandex.com/th/dortmund/restaurants
+
+Language: th
+
+
+# ดอร์ทมุนด์ - ปาร์ตี้
+
+### Kreuzviertel
+
+ย่านผับนักศึกษา เริ่มคืนที่นี่
+
+### Kraftstoff
+
+ผับในย่าน Unionviertel, Augustastraße 2 เปิดทุกวันตั้งแต่หนึ่งทุ่ม
+
+### [FZW](https://fzw.de/)
+
+คลับและฮอลล์คอนเสิร์ตที่มีปาร์ตี้ยุค 90 และ 2000 เป็นประจำ
+
+---
+
+Source: https://germandex.com/th/dortmund/party
+
+Language: th
+
+
+# ดอร์ทมุนด์ - ซูเปอร์มาร์เก็ต
+
+หากต้องการรู้จักเครือร้านและวิธีเลือก อ่าน[คู่มือซูเปอร์มาร์เก็ตในเยอรมนี](https://germandex.com/th/germany/groceries)ของเรา ร้านนานาชาติในพื้นที่อยู่ด้านล่าง
+
+## ซูเปอร์มาร์เก็ตเอเชียและนานาชาติ
+
+### [Inaivaa](https://www.inaivaa.com/visit-store)
+
+Rheinische Str. 79 สินค้าอินเดียและศรีลังกา
+
+### [Tain Kim Heng](https://tkh-supermarkt.de/)
+
+Hohe Straße 62 ซูเปอร์มาร์เก็ตเอเชีย
+
+---
+
+Source: https://germandex.com/th/dortmund/groceries
+
+Language: th
+
+
+# ดึสเซลดอร์ฟ - เรื่องเอกสาร
+
+การตั้งค่ามหาวิทยาลัยในสัปดาห์แรกของคุณ
+
+นี่ไม่ใช่รายการตรวจสอบการมาถึงที่สมบูรณ์ การลงทะเบียนที่อยู่ สถานะการประกันสุขภาพ และการอนุญาตให้มีถิ่นที่อยู่ (หากจำเป็น) เป็นงานแยกต่างหาก
+
+### 1\. นักศึกษา HHU: รับ [HHU Card](https://www.hhu.de/studium/bewerbung-und-einschreibung/hhu-card)
+
+ที่มหาวิทยาลัย Heinrich Heine บัตร HHU Card เป็นทั้งบัตรนักศึกษา บัตร Mensa บัตรห้องสมุด และ Deutschlandticket ใช้ได้กับรถบัสและรถไฟท้องถิ่นและภูมิภาคทั้งหมดในเยอรมนี
+
+HHU Card ไม่ถึง? ตรวจที่อยู่ไปรษณีย์ในพอร์ทัล HHU และติดต่อบริการนักศึกษา; เปิดใช้งานสองขั้นตอนด้วยรหัสมหาวิทยาลัย
+
+### 2\. นักศึกษามหาวิทยาลัยอื่นในดึสเซลดอร์ฟ: รับ MensaCard
+
+นักศึกษามหาวิทยาลัยอื่นจ่ายที่ Mensa ด้วย MensaCard ของ Studierendenwerk (2.50 €) และเติมเงินผ่านแอป TopUp
+
+TopUp ใช้ไม่ได้? ถามแคชเชียร์ Mensa เรื่องวิธีเติมเงินอื่น
+
+-   ตั๋ว Deutschlandsemester ครอบคลุมการขนส่งในท้องถิ่นและระดับภูมิภาคในชั้นสอง ไม่ใช่ ICE/IC/EC โดยจะจ่ายผ่านค่าธรรมเนียมภาคการศึกษา ไม่ใช่ตั๋วฟรี
+-   อย่าขึ้นเครื่องโดยไม่มีตั๋วที่ถูกต้อง หากตั๋วภาคเรียนของคุณยังไม่พร้อม ให้ซื้อค่าโดยสารที่ถูกต้องอื่นก่อน
+
+## มากกว่าการจัดตั้งมหาวิทยาลัย
+
+### ลงทะเบียนที่อยู่ในดึสเซลดอร์ฟ
+
+การลงทะเบียนที่อยู่: [สำนักงานทะเบียนที่อยู่ของเมือง (Anmeldung)](https://service.duesseldorf.de/suche/-/egov-bis-detail/dienstleistung/227/show) ภายในสองสัปดาห์หลังย้ายเข้า ใบอนุญาตพำนัก: [สำนักงานคนต่างชาติ](https://www.duesseldorf.de/auslaenderamt) เอกสาร ประกันสุขภาพ สถานะการอยู่อาศัย และจดหมายอย่างเป็นทางการ: [คู่มือเรื่องเอกสารระดับประเทศ](https://germandex.com/th/germany/admin)
+
+ลงทะเบียนได้สองวิธี: [ออนไลน์ทั้งหมด](https://service.duesseldorf.de/suche/-/egov-bis-detail/dienstleistung/227/show) (บัตรประจำตัวหรือบัตร eID ของ EU ที่เปิดใช้งาน eID พร้อมรหัส PIN บัตรของคุณจะได้รับการอัปเดตแบบดิจิทัล) หรือไปที่ Bürgerbüro ด้วยตนเอง - ต้องนัดหมาย
+
+---
+
+Source: https://germandex.com/th/duesseldorf/admin
+
+Language: th
+
+
+# ดึสเซลดอร์ฟ - กีฬา
+
+[Hochschulsport Düsseldorf](https://hss-d.de/) ดูแลกีฬาของมหาวิทยาลัยต่าง ๆ ใน Düsseldorf
+
+คอร์สราคาลดสำหรับนักศึกษาที่มีสิทธิ จองออนไลน์หลัง[สร้างบัญชี](https://hss-d.de/allgemeines-organisatorisches/teilnahme-kosten-bankverbindung/) ตรวจสิทธิและราคา คอร์สยอดนิยมเต็มเร็ว
+
+## ทางเลือกฟรี
+
+-   วิ่งเลียบทางเดินริมแม่น้ำไรน์
+-   Südpark ข้างแคมปัส HHU และ Hofgarten ใจกลางเมือง
+
+---
+
+Source: https://germandex.com/th/duesseldorf/sports
+
+Language: th
+
+
+# ดึสเซลดอร์ฟ - ร้านอาหาร
+
+## แนะนำ
+
+### [Marukin Karaage](https://www.marukin-karaage-duesseldorf.de/)
+
+ไก่ทอดญี่ปุ่นในย่านญี่ปุ่นรอบ Immermannstraße
+
+### [Bibimcup](https://www.bibimcup.de/)
+
+บิบิมบับเกาหลี Friedrich-Ebert-Straße 3 อังคารถึงเสาร์
+
+### [Sattgrün](https://sattgruen.de/)
+
+บุฟเฟต์วีแกน ที่ Medienhafen (Brückenstr. 12) และ Flingern (Hoffeldstr. 18)
+
+### กินมังสวิรัติ? นี่คือตัวเลือกที่ดีที่สุด
+
+Sattgrün เป็นวีแกนทั้งร้าน และ Bibimcup มีชามมังสวิรัติ
+
+---
+
+Source: https://germandex.com/th/duesseldorf/restaurants
+
+Language: th
+
+
+# ดึสเซลดอร์ฟ - ปาร์ตี้
+
+### Altstadt
+
+"บาร์ที่ยาวที่สุดในโลก": ผับหลายร้อยแห่งในเมืองเก่า ลองดื่ม Altbier เช่นที่ [Uerige](https://uerige.de/)
+
+### Die Blende
+
+ผับร็อกใน Bilk, Friedrichstr. 122
+
+### [Ampere](https://ampere-club.de/programm/)
+
+คลับใหม่สำหรับคอนเสิร์ตและปาร์ตี้
+
+### [The Eight](https://the-eight.de/)
+
+คลับริมแม่น้ำไรน์ ขึ้นชื่อเรื่องปาร์ตี้ Ersti (นักศึกษาใหม่) ใหญ่ ๆ ในเดือนตุลาคม
+
+---
+
+Source: https://germandex.com/th/duesseldorf/party
+
+Language: th
+
+
+# ดึสเซลดอร์ฟ - ซูเปอร์มาร์เก็ต
+
+หากต้องการรู้จักเครือร้านและวิธีเลือก อ่าน[คู่มือซูเปอร์มาร์เก็ตในเยอรมนี](https://germandex.com/th/germany/groceries)ของเรา ร้านนานาชาติในพื้นที่อยู่ด้านล่าง
+
+## ซูเปอร์มาร์เก็ตเอเชียและนานาชาติ
+
+### [Dae-Yang](https://www.visitduesseldorf.de/en/attractions/dae-yang-da-yang-shi-pin-a2bfd01c49)
+
+Immermannstraße 21 สินค้าญี่ปุ่น เกาหลี และเอเชียอื่น ๆ
+
+### Indo-Ceylon
+
+ที่ Worringer Platz สินค้าอินเดียและศรีลังกา
+
+---
+
+Source: https://germandex.com/th/duesseldorf/groceries
+
+Language: th
+
+
+# แฟรงก์เฟิร์ต - เรื่องเอกสาร
+
+การตั้งค่ามหาวิทยาลัยในสัปดาห์แรกของคุณ
+
+นี่ไม่ใช่รายการตรวจสอบการมาถึงที่สมบูรณ์ การลงทะเบียนที่อยู่ สถานะการประกันสุขภาพ และการอนุญาตให้มีถิ่นที่อยู่ (หากจำเป็น) เป็นงานแยกต่างหาก
+
+### 1\. จ่ายที่ Mensa ด้วยบัตรมหาวิทยาลัย
+
+Mensa ของ Studierendenwerk Frankfurt รับบัตรมหาวิทยาลัยหรือ MensaCard
+
+บัตรไม่มีเงิน? ถามแคชเชียร์ Mensa เรื่องเติมเงินหรือ MensaCard
+
+### 2\. นักศึกษา Goethe: รับ Deutschlandsemesterticket
+
+ที่มหาวิทยาลัย Goethe เป็นตั๋วดิจิทัลที่รับได้จาก[พอร์ทัลออนไลน์ของ AStA](https://asta-frankfurt.de/angebote/kultur-mobilitaet/semesterticket) ใช้ได้กับรถบัสและรถไฟท้องถิ่นและภูมิภาคทั้งหมดในเยอรมนี
+
+ตั๋วดิจิทัลใช้ไม่ได้? ตรวจการต่อทะเบียน (Rückmeldung) และค่าภาคเรียน - ตั๋วจ่ายพร้อมค่าธรรมเนียมนั้น - แล้วติดต่อฝ่ายช่วยเหลือตั๋วของ AStA
+
+-   ตั๋ว Deutschlandsemester ครอบคลุมการขนส่งในท้องถิ่นและระดับภูมิภาคในชั้นสอง ไม่ใช่ ICE/IC/EC โดยจะจ่ายผ่านค่าธรรมเนียมภาคการศึกษา ไม่ใช่ตั๋วฟรี
+-   อย่าขึ้นเครื่องโดยไม่มีตั๋วที่ถูกต้อง หากตั๋วภาคเรียนของคุณยังไม่พร้อม ให้ซื้อค่าโดยสารที่ถูกต้องอื่นก่อน
+
+### 3\. สำหรับนักศึกษา Frankfurt UAS: เปิดใช้งาน Deutschlandsemesterticket ของคุณ
+
+ที่ Frankfurt University of Applied Sciences ตั๋วชำระพร้อมค่าธรรมเนียมเทอมและเป็นแบบดิจิทัลเท่านั้น เปิดใช้งานใน[พอร์ทัลตั๋วของ AStA](https://asta-fra-uas.de/semesterticketbuero/)ด้วยบัญชีมหาวิทยาลัยของคุณ เก็บไว้ในกระเป๋าเงินบนโทรศัพท์และพกบัตรประจำตัวที่มีรูปถ่าย ต้องต่ออายุทุกเทอม
+
+ไม่มีสมาร์ทโฟน? สอบถามขั้นตอนการทำบัตรชิปจากสำนักงานตั๋วเทอมของ AStA
+
+## มากกว่าการจัดตั้งมหาวิทยาลัย
+
+### ลงทะเบียนที่อยู่ในแฟรงก์เฟิร์ต
+
+การลงทะเบียนที่อยู่: [สำนักงานทะเบียนที่อยู่ของเมือง (Anmeldung)](https://frankfurt.de/service-und-rathaus/verwaltung/aemter-und-institutionen/buergeramt-statistik-und-wahlen/buergeraemter/terminservice) ภายในสองสัปดาห์หลังย้ายเข้า ใบอนุญาตพำนัก: [สำนักงานคนต่างชาติ](https://frankfurt.de/auslaenderangelegenheiten) เอกสาร ประกันสุขภาพ สถานะการอยู่อาศัย และจดหมายอย่างเป็นทางการ: [คู่มือเรื่องเอกสารระดับประเทศ](https://germandex.com/th/germany/admin)
+
+คุณสามารถลงทะเบียนที่พักอาศัยหลักได้[ออนไลน์ทั้งหมด](https://frankfurt.de/service-und-rathaus/verwaltung/aemter-und-institutionen/buergeramt-statistik-und-wahlen/buergeraemter/terminservice) (ผ่าน wohnsitzanmeldung.gov.de) หรือไปที่ Bürgeramt ใดก็ได้ด้วยตนเอง ไม่ว่าคุณจะอาศัยอยู่ที่ไหนใน Frankfurt - ต้องนัดหมาย
+
+---
+
+Source: https://germandex.com/th/frankfurt/admin
+
+Language: th
+
+
+# แฟรงก์เฟิร์ต - กีฬา
+
+[Zentrum für](https://www.uni-frankfurt.de/103154514/FAQ) [Hochschulsport](https://www.uni-frankfurt.de/hochschulsport) ของมหาวิทยาลัย Goethe เปิดให้นักศึกษา Frankfurt UAS ด้วย
+
+มีหลายคอร์สให้จองออนไลน์ ราคาลดสำหรับนักศึกษาที่มีสิทธิ ตรวจสิทธิและราคา ดูวันรับสมัครและจองแต่เนิ่น ๆ
+
+## ทางเลือกฟรี
+
+-   Mainufer: ทางริมแม่น้ำยาวหลายกิโลเมตร วิวเส้นขอบฟ้า
+-   Grüneburgpark ข้างแคมปัส Westend และ Stadtwald สำหรับวิ่งระยะไกล
+
+---
+
+Source: https://germandex.com/th/frankfurt/sports
+
+Language: th
+
+
+# แฟรงก์เฟิร์ต - ร้านอาหาร
+
+## แนะนำ
+
+### [Bun Bo](https://bun-bo-restaurant-frankfurt.eatbu.com/?lang=de)
+
+ก๋วยเตี๋ยวและข้าวชามแบบเวียดนาม ในย่าน Ostend
+
+### [Pizzeria Montana](https://www.montana-pizzeria.de/allergene-zusatzstoffe/)
+
+พิซซ่าเนเปิลส์ Weserstraße 14
+
+### [Apfelwein Wagner](https://www.apfelwein-wagner.com/)
+
+ร้านไซเดอร์แอปเปิลคลาสสิกตั้งแต่ปี 1931, Schweizer Str. 71, Sachsenhausen ลองชิม Grüne Soße
+
+### กินมังสวิรัติ? นี่คือตัวเลือกที่ดีที่สุด
+
+สั่ง Grüne Soße กับมันฝรั่งและไข่ที่ Apfelwein Wagner หรือมาร์เกริต้าที่ Montana
+
+---
+
+Source: https://germandex.com/th/frankfurt/restaurants
+
+Language: th
+
+
+# แฟรงก์เฟิร์ต - ปาร์ตี้
+
+### Alt-Sachsenhausen
+
+ย่านผับเก่าที่มีร้านไซเดอร์แอปเปิลอย่าง Zur Buchscheer
+
+### [Gibson](https://gibson-club.de/)
+
+คลับที่มีเวทีดนตรีสดบนถนน Zeil
+
+### [Batschkapp](https://www.batschkapp.net/)
+
+คอนเสิร์ตและปาร์ตี้ Gwinnerstraße 5
+
+### [Tanzhaus West](https://tanzhaus-west.de/)
+
+เทคโนและเฮาส์ในโรงงานเก่า
+
+## ควรรู้
+
+-   บาร์นักศึกษา ไปที่ Bockenheim (ย่านมหาวิทยาลัยเก่า) Nordend และ Bornheim
+
+---
+
+Source: https://germandex.com/th/frankfurt/party
+
+Language: th
+
+
+# แฟรงก์เฟิร์ต - ซูเปอร์มาร์เก็ต
+
+หากต้องการรู้จักเครือร้านและวิธีเลือก อ่าน[คู่มือซูเปอร์มาร์เก็ตในเยอรมนี](https://germandex.com/th/germany/groceries)ของเรา ร้านนานาชาติในพื้นที่อยู่ด้านล่าง
+
+## ซูเปอร์มาร์เก็ตเอเชียและนานาชาติ
+
+### [Indian Bazar](https://indianbazar.de/)
+
+Pfaffenwiese 58, Zeilsheim สินค้าอินเดีย
+
+### [Riko](https://rikoasiasupermarkt.de/) Asia Supermarkt
+
+Heinrich-Hertz-Straße 5 สินค้าเอเชีย เปิดจันทร์ถึงเสาร์
+
+---
+
+Source: https://germandex.com/th/frankfurt/groceries
+
+Language: th
+
+
+# ฮัมบูร์ก - เรื่องเอกสาร
+
+การตั้งค่ามหาวิทยาลัยในสัปดาห์แรกของคุณ
+
+นี่ไม่ใช่รายการตรวจสอบการมาถึงที่สมบูรณ์ การลงทะเบียนที่อยู่ สถานะการประกันสุขภาพ และการอนุญาตให้มีถิ่นที่อยู่ (หากจำเป็น) เป็นงานแยกต่างหาก
+
+### 1\. จ่ายที่ [Mensa](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-studierendenhaus) ด้วยบัตรหรือโทรศัพท์
+
+Mensa ของ Studierendenwerk Hamburg ไม่รับเงินสด 100% จ่ายด้วยบัตรเดบิต บัตรเครดิต หรือโทรศัพท์ ไม่ต้องมีบัตรเติมเงิน
+
+บัตรถูกปฏิเสธ? ลองบัตรอื่นหรือโทรศัพท์; เจ้าหน้าที่แคชเชียร์ช่วยได้
+
+### 2\. รับ [Deutschlandsemesterticket](https://www.hvv.de/de/service/fragen-und-antworten/semesterticket) ผ่าน RIDE
+
+มหาวิทยาลัยจะให้ QR code ที่พาไป RIDE พอร์ทัลตั๋วของแคมปัส ใช้ได้กับรถบัสและรถไฟท้องถิ่นและภูมิภาคทั้งหมดในเยอรมนี
+
+หา QR ไม่พบ? ดูอีเมลมหาวิทยาลัยและบอร์ดประกาศ แล้วถาม AStA หรือสำนักงานนักศึกษา; FAQ ของ hvv อธิบายขั้นตอน RIDE
+
+-   ตั๋ว Deutschlandsemester ครอบคลุมการขนส่งในท้องถิ่นและระดับภูมิภาคในชั้นสอง ไม่ใช่ ICE/IC/EC โดยจะจ่ายผ่านค่าธรรมเนียมภาคการศึกษา ไม่ใช่ตั๋วฟรี
+-   อย่าขึ้นเครื่องโดยไม่มีตั๋วที่ถูกต้อง หากตั๋วภาคเรียนของคุณยังไม่พร้อม ให้ซื้อค่าโดยสารที่ถูกต้องอื่นก่อน
+
+## มากกว่าการจัดตั้งมหาวิทยาลัย
+
+### ลงทะเบียนที่อยู่ในฮัมบูร์ก
+
+การลงทะเบียนที่อยู่: [สำนักงานทะเบียนที่อยู่ของเมือง (Anmeldung)](https://www.hamburg.de/service/info/111202484/) ภายในสองสัปดาห์หลังย้ายเข้า ใบอนุญาตพำนัก: [สำนักงานคนต่างชาติ](https://welcome.hamburg.com/entry-and-residence/residence-permit/students-17520) เอกสาร ประกันสุขภาพ สถานะการอยู่อาศัย และจดหมายอย่างเป็นทางการ: [คู่มือเรื่องเอกสารระดับประเทศ](https://germandex.com/th/germany/admin)
+
+คุณสามารถลงทะเบียนได้[ออนไลน์ทั้งหมด](https://www.hamburg.de/service/info/111202484/) หรือที่ Kundenzentrum ใดก็ได้ตามต้องการ วันอังคารถึงวันศุกร์ต้องนัดหมาย วันจันทร์และวันพุธเข้าได้โดยไม่ต้องนัด แต่คาดว่าต้องรอคิว
+
+---
+
+Source: https://germandex.com/th/hamburg/admin
+
+Language: th
+
+
+# ฮัมบูร์ก - กีฬา
+
+[Hochschulsport Hamburg](https://www.hochschulsport.uni-hamburg.de/) ใช้ร่วมกันระหว่างมหาวิทยาลัยใน Hamburg
+
+คอร์สราคาลดสำหรับนักศึกษาที่มีสิทธิ [จองออนไลน์](https://buchung.hochschulsport-hamburg.de/angebote/aktueller_zeitraum/) ตรวจสิทธิและราคา FlexiCard ให้เข้าหลายกิจกรรมได้โดยไม่ต้องเลือกคอร์สตายตัว
+
+คอร์สประจำเทอมจะ[เปิดให้จองออนไลน์](https://www.hochschulsport.uni-hamburg.de/sportcampus/buchsys.html)ในวันที่กำหนด และคอร์สยอดนิยมเต็มเร็ว - จองในวันเปิด
+
+## ทางเลือกฟรี
+
+-   วิ่งรอบทะเลสาบ Außenalster ประมาณ 7.5 กม.
+-   Stadtpark สำหรับวิ่งและเล่นกับเพื่อน และชายหาดแม่น้ำเอลเบที่ Övelgönne สำหรับเย็นหน้าร้อน
+
+---
+
+Source: https://germandex.com/th/hamburg/sports
+
+Language: th
+
+
+# ฮัมบูร์ก - ร้านอาหาร
+
+## แนะนำ
+
+### [Badshah](https://badshahrestaurant.de/)
+
+ร้านอาหารอินเดียแบบครอบครัวตั้งแต่ปี 2004 บน Bremer Reihe ใกล้สถานีกลาง ขึ้นชื่อเรื่องทาลี
+
+### [Azeitona](https://azeitona.de/)
+
+ฟาลาเฟล ฮัมมัส และเมซเซ่ใน Schanze, Beckstraße 19
+
+### [Ibras Bistro](https://ibras-bistro-hamburg.de/)
+
+ฟาลาเฟลที่ดีที่สุดแห่งหนึ่งใน Hamburg, Holstenstr. 185, Altona
+
+### กินมังสวิรัติ? นี่คือตัวเลือกที่ดีที่สุด
+
+Azeitona และ Ibras คือตัวเลือกมังสวิรัติที่ดีที่สุด เลือกฟาลาเฟล
+
+## ถูกและเร็ว
+
+### [Brücke 10](https://bruecke10.com/)
+
+Fischbrötchen (แซนด์วิชปลา) ของว่างประจำ Hamburg อยู่ตรง Landungsbrücken
+
+---
+
+Source: https://germandex.com/th/hamburg/restaurants
+
+Language: th
+
+
+# ฮัมบูร์ก - ปาร์ตี้
+
+### Reeperbahn และ St. Pauli
+
+ถนนสายกลางคืนชื่อดังของ Hamburg มีบาร์ คลับ และดนตรีสดทุกคืน
+
+### Hamburger Berg
+
+ซอยข้าง Reeperbahn ที่เต็มไปด้วยบาร์ราคาถูก
+
+### Sternschanze
+
+บาร์และดื่มกลางแจ้งรอบ Schulterblatt ชิลกว่า Reeperbahn
+
+### [Molotow](https://molotowclub.com/programm/programm.php)
+
+คลับอินดี้ที่ Reeperbahn 136 คอนเสิร์ตและปาร์ตี้
+
+### [Uebel & Gefährlich](https://www.uebelundgefaehrlich.com/)
+
+คลับในบังเกอร์เก่าสมัยสงครามโลกครั้งที่สองที่ Heiligengeistfeld
+
+## ควรรู้
+
+-   ระวังโทรศัพท์และกระเป๋าเงินบน Reeperbahn ช่วงสุดสัปดาห์
+
+---
+
+Source: https://germandex.com/th/hamburg/party
+
+Language: th
+
+
+# ฮัมบูร์ก - ซูเปอร์มาร์เก็ต
+
+หากต้องการรู้จักเครือร้านและวิธีเลือก อ่าน[คู่มือซูเปอร์มาร์เก็ตในเยอรมนี](https://germandex.com/th/germany/groceries)ของเรา ร้านนานาชาติในพื้นที่อยู่ด้านล่าง
+
+## ซูเปอร์มาร์เก็ตเอเชียและนานาชาติ
+
+### [SAIRAS](https://www.sairas.de/)
+
+Steindamm 21 ใกล้สถานีกลาง สินค้าอินเดียและเปอร์เซีย
+
+### [Mehtab](https://mehtabstore.de/en/contact-us/)
+
+Lange Reihe 9, St. Georg สินค้าอินเดีย
+
+### [LIARE Asia Markt](https://liare.de/)
+
+Eppendorfer Landstraße 70 สินค้าเอเชีย
+
+---
+
+Source: https://germandex.com/th/hamburg/groceries
+
+Language: th
+
+
+# โคโลญ - เรื่องเอกสาร
+
+การตั้งค่ามหาวิทยาลัยในสัปดาห์แรกของคุณ
+
+นี่ไม่ใช่รายการตรวจสอบการมาถึงที่สมบูรณ์ การลงทะเบียนที่อยู่ สถานะการประกันสุขภาพ และการอนุญาตให้มีถิ่นที่อยู่ (หากจำเป็น) เป็นงานแยกต่างหาก
+
+### 1\. จ่ายที่ Mensa ด้วยบัตรหรือโทรศัพท์
+
+Mensakarte แบบเก่าไม่มีแล้ว จ่ายด้วยบัตรธนาคารหรือโทรศัพท์
+
+จ่ายไม่สำเร็จ? ลองแคชเชียร์อื่นหรือถามเจ้าหน้าที่
+
+### 2\. นักศึกษามหาวิทยาลัยโคโลญ: รับ [Deutschlandsemesterticket](https://studsek.uni-koeln.de/studium_a_bis_z/data/semesterticket/index_ger.html) ดิจิทัล
+
+ที่มหาวิทยาลัยโคโลญ ตั๋วเทอมเป็นแบบดิจิทัลเท่านั้น (ตั้งแต่เมษายน 2024) ใช้ได้กับรถบัสและรถไฟท้องถิ่นและภูมิภาคทั้งหมดในเยอรมนี มหาวิทยาลัยอธิบายขั้นตอนไว้
+
+QR ไม่โหลดบน Ride? ตรวจการลงทะเบียนและบัญชี KLIPS แล้วติดต่อ AStA (คู่สัญญาของ KVB สำหรับตั๋ว)
+
+-   ตั๋ว Deutschlandsemester ครอบคลุมการขนส่งในท้องถิ่นและระดับภูมิภาคในชั้นสอง ไม่ใช่ ICE/IC/EC โดยจะจ่ายผ่านค่าธรรมเนียมภาคการศึกษา ไม่ใช่ตั๋วฟรี
+-   อย่าขึ้นเครื่องโดยไม่มีตั๋วที่ถูกต้อง หากตั๋วภาคเรียนของคุณยังไม่พร้อม ให้ซื้อค่าโดยสารที่ถูกต้องอื่นก่อน
+
+## มากกว่าการจัดตั้งมหาวิทยาลัย
+
+### ลงทะเบียนที่อยู่ในโคโลญ
+
+การลงทะเบียนที่อยู่: [สำนักงานทะเบียนที่อยู่ของเมือง (Anmeldung)](https://www.stadt-koeln.de/service/produkte/00415/index.html) ภายในสองสัปดาห์หลังย้ายเข้า ใบอนุญาตพำนัก: [สำนักงานคนต่างชาติ](https://www.stadt-koeln.de/service/produkt/aufenthaltserlaubnis-zu-studienzwecken-1) เอกสาร ประกันสุขภาพ สถานะการอยู่อาศัย และจดหมายอย่างเป็นทางการ: [คู่มือเรื่องเอกสารระดับประเทศ](https://germandex.com/th/germany/admin)
+
+คุณสามารถลงทะเบียนได้[ออนไลน์ทั้งหมด](https://www.stadt-koeln.de/service/produkte/00415/index.html) (ไม่ต้องไปสำนักงาน สติกเกอร์ที่อยู่จะส่งมาทางไปรษณีย์) หรือไปที่ Kundenzentrum ใดก็ได้ด้วยตนเอง ไม่ว่าที่พักของคุณจะอยู่ที่ไหนใน Cologne
+
+---
+
+Source: https://germandex.com/th/koeln/admin
+
+Language: th
+
+
+# โคโลญ - กีฬา
+
+[UniSport Köln](https://unisport.koeln/) คือโปรแกรมกีฬาของมหาวิทยาลัยโคโลญ
+
+[Sportticket](https://unisport.koeln/ueberblick/wie_kann_ich_teilnehmen/sportticket/index_ger.html) หนึ่งใบต่อภาคเรียนเปิดให้เข้าหลายคอร์ส ตรวจราคาและสิทธิ ช่วง Schnupperzeit ต้นภาคเรียนฤดูหนาวลองคอร์สได้ตามต้องการ
+
+ที่นั่งในคอร์สมีจำนวนจำกัดและ[ต้องจองออนไลน์เท่านั้น](https://unisport.koeln/ueberblick/teilnahmeregelungen/faq/index_ger.html) แต่ละคอร์สเปิดตามวันที่ระบุในหน้าของคอร์สนั้น และคอร์สที่เต็มจะมีรายชื่อสำรอง - จองทันทีที่เปิด
+
+## ทางเลือกฟรี
+
+-   วิ่งเลียบแม่น้ำไรน์: ทางเรียบทั้งสองฝั่ง
+-   Aachener Weiher และ Stadtwald สำหรับวิ่งและเย็นหน้าร้อนกับเพื่อน
+
+---
+
+Source: https://germandex.com/th/koeln/sports
+
+Language: th
+
+
+# โคโลญ - ร้านอาหาร
+
+## แนะนำ
+
+### [Habibi](https://www.habibi-koeln.de/)
+
+ร้านฟาลาเฟลและชาวาร์มาในตำนานบน Zülpicher Straße
+
+### [Com Pho](https://www.comphokoeln.de/)
+
+อาหารเวียดนามอิ่มท้องบน Zülpicher Straße
+
+### Pastaminuta
+
+พิซซ่าและพาสต้า Luxemburger Str. 124, Sülz
+
+### กินมังสวิรัติ? นี่คือตัวเลือกที่ดีที่สุด
+
+Habibi คือตัวเลือกมังสวิรัติที่ดีที่สุด เลือกฟาลาเฟล
+
+## ถูกและเร็ว
+
+### [Freddy Schilling](https://www.freddyschilling.de/standorte/)
+
+เบอร์เกอร์สดใหม่สามสาขา: Kyffhäuserstraße, Ehrenfeld และ Eigelstein
+
+### Falafel Salam
+
+ร้านฟาลาเฟลเล็กๆ ห่างจากมหาวิทยาลัยไม่กี่นาที Zülpicher Platz 17 มังสวิรัติ
+
+### [Mashery Hummus Kitchen](https://www.mashery-hummus.de/)
+
+ครัวฮัมมัสมังสวิรัติ Roonstraße 36 จานฮัมมัสกับขนมปังพิตา; ส่วนใหญ่เป็นอาหารวีแกน
+
+---
+
+Source: https://germandex.com/th/koeln/restaurants
+
+Language: th
+
+
+# โคโลญ - ปาร์ตี้
+
+### Zülpicher Straße
+
+ถนนบาร์นักศึกษาใน Kwartier Latäng เริ่มคืนที่นี่
+
+### [Das Ding](https://www.dingzone.de/)
+
+คลับนักศึกษาตั้งแต่ปี 1968, Hohenstaufenring 30-32
+
+### [Gebäude 9](https://gebaeude9.de/)
+
+คอนเสิร์ตและปาร์ตี้ใน Deutz ตัวเลือกของคนท้องถิ่นถ้าอยากได้อะไรที่ไม่กระแสหลัก
+
+### Belgisches Viertel
+
+บาร์และคาเฟ่ ลูกค้าโตขึ้นมาหน่อย
+
+## ควรรู้
+
+-   ฤดูคาร์นิวัลเริ่ม 11.11. เวลา 11:11 และคาร์นิวัลบนถนนครั้งใหญ่จัดในเดือนกุมภาพันธ์ ทั้งเมืองแต่งชุดแฟนซี
+-   สั่ง Kölsch พนักงานจะเอาแก้วใหม่มาให้เรื่อย ๆ จนกว่าคุณจะวางที่รองแก้วปิดแก้ว
+
+---
+
+Source: https://germandex.com/th/koeln/party
+
+Language: th
+
+
+# โคโลญ - ซูเปอร์มาร์เก็ต
+
+หากต้องการรู้จักเครือร้านและวิธีเลือก อ่าน[คู่มือซูเปอร์มาร์เก็ตในเยอรมนี](https://germandex.com/th/germany/groceries)ของเรา ร้านนานาชาติในพื้นที่อยู่ด้านล่าง
+
+## ซูเปอร์มาร์เก็ตเอเชียและนานาชาติ
+
+### [Singh's Mart](https://www.singhsmart.de/)
+
+Neumarkt 33 สินค้าอินเดียและสินค้านำเข้า
+
+### [Heng Long](https://henglong.de/)
+
+Aachener Str. 201-209 ซูเปอร์มาร์เก็ตเอเชียขนาด 1,000 ตร.ม.
+
+---
+
+Source: https://germandex.com/th/koeln/groceries
+
+Language: th
+
+
+# มิวนิก - เรื่องเอกสาร
+
+การตั้งค่ามหาวิทยาลัยในสัปดาห์แรกของคุณ
+
+นี่ไม่ใช่รายการตรวจสอบการมาถึงที่สมบูรณ์ การลงทะเบียนที่อยู่ สถานะการประกันสุขภาพ และการอนุญาตให้มีถิ่นที่อยู่ (หากจำเป็น) เป็นงานแยกต่างหาก
+
+### 1\. นักศึกษา LMU และ TUM: เปิด Autoload สำหรับ StudentCard
+
+นักศึกษา LMU และ TUM จ่ายที่ [Mensa](https://www.studierendenwerk-muenchen-oberbayern.de/en/gastronomie/preise-und-bezahlung/) ด้วย StudentCard เปิด Autoload ให้เติมเงินอัตโนมัติ บาง Mensa รับบัตรธนาคารด้วย
+
+ไม่มี Autoload? เติมเงิน StudentCard ที่เครื่องใน Mensa
+
+### 2\. มิวนิกไม่มีตั๋วเทอม
+
+สัญญาสำหรับนักศึกษาถูกระงับตั้งแต่ปี 2023 และบัตรนักศึกษาใช้แทนตั๋วไม่ได้ ให้ซื้อ Bayerisches Ermäßigungsticket แทน: [Deutschlandticket](https://www.mvg.de/abos-tickets/abos/ermaessigungsticket.html) สำหรับนักศึกษา เดือนละ 43 €
+
+ไม่มีสิทธิ Bayerisches Ermäßigungsticket? เปรียบเทียบ Deutschlandticket ปกติ; ดูหน้า MVG สำหรับราคาและเงื่อนไขปัจจุบัน
+
+-   อย่าขึ้นเครื่องโดยไม่มีตั๋วที่ถูกต้อง หากตั๋วภาคเรียนของคุณยังไม่พร้อม ให้ซื้อค่าโดยสารที่ถูกต้องอื่นก่อน
+
+## มากกว่าการจัดตั้งมหาวิทยาลัย
+
+### ลงทะเบียนที่อยู่ในมิวนิก
+
+การลงทะเบียนที่อยู่: [สำนักงานทะเบียนที่อยู่ของเมือง (Anmeldung)](https://stadt.muenchen.de/service/info/wohnsitzanmeldung/1063475/n0/) ภายในสองสัปดาห์หลังย้ายเข้า ใบอนุญาตพำนัก: [สำนักงานคนต่างชาติ](https://stadt.muenchen.de/service/info/studenten/1089339/) เอกสาร ประกันสุขภาพ สถานะการอยู่อาศัย และจดหมายอย่างเป็นทางการ: [คู่มือเรื่องเอกสารระดับประเทศ](https://germandex.com/th/germany/admin)
+
+การลงทะเบียนที่พักอาศัยหลักยังทำได้[ออนไลน์ทั้งหมด](https://stadt.muenchen.de/service/info/wohnsitzanmeldung/1063475/n0/)หากคุณมีบัตรประจำตัวที่เปิดใช้งานฟังก์ชันระบุตัวตนออนไลน์ (eID) รหัส PIN หกหลัก และสมาร์ทโฟนที่รองรับ NFC พร้อมแอป AusweisApp หากไม่มี ให้ไปลงทะเบียนด้วยตนเอง: ใช้ Bürgerbüro ใดก็ได้ในเมือง ไม่จำเป็นต้องเป็นสำนักงานเขตของคุณ การไปด้วยตนเองต้องนัดหมาย แต่[มีการปล่อยเวลานัดใหม่หลายครั้งต่อวัน](https://stadt.muenchen.de/infos/terminvereinbarung-buergerbueros.html) รวมถึงเวลานัดของวันเดียวกันประมาณ 30 นาทีก่อนสำนักงานเปิด - ตรวจสอบบ่อยๆ
+
+---
+
+Source: https://germandex.com/th/muenchen/admin
+
+Language: th
+
+
+# มิวนิก - กีฬา
+
+[ZHS](https://kurse.zhs-muenchen.de/de) ([Zentraler Hochschulsport München](https://www.zhs-muenchen.de/zhs/faqs/alle-infos-rund-um-die-sportkurse/)) ดูแลกีฬาของทุกมหาวิทยาลัยในมิวนิก
+
+โปรแกรมใหญ่ จองออนไลน์บนเว็บ ZHS ราคาลดสำหรับนักศึกษาที่มีสิทธิ ตรวจสิทธิและราคา ดูวันรับสมัครและจองแต่เนิ่น ๆ
+
+## ทางเลือกฟรี
+
+-   Englischer Garten: หนึ่งในสวนสาธารณะกลางเมืองที่ใหญ่ที่สุดในโลก เหมาะกับการวิ่ง
+-   ริมแม่น้ำ Isar และ Olympiapark สำหรับวิ่ง ปั่นจักรยาน และเย็นหน้าร้อน
+
+---
+
+Source: https://germandex.com/th/muenchen/sports
+
+Language: th
+
+
+# มิวนิก - ร้านอาหาร
+
+## แนะนำ
+
+### [Sababa](https://www.sababa-munich.com/)
+
+ฟาลาเฟล ฮัมมัส และชาวาร์มาตรง Viktualienmarkt, Westenriederstr. 9
+
+### [Lo Studente](https://lo-studente.de/)
+
+พิซซ่าเตาฟืนในย่านมหาวิทยาลัย Schellingstr. 30 เปิดทุกวันถึงเที่ยงคืน
+
+### [Bánh Mì Minh](https://banhmi-minh.de/)
+
+แซนด์วิชเวียดนาม Theresienstr. 79
+
+### กินมังสวิรัติ? นี่คือตัวเลือกที่ดีที่สุด
+
+Sababa และ MOGO คือตัวเลือกมังสวิรัติที่ดีที่สุด สั่งฟาลาเฟลหรือฮัมมัส
+
+## ถูกและเร็ว
+
+### [MOGO](https://www.mogo-munchen.de/)
+
+สตรีทฟู้ดเลบานอน ฮัมมัส และแรป Augustenstr. 93
+
+### Taco Company
+
+ทาโก้และเบอร์ริโต้ใกล้ LMU, Amalienstr. 69
+
+### [Asia Bistro Minh](http://asia-bistrominh.de/)
+
+อาหารเวียดนาม ไทย และจีน ที่ Amalienstr. 37 ซื้อกลับได้ ใกล้ LMU
+
+## ร้านอาหารอินเดีย
+
+### [Dhaba Münchner Freiheit](https://www.dhaba.de/dhabamunchnerfreiheit)
+
+แกงและอาหารทันดูรีอินเดียใน Schwabing ที่ Herzogstr. 1b ร้านนั่งทานใกล้ Münchner Freiheit
+
+---
+
+Source: https://germandex.com/th/muenchen/restaurants
+
+Language: th
+
+
+# มิวนิก - ปาร์ตี้
+
+### [Neuraum](https://neuraum.de/)
+
+คลับใหญ่ที่ Hackerbrücke มีหลายโซน เพลงฮิตและเพลงปาร์ตี้
+
+### [089 Bar](https://089-bar.de/)
+
+ปาร์ตี้นักศึกษาที่ Maximiliansplatz เปิดถึงตี 5
+
+### [Backstage](https://www.backstage.eu/)
+
+คอนเสิร์ต ปาร์ตี้ และเบียร์การ์เทนในที่เดียว
+
+### Beisl
+
+ผับที่ Viktualienmarkt ขึ้นชื่อว่าถูกที่สุดแห่งหนึ่งในเมือง
+
+### [Giesinger](https://giesinger-braeu.de/en/pages/stehausschanke) Bräu Stehausschank
+
+บาร์เบียร์แบบยืนในย่าน Maxvorstadt ที่ Augustenstr. 90 มีโปรเบียร์หลังเลิกงานในวันธรรมดา
+
+## ควรรู้
+
+-   เบียร์การ์เทนคือห้องนั่งเล่นหน้าร้อนของมิวนิก ในเบียร์การ์เทนดั้งเดิมอย่างที่ Chinesischer Turm ใน Englischer Garten นำอาหารมาเองได้ในโซนบริการตัวเอง
+-   Oktoberfest จัดช่วงปลายกันยายนถึงต้นตุลาคม ถ้าอยากได้ที่นั่ง ไปบ่ายวันธรรมดา
+-   Maxvorstadt เป็นย่านมหาวิทยาลัยที่มีผับและบาร์สำหรับนักศึกษา หากนั่งเล่นกลางแจ้ง ช่วยลดเสียงและเก็บขยะกลับไปด้วย
+
+---
+
+Source: https://germandex.com/th/muenchen/party
+
+Language: th
+
+
+# มิวนิก - ซูเปอร์มาร์เก็ต
+
+หากต้องการรู้จักเครือร้านและวิธีเลือก อ่าน[คู่มือซูเปอร์มาร์เก็ตในเยอรมนี](https://germandex.com/th/germany/groceries)ของเรา ร้านนานาชาติในพื้นที่อยู่ด้านล่าง
+
+## ซูเปอร์มาร์เก็ตเอเชียและนานาชาติ
+
+### Indian Shop München
+
+Altheimer Eck 9 เมืองเก่า สินค้าและเครื่องเทศอินเดีย
+
+### [Bollywood Store](http://www.bollywood-store.com/)
+
+Augustenstraße, Maxvorstadt สินค้าอินเดียและเอเชีย เครื่องเทศ ข้าวบาสมาติ และผักผลไม้สด
+
+---
+
+Source: https://germandex.com/th/muenchen/groceries
+
+Language: th
+
+
+# เออร์ลังเงิน - เรื่องเอกสาร
+
+การตั้งค่ามหาวิทยาลัยในสัปดาห์แรกของคุณ
+
+นี่ไม่ใช่รายการตรวจสอบการมาถึงที่สมบูรณ์ การลงทะเบียนที่อยู่ สถานะการประกันสุขภาพ และการอนุญาตให้มีถิ่นที่อยู่ (หากจำเป็น) เป็นงานแยกต่างหาก
+
+### 1\. ลงทะเบียน[ที่อยู่ในเออร์ลังเงิน](https://erlangen.de/service/365)
+
+ต้องลงทะเบียนภายในสองสัปดาห์หลังย้ายเข้า นำบัตรประชาชนหรือพาสปอร์ต หนังสือยืนยันจากเจ้าของบ้าน (Wohnungsgeberbestätigung) และแบบฟอร์มลงทะเบียนมาด้วย การลงทะเบียนล่าช้าอาจถูกปรับสูงสุด 1,000 ยูโร
+
+การลงทะเบียนออนไลน์ต้องใช้บัตรประจำตัวที่มีฟังก์ชันออนไลน์ ปัจจุบันเปิดให้พลเมืองเยอรมันและพลเมือง EU ที่มี eID ส่วนใบอนุญาตพำนักของผู้ที่ไม่ใช่ EU ยังอยู่ในแผน หากต้องไปที่ Rathaus (Rathausplatz 1) ให้[จองนัดหมายออนไลน์](https://erlangen.flexappoint.de/)
+
+### 2\. สำหรับนักศึกษา [FAU](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/faucard/): รับ FAUcard
+
+FAUcard ไม่มีค่าใช้จ่าย ใช้เป็นบัตรนักศึกษา บัตรห้องสมุด กระเป๋าเงินอิเล็กทรอนิกส์ บัตรถ่ายเอกสาร และกุญแจประตู จะส่งทางไปรษณีย์หลังลงทะเบียนเรียนเมื่อบัญชี IdM ของคุณพร้อมแล้ว
+
+ตั้งแต่ภาคเรียนที่สอง ให้ยืนยันบัตรใหม่ที่จุดตรวจสอบหลังลงทะเบียนต่อทุกครั้ง เช่นที่ Kollegienhaus, Universitätsstraße 15 ใช้เวลาประมาณ 30 วินาที
+
+### 3\. สำหรับนักศึกษา FAU: ใช้ Mensa
+
+เติมเงิน FAUcard ที่เครื่องในโรงอาหารหรือคาเฟทีเรียของ [Studierendenwerk](https://www.werkswelt.de/index.php?id=kartensystem) แห่งใดก็ได้ แล้วจ่ายด้วยบัตร
+
+### 4\. สำหรับนักศึกษา FAU: ซื้อ Deutschlandticket ราคาลด
+
+เออร์ลังเงินไม่มีตั๋วภาคเรียนอีกต่อไป [FAU](https://www.fau.de/studium/studentisches-leben/studierendenmobilitaet/) แนะนำนักศึกษาให้ใช้ Deutschlandticket ราคาลดจาก [VGN](https://www.vgn.de/ermaessigungsticket-studi): 43 ยูโรต่อเดือนปฏิทิน ใช้ได้กับการขนส่งท้องถิ่นและภูมิภาคทั่วเยอรมนี ซื้อได้ที่ร้านออนไลน์หรือแอปของ VGN ตั๋วจะส่งหลังดำเนินการ จึงไม่ได้ทันที
+
+-   ไม่ครอบคลุมชั้นหนึ่ง รถไฟ IC/ICE รถบัสทางไกล สุนัข หรือจักรยาน พกเอกสารประจำตัวไว้
+-   FAUcard ไม่ใช่ตั๋ว พื้นที่ VGN ครอบคลุมเออร์ลังเงิน นูเรมเบิร์ก และ Fürth ตั๋วใบเดียวจึงใช้ได้กับวิทยาเขต FAU ทั้งสามเมือง
+-   ยกเลิกได้รายเดือน
+
+ตรวจสอบแหล่งข้อมูลในพื้นที่เมื่อวันที่ 22 ตุลาคม 2026 โปรดดูหน้าที่ลิงก์ไว้เพื่อตรวจสอบราคาและกฎล่าสุด
+
+---
+
+Source: https://germandex.com/th/erlangen/admin
+
+Language: th
+
+
+# เออร์ลังเงิน - กีฬา
+
+## สำหรับนักศึกษา FAU: Hochschulsport
+
+[FAU Hochschulsport](https://www.hochschulsport.fau.de/startseite/) เปิดสอนมากกว่า 150 หลักสูตรต่อภาคเรียน ตั้งแต่กีฬาทีมไปจนถึงฟิตเนส กิจกรรมกลางแจ้ง และการผ่อนคลาย
+
+ลงทะเบียนออนไลน์เท่านั้น เปิดประมาณ 7 วันก่อนหลักสูตรเริ่ม ใช้อีเมล @fau.de และเตรียม IBAN ไว้ ธนาคารต้องเข้าร่วม SEPA
+
+ทุกหลักสูตรมีค่าธรรมเนียม นักศึกษาจ่ายอัตราต่ำสุด บวกค่าดำเนินการ 2 ยูโรต่อการเข้าร่วม ดู[กฎการเข้าร่วม](https://www.hochschulsport.fau.de/teilnahmeinformationen/)
+
+### ดู[รายการหลักสูตร](https://www.hochschulsport.fau.de/kurse-classes/)
+
+การจองมีจำกัด: โดยทั่วไปไม่เกินสามรายการต่อหมวดและห้ารายการรวมต่อคน เว็บไซต์กำลังปรับปรุง หากหน้าดูผิดปกติให้ใช้เมนู Courses
+
+ตรวจสอบแหล่งข้อมูลในพื้นที่เมื่อวันที่ 22 ตุลาคม 2026 โปรดดูหน้าที่ลิงก์ไว้เพื่อตรวจสอบราคาและกฎล่าสุด
+
+---
+
+Source: https://germandex.com/th/erlangen/sports
+
+Language: th
+
+
+# เออร์ลังเงิน - ร้านอาหาร
+
+## ในมหาวิทยาลัย
+
+### [Südmensa](https://www.werkswelt.de/?id=sued)
+
+โรงอาหารของ Studierendenwerk ที่ Erwin-Rommel-Straße 60 มีคาเฟทีเรียและคาเฟ่บาร์ เมนูประจำวันและเวลาเปิดอยู่ในหน้าของร้าน เวลาเปลี่ยนในช่วงปิดภาคเรียน
+
+### จุดบริการอื่นของ Studierendenwerk
+
+[Studierendenwerk](https://werkswelt.de/index.php?id=mensen-cafeterien-cafebars) ยังลง Mensa Langemarckplatz และ Cafeteria Kochstraße ในเออร์ลังเงิน ดูแต่ละหน้าเพื่อเมนูและเวลาเปิดล่าสุด
+
+### มังสวิรัติหรือวีแกน?
+
+เมนู Mensa ระบุอาหารมังสวิรัติและวีแกน ดูเมนูของแต่ละวัน
+
+นอกมหาวิทยาลัย: เรายังไม่ได้ตรวจสอบร้านอาหารใดของเมืองนี้กับแหล่งข้อมูลหลัก จึงไม่ระบุร้านใดแทนที่จะเดา ตรวจสอบเมื่อวันที่ 22 ตุลาคม 2026
+
+---
+
+Source: https://germandex.com/th/erlangen/restaurants
+
+Language: th
+
+
+# เออร์ลังเงิน - ปาร์ตี้
+
+### [Zirkel](https://zirkel-club.de/)
+
+คลับและดิสโก้ของนักศึกษาที่ Hauptstraße 105 ในเมืองเก่า คืนถัดไปมีลงไว้ในเว็บไซต์
+
+### [E-Werk Kulturzentrum](https://www.e-werk.de/das-kulturzentrum-e-werk/)
+
+หนึ่งในศูนย์สังคมและวัฒนธรรมที่ใหญ่กว่าของเยอรมนี ที่ Fuchsenwiese 1: ห้องจัดงานสี่ห้อง โรงภาพยนตร์ และสวนเบียร์ จัดคอนเสิร์ต ปาร์ตี้นักศึกษา และคืนคลับ ดู[หน้าปาร์ตี้](https://www.e-werk.de/programm/partys/)
+
+## ควรรู้
+
+-   โปรแกรมและราคาบัตรเข้างานเปลี่ยนทุกสัปดาห์ โปรดดูหน้าของสถานที่นั้นในวันที่จะไป
+-   โรงภาพยนตร์ E-Werk ฉายภาพยนตร์ภาษาต้นฉบับพร้อมคำบรรยาย (OmU)
+
+ตรวจสอบแหล่งข้อมูลในพื้นที่เมื่อวันที่ 22 ตุลาคม 2026 โปรดดูหน้าที่ลิงก์ไว้เพื่อตรวจสอบราคาและกฎล่าสุด
+
+---
+
+Source: https://germandex.com/th/erlangen/party
+
+Language: th
+
+
+# เออร์ลังเงิน - ซูเปอร์มาร์เก็ต
+
+หากต้องการรู้จักเครือร้านและวิธีเลือก อ่าน[คู่มือซูเปอร์มาร์เก็ตในเยอรมนี](https://germandex.com/th/germany/groceries)ของเรา ร้านนานาชาติในพื้นที่อยู่ด้านล่าง
+
+## ซูเปอร์มาร์เก็ตเอเชียและนานาชาติ
+
+### [Want Want Asia Supermarkt](https://www.wantwant-asia.de/%C3%BCber-uns/)
+
+Nägelsbachstr. 26 / Sedanstr. 1 สินค้าอาหารเอเชียจากจีนแผ่นดินใหญ่ ไต้หวัน ญี่ปุ่น เกาหลี และเอเชียตะวันออกเฉียงใต้ เปิดวันจันทร์ถึงเสาร์ 9:00 ถึง 20:00 ตามเว็บไซต์ของร้าน
+
+ตรวจสอบแหล่งข้อมูลในพื้นที่เมื่อวันที่ 22 ตุลาคม 2026 โปรดดูหน้าที่ลิงก์ไว้เพื่อตรวจสอบราคาและกฎล่าสุด
+
+---
+
+Source: https://germandex.com/th/erlangen/groceries
+
+Language: th
+
+
+# เออร์ลังเงิน - ที่พักในเออร์ลังเงิน
+
+หาห้อง และเข้าใจสิ่งที่กำลังจะลงนาม
+
+### เริ่มที่ Studierendenwerk Erlangen-Nürnberg
+
+สมัครได้ทางออนไลน์เท่านั้น Studierendenwerk ลงรายการมากกว่า 3,600 ที่ ตั้งแต่ห้องเดี่ยวถึงแฟลตครอบครัว และมีบริการห้องเอกชนฟรีสำหรับเออร์ลังเงินและนูเรมเบิร์ก การหาที่พักยากที่สุดในช่วงสัปดาห์ก่อนภาคเรียนฤดูหนาว โดยเฉพาะสำหรับนักศึกษาต่างชาติและผู้ที่ได้รับการตอบรับล่าช้า
+
+[ที่พักของ Studierendenwerk Erlangen-Nürnberg](https://werkswelt.de/index.php?id=wohnen)
+
+## ค้นหาทางเลือกอื่นควบคู่กัน
+
+การสมัครหอพักไม่ใช่การจอง ระหว่างรอให้เปรียบเทียบห้องในแฟลตร่วมและห้องเช่าเอกชน ตรวจสอบที่อยู่ เจ้าของบ้านหรือผู้เช่าหลัก ค่าใช้จ่ายรายเดือนรวม และสัญญา ก่อนจ่ายเงิน
+
+## ก่อนลงนาม
+
+เงินประกัน ค่าใช้จ่ายเพิ่มเติม หนังสือรับรองการย้ายเข้า และการตรวจสอบการหลอกลวง: อ่าน[คู่มือที่พักในเยอรมนี](https://germandex.com/th/germany/housing)ก่อนเซ็นสัญญา
+
+ตรวจสอบแหล่งข้อมูลในพื้นที่เมื่อวันที่ 22 ตุลาคม 2026 โปรดดูหน้าที่ลิงก์ไว้เพื่อตรวจสอบราคาและกฎล่าสุด
+
+---
+
+Source: https://germandex.com/th/erlangen/housing
+
+Language: th
+
+
+# เออร์ลังเงิน - ความช่วยเหลือทางการแพทย์ในเออร์ลังเงิน
+
+ความช่วยเหลือที่เหมาะสม โดยไม่ต้องเดาว่าควรไปไหน
+
+### หาแพทย์ใกล้คุณ
+
+ใช้การค้นหาแพทย์ของ 116117 โดยใส่ Erlangen หรือรหัสไปรษณีย์ของคุณ เริ่มที่ Hausarzt สำหรับการดูแลทั่วไป ตรวจสอบข้อมูลติดต่อของคลินิกและสอบถามเรื่องนัดหมายและประกันของคุณก่อนไป
+
+[หาแพทย์ในเออร์ลังเงิน](https://arztsuche.116117.de/)
+
+## เร่งด่วนหรือนอกเวลาทำการ?
+
+ในระหว่างเวลาทำการ โปรดติดต่อ Hausarzt (ผู้ประกอบวิชาชีพทั่วไป) Apotheke (ร้านขายยา) ในพื้นที่สามารถให้คำแนะนำเกี่ยวกับยาได้ สำหรับการเจ็บป่วยเร่งด่วนที่ไม่สามารถรอจนกว่าการปฏิบัติจะกลับมาเปิดอีกครั้งแต่ไม่เป็นอันตรายถึงชีวิต โปรดโทร 116117 สำหรับเหตุฉุกเฉินที่คุกคามถึงชีวิตหรืออันตรายระยะยาวที่อาจเกิดขึ้น โปรดโทร 112 เมื่อไม่แน่ใจว่าชีวิตตกอยู่ในความเสี่ยงหรือไม่ ให้โทร 112
+
+[ความช่วยเหลือทางการแพทย์และหมายเลขฉุกเฉิน](https://gesund.bund.de/notfallnummern)
+
+## แผนกฉุกเฉินของโรงพยาบาล
+
+Uniklinikum Erlangen ระบุแผนกฉุกเฉินที่เปิดตลอด 24 ชั่วโมง: ศัลยกรรมที่ Krankenhausstr. 12 (ทางเข้าที่ Maximiliansplatz) โทร 09131 85-33260; อายุรกรรมที่ Ulmenweg 18 โทร 09131 85-35420; เด็กที่ Loschgestr. 15 โทร 09131 85-33118 กรณีฉุกเฉินที่เสี่ยงต่อชีวิตให้โทร 112
+
+[แผนกฉุกเฉินของ Uniklinikum Erlangen](https://www.uk-erlangen.de/944/)
+
+## ร้านขายยาในเออร์ลังเงิน
+
+ใช้การค้นหาร้านขายยาฉุกเฉินด้วยที่อยู่หรือรหัสไปรษณีย์ในเออร์ลังเงิน ตารางเวรเปลี่ยนไป ตรวจสอบผลล่าสุดก่อนเดินทาง
+
+[ค้นหาร้านขายยาเวรฉุกเฉิน](https://www.aponet.de/notdienstsuche/-)
+
+ตรวจสอบแหล่งข้อมูลในพื้นที่เมื่อวันที่ 22 ตุลาคม 2026 ผลการค้นหาคลินิกไม่ใช่การยืนยันนัดหมาย
+
+---
+
+Source: https://germandex.com/th/erlangen/medical
+
+Language: th
+
+
+# ทือบิงเงิน - เรื่องเอกสาร
+
+การตั้งค่ามหาวิทยาลัยในสัปดาห์แรกของคุณ
+
+นี่ไม่ใช่รายการตรวจสอบการมาถึงที่สมบูรณ์ การลงทะเบียนที่อยู่ สถานะการประกันสุขภาพ และการอนุญาตให้มีถิ่นที่อยู่ (หากจำเป็น) เป็นงานแยกต่างหาก
+
+### 1\. ลงทะเบียน[ที่อยู่ในทือบิงเงิน](https://www.tuebingen.de/verwaltung/verfahren/anmeldung_wohnsitz)
+
+ต้องลงทะเบียนภายในสองสัปดาห์หลังย้ายเข้า ไม่มีค่าใช้จ่าย นำบัตรประชาชนหรือพาสปอร์ตและหนังสือยืนยันจากเจ้าของบ้าน (Wohnungsgeberbescheinigung) มาด้วย การลงทะเบียนล่าช้าเป็นความผิดและอาจถูกปรับ
+
+ลงทะเบียนออนไลน์ได้ด้วยบัตรประจำตัวที่มีฟังก์ชันออนไลน์ หากไปด้วยตนเอง Bürgerbüro (Schmiedtorstraße 4) รับเฉพาะผู้ที่นัดหมาย [จองออนไลน์](https://www.tuebingen.de/dienststellen)
+
+### 2\. สำหรับนักศึกษา[มหาวิทยาลัยทือบิงเงิน](https://uni-tuebingen.de/studium/studienorganisation/administration/chipkarte/): รับบัตรนักศึกษา
+
+Studierendensekretariat จะส่งบัตรชิปทางไปรษณีย์หลังลงทะเบียนเรียน ใช้เป็นบัตรนักศึกษา เปิดอาคารบางแห่ง และจ่ายเงินที่ Mensa และเครื่องถ่ายเอกสาร
+
+หลังลงทะเบียนต่อทุกครั้ง ให้อัปเดตตราภาคเรียนที่เครื่องบริการตนเอง บัตรหายเสียค่าทำใหม่ 15 ยูโร และเครดิตที่เหลือไม่คืนเงิน
+
+### 3\. สำหรับนักศึกษา: ใช้ Mensa
+
+จ่ายด้วยบัตรนักศึกษาหรือ Mensakarte ที่โรงอาหารและคาเฟทีเรียของ [Studierendenwerk](https://www.my-stuwe.de/mensa/bezahlung/) การเติมเงินอัตโนมัติเป็นทางเลือก และเติมที่เครื่องในมหาวิทยาลัยได้
+
+### 4\. สำหรับนักศึกษามหาวิทยาลัยทือบิงเงิน: ซื้อ[ตั๋วภาคเรียน naldo](https://www.naldo.de/tickets/semesterticket/)
+
+ตั๋วภาคเรียนครอบคลุมเครือข่าย naldo ทั้งหมดและขายเฉพาะทั้งภาคเรียน ซื้อที่ naldo Studi-Web-Shop หลังลงทะเบียนหรือลงทะเบียนต่อ เป็นตั๋วบนมือถือพร้อมสำเนา Print@Home ใช้ได้กับบัตรนักศึกษาปัจจุบันของคุณเท่านั้นและโอนให้ผู้อื่นไม่ได้
+
+-   ตารางราคาของ naldo ที่ใช้ตั้งแต่ 1 ตุลาคม 2025 ระบุ 161.10 ยูโรต่อภาคเรียน [หน้าของมหาวิทยาลัย](https://uni-tuebingen.de/studium/rund-ums-studium/semesterticket/)ยังแสดงราคาเก่า จึงควรยืนยันราคาปัจจุบันในร้านค้า
+-   หากไม่มีตั๋ว บัตรนักศึกษาใช้ได้บนรถบัสและรถไฟ naldo วันจันทร์ถึงศุกร์ตั้งแต่ 19:00 และตลอดวันในวันหยุดสุดสัปดาห์และวันหยุดราชการของ Baden-Württemberg หน้าของมหาวิทยาลัยกล่าวถึงกฎช่วงเปลี่ยนผ่าน โปรดตรวจสอบ
+
+ตรวจสอบแหล่งข้อมูลในพื้นที่เมื่อวันที่ 22 ตุลาคม 2026 โปรดดูหน้าที่ลิงก์ไว้เพื่อตรวจสอบราคาและกฎล่าสุด
+
+---
+
+Source: https://germandex.com/th/tuebingen/admin
+
+Language: th
+
+
+# ทือบิงเงิน - กีฬา
+
+## สำหรับนักศึกษามหาวิทยาลัยทือบิงเงิน: Hochschulsport
+
+[Hochschulsport Tübingen](https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/) เปิดสอนมากกว่า 350 หลักสูตรต่อภาคเรียน จองออนไลน์ที่[หน้าจอง](https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/m.html)
+
+หน้านี้ประกาศการลงทะเบียนภาคเรียนฤดูหนาว 2026/27 โดยหลักสูตรเทนนิสเปิดลงทะเบียนวันที่ 23 ตุลาคม 2026 เวลา 17:00
+
+สำนักงาน Hochschulsport อยู่ที่ Wilhelmstr. 124
+
+### ดู[วันลงทะเบียน](https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/m.html)ปัจจุบัน
+
+หลักสูตรยอดนิยมอาจเต็มเร็ว เวลาลงทะเบียนต่างกันตามหลักสูตร ดูหน้าจองก่อนตั้งนาฬิกาปลุก
+
+ตรวจสอบแหล่งข้อมูลในพื้นที่เมื่อวันที่ 22 ตุลาคม 2026 โปรดดูหน้าที่ลิงก์ไว้เพื่อตรวจสอบราคาและกฎล่าสุด
+
+---
+
+Source: https://germandex.com/th/tuebingen/sports
+
+Language: th
+
+
+# ทือบิงเงิน - ร้านอาหาร
+
+## ในมหาวิทยาลัย
+
+### [Mensa Wilhelmstraße](https://www.my-stuwe.de/mensa/mensa-wilhelmstrasse-tuebingen/)
+
+โรงอาหารของ Studierendenwerk ที่ Wilhelmstraße 13 เมนูประจำวันอยู่ในหน้าของร้าน Studierendenwerk ระบุว่าป้ายสารก่อภูมิแพ้และสารเติมแต่งแสดงที่เคาน์เตอร์เสิร์ฟเท่านั้น จึงควรตรวจสอบที่นั่น
+
+### [Mensa Morgenstelle](https://www.my-stuwe.de/mensa/mensa-morgenstelle-tuebingen/)
+
+Mensa อีกแห่งของ Studierendenwerk ในทือบิงเงิน ดูหน้าของร้านเพื่อเมนูและเวลาเปิดล่าสุด
+
+### [Asien-Haus Imbiss](https://www.asien-haus.net/)
+
+เคาน์เตอร์ไทยแบบซื้อกลับบ้านในเมืองเก่า Schmiedtorstraße 7 และ 11: ก๋วยเตี๋ยวน้ำและอาหารที่เปลี่ยนทุกวันตอนกลางวัน วันจันทร์ถึงศุกร์ 11:30 ถึง 15:00 ตามเว็บไซต์ของร้าน
+
+### มังสวิรัติหรือวีแกน?
+
+เมนู Mensa ระบุอาหารมังสวิรัติและวีแกน ดูเมนูของแต่ละวัน
+
+นอกมหาวิทยาลัย: เรายังไม่ได้ตรวจสอบร้านอาหารใดของเมืองนี้กับแหล่งข้อมูลหลัก จึงไม่ระบุร้านใดแทนที่จะเดา ตรวจสอบเมื่อวันที่ 22 ตุลาคม 2026
+
+---
+
+Source: https://germandex.com/th/tuebingen/restaurants
+
+Language: th
+
+
+# ทือบิงเงิน - ปาร์ตี้
+
+### [Kuckuck](https://kuckuck-bar.de/)
+
+บาร์และคลับที่นักศึกษาบริหารเพื่อนักศึกษา โปรแกรมมีคาราโอเกะ ควิซในผับ เบียร์พอง และคืนธีมต่าง ๆ
+
+### [Sudhaus](https://www.sudhaus-tuebingen.de/veranstaltungen/party.html)
+
+สถานที่ที่ Hechinger Straße 203 มีคืนปาร์ตี้เป็นประจำ เช่น Zeitgeist กับเพลงยุค 70 80 และ 90
+
+## ควรรู้
+
+-   โปรแกรมและราคาบัตรเข้างานเปลี่ยนทุกสัปดาห์ โปรดดูหน้าของสถานที่นั้นในวันที่จะไป
+
+ตรวจสอบแหล่งข้อมูลในพื้นที่เมื่อวันที่ 22 ตุลาคม 2026 โปรดดูหน้าที่ลิงก์ไว้เพื่อตรวจสอบราคาและกฎล่าสุด
+
+---
+
+Source: https://germandex.com/th/tuebingen/party
+
+Language: th
+
+
+# ทือบิงเงิน - ซูเปอร์มาร์เก็ต
+
+หากต้องการรู้จักเครือร้านและวิธีเลือก อ่าน[คู่มือซูเปอร์มาร์เก็ตในเยอรมนี](https://germandex.com/th/germany/groceries)ของเรา ร้านนานาชาติในพื้นที่อยู่ด้านล่าง
+
+## ซูเปอร์มาร์เก็ตเอเชียและนานาชาติ
+
+### [Asien-Haus](https://www.asien-haus.net/)
+
+Schmiedtorstraße 7 และ 11 ในเมืองเก่า ตั้งแต่ปี 1997 สินค้าอาหารเอเชียกว่า 200 ตร.ม. ผักและสมุนไพรสด ผลิตภัณฑ์ออร์แกนิก และเครื่องครัว เปิดวันจันทร์ถึงศุกร์ 10:00 ถึง 19:00 วันเสาร์ 10:00 ถึง 15:00 ปิดวันอาทิตย์ ตามเว็บไซต์ของร้าน
+
+ตรวจสอบแหล่งข้อมูลในพื้นที่เมื่อวันที่ 22 ตุลาคม 2026 โปรดดูหน้าที่ลิงก์ไว้เพื่อตรวจสอบราคาและกฎล่าสุด
+
+---
+
+Source: https://germandex.com/th/tuebingen/groceries
+
+Language: th
+
+
+# ทือบิงเงิน - ที่พักในทือบิงเงิน
+
+หาห้อง และเข้าใจสิ่งที่กำลังจะลงนาม
+
+### เริ่มที่ Studierendenwerk Tübingen-Hohenheim
+
+สมัครได้ทางออนไลน์เท่านั้น สมัครก่อนได้รับจดหมายตอบรับได้ แต่ให้ส่งทันทีเมื่อได้รับ การสมัครภาคเรียนฤดูหนาวเปิด 1 เมษายน และภาคเรียนฤดูร้อนเปิด 1 ตุลาคมของปีก่อนหน้า คู่รักและครอบครัวต้องยื่นหนึ่งใบสมัครต่อผู้ใหญ่หนึ่งคน และอย่างน้อยหนึ่งคนต้องได้รับการตอบรับหรือลงทะเบียนเรียน
+
+[ที่พักของ Studierendenwerk Tübingen-Hohenheim](https://www.my-stuwe.de/wohnen/online-bewerbung/)
+
+## ค้นหาทางเลือกอื่นควบคู่กัน
+
+การสมัครหอพักไม่ใช่การจอง ระหว่างรอให้เปรียบเทียบห้องในแฟลตร่วมและห้องเช่าเอกชน ตรวจสอบที่อยู่ เจ้าของบ้านหรือผู้เช่าหลัก ค่าใช้จ่ายรายเดือนรวม และสัญญา ก่อนจ่ายเงิน
+
+## ก่อนลงนาม
+
+เงินประกัน ค่าใช้จ่ายเพิ่มเติม หนังสือรับรองการย้ายเข้า และการตรวจสอบการหลอกลวง: อ่าน[คู่มือที่พักในเยอรมนี](https://germandex.com/th/germany/housing)ก่อนเซ็นสัญญา
+
+ตรวจสอบแหล่งข้อมูลในพื้นที่เมื่อวันที่ 22 ตุลาคม 2026 โปรดดูหน้าที่ลิงก์ไว้เพื่อตรวจสอบราคาและกฎล่าสุด
+
+---
+
+Source: https://germandex.com/th/tuebingen/housing
+
+Language: th
+
+
+# ทือบิงเงิน - ความช่วยเหลือทางการแพทย์ในทือบิงเงิน
+
+ความช่วยเหลือที่เหมาะสม โดยไม่ต้องเดาว่าควรไปไหน
+
+### หาแพทย์ใกล้คุณ
+
+ใช้การค้นหาคลินิกของ KV Baden-Württemberg โดยใส่ Tübingen หรือรหัสไปรษณีย์ของคุณ เริ่มที่ Hausarzt สำหรับการดูแลทั่วไป ตรวจสอบข้อมูลติดต่อของคลินิกและสอบถามเรื่องนัดหมายและประกันของคุณก่อนไป
+
+[หาแพทย์ในทือบิงเงิน](https://www.kvbawue.de/patienten/praxissuche)
+
+## เร่งด่วนหรือนอกเวลาทำการ?
+
+ในระหว่างเวลาทำการ โปรดติดต่อ Hausarzt (ผู้ประกอบวิชาชีพทั่วไป) Apotheke (ร้านขายยา) ในพื้นที่สามารถให้คำแนะนำเกี่ยวกับยาได้ สำหรับการเจ็บป่วยเร่งด่วนที่ไม่สามารถรอจนกว่าการปฏิบัติจะกลับมาเปิดอีกครั้งแต่ไม่เป็นอันตรายถึงชีวิต โปรดโทร 116117 สำหรับเหตุฉุกเฉินที่คุกคามถึงชีวิตหรืออันตรายระยะยาวที่อาจเกิดขึ้น โปรดโทร 112 เมื่อไม่แน่ใจว่าชีวิตตกอยู่ในความเสี่ยงหรือไม่ ให้โทร 112
+
+[ความช่วยเหลือทางการแพทย์และหมายเลขฉุกเฉิน](https://gesund.bund.de/notfallnummern)
+
+## แผนกฉุกเฉินของโรงพยาบาล
+
+Universitätsklinikum Tübingen ระบุ Zentrale Notaufnahme ที่ Hoppe-Seyler-Str. 3 นอกเวลาทำการของคลินิก คุณโทร 116117 ใช้ docdirekt หรือไปคลินิกฉุกเฉินที่ Klinikum ได้ กรณีได้รับพิษ: Giftzentrale Baden-Württemberg, 0761 192-40 กรณีฉุกเฉินที่เสี่ยงต่อชีวิตให้โทร 112
+
+[หน้าแผนกฉุกเฉินของ Universitätsklinikum Tübingen](https://www.medizin.uni-tuebingen.de/de/kontakt/notfall)
+
+## ร้านขายยาในทือบิงเงิน
+
+ใช้การค้นหาร้านขายยาฉุกเฉินด้วยที่อยู่หรือรหัสไปรษณีย์ในทือบิงเงิน ตารางเวรเปลี่ยนไป ตรวจสอบผลล่าสุดก่อนเดินทาง
+
+[ค้นหาร้านขายยาเวรฉุกเฉิน](https://www.aponet.de/notdienstsuche/-)
+
+ตรวจสอบแหล่งข้อมูลในพื้นที่เมื่อวันที่ 22 ตุลาคม 2026 ผลการค้นหาคลินิกไม่ใช่การยืนยันนัดหมาย
+
+---
+
+Source: https://germandex.com/th/tuebingen/medical
+
+Language: th
+
+
+# มึนสเตอร์ - กีฬา
+
+การตั้งค่ามหาวิทยาลัยในสัปดาห์แรกของคุณ
+
+นี่ไม่ใช่รายการตรวจสอบการมาถึงที่สมบูรณ์ การลงทะเบียนที่อยู่ สถานะการประกันสุขภาพ และการอนุญาตให้มีถิ่นที่อยู่ (หากจำเป็น) เป็นงานแยกต่างหาก
+
+### 1\. หาจักรยานสักคัน
+
+จักรยาน ("Leeze" ในภาษาถิ่น Münster) คือวิธีเดินทางหลัก เมืองนี้สร้างมาเพื่อจักรยาน
+
+### 2\. จ่ายที่ Mensa แบบไม่ใช้เงินสด
+
+Mensa ไม่รับเงินสด จ่ายด้วยบัตรนักศึกษา MensaCard หรือบัตรธนาคาร
+
+จ่ายไม่สำเร็จ? ลองแคชเชียร์อื่นหรือถามเจ้าหน้าที่
+
+### 3\. นักศึกษามหาวิทยาลัย[มึนสเตอร์](https://www.uni-muenster.de/studium/orga/studienverwaltung/selfservice.html): ดาวน์โหลดตั๋วภาคเรียน
+
+ที่มหาวิทยาลัย Münster รับได้ที่พอร์ทัล SelfService ใช้ได้กับรถบัสและรถไฟท้องถิ่นและภูมิภาคทั้งหมดในเยอรมนี
+
+ตั๋วไม่ขึ้นใน SelfService? ตรวจการต่อทะเบียนและค่าภาคเรียน แล้วติดต่อฝ่ายทะเบียนนักศึกษา
+
+-   ตั๋ว Deutschlandsemester ครอบคลุมการขนส่งในท้องถิ่นและระดับภูมิภาคในชั้นสอง ไม่ใช่ ICE/IC/EC โดยจะจ่ายผ่านค่าธรรมเนียมภาคการศึกษา ไม่ใช่ตั๋วฟรี
+-   อย่าขึ้นเครื่องโดยไม่มีตั๋วที่ถูกต้อง หากตั๋วภาคเรียนของคุณยังไม่พร้อม ให้ซื้อค่าโดยสารที่ถูกต้องอื่นก่อน
+
+## มากกว่าการจัดตั้งมหาวิทยาลัย
+
+### ลงทะเบียนที่อยู่ในมึนสเตอร์
+
+การลงทะเบียนที่อยู่: [สำนักงานทะเบียนที่อยู่ของเมือง (Anmeldung)](https://www.stadt-muenster.de/buergerservice/meldeangelegenheiten/anmeldung) ภายในสองสัปดาห์หลังย้ายเข้า ใบอนุญาตพำนัก: [สำนักงานคนต่างชาติ](https://www.stadt-muenster.de/aufenthaltsrecht/studium-und-promotion/waehrend-des-studiums) เอกสาร ประกันสุขภาพ สถานะการอยู่อาศัย และจดหมายอย่างเป็นทางการ: [คู่มือเรื่องเอกสารระดับประเทศ](https://germandex.com/th/germany/admin)
+
+คุณสามารถลงทะเบียนได้[ออนไลน์ทั้งหมด](https://www.stadt-muenster.de/buergerservice/meldeangelegenheiten/anmeldung) (ชิปในบัตรของคุณจะได้รับการอัปเดต และสติกเกอร์ที่อยู่จะส่งมาทางไปรษณีย์) หรือไปด้วยตนเองโดยนัดหมายที่ Bürgerbüro หรือ Bezirksverwaltung
+
+---
+
+Source: https://germandex.com/th/muenster/admin
+
+Language: th
+
+
+# มึนสเตอร์ - กีฬา
+
+[Hochschulsport Münster](https://www.uni-muenster.de/Hochschulsport/) มีกีฬาหลากหลาย
+
+สมาชิก [Sportpass](https://www.uni-muenster.de/Hochschulsport/mitglied/mitgliedschaften.shtml) แบบยืดหยุ่นแทนคอร์สเดี่ยว พร้อม Campus Gym จองออนไลน์หลังตรวจราคาสมาชิกและสิทธิปัจจุบัน
+
+## ทางเลือกฟรี
+
+-   วิ่งรอบทะเลสาบ Aasee
+-   Promenade: วงแหวนสีเขียวรอบเมืองเก่า สำหรับจักรยานและคนเดินเท่านั้น
+
+---
+
+Source: https://germandex.com/th/muenster/sports
+
+Language: th
+
+
+# มึนสเตอร์ - ร้านอาหาร
+
+## แนะนำ
+
+### [Cavete](https://cavete-muenster.de/)
+
+"โรงเบียร์วิชาการ" ของ Münster ในย่าน Kuhviertel, Kreuzstraße 37/38 พาสต้าและเบียร์
+
+### [Pinkus Müller](https://www.pinkus.de/)
+
+โรงเบียร์ตั้งแต่ปี 1816, Kreuzstr. 7-10 อาหารเวสต์ฟาเลีย
+
+### [Das Blaue Haus](https://www.blaue-haus-muenster.de/)
+
+ผับนักศึกษาที่มีอาหารเวสต์ฟาเลีย Kreuzstraße 16-17
+
+---
+
+Source: https://germandex.com/th/muenster/restaurants
+
+Language: th
+
+
+# มึนสเตอร์ - ปาร์ตี้
+
+### Kuhviertel
+
+ย่านผับเมืองเก่ารอบ Kreuzstraße เริ่มคืนที่นี่
+
+### Hafen และ Hawerkamp
+
+คลับและบาร์รอบท่าเรือ
+
+### [Sputnikhalle](https://sputnikhalle.de/partys/)
+
+ปาร์ตี้ตั้งแต่อิเล็กโทรถึงกอธิค และคอนเสิร์ต
+
+### [Gazelle](https://www.gazelle.ms/)
+
+คลับเต้นรำในเมือง
+
+---
+
+Source: https://germandex.com/th/muenster/party
+
+Language: th
+
+
+# มึนสเตอร์ - ซูเปอร์มาร์เก็ต
+
+หากต้องการรู้จักเครือร้านและวิธีเลือก อ่าน[คู่มือซูเปอร์มาร์เก็ตในเยอรมนี](https://germandex.com/th/germany/groceries)ของเรา ร้านนานาชาติในพื้นที่อยู่ด้านล่าง
+
+## ซูเปอร์มาร์เก็ตเอเชียและนานาชาติ
+
+### [Jaffna Supermarkt](https://www.jaffna-supermarkt.de/)
+
+Wolbecker Str. 16a ที่ Hansaplatz สินค้าเอเชียและอินเดีย
+
+### go asia
+
+Salzstraße 20 เมืองเก่า ซูเปอร์มาร์เก็ตเอเชียขนาดใหญ่
+
+---
+
+Source: https://germandex.com/th/muenster/groceries
+
+Language: th
+
+
+# อาเคิน - ที่พักใน อาเคิน
+
+หาห้อง และเข้าใจสิ่งที่กำลังจะลงนาม
+
+### เริ่มที่ Studierendenwerk Aachen
+
+สมัครได้ก่อนได้รับการตอบรับหรือขึ้นทะเบียน ต้องมีหลักฐานการขึ้นทะเบียนเมื่อเซ็นสัญญาเช่า ความยืดหยุ่นเรื่องวันย้ายเข้าและประเภทห้องช่วยเพิ่มโอกาส หน้าเว็บที่พักแจ้งว่าเว็บสมัครขัดข้องอยู่ในขณะนี้ ตรวจประกาศล่าสุดและติดต่อทีมที่พักหากสมัครไม่ได้
+
+[ที่พักของ Studierendenwerk Aachen](https://www.studierendenwerk-aachen.de/de/wohnen.html)
+
+## ค้นหาทางเลือกอื่นควบคู่กัน
+
+ใบสมัครหอพักไม่ใช่การจอง ระหว่างรอให้เปรียบเทียบห้องพักร่วมและบ้านเช่าเอกชนใน อาเคิน ตรวจที่อยู่ เจ้าของหรือผู้เช่าหลัก ค่าใช้จ่ายรายเดือนรวม และสัญญาก่อนจ่ายเงิน
+
+## ก่อนลงนาม
+
+เงินประกัน ค่าใช้จ่ายเพิ่มเติม หนังสือรับรองการย้ายเข้า และการตรวจสอบการหลอกลวง: อ่าน[คู่มือที่พักในเยอรมนี](https://germandex.com/th/germany/housing)ก่อนเซ็นสัญญา
+
+คำเตือนการหลอกลวง: ตรวจสอบบุคคลและห้องก่อนส่งเงินหรือเอกสารสำคัญ RWTH เตือนข้อเสนอปลอมและการขอเงินมัดจำเพื่อรับกุญแจ บริการแนะนำที่พักสามารถช่วยนักศึกษา RWTH ตรวจสอบข้อเสนอที่น่าสงสัยได้
+
+ตรวจแหล่งข้อมูลท้องถิ่นเมื่อ 1 ตุลาคม 2026 สอบถามผู้ให้บริการเรื่องคุณสมบัติและห้องว่างล่าสุด
+
+---
+
+Source: https://germandex.com/th/aachen/housing
+
+Language: th
+
+
+# อาเคิน - ความช่วยเหลือทางการแพทย์ใน อาเคิน
+
+ความช่วยเหลือที่เหมาะสม โดยไม่ต้องเดาว่าควรไปไหน
+
+### หาแพทย์ใกล้คุณ
+
+ใช้ระบบค้นหาคลินิกของ KV Nordrhein โดยใส่ อาเคิน หรือรหัสไปรษณีย์ เริ่มกับ Hausarzt (แพทย์ทั่วไป) สำหรับการดูแลทั่วไป ตรวจข้อมูลติดต่อและถามเรื่องนัดหมายกับประกันของคุณก่อนเดินทาง
+
+[หาแพทย์ใน อาเคิน](https://patienten.kvno.de/praxissuche)
+
+## เร่งด่วนหรือนอกเวลาทำการ?
+
+ในระหว่างเวลาทำการ โปรดติดต่อ Hausarzt (ผู้ประกอบวิชาชีพทั่วไป) Apotheke (ร้านขายยา) ในพื้นที่สามารถให้คำแนะนำเกี่ยวกับยาได้ สำหรับการเจ็บป่วยเร่งด่วนที่ไม่สามารถรอจนกว่าการปฏิบัติจะกลับมาเปิดอีกครั้งแต่ไม่เป็นอันตรายถึงชีวิต โปรดโทร 116117 สำหรับเหตุฉุกเฉินที่คุกคามถึงชีวิตหรืออันตรายระยะยาวที่อาจเกิดขึ้น โปรดโทร 112 เมื่อไม่แน่ใจว่าชีวิตตกอยู่ในความเสี่ยงหรือไม่ ให้โทร 112
+
+[ความช่วยเหลือทางการแพทย์และหมายเลขฉุกเฉิน](https://gesund.bund.de/notfallnummern)
+
+## ร้านขายยาใน อาเคิน
+
+ใช้ระบบค้นหาร้านขายยาเวรฉุกเฉินด้วยที่อยู่หรือรหัสไปรษณีย์ของคุณใน อาเคิน ตารางเวรเปลี่ยนได้ ตรวจผลล่าสุดก่อนเดินทาง
+
+[ค้นหาร้านขายยาเวรฉุกเฉิน](https://www.aponet.de/notdienstsuche/-)
+
+ตรวจแหล่งค้นหาในพื้นที่เมื่อ 1 ตุลาคม 2026 ผลค้นหาคลินิกไม่ใช่นัดหมายที่ยืนยันแล้ว
+
+---
+
+Source: https://germandex.com/th/aachen/medical
+
+Language: th
+
+
+# เบอร์ลิน - ที่พักใน เบอร์ลิน
+
+หาห้อง และเข้าใจสิ่งที่กำลังจะลงนาม
+
+### เริ่มที่ studierendenWERK BERLIN
+
+ใช้พอร์ทัลที่พักเพื่อสมัครและจัดการใบสมัคร ตรวจรายชื่อมหาวิทยาลัยในเบอร์ลินที่เข้าร่วมและประกาศข้อมูลติดต่อล่าสุดก่อนสมัคร
+
+[ที่พักของ studierendenWERK BERLIN](https://www.stw.berlin/en/housing/housing-portal.html)
+
+## ค้นหาทางเลือกอื่นควบคู่กัน
+
+ใบสมัครหอพักไม่ใช่การจอง ระหว่างรอให้เปรียบเทียบห้องพักร่วมและบ้านเช่าเอกชนใน เบอร์ลิน ตรวจที่อยู่ เจ้าของหรือผู้เช่าหลัก ค่าใช้จ่ายรายเดือนรวม และสัญญาก่อนจ่ายเงิน
+
+## ก่อนลงนาม
+
+เงินประกัน ค่าใช้จ่ายเพิ่มเติม หนังสือรับรองการย้ายเข้า และการตรวจสอบการหลอกลวง: อ่าน[คู่มือที่พักในเยอรมนี](https://germandex.com/th/germany/housing)ก่อนเซ็นสัญญา
+
+ตรวจแหล่งข้อมูลท้องถิ่นเมื่อ 1 ตุลาคม 2026 สอบถามผู้ให้บริการเรื่องคุณสมบัติและห้องว่างล่าสุด
+
+---
+
+Source: https://germandex.com/th/berlin/housing
+
+Language: th
+
+
+# เบอร์ลิน - ความช่วยเหลือทางการแพทย์ใน เบอร์ลิน
+
+ความช่วยเหลือที่เหมาะสม โดยไม่ต้องเดาว่าควรไปไหน
+
+### หาแพทย์ใกล้คุณ
+
+ใช้ระบบค้นหาคลินิกของ 116117 โดยใส่ เบอร์ลิน หรือรหัสไปรษณีย์ เริ่มกับ Hausarzt (แพทย์ทั่วไป) สำหรับการดูแลทั่วไป ตรวจข้อมูลติดต่อและถามเรื่องนัดหมายกับประกันของคุณก่อนเดินทาง
+
+[หาแพทย์ใน เบอร์ลิน](https://arztsuche.116117.de/)
+
+## เร่งด่วนหรือนอกเวลาทำการ?
+
+ในระหว่างเวลาทำการ โปรดติดต่อ Hausarzt (ผู้ประกอบวิชาชีพทั่วไป) Apotheke (ร้านขายยา) ในพื้นที่สามารถให้คำแนะนำเกี่ยวกับยาได้ สำหรับการเจ็บป่วยเร่งด่วนที่ไม่สามารถรอจนกว่าการปฏิบัติจะกลับมาเปิดอีกครั้งแต่ไม่เป็นอันตรายถึงชีวิต โปรดโทร 116117 สำหรับเหตุฉุกเฉินที่คุกคามถึงชีวิตหรืออันตรายระยะยาวที่อาจเกิดขึ้น โปรดโทร 112 เมื่อไม่แน่ใจว่าชีวิตตกอยู่ในความเสี่ยงหรือไม่ ให้โทร 112
+
+[ความช่วยเหลือทางการแพทย์และหมายเลขฉุกเฉิน](https://gesund.bund.de/notfallnummern)
+
+## ร้านขายยาใน เบอร์ลิน
+
+ใช้ระบบค้นหาร้านขายยาเวรฉุกเฉินด้วยที่อยู่หรือรหัสไปรษณีย์ของคุณใน เบอร์ลิน ตารางเวรเปลี่ยนได้ ตรวจผลล่าสุดก่อนเดินทาง
+
+[ค้นหาร้านขายยาเวรฉุกเฉิน](https://www.aponet.de/notdienstsuche/-)
+
+ตรวจแหล่งค้นหาในพื้นที่เมื่อ 1 ตุลาคม 2026 ผลค้นหาคลินิกไม่ใช่นัดหมายที่ยืนยันแล้ว
+
+---
+
+Source: https://germandex.com/th/berlin/medical
+
+Language: th
+
+
+# โบฮุม - ที่พักใน โบฮุม
+
+หาห้อง และเข้าใจสิ่งที่กำลังจะลงนาม
+
+### เริ่มที่ AKAFÖ
+
+AKAFÖ มีห้องพักร่วม อพาร์ตเมนต์ และที่พักครอบครัวรอบมหาวิทยาลัยที่ให้บริการ เปรียบเทียบแบบมีและไม่มีเฟอร์นิเจอร์ และตรวจว่ามหาวิทยาลัยของคุณอยู่ในพื้นที่บริการก่อนสมัคร
+
+[ที่พักของ AKAFÖ](https://www.akafoe.de/wohnen/mietinteressenten)
+
+## ค้นหาทางเลือกอื่นควบคู่กัน
+
+ใบสมัครหอพักไม่ใช่การจอง ระหว่างรอให้เปรียบเทียบห้องพักร่วมและบ้านเช่าเอกชนใน โบฮุม ตรวจที่อยู่ เจ้าของหรือผู้เช่าหลัก ค่าใช้จ่ายรายเดือนรวม และสัญญาก่อนจ่ายเงิน
+
+## ก่อนลงนาม
+
+เงินประกัน ค่าใช้จ่ายเพิ่มเติม หนังสือรับรองการย้ายเข้า และการตรวจสอบการหลอกลวง: อ่าน[คู่มือที่พักในเยอรมนี](https://germandex.com/th/germany/housing)ก่อนเซ็นสัญญา
+
+ตรวจแหล่งข้อมูลท้องถิ่นเมื่อ 1 ตุลาคม 2026 สอบถามผู้ให้บริการเรื่องคุณสมบัติและห้องว่างล่าสุด
+
+---
+
+Source: https://germandex.com/th/bochum/housing
+
+Language: th
+
+
+# โบฮุม - ความช่วยเหลือทางการแพทย์ใน โบฮุม
+
+ความช่วยเหลือที่เหมาะสม โดยไม่ต้องเดาว่าควรไปไหน
+
+### หาแพทย์ใกล้คุณ
+
+ใช้ระบบค้นหาคลินิกของ KV Westfalen-Lippe โดยใส่ โบฮุม หรือรหัสไปรษณีย์ เริ่มกับ Hausarzt (แพทย์ทั่วไป) สำหรับการดูแลทั่วไป ตรวจข้อมูลติดต่อและถามเรื่องนัดหมายกับประกันของคุณก่อนเดินทาง
+
+[หาแพทย์ใน โบฮุม](https://www.kvwl.de/arztsuche)
+
+## เร่งด่วนหรือนอกเวลาทำการ?
+
+ในระหว่างเวลาทำการ โปรดติดต่อ Hausarzt (ผู้ประกอบวิชาชีพทั่วไป) Apotheke (ร้านขายยา) ในพื้นที่สามารถให้คำแนะนำเกี่ยวกับยาได้ สำหรับการเจ็บป่วยเร่งด่วนที่ไม่สามารถรอจนกว่าการปฏิบัติจะกลับมาเปิดอีกครั้งแต่ไม่เป็นอันตรายถึงชีวิต โปรดโทร 116117 สำหรับเหตุฉุกเฉินที่คุกคามถึงชีวิตหรืออันตรายระยะยาวที่อาจเกิดขึ้น โปรดโทร 112 เมื่อไม่แน่ใจว่าชีวิตตกอยู่ในความเสี่ยงหรือไม่ ให้โทร 112
+
+[ความช่วยเหลือทางการแพทย์และหมายเลขฉุกเฉิน](https://gesund.bund.de/notfallnummern)
+
+## ร้านขายยาใน โบฮุม
+
+ใช้ระบบค้นหาร้านขายยาเวรฉุกเฉินด้วยที่อยู่หรือรหัสไปรษณีย์ของคุณใน โบฮุม ตารางเวรเปลี่ยนได้ ตรวจผลล่าสุดก่อนเดินทาง
+
+[ค้นหาร้านขายยาเวรฉุกเฉิน](https://www.aponet.de/notdienstsuche/-)
+
+ตรวจแหล่งค้นหาในพื้นที่เมื่อ 1 ตุลาคม 2026 ผลค้นหาคลินิกไม่ใช่นัดหมายที่ยืนยันแล้ว
+
+---
+
+Source: https://germandex.com/th/bochum/medical
+
+Language: th
+
+
+# ดอร์ทมุนด์ - ที่พักใน ดอร์ทมุนด์
+
+หาห้อง และเข้าใจสิ่งที่กำลังจะลงนาม
+
+### เริ่มที่ Studierendenwerk Dortmund
+
+เริ่มที่หน้าที่พักของ Studierendenwerk เพื่อดูหอพัก ข้อเสนอปัจจุบัน และคำถามที่พบบ่อย ตรวจเงื่อนไขสำหรับมหาวิทยาลัยของคุณและค้นหาห้องด้วยตนเองควบคู่กัน
+
+[ที่พักของ Studierendenwerk Dortmund](https://www.stwdo.de/wohnen)
+
+## ค้นหาทางเลือกอื่นควบคู่กัน
+
+ใบสมัครหอพักไม่ใช่การจอง ระหว่างรอให้เปรียบเทียบห้องพักร่วมและบ้านเช่าเอกชนใน ดอร์ทมุนด์ ตรวจที่อยู่ เจ้าของหรือผู้เช่าหลัก ค่าใช้จ่ายรายเดือนรวม และสัญญาก่อนจ่ายเงิน
+
+## ก่อนลงนาม
+
+เงินประกัน ค่าใช้จ่ายเพิ่มเติม หนังสือรับรองการย้ายเข้า และการตรวจสอบการหลอกลวง: อ่าน[คู่มือที่พักในเยอรมนี](https://germandex.com/th/germany/housing)ก่อนเซ็นสัญญา
+
+ตรวจแหล่งข้อมูลท้องถิ่นเมื่อ 1 ตุลาคม 2026 สอบถามผู้ให้บริการเรื่องคุณสมบัติและห้องว่างล่าสุด
+
+---
+
+Source: https://germandex.com/th/dortmund/housing
+
+Language: th
+
+
+# ดอร์ทมุนด์ - ความช่วยเหลือทางการแพทย์ใน ดอร์ทมุนด์
+
+ความช่วยเหลือที่เหมาะสม โดยไม่ต้องเดาว่าควรไปไหน
+
+### หาแพทย์ใกล้คุณ
+
+ใช้ระบบค้นหาคลินิกของ KV Westfalen-Lippe โดยใส่ ดอร์ทมุนด์ หรือรหัสไปรษณีย์ เริ่มกับ Hausarzt (แพทย์ทั่วไป) สำหรับการดูแลทั่วไป ตรวจข้อมูลติดต่อและถามเรื่องนัดหมายกับประกันของคุณก่อนเดินทาง
+
+[หาแพทย์ใน ดอร์ทมุนด์](https://www.kvwl.de/arztsuche)
+
+## เร่งด่วนหรือนอกเวลาทำการ?
+
+ในระหว่างเวลาทำการ โปรดติดต่อ Hausarzt (ผู้ประกอบวิชาชีพทั่วไป) Apotheke (ร้านขายยา) ในพื้นที่สามารถให้คำแนะนำเกี่ยวกับยาได้ สำหรับการเจ็บป่วยเร่งด่วนที่ไม่สามารถรอจนกว่าการปฏิบัติจะกลับมาเปิดอีกครั้งแต่ไม่เป็นอันตรายถึงชีวิต โปรดโทร 116117 สำหรับเหตุฉุกเฉินที่คุกคามถึงชีวิตหรืออันตรายระยะยาวที่อาจเกิดขึ้น โปรดโทร 112 เมื่อไม่แน่ใจว่าชีวิตตกอยู่ในความเสี่ยงหรือไม่ ให้โทร 112
+
+[ความช่วยเหลือทางการแพทย์และหมายเลขฉุกเฉิน](https://gesund.bund.de/notfallnummern)
+
+## ร้านขายยาใน ดอร์ทมุนด์
+
+ใช้ระบบค้นหาร้านขายยาเวรฉุกเฉินด้วยที่อยู่หรือรหัสไปรษณีย์ของคุณใน ดอร์ทมุนด์ ตารางเวรเปลี่ยนได้ ตรวจผลล่าสุดก่อนเดินทาง
+
+[ค้นหาร้านขายยาเวรฉุกเฉิน](https://www.aponet.de/notdienstsuche/-)
+
+ตรวจแหล่งค้นหาในพื้นที่เมื่อ 1 ตุลาคม 2026 ผลค้นหาคลินิกไม่ใช่นัดหมายที่ยืนยันแล้ว
+
+---
+
+Source: https://germandex.com/th/dortmund/medical
+
+Language: th
+
+
+# ดึสเซลดอร์ฟ - ที่พักใน ดึสเซลดอร์ฟ
+
+หาห้อง และเข้าใจสิ่งที่กำลังจะลงนาม
+
+### เริ่มที่ Studierendenwerk Düsseldorf
+
+นักศึกษา HHU และ Hochschule Düsseldorf อยู่ในกลุ่มที่มีสิทธิ์สมัครหอพัก Studierendenwerk เลือกทำเล Düsseldorf เพราะผู้ให้บริการเดียวกันดูแลเมืองอื่นด้วย มีรายชื่อรอและแนะนำให้สมัครแต่เนิ่นๆ
+
+[ที่พักของ Studierendenwerk Düsseldorf](https://www.stw-d.de/studentisches-wohnen/)
+
+## ค้นหาทางเลือกอื่นควบคู่กัน
+
+ใบสมัครหอพักไม่ใช่การจอง ระหว่างรอให้เปรียบเทียบห้องพักร่วมและบ้านเช่าเอกชนใน ดึสเซลดอร์ฟ ตรวจที่อยู่ เจ้าของหรือผู้เช่าหลัก ค่าใช้จ่ายรายเดือนรวม และสัญญาก่อนจ่ายเงิน
+
+## ก่อนลงนาม
+
+เงินประกัน ค่าใช้จ่ายเพิ่มเติม หนังสือรับรองการย้ายเข้า และการตรวจสอบการหลอกลวง: อ่าน[คู่มือที่พักในเยอรมนี](https://germandex.com/th/germany/housing)ก่อนเซ็นสัญญา
+
+ตรวจแหล่งข้อมูลท้องถิ่นเมื่อ 1 ตุลาคม 2026 สอบถามผู้ให้บริการเรื่องคุณสมบัติและห้องว่างล่าสุด
+
+---
+
+Source: https://germandex.com/th/duesseldorf/housing
+
+Language: th
+
+
+# ดึสเซลดอร์ฟ - ความช่วยเหลือทางการแพทย์ใน ดึสเซลดอร์ฟ
+
+ความช่วยเหลือที่เหมาะสม โดยไม่ต้องเดาว่าควรไปไหน
+
+### หาแพทย์ใกล้คุณ
+
+ใช้ระบบค้นหาคลินิกของ KV Nordrhein โดยใส่ ดึสเซลดอร์ฟ หรือรหัสไปรษณีย์ เริ่มกับ Hausarzt (แพทย์ทั่วไป) สำหรับการดูแลทั่วไป ตรวจข้อมูลติดต่อและถามเรื่องนัดหมายกับประกันของคุณก่อนเดินทาง
+
+[หาแพทย์ใน ดึสเซลดอร์ฟ](https://patienten.kvno.de/praxissuche)
+
+## เร่งด่วนหรือนอกเวลาทำการ?
+
+ในระหว่างเวลาทำการ โปรดติดต่อ Hausarzt (ผู้ประกอบวิชาชีพทั่วไป) Apotheke (ร้านขายยา) ในพื้นที่สามารถให้คำแนะนำเกี่ยวกับยาได้ สำหรับการเจ็บป่วยเร่งด่วนที่ไม่สามารถรอจนกว่าการปฏิบัติจะกลับมาเปิดอีกครั้งแต่ไม่เป็นอันตรายถึงชีวิต โปรดโทร 116117 สำหรับเหตุฉุกเฉินที่คุกคามถึงชีวิตหรืออันตรายระยะยาวที่อาจเกิดขึ้น โปรดโทร 112 เมื่อไม่แน่ใจว่าชีวิตตกอยู่ในความเสี่ยงหรือไม่ ให้โทร 112
+
+[ความช่วยเหลือทางการแพทย์และหมายเลขฉุกเฉิน](https://gesund.bund.de/notfallnummern)
+
+## ร้านขายยาใน ดึสเซลดอร์ฟ
+
+ใช้ระบบค้นหาร้านขายยาเวรฉุกเฉินด้วยที่อยู่หรือรหัสไปรษณีย์ของคุณใน ดึสเซลดอร์ฟ ตารางเวรเปลี่ยนได้ ตรวจผลล่าสุดก่อนเดินทาง
+
+[ค้นหาร้านขายยาเวรฉุกเฉิน](https://www.aponet.de/notdienstsuche/-)
+
+ตรวจแหล่งค้นหาในพื้นที่เมื่อ 1 ตุลาคม 2026 ผลค้นหาคลินิกไม่ใช่นัดหมายที่ยืนยันแล้ว
+
+---
+
+Source: https://germandex.com/th/duesseldorf/medical
+
+Language: th
+
+
+# แฟรงก์เฟิร์ต - ที่พักใน แฟรงก์เฟิร์ต
+
+หาห้อง และเข้าใจสิ่งที่กำลังจะลงนาม
+
+### เริ่มที่ Studierendenwerk Frankfurt am Main
+
+ใช้ใบสมัครออนไลน์ของ Studierendenwerk และเปรียบเทียบหอพักใน Frankfurt อ่านคำถามที่พบบ่อยก่อนส่งเอกสารหรือวางแผนโดยอาศัยวันย้ายเข้า
+
+[ที่พักของ Studierendenwerk Frankfurt am Main](https://www.swffm.de/wohnen/online-bewerbung)
+
+## ค้นหาทางเลือกอื่นควบคู่กัน
+
+ใบสมัครหอพักไม่ใช่การจอง ระหว่างรอให้เปรียบเทียบห้องพักร่วมและบ้านเช่าเอกชนใน แฟรงก์เฟิร์ต ตรวจที่อยู่ เจ้าของหรือผู้เช่าหลัก ค่าใช้จ่ายรายเดือนรวม และสัญญาก่อนจ่ายเงิน
+
+## ก่อนลงนาม
+
+เงินประกัน ค่าใช้จ่ายเพิ่มเติม หนังสือรับรองการย้ายเข้า และการตรวจสอบการหลอกลวง: อ่าน[คู่มือที่พักในเยอรมนี](https://germandex.com/th/germany/housing)ก่อนเซ็นสัญญา
+
+ตรวจแหล่งข้อมูลท้องถิ่นเมื่อ 1 ตุลาคม 2026 สอบถามผู้ให้บริการเรื่องคุณสมบัติและห้องว่างล่าสุด
+
+---
+
+Source: https://germandex.com/th/frankfurt/housing
+
+Language: th
+
+
+# แฟรงก์เฟิร์ต - ความช่วยเหลือทางการแพทย์ใน แฟรงก์เฟิร์ต
+
+ความช่วยเหลือที่เหมาะสม โดยไม่ต้องเดาว่าควรไปไหน
+
+### หาแพทย์ใกล้คุณ
+
+ใช้ระบบค้นหาคลินิกของ Arztsuche Hessen โดยใส่ แฟรงก์เฟิร์ต หรือรหัสไปรษณีย์ เริ่มกับ Hausarzt (แพทย์ทั่วไป) สำหรับการดูแลทั่วไป ตรวจข้อมูลติดต่อและถามเรื่องนัดหมายกับประกันของคุณก่อนเดินทาง
+
+[หาแพทย์ใน แฟรงก์เฟิร์ต](https://www.arztsuchehessen.de/)
+
+## เร่งด่วนหรือนอกเวลาทำการ?
+
+ในระหว่างเวลาทำการ โปรดติดต่อ Hausarzt (ผู้ประกอบวิชาชีพทั่วไป) Apotheke (ร้านขายยา) ในพื้นที่สามารถให้คำแนะนำเกี่ยวกับยาได้ สำหรับการเจ็บป่วยเร่งด่วนที่ไม่สามารถรอจนกว่าการปฏิบัติจะกลับมาเปิดอีกครั้งแต่ไม่เป็นอันตรายถึงชีวิต โปรดโทร 116117 สำหรับเหตุฉุกเฉินที่คุกคามถึงชีวิตหรืออันตรายระยะยาวที่อาจเกิดขึ้น โปรดโทร 112 เมื่อไม่แน่ใจว่าชีวิตตกอยู่ในความเสี่ยงหรือไม่ ให้โทร 112
+
+[ความช่วยเหลือทางการแพทย์และหมายเลขฉุกเฉิน](https://gesund.bund.de/notfallnummern)
+
+## ร้านขายยาใน แฟรงก์เฟิร์ต
+
+ใช้ระบบค้นหาร้านขายยาเวรฉุกเฉินด้วยที่อยู่หรือรหัสไปรษณีย์ของคุณใน แฟรงก์เฟิร์ต ตารางเวรเปลี่ยนได้ ตรวจผลล่าสุดก่อนเดินทาง
+
+[ค้นหาร้านขายยาเวรฉุกเฉิน](https://www.aponet.de/notdienstsuche/-)
+
+ตรวจแหล่งค้นหาในพื้นที่เมื่อ 1 ตุลาคม 2026 ผลค้นหาคลินิกไม่ใช่นัดหมายที่ยืนยันแล้ว
+
+---
+
+Source: https://germandex.com/th/frankfurt/medical
+
+Language: th
+
+
+# ฮัมบูร์ก - ที่พักใน ฮัมบูร์ก
+
+หาห้อง และเข้าใจสิ่งที่กำลังจะลงนาม
+
+### เริ่มที่ Studierendenwerk Hamburg
+
+เลือกได้สูงสุดสามหอหรือสมัครทุกหอ ผู้ให้บริการระบุว่าการสมัครทุกหอเพิ่มโอกาส ตอบอีเมลยืนยันความสนใจที่ส่งเป็นระยะภายในกำหนดเพื่ออยู่ในรายชื่อต่อไป
+
+[ที่พักของ Studierendenwerk Hamburg](https://www.stwhh.de/wohnen/bewerbungsinformationen)
+
+## ค้นหาทางเลือกอื่นควบคู่กัน
+
+ใบสมัครหอพักไม่ใช่การจอง ระหว่างรอให้เปรียบเทียบห้องพักร่วมและบ้านเช่าเอกชนใน ฮัมบูร์ก ตรวจที่อยู่ เจ้าของหรือผู้เช่าหลัก ค่าใช้จ่ายรายเดือนรวม และสัญญาก่อนจ่ายเงิน
+
+## ก่อนลงนาม
+
+เงินประกัน ค่าใช้จ่ายเพิ่มเติม หนังสือรับรองการย้ายเข้า และการตรวจสอบการหลอกลวง: อ่าน[คู่มือที่พักในเยอรมนี](https://germandex.com/th/germany/housing)ก่อนเซ็นสัญญา
+
+ตรวจแหล่งข้อมูลท้องถิ่นเมื่อ 1 ตุลาคม 2026 สอบถามผู้ให้บริการเรื่องคุณสมบัติและห้องว่างล่าสุด
+
+---
+
+Source: https://germandex.com/th/hamburg/housing
+
+Language: th
+
+
+# ฮัมบูร์ก - ความช่วยเหลือทางการแพทย์ใน ฮัมบูร์ก
+
+ความช่วยเหลือที่เหมาะสม โดยไม่ต้องเดาว่าควรไปไหน
+
+### หาแพทย์ใกล้คุณ
+
+ใช้ระบบค้นหาคลินิกของ KV Hamburg โดยใส่ ฮัมบูร์ก หรือรหัสไปรษณีย์ เริ่มกับ Hausarzt (แพทย์ทั่วไป) สำหรับการดูแลทั่วไป ตรวจข้อมูลติดต่อและถามเรื่องนัดหมายกับประกันของคุณก่อนเดินทาง
+
+[หาแพทย์ใน ฮัมบูร์ก](https://www.kvhh.net/de/physicianfinder.html)
+
+## เร่งด่วนหรือนอกเวลาทำการ?
+
+ในระหว่างเวลาทำการ โปรดติดต่อ Hausarzt (ผู้ประกอบวิชาชีพทั่วไป) Apotheke (ร้านขายยา) ในพื้นที่สามารถให้คำแนะนำเกี่ยวกับยาได้ สำหรับการเจ็บป่วยเร่งด่วนที่ไม่สามารถรอจนกว่าการปฏิบัติจะกลับมาเปิดอีกครั้งแต่ไม่เป็นอันตรายถึงชีวิต โปรดโทร 116117 สำหรับเหตุฉุกเฉินที่คุกคามถึงชีวิตหรืออันตรายระยะยาวที่อาจเกิดขึ้น โปรดโทร 112 เมื่อไม่แน่ใจว่าชีวิตตกอยู่ในความเสี่ยงหรือไม่ ให้โทร 112
+
+[ความช่วยเหลือทางการแพทย์และหมายเลขฉุกเฉิน](https://gesund.bund.de/notfallnummern)
+
+## ร้านขายยาใน ฮัมบูร์ก
+
+ใช้ระบบค้นหาร้านขายยาเวรฉุกเฉินด้วยที่อยู่หรือรหัสไปรษณีย์ของคุณใน ฮัมบูร์ก ตารางเวรเปลี่ยนได้ ตรวจผลล่าสุดก่อนเดินทาง
+
+[ค้นหาร้านขายยาเวรฉุกเฉิน](https://www.aponet.de/notdienstsuche/-)
+
+ตรวจแหล่งค้นหาในพื้นที่เมื่อ 1 ตุลาคม 2026 ผลค้นหาคลินิกไม่ใช่นัดหมายที่ยืนยันแล้ว
+
+---
+
+Source: https://germandex.com/th/hamburg/medical
+
+Language: th
+
+
+# โคโลญ - ที่พักใน โคโลญ
+
+หาห้อง และเข้าใจสิ่งที่กำลังจะลงนาม
+
+### เริ่มที่ Kölner Studierendenwerk
+
+สมัครออนไลน์แต่เนิ่นๆ ระบุประเภทห้อง วันย้ายเข้า และงบได้ แต่เลือกหอเฉพาะไม่ได้ ยืนยันอีเมลตรวจความสนใจภายในห้าวัน มิฉะนั้นใบสมัครจะถูกปิดใช้งาน
+
+[ที่พักของ Kölner Studierendenwerk](https://www.kstw.de/wohnen/bewerbung/)
+
+## ค้นหาทางเลือกอื่นควบคู่กัน
+
+ใบสมัครหอพักไม่ใช่การจอง ระหว่างรอให้เปรียบเทียบห้องพักร่วมและบ้านเช่าเอกชนใน โคโลญ ตรวจที่อยู่ เจ้าของหรือผู้เช่าหลัก ค่าใช้จ่ายรายเดือนรวม และสัญญาก่อนจ่ายเงิน
+
+## ก่อนลงนาม
+
+เงินประกัน ค่าใช้จ่ายเพิ่มเติม หนังสือรับรองการย้ายเข้า และการตรวจสอบการหลอกลวง: อ่าน[คู่มือที่พักในเยอรมนี](https://germandex.com/th/germany/housing)ก่อนเซ็นสัญญา
+
+ตรวจแหล่งข้อมูลท้องถิ่นเมื่อ 1 ตุลาคม 2026 สอบถามผู้ให้บริการเรื่องคุณสมบัติและห้องว่างล่าสุด
+
+---
+
+Source: https://germandex.com/th/koeln/housing
+
+Language: th
+
+
+# โคโลญ - ความช่วยเหลือทางการแพทย์ใน โคโลญ
+
+ความช่วยเหลือที่เหมาะสม โดยไม่ต้องเดาว่าควรไปไหน
+
+### หาแพทย์ใกล้คุณ
+
+ใช้ระบบค้นหาคลินิกของ KV Nordrhein โดยใส่ โคโลญ หรือรหัสไปรษณีย์ เริ่มกับ Hausarzt (แพทย์ทั่วไป) สำหรับการดูแลทั่วไป ตรวจข้อมูลติดต่อและถามเรื่องนัดหมายกับประกันของคุณก่อนเดินทาง
+
+[หาแพทย์ใน โคโลญ](https://patienten.kvno.de/praxissuche)
+
+## เร่งด่วนหรือนอกเวลาทำการ?
+
+ในระหว่างเวลาทำการ โปรดติดต่อ Hausarzt (ผู้ประกอบวิชาชีพทั่วไป) Apotheke (ร้านขายยา) ในพื้นที่สามารถให้คำแนะนำเกี่ยวกับยาได้ สำหรับการเจ็บป่วยเร่งด่วนที่ไม่สามารถรอจนกว่าการปฏิบัติจะกลับมาเปิดอีกครั้งแต่ไม่เป็นอันตรายถึงชีวิต โปรดโทร 116117 สำหรับเหตุฉุกเฉินที่คุกคามถึงชีวิตหรืออันตรายระยะยาวที่อาจเกิดขึ้น โปรดโทร 112 เมื่อไม่แน่ใจว่าชีวิตตกอยู่ในความเสี่ยงหรือไม่ ให้โทร 112
+
+[ความช่วยเหลือทางการแพทย์และหมายเลขฉุกเฉิน](https://gesund.bund.de/notfallnummern)
+
+## ร้านขายยาใน โคโลญ
+
+ใช้ระบบค้นหาร้านขายยาเวรฉุกเฉินด้วยที่อยู่หรือรหัสไปรษณีย์ของคุณใน โคโลญ ตารางเวรเปลี่ยนได้ ตรวจผลล่าสุดก่อนเดินทาง
+
+[ค้นหาร้านขายยาเวรฉุกเฉิน](https://www.aponet.de/notdienstsuche/-)
+
+ตรวจแหล่งค้นหาในพื้นที่เมื่อ 1 ตุลาคม 2026 ผลค้นหาคลินิกไม่ใช่นัดหมายที่ยืนยันแล้ว
+
+---
+
+Source: https://germandex.com/th/koeln/medical
+
+Language: th
+
+
+# มิวนิก - ที่พักใน มิวนิก
+
+หาห้อง และเข้าใจสิ่งที่กำลังจะลงนาม
+
+### เริ่มที่ Studierendenwerk München Oberbayern
+
+ตรวจเวลารอปัจจุบันและกฎสำหรับกลุ่มนักศึกษาของคุณ ใบสมัครสมบูรณ์เมื่อมีเอกสารครบเท่านั้น อย่าถือว่าได้ห้องยืนยันแล้ว
+
+[ที่พักของ Studierendenwerk München Oberbayern](https://www.studierendenwerk-muenchen-oberbayern.de/wohnheime/bewerbung/)
+
+## ค้นหาทางเลือกอื่นควบคู่กัน
+
+ใบสมัครหอพักไม่ใช่การจอง ระหว่างรอให้เปรียบเทียบห้องพักร่วมและบ้านเช่าเอกชนใน มิวนิก ตรวจที่อยู่ เจ้าของหรือผู้เช่าหลัก ค่าใช้จ่ายรายเดือนรวม และสัญญาก่อนจ่ายเงิน
+
+## ก่อนลงนาม
+
+เงินประกัน ค่าใช้จ่ายเพิ่มเติม หนังสือรับรองการย้ายเข้า และการตรวจสอบการหลอกลวง: อ่าน[คู่มือที่พักในเยอรมนี](https://germandex.com/th/germany/housing)ก่อนเซ็นสัญญา
+
+ตรวจแหล่งข้อมูลท้องถิ่นเมื่อ 1 ตุลาคม 2026 สอบถามผู้ให้บริการเรื่องคุณสมบัติและห้องว่างล่าสุด
+
+---
+
+Source: https://germandex.com/th/muenchen/housing
+
+Language: th
+
+
+# มิวนิก - ความช่วยเหลือทางการแพทย์ใน มิวนิก
+
+ความช่วยเหลือที่เหมาะสม โดยไม่ต้องเดาว่าควรไปไหน
+
+### หาแพทย์ใกล้คุณ
+
+ใช้ระบบค้นหาคลินิกของ 116117 โดยใส่ มิวนิก หรือรหัสไปรษณีย์ เริ่มกับ Hausarzt (แพทย์ทั่วไป) สำหรับการดูแลทั่วไป ตรวจข้อมูลติดต่อและถามเรื่องนัดหมายกับประกันของคุณก่อนเดินทาง
+
+[หาแพทย์ใน มิวนิก](https://arztsuche.116117.de/)
+
+## เร่งด่วนหรือนอกเวลาทำการ?
+
+ในระหว่างเวลาทำการ โปรดติดต่อ Hausarzt (ผู้ประกอบวิชาชีพทั่วไป) Apotheke (ร้านขายยา) ในพื้นที่สามารถให้คำแนะนำเกี่ยวกับยาได้ สำหรับการเจ็บป่วยเร่งด่วนที่ไม่สามารถรอจนกว่าการปฏิบัติจะกลับมาเปิดอีกครั้งแต่ไม่เป็นอันตรายถึงชีวิต โปรดโทร 116117 สำหรับเหตุฉุกเฉินที่คุกคามถึงชีวิตหรืออันตรายระยะยาวที่อาจเกิดขึ้น โปรดโทร 112 เมื่อไม่แน่ใจว่าชีวิตตกอยู่ในความเสี่ยงหรือไม่ ให้โทร 112
+
+[ความช่วยเหลือทางการแพทย์และหมายเลขฉุกเฉิน](https://gesund.bund.de/notfallnummern)
+
+## ร้านขายยาใน มิวนิก
+
+ใช้ระบบค้นหาร้านขายยาเวรฉุกเฉินด้วยที่อยู่หรือรหัสไปรษณีย์ของคุณใน มิวนิก ตารางเวรเปลี่ยนได้ ตรวจผลล่าสุดก่อนเดินทาง
+
+[ค้นหาร้านขายยาเวรฉุกเฉิน](https://www.aponet.de/notdienstsuche/-)
+
+ตรวจแหล่งค้นหาในพื้นที่เมื่อ 1 ตุลาคม 2026 ผลค้นหาคลินิกไม่ใช่นัดหมายที่ยืนยันแล้ว
+
+---
+
+Source: https://germandex.com/th/muenchen/medical
+
+Language: th
+
+
+# มึนสเตอร์ - ที่พักใน มึนสเตอร์
+
+หาห้อง และเข้าใจสิ่งที่กำลังจะลงนาม
+
+### เริ่มที่ Studierendenwerk Münster
+
+นักศึกษาใหม่สมัครได้โดยไม่มีจดหมายตอบรับ เลือกสูงสุดสามหออย่างรอบคอบ เพราะเปลี่ยนภายหลังไม่ได้ คอยดูข้อเสนอทางอีเมลและตอบกลับ การละเลยข้อเสนออาจทำให้ใบสมัครถูกลบ
+
+[ที่พักของ Studierendenwerk Münster](https://www.stw-muenster.de/wohnen/bewerbung-wohnraum/)
+
+## ค้นหาทางเลือกอื่นควบคู่กัน
+
+ใบสมัครหอพักไม่ใช่การจอง ระหว่างรอให้เปรียบเทียบห้องพักร่วมและบ้านเช่าเอกชนใน มึนสเตอร์ ตรวจที่อยู่ เจ้าของหรือผู้เช่าหลัก ค่าใช้จ่ายรายเดือนรวม และสัญญาก่อนจ่ายเงิน
+
+## ก่อนลงนาม
+
+เงินประกัน ค่าใช้จ่ายเพิ่มเติม หนังสือรับรองการย้ายเข้า และการตรวจสอบการหลอกลวง: อ่าน[คู่มือที่พักในเยอรมนี](https://germandex.com/th/germany/housing)ก่อนเซ็นสัญญา
+
+ตรวจแหล่งข้อมูลท้องถิ่นเมื่อ 1 ตุลาคม 2026 สอบถามผู้ให้บริการเรื่องคุณสมบัติและห้องว่างล่าสุด
+
+---
+
+Source: https://germandex.com/th/muenster/housing
+
+Language: th
+
+
+# มึนสเตอร์ - ความช่วยเหลือทางการแพทย์ใน มึนสเตอร์
+
+ความช่วยเหลือที่เหมาะสม โดยไม่ต้องเดาว่าควรไปไหน
+
+### หาแพทย์ใกล้คุณ
+
+ใช้ระบบค้นหาคลินิกของ KV Westfalen-Lippe โดยใส่ มึนสเตอร์ หรือรหัสไปรษณีย์ เริ่มกับ Hausarzt (แพทย์ทั่วไป) สำหรับการดูแลทั่วไป ตรวจข้อมูลติดต่อและถามเรื่องนัดหมายกับประกันของคุณก่อนเดินทาง
+
+[หาแพทย์ใน มึนสเตอร์](https://www.kvwl.de/arztsuche)
+
+## เร่งด่วนหรือนอกเวลาทำการ?
+
+ในระหว่างเวลาทำการ โปรดติดต่อ Hausarzt (ผู้ประกอบวิชาชีพทั่วไป) Apotheke (ร้านขายยา) ในพื้นที่สามารถให้คำแนะนำเกี่ยวกับยาได้ สำหรับการเจ็บป่วยเร่งด่วนที่ไม่สามารถรอจนกว่าการปฏิบัติจะกลับมาเปิดอีกครั้งแต่ไม่เป็นอันตรายถึงชีวิต โปรดโทร 116117 สำหรับเหตุฉุกเฉินที่คุกคามถึงชีวิตหรืออันตรายระยะยาวที่อาจเกิดขึ้น โปรดโทร 112 เมื่อไม่แน่ใจว่าชีวิตตกอยู่ในความเสี่ยงหรือไม่ ให้โทร 112
+
+[ความช่วยเหลือทางการแพทย์และหมายเลขฉุกเฉิน](https://gesund.bund.de/notfallnummern)
+
+## ร้านขายยาใน มึนสเตอร์
+
+ใช้ระบบค้นหาร้านขายยาเวรฉุกเฉินด้วยที่อยู่หรือรหัสไปรษณีย์ของคุณใน มึนสเตอร์ ตารางเวรเปลี่ยนได้ ตรวจผลล่าสุดก่อนเดินทาง
+
+[ค้นหาร้านขายยาเวรฉุกเฉิน](https://www.aponet.de/notdienstsuche/-)
+
+ตรวจแหล่งค้นหาในพื้นที่เมื่อ 1 ตุลาคม 2026 ผลค้นหาคลินิกไม่ใช่นัดหมายที่ยืนยันแล้ว
+
+---
+
+Source: https://germandex.com/th/muenster/medical
+
+Language: th

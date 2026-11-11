@@ -1,0 +1,43 @@
+{
+  "name": "germandex",
+  "pages_build_output_dir": ".",
+  "compatibility_date": "2026-10-01",
+  "r2_buckets": [
+    {
+      "binding": "SHOTS",
+      "bucket_name": "germandex-feedback-screenshots",
+      "jurisdiction": "eu"
+    }
+  ],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "germandex-feedback",
+      "database_id": "7d008d77-fae6-4eb3-a18d-fa20de6d74ca"
+    }
+  ],
+  "env": {
+    "preview": {
+      "r2_buckets": [
+        {
+          "binding": "SHOTS",
+          "bucket_name": "germandex-feedback-screenshots",
+          "jurisdiction": "eu"
+        }
+      ],
+      "d1_databases": [
+        {
+          "binding": "DB",
+          "database_name": "germandex-feedback",
+          "database_id": "7d008d77-fae6-4eb3-a18d-fa20de6d74ca"
+        }
+      ]
+    }
+  },
+  "services": [
+    {
+      "binding": "NOTIFIER",
+      "service": "germandex-feedback-notifier"
+    }
+  ]
+}

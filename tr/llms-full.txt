@@ -1,0 +1,3084 @@
+# Almanya için öğrenci başlangıç rehberleri
+
+Almanya’ya yeni gelen öğrenciler için yüksek kaliteli tavsiyeleri takip edip sunan otonom ajanlar tarafından yönetilir.
+
+## City guides
+
+- [Aachen](https://germandex.com/tr/aachen/admin.md)
+- [Berlin](https://germandex.com/tr/berlin/admin.md)
+- [Bochum](https://germandex.com/tr/bochum/admin.md)
+- [Dortmund](https://germandex.com/tr/dortmund/admin.md)
+- [Düsseldorf](https://germandex.com/tr/duesseldorf/admin.md)
+- [Frankfurt](https://germandex.com/tr/frankfurt/admin.md)
+- [Hamburg](https://germandex.com/tr/hamburg/admin.md)
+- [Köln](https://germandex.com/tr/koeln/admin.md)
+- [Münih](https://germandex.com/tr/muenchen/admin.md)
+- [Münster](https://germandex.com/tr/muenster/admin.md)
+- [Erlangen](https://germandex.com/tr/erlangen/admin.md)
+- [Tübingen](https://germandex.com/tr/tuebingen/admin.md)
+
+---
+
+Source: https://germandex.com/tr
+
+Language: tr
+
+
+# Aachen - Resmi işler
+
+İlk haftanız için üniversite kurulumu
+
+Bu tam bir varış kontrol listesi değildir. Adres kaydı, sağlık sigortası durumu ve gerektiğinde ikamet izni ayrı işlerdir.
+
+### 1\. [RWTH](https://help.itc.rwth-aachen.de/en/service/rhb2fhkpjhb7/article/ea917d7e1ee048eca31f7a23d04cced5/) öğrencileri için: BlueCard'ınızı isteyin
+
+Dönem ücretini ödeyin, fotoğrafınızı RWTH SelfService'e yükleyin ve RWTHonline'da posta adresinizi kontrol edin. BlueCard öğrenci kimliğiniz ve Mensa ödeme kartınızdır.
+
+Ulaşmadıysa ücreti, fotoğrafı ve posta adresini kontrol edip [RWTH BlueCard](https://help.itc.rwth-aachen.de/en/service/rhb2fhkpjhb7/article/4ab6340c22ac486cbf2be44352a6fff5/) Hizmet Noktası'na başvurun. Kart, dönem bileti değildir.
+
+### 2\. [RWTH](https://www.asta.rwth-aachen.de/en/semesterticket-faq/) öğrencileri için: üniversite e-postanızı ayarlayın
+
+ConnectMe kuponunuzu kullanın ve RWTH posta kutunuzu açın. Önemli üniversite ve dönem bileti mesajları oraya geliyor.
+
+Erişim yoksa ConnectMe'yi kullandığınızdan emin olun - etkinleştirme 48 saate kadar sürebilir; kupon eksikse BT Hizmet Masası'na başvurun.
+
+### 3\. RWTH ve FH Aachen öğrencileri için: Mensa'yı kullanın
+
+[Studierendenwerk](https://www.studierendenwerk-aachen.de/en/eating-drinking/cashless-payment/bluecard-and-fh-card.html) yemek salonlarında ödeme yapmak için BlueCard veya FH Karte'nizi kullanın. Otomatik yükleme isteğe bağlıdır; Ayrıca makinelere de yükleme yapabilirsiniz.
+
+Ödeme çipi yoksa Studierendenwerk misafir kartını sorun (depozito + kredi) ve öğrenci ücreti için öğrenci kimliğinizi gösterin.
+
+### 4\. RWTH öğrencileri için: dönem biletinizi etkinleştirin
+
+Kayıt ve ConnectMe aktivasyonunun ardından ASEAG, RWTH e-postanıza bir bağlantı kodu gönderir. Bu kodla naveo'ya bir kez kaydolun; Seyahate çıkmadan önce geçerli bir biletin görünüp görünmediğini kontrol edin.
+
+Naveo kodu yoksa kaydınızı, ücreti, ConnectMe'yi ve RWTH posta kutunuzu kontrol edip semesterticket@aseag.de adresine yazın. Kod kullanıldı ama bilet yok: hallo@naveo.info - hesabı silmeyin.
+
+naveo kullanılamıyorsa RWTH AStA fiziksel çipli kart başvurusunu açıklıyor; iki haftaya kadar sürer ve geçici bilet değildir.
+
+-   Deutschlandsemester bileti, ICE/IC/EC'yi değil, ikinci sınıfta yerel ve bölgesel taşımacılığı kapsar. Ücretsiz biletle değil, dönem ücretiyle finanse edilir.
+-   Geçerli bir bilet olmadan uçağa binmeyin. Dönem biletiniz hazır değilse öncelikle geçerli başka bir bilet satın alın.
+-   Otobüs duraklarında birden fazla platform bulunabilir (H1, H2 vb.). Yönünüz için platformu kontrol edin.
+
+FH Aachen öğrencileri için: FH Karte'niz, e-postanız ve dönem biletiniz için FH'ye özel üniversite talimatlarını kullanın; Yukarıdaki RWTH adımları geçerli değildir.
+
+## Üniversite kurulumundan daha fazlası
+
+### Aachen adresinizi kaydedin
+
+Adres kaydı: [Aachen Şehri](https://serviceportal.aachen.de/suche/-/vr-bis-detail/dienstleistung/4599/show), taşındıktan sonra iki hafta içinde. İkamet izinleri: [StädteRegion göçmenlik büroları](https://www.staedteregion-aachen.de/en/navigation/residence-permit). Belgeler, sağlık sigortası, ikamet durumu ve resmi mektuplar: [Almanya geneli resmi işler rehberi](https://germandex.com/tr/germany/admin).
+
+Tamamen [çevrimiçi](https://serviceportal.aachen.de/suche/-/vr-bis-detail/dienstleistung/4599/show) (eID işlevi etkin kimlik kartı veya AB eID kartı, PIN'i ve ücretsiz bir BundID hesabı ile) ya da Bürgerbüro veya bir Bezirksamt'ta önceden randevu alarak şahsen kayıt olabilirsiniz.
+
+---
+
+Source: https://germandex.com/tr/aachen/admin
+
+Language: tr
+
+
+# Aachen - Spor
+
+## RWTH öğrencileri için: Hochschulsport
+
+RWTH [Hochschulsport](https://hochschulsport.rwth-aachen.de/cms/hsz/sport/~hpoua/sportangebot/) birçok sporu öğrenci fiyatlarına sunmaktadır; Rezervasyon yapmadan önce uygunluğu ve güncel fiyatları kontrol edin.
+
+Kurslar arasında top sporları, tırmanma, dans ve fitness yer almaktadır. Güncel program ve kayıt kuralları için Hochschulsport sitesine bakın.
+
+Bazı kurslar uygun öğrenciler için benzer dış seçeneklere göre daha düşük maliyetlidir. Rezervasyon yapmadan önce mevcut kurs fiyatını karşılaştırın.
+
+### Güncel [kayıt tarihlerini](https://hochschulsport.rwth-aachen.de/cms/hsz/sport/sportangebot/~bgxpbf/programmstart-anmeldung-und-termine/) kontrol edin
+
+Popüler kurslar hızla dolabilir. Kayıt süreleri her dönem değişiklik gösterebilmektedir; alarm ayarlamadan önce resmi tarihler sayfasını kontrol edin.
+
+## Ücretsiz seçenekler
+
+-   Şehir merkezinin hemen yanındaki tepe parkı Lousberg'de koş ya da yürü.
+-   Şehrin güneyindeki Aachener Wald (orman) uzun koşular ve hafta sonu yürüyüşleri için harika.
+-   Bir sokak maçına katıl: sınıf arkadaşlarına sor. Bir takıma katılmak Alman arkadaş edinmenin en hızlı yollarından biri.
+
+---
+
+Source: https://germandex.com/tr/aachen/sports
+
+Language: tr
+
+
+# Aachen - Restoranlar
+
+## Önerilenler
+
+### [AKL](https://www.akl-orient.de/)
+
+Rahat, aile usulü bir yerde Lübnan yemekleri. Pontstraße 1-3. Pzt-Cmt 11:30-23:00, pazar kapalı.
+
+### [TAT Gemüsekebab](https://www.tat-gemuesekebab.de/restaurants) €9.60
+
+Aachen'in en iyi döner ve dürümü. Markt 44'te ve Elisenbrunnen'de (Friedrich-Wilhelm-Platz 11). 11:00'den itibaren açık, hafta sonları geç saate kadar.
+
+### [Al Triangolo](http://www.al-triangolo.de/)
+
+Eski şehirde küçük, aile işletmesi bir İtalyan restoranı, Rommelsgasse 2-3. Akşam yemeği için. Salı kapalı.
+
+### Vejetaryen misin? En iyi seçeneklerin bunlar
+
+Önerilen yerler aynı zamanda şehrin en iyi vejetaryen seçenekleri. Falafel ya da hellim seç.
+
+## Ucuz ve hızlı
+
+### [Nobis](https://nobis-printen.de/oeffnungszeiten/)
+
+Aachen'in kendi fırın zinciri, şehrin her yerinde şubesi var. Sandviç, kahve ve Printen (yerel zencefilli kurabiye). Münsterplatz'taki kafe tam katedralin yanında.
+
+### Subway
+
+Bildiğin gibi. Güvenilir, ucuz, doyurucu.
+
+### Bäckerei [Moss](https://baeckerei-moss.de/filiale/)
+
+Şehrin dört bir yanında şubeleri olan Aachen fırını. Ekmek, sandviç, kek ve kahve; Ahornstr. 42’deki MOSS auf der Hörn, RWTH’ye yakın.
+
+---
+
+Source: https://germandex.com/tr/aachen/restaurants
+
+Language: tr
+
+
+# Aachen - Parti
+
+### Pontstraße
+
+Öğrenci barları sokağı. Geceye burada başla. Poststraße'de de çok bar var.
+
+### [Apollo](https://apollo-aachen.de/club/events/)
+
+Büyük ana akım kulüp, Pontstraße 141-149, Ponttor'un yanında. Ana akım müzik, tema geceleri ve her ekim büyük hoş geldin partileri.
+
+### [Musikbunker](https://mubu.ac/)
+
+Eski bir sığınakta konserler ve kulüp geceleri. Daha az ana akım bir şey istersen yerlilerin tercihi.
+
+### Barbarossa
+
+Ucuz içkiler. Çarşamba günleri karaoke.
+
+### LikeLike
+
+Pontstraße yakınında ucuz ve sıra dışı buğday biraları olan bir tiki bar.
+
+### Sowiso
+
+İyi müzik, ayrıca kart oyunları, dart ve bilardo.
+
+## Bilmekte fayda var
+
+-   Ekim parti sezonudur: Semesteranfangsparty ve Apollo'daki "Students United" hoş geldin partisi için [AStA](https://www.asta.rwth-aachen.de/) takvimini takip et. Geçen yılki partide gece yarısından önce giriş 5 € ve saat 1'e kadar bira ücretsizdi.
+-   Yerliler Rothe Erde yakınındaki "Nightlife" kulübünü atlamanı öneriyor.
+-   Gerçek büyük kulüp geceleri için insanlar trenle yaklaşık bir saat uzaklıktaki Köln'e gidiyor.
+
+---
+
+Source: https://germandex.com/tr/aachen/party
+
+Language: tr
+
+
+# Dil
+
+Temel Almanca bile burada _her şeyi değiştirir_: iş, ev arama, Ausländerbehörde, arkadaş edinmek.
+
+### En iyi online kurs: Pimsleur
+
+Kendi başına öğrenmek için Pimsleur en iyi online kurs.
+
+### En iyi öğretmen yarı zamanlı bir iştir
+
+Bir restoranda haftada birkaç vardiya sana her kurstan daha fazla günlük Almanca öğretir. [İş](https://germandex.com/tr/job) altında Konaklama ve perakende işlerine bak.
+
+## Aachen
+
+### [RWTH](https://www.sz.rwth-aachen.de/cms/sz/deutsch/kursangebot-daf/~ymonj/semesterkurse/) Sprachenzentrum
+
+RWTH dil merkezi. Uluslararası öğrenciler için A1'den C1'e Almanca kursları, dönem içinde ve tatilde yoğun kurs olarak. RWTHonline üzerinden kaydol.
+
+### [VHS](https://www.vhs-aachen.de/programm/sprachen/deutsch-als-fremd-und-zweitsprache) Aachen
+
+Şehrin Peterstraße'deki halk eğitim merkezi. Her seviyede akşam ve yoğun Almanca kursları.
+
+### [Sprachenakademie](https://www.spraachen.org/en/german-courses/intensive-courses/) Aachen
+
+Pahalı ama değer. Yoğun kursu dönem tatiline denk gelecek şekilde önceden ayırt.
+
+## Berlin
+
+### [FU](https://www.sprachenzentrum.fu-berlin.de/sprachangebot/sprachen/deutsch/kurse/semesterkurse/index.html) Sprachenzentrum
+
+FU öğrencileri için dönem boyunca yabancı dil olarak Almanca (DaF) kursları.
+
+### [HU](https://www.sprachenzentrum.hu-berlin.de/de/kursangebot-und-anmeldung/sprachen/deutsch) Sprachenzentrum
+
+HU öğrencileri için her seviyede DaF kursları.
+
+### Volkshochschule ([VHS](https://www.berlin.de/vhs/kurse/deutsch-integration/))
+
+Berlin'in her ilçesinin kendi VHS'i var, her seviyede Almanca kursları sunuyor.
+
+## Bochum
+
+### [RUB](https://www.daf.ruhr-uni-bochum.de/daf/kurse/index.html.de), yabancı dil olarak Almanca
+
+Ruhr-Universität'te derslerinin yanında Almanca kursları.
+
+### [VHS](https://vhs.bochum.de/programm/deutsch-als-fremdsprache) Bochum
+
+Her seviyede Almanca kursları.
+
+## Dortmund
+
+### [TU Dortmund](https://fs.zhb.tu-dortmund.de/lehrgebiete/deutsch-als-fremdsprache/), yabancı dil olarak Almanca
+
+Uluslararası öğrenciler için Almanca kursları.
+
+### [VHS](https://vhs.dortmund.de/programm/sprachen-und-kulturen-der-welt/kategorie/Deutsch+als+Fremdsprache/33) Dortmund
+
+Her seviyede Almanca kursları.
+
+## Düsseldorf
+
+### [HHU](https://www.hhu.de/internationales/internationale-studierende/neu-an-der-hhu/ankommen-leicht-gemacht/sprachen-lernen) Sprachenzentrum
+
+HHU öğrencileri için Almanca kursları.
+
+### [vhs](https://vhs.duesseldorf.de/programm/deutsch-und-integration) Düsseldorf
+
+A1'den başlayarak her seviyede Almanca kursları.
+
+### [IIK](https://www.iik-duesseldorf.de/deutsch/) Düsseldorf
+
+Yoğun Almanca kursları olan dil enstitüsü.
+
+## Frankfurt
+
+### [Goethe](https://www.uni-frankfurt.de/43669402/semesterbegleitkurse) University ISZ
+
+Öğrenciler için dönem kursları ve yoğun Almanca kursları.
+
+### [Frankfurt UAS](https://www.frankfurt-university.de/de/hochschule/einrichtungen-und-services/fachsprachenzentrum/sprachangebot) Fachsprachenzentrum
+
+Dönem boyunca Almanca kursları.
+
+### [vhs](https://vhs.frankfurt.de/de/deutschalsfremdsprache) Frankfurt
+
+Her seviyede Almanca kursları.
+
+## Hamburg
+
+### [Universität Hamburg](https://www.uni-hamburg.de/sprachenzentrum/daf/kurse.html) Sprachenzentrum
+
+Dönem boyunca Almanca kursları, öncesinde yoğun kurslar.
+
+### [TUHH Almanca kursları](https://www.tuhh.de/tuhh/studium/im-studium/sprachen-lernen/deutsch-lernen/deutschkurse-internationale-studiengaenge)
+
+TUHH'nin uluslararası programlarındaki öğrenciler için.
+
+### [Hamburger Volkshochschule](https://www.vhs-hamburg.de/deutsch-17)
+
+A1'den C2'ye her seviyede Almanca kursları.
+
+## Köln
+
+### Köln Üniversitesi, yabancı dil olarak Almanca
+
+Derslerinin yanında A1'den C1'e Almanca kursları.
+
+### TH [Köln](https://uni-koeln.de/studium-lehre/international/studium-in-koeln/lehrbereich-deutsch-als-fremdsprache) Sprachlernzentrum
+
+TH [Köln](https://www.th-koeln.de/internationales/deutsch-als-fremdsprache_25247.php) öğrencileri için Almanca modülleri.
+
+### Kölner [VHS](https://www.koelner-vhs.de/deutsch-integration/deutsch-fremdsprache)
+
+Her seviyede geniş Almanca kurs seçeneği.
+
+## Münih
+
+### [LMU Almanca kursları](https://www.lmu.de/de/studium/internationale-vollzeit-studierende/sprachkurse/)
+
+LMU'daki uluslararası öğrenciler için Almanca kursları.
+
+### [TUM](https://www.sprachenzentrum.tum.de/sz/sprachen/deutsch/) Sprachenzentrum
+
+Başlangıç seviyesinden itibaren TUM öğrencileri için Almanca kursları.
+
+### Münchner Volkshochschule ([MVHS](https://www.mvhs.de/kurse/deutsch-integration/deutsch-fuer-studierende-460-CAT-KAT21360))
+
+Öğrencilere yönelik kurslar, örneğin "Deutsch für Studium und Alltag".
+
+## Münster
+
+### [Uni Münster](https://www.uni-muenster.de/Sprachenzentrum/internationales/internationalestudierende/deutschimsemester.html) Sprachenzentrum
+
+Dönem boyunca Almanca kursları, tatillerde yoğun kurslar.
+
+### [VHS](https://kurse.vhs-muenster.de/p/558-CAT-KAT4175273) Münster
+
+Her seviyede Almanca kursları.
+
+## Erlangen
+
+### [FAU](https://sz.fau.de/abteilung-deutsch-als-fremdsprache/kursangebot/daf-studienbegleitende-kurse/) Sprachenzentrum
+
+Kayıtlı öğrenciler için eğitime paralel Almanca kursları. Kursa katılmadan önce seviye tespiti gerekir; StudOn'da çevrimiçi kayıt olursun. Kurs listesi campo'dadır.
+
+### [VHS](https://www.vhs-erlangen.de/programm/sprachen/allgemeine-informationen-zum-sprachenbereich) Erlangen
+
+Şehrin halk eğitim merkezi dil danışmanlığı ve ücretsiz çevrimiçi seviye testi sunar. Almanca kurslarında deneme katılımı yoktur, bu yüzden önceden kayıt ol.
+
+## Tübingen
+
+### [Uni Tübingen](https://uni-tuebingen.de/international/sprachen-lernen/deutschkurse/) Deutsch als Fremdsprache
+
+Üniversite öğrencileri için Almanca kursları. alma'da kayıt ol. Baktığımızda 2026/27 kış dönemi kaydı kapanmıştı, ama bazı kurslarda hâlâ boş yer vardı.
+
+### [VHS](https://www.vhs-tuebingen.de/kurse/deutschkurse) Tübingen
+
+Her dönem A1'den C1'e Almanca kursları; sabah ve akşam sınıfları, düzenli sınavlar ve ücretsiz seviye testi.
+
+---
+
+Source: https://germandex.com/tr/germany/language
+
+Language: tr
+
+
+# Görgü kuralları
+
+### Toplu taşımada sessiz ol
+
+Otobüste ve trende sesini alçak tut, telefon görüşmelerini kısa tut.
+
+### Trafik kurallarına uy
+
+Yaya geçitleri ve trafik ışıkları çok ciddiye alınır!
+
+### Nazik ol
+
+Burada biraz nezaket çok işe yarar. Bir şey aldığında “Danke” demek her zaman takdir edilir.
+
+---
+
+Source: https://germandex.com/tr/germany/etiquette
+
+Language: tr
+
+
+# Teslimat
+
+## Yemek
+
+### [Wolt](https://wolt.com/)
+
+Şehirdeki restoranlardan yemek siparişi.
+
+### [Lieferando](https://www.lieferando.de/)
+
+Almanya'daki diğer büyük yemek siparişi uygulaması.
+
+## Kargolar
+
+### [DHL](https://www.dhl.de/de/privatkunden/pakete-empfangen/an-einem-abholort-empfangen/packstation.html) uygulamasında Packstation’ı etkinleştir
+
+Almanya’da kuryeler (Amazon ve diğerleri) genellikle seni aramaz. Paketi çoğu zaman kapının önüne bırakır ya da geri gönderir. Packstation, paketlerini teslim aldığın bir dolaptır ve çoğu teslimat için güvenilir bir seçenektir.
+
+## İlaçlar
+
+### [Shop Apotheke](https://www.shop-apotheke.com/)
+
+Reçetesiz ilaçları ve takviyeleri online sipariş et.
+
+---
+
+Source: https://germandex.com/tr/germany/delivery
+
+Language: tr
+
+
+# Almanya'da resmi işler
+
+Vardıktan sonraki ulusal resmi işler: adres kaydı, sağlık sigortası ve ikamet durumu, resmi mektupları anlamak. Üniversite adımları şehrinin rehberinde.
+
+Almanya'da para: [banka hesabı](https://germandex.com/tr/germany/bank-account), [sağlık sigortası](https://germandex.com/tr/germany/health-insurance), [sorumluluk sigortası](https://germandex.com/tr/germany/liability-insurance), [SIM kart](https://germandex.com/tr/germany/sim-card) ve [SCHUFA](https://germandex.com/tr/germany/schufa) rehberleri.
+
+## Adresini kaydettir
+
+Taşındıktan sonra iki hafta içinde adresini Bürgeramt veya Einwohnermeldeamt'ta kaydettir. Kimlik veya pasaportunu ve konutu sağlayanın imzaladığı Wohnungsgeberbestätigung belgesini götür; kira sözleşmesi bunun yerine geçmez. Yurt dışından geldiysen veya elektronik oturum iznin varsa yüz yüze randevu gerekip gerekmediğini kontrol et.
+
+Belge zamanında yoksa doğrudan kayıt dairesine başvur. Yaşamadığın adresi asla kaydettirme.
+
+## Sağlık sigortasını ve ikamet durumunu kontrol edin
+
+Sağlık sigortacınıza kayıt onayının üniversitenize ulaşıp ulaşmadığını sorun ve eksik evrak taleplerini okuyun. Oturma iznine ihtiyaç duyan AB üyesi olmayan öğrenciler, üniversitelerinden sorumlu göçmenlik makamını ve kendi vize veya izin son tarihlerini kontrol etmelidir.
+
+Sigorta kanıtı eksikse sigortacınızdan elektronik bildirimi üniversiteye göndermesini isteyin. İkamet süresi yakınsa doğrudan göçmenlik makamına başvurun.
+
+## Resmi mektuplar: ne yapmalı
+
+-   Steuer-ID: Federal Merkezi Vergi Dairesi bu kalıcı vergi numarasını verir. Mektubu sakla. Ulaşmazsa veya kaybolursa [BZSt](https://www.bzst.de/EN/Private_individuals/Tax_identification_number/tax_identification_number_node.html)'den yeni bir bildirim isteyin; posta yoluyla gönderilir.
+-   [Rundfunkbeitrag](https://www.rundfunkbeitrag.de/informationen): Evinizin kayıtlı olup olmadığını ve kimin ödediğini kontrol edin. İstisnalar dışında genellikle daire başına bir katkı payı uygulanır; Mektubu göz ardı etmek yerine resmi katkı-hizmet formlarını kullanın.
+-   Sağlık sigortası mektubu: Eksik belge, teminat veya ödeme talebi için okuyun. Kayıt kanıtı için sigortacınıza üniversitenize göndereceği elektronik mesajı sorun.
+-   [Sozialversicherungsnummer](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Sozialversicherungsausweis): Almanya'da ilk çalışmaya başladığınızda emeklilik sigortası numarası notunu saklayın. Kaybolması halinde emeklilik sigortası kurumundan veya sağlık sigortanızdan yenisini talep edin.
+-   İkametle ilgili mektup: son tarihini ve içinde belirtilen yetkiliyi kontrol edin. Belirsizse, son başvuru tarihinden önce üniversitenizden sorumlu göçmenlik bürosuyla iletişime geçin.
+
+---
+
+Source: https://germandex.com/tr/germany/admin
+
+Language: tr
+
+
+# Almanya'da konut
+
+Bir oda bul. İmzaladığın şeyi anla.
+
+## İmzalamadan önce
+
+-   Kaution iade edilebilir bir güvenlik teminatıdır. Olağan konut kiracılığı için yasal tavan, ayrı olarak belirtilen işletme maliyetleri hariç üç aylık kiradır; nakit depozito üç aylık taksitlerle ödenebilir. Ödeme yapmadan önce sözleşmenizi kontrol edin.
+-   Warmmiete, taban kira artı belirtilen işletme maliyetleridir; Nebenkosten, genellikle önceden ödenen ve daha sonra mutabakata varılan ekstra bina/hizmet maliyetleridir. Sözleşmenizde ısınma ve elektrik dahil hangi maliyetlerin bulunduğunu sorun.
+-   Wohnungsgeberbestätigung, adres kaydı için gerçek taşınmanızı onaylar. Ev sahibi veya ana kiracı bunu imzalar. Kira sözleşmesinden ayrıdır.
+-   Dolandırıcılık uyarısı: para veya hassas belge göndermeden önce kişiyi ve odayı doğrula. Üniversiteler sahte ilanlar ve anahtar tesliminden önce istenen depozitolar konusunda uyarıyor. Üniversitenin konut danışmanlığı şüpheli bir ilanı kontrol etmene yardımcı olabilir.
+
+---
+
+Source: https://germandex.com/tr/germany/housing
+
+Language: tr
+
+
+# Almanya'da süpermarketler
+
+İndirim marketleri ve geniş ürün yelpazeli süpermarketler farklı ihtiyaçlara hitap eder. Aldığın ürünleri karşılaştır.
+
+### İndirim marketleri
+
+[Netto](https://www.netto-online.de/), [Aldi](https://www.aldi-sued.de/marken) ve [Lidl](https://www.lidl.de/c/eigenmarken-food/s10007656) günlük gıda ve kendi markalı ürünler satar. Her zamanki alışveriş sepetini ve güncel kampanyaları karşılaştır.
+
+### Geniş ürün yelpazeli süpermarketler
+
+[Rewe](https://www.rewe-group.com/en/company/structure-and-saleslines/), [Edeka](https://verbund.edeka/unternehmen/was-ist-der-edeka-verbund/m%C3%A4rkte-vertrieb/edeka/) ve [Kaufland](https://filiale.kaufland.de/sortiment.html) geniş bir gıda yelpazesi sunar. Ürün seçimi şubeye göre değişir.
+
+### Editoryal tercihimiz
+
+Geniş ürün yelpazeli bir süpermarket için tercihimiz Rewe. Bu bir editoryal tercih, fiyat sıralaması değil.
+
+---
+
+Source: https://germandex.com/tr/germany/groceries
+
+Language: tr
+
+
+# Almanya'da banka hesapları
+
+Girokonto (vadesiz hesap) ilk kurulacak şeydir: kira, sağlık sigortası ve maaşlar hep bu hesaptan geçer.
+
+### Sparkasse'de öğrenci Girokonto
+
+Sparkasse, öğrenciler ve stajyerler için uygulama, temassız ödeme ve Almanya genelinde yaklaşık 20.000 ATM içeren bir Girokonto sunar. Birçok şubede ücretsizdir: her Sparkasse kendi hesap koşullarını ve ücretlerini belirler, bu yüzden yerel şubenize ücretsiz öğrenci hesabı sunup sunmadığını ve bir yaş sınırı olup olmadığını sorun. (Kaynak: [sparkasse.de](https://www.sparkasse.de/pk/produkte/konten-und-karten/girokonto/studenten-und-auszubildende.html), 19 Ekim 2026'da kontrol edildi.) Bir şubede reddedildiniz mi? Başka bir şube deneyin veya online açın; bir online banka geçici çözüm olur ve sonra Sparkasse'ye geçebilirsiniz.
+
+### Kirayı otomatik ödeme talimatı yapın
+
+Kiranı her ay otomatik ödenecek Dauerauftrag olarak ayarla. Düzenli kira ödeme geçmişi ev başvurularında önemlidir.
+
+### Kredi kartı (isteğe bağlı)
+
+[PAYBACK Visa](https://www.payback.de/info/visa) yılda 29 EUR tutar. Ödemeler dünya çapında ücretsizdir ve her ödemede Payback puanı kazandırır; kart aktifken puanlar sona ermez. Nakit çekimler yurt dışında ücretsizdir ama Almanya içinde %2 (en az 5 EUR) tutar. (Kaynak: payback.de, 19 Ekim 2026'da kontrol edildi.)
+
+### Editoryal tercihimiz
+
+Sparkasse öğrenci Girokonto'su. Kriterler: Sparkasse'nin kendi sayfasına göre birçok şubede öğrencilere ücretsiz (her Sparkasse kendi koşullarını belirler), bu rehberdeki her şehri kapsayan şube ve ATM ağı ve her ev sahibi ile işverenin tanıdığı bir isim. Bu bir editoryal tercihtir, fiyat sıralaması değildir.
+
+---
+
+Source: https://germandex.com/tr/germany/bank-account
+
+Language: tr
+
+
+# Almanya'da sağlık sigortası
+
+Sağlık sigortası zorunludur: üniversiteye kaydolurken kapsamı kanıtlamanız gerekir. Bu sayfa seçenek türlerini anlatır; tıbbi tavsiye değildir.
+
+### Kamu (yasal) sigorta
+
+Çoğu öğrenci yasal sigortayı (gesetzliche Krankenversicherung) kullanır. Kanunen zorunlu temel kapsam - doktor, ilaç, acil, hastane - hangi Krankenkasse'yi seçerseniz seçin aynıdır. Tarihli bir örnek olarak TK, 2026 öğrenci primini bakım sigortası dahil 23 yaşına kadar ayda 141,16 EUR ve 23 yaşından itibaren çocuksuz 146,29 EUR olarak listeliyor ve primin Krankenkasse'ler arasında neredeyse fark etmediğini belirtiyor. Öğrenci primi normalde 30 yaşına girdiğiniz dönemin sonuna kadar geçerlidir. (Kaynaklar: [daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/) ve [tk.de](https://www.tk.de/techniker/versicherung/gut-versichert-in-jeder-lebenslage/versichert-als-studierende/krankenversicherung-und-studium/beitrag-studierende-2131472), 19 Ekim 2026'da kontrol edildi.)
+
+### Özel sigorta
+
+Özel planlar daha fazla fayda sunabilir ama belirgin şekilde daha pahalıdır ve genelde önce kendiniz ödeyip sonra geri ödeme istemenizi gerektirir. Sonradan yasal sigortaya dönmek zordur. (Kaynak: [daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/), 19 Ekim 2026'da kontrol edildi.)
+
+### Kayıt onayı
+
+Krankenkasse'niz sigorta durumunuzu üniversiteye elektronik olarak bildirir; bu olmadan kayıt tamamlanmaz. Kayıtla birlikte kampüs içi ve dersle ilgili etkinlikler için üniversitenin kaza sigortasına da otomatik olarak dahil olursunuz. (Kaynak: [daad.de](https://www.daad.de/en/studying-in-germany/living-in-germany/health-insurance/), 19 Ekim 2026'da kontrol edildi.)
+
+### Diş + göz sigortası (isteğe bağlı)
+
+İsteğe bağlı; gözlük kullanıyorsan teminatı incele. [BarmeniaGothaer](https://www.barmeniagothaer.de/versicherung/krankenzusatz-pflege/) ek diş sigortası ve Mehr Sehen göz teminatı sunar. Almadan önce güncel primi, limitleri, koşulları ve geri ödeme aralığını kontrol et.
+
+### Editoryal tercihimiz
+
+Öğrenci olarak yasal sigorta, dilediğiniz Krankenkasse’den. Kriterler: temel kapsam yasal olarak her yerde aynı, indirimli öğrenci primi standart uyumlu seçenek (yukarıdaki TK rakamları tarihli bir örnektir, tavsiye değildir) ve her Krankenkasse durumunuzu üniversiteye bildirebilir. Bu bir editoryal tercihtir, tıbbi veya mali tavsiye değildir.
+
+---
+
+Source: https://germandex.com/tr/germany/health-insurance
+
+Language: tr
+
+
+# Sorumluluk sigortası (Haftpflicht)
+
+Özel Haftpflichtversicherung, başkalarına veya eşyalarına verdiğiniz zararları karşılar. Almanya'da çoğu kişinin vardır ve ayda birkaç euro tutar.
+
+### Neleri kapsar
+
+Klasik durumlar: bir arkadaşınızın dizüstü bilgisayarını kırarsınız, ev sahibinin anahtarını kaybedersiniz veya bisikletinizle park halindeki bir arabayı çizersiniz. Sigortasız bunları kendiniz ödersiniz; sorumluluk sigortası sizin için öder.
+
+### Satın almadan önce neye bakmalı
+
+Kapsam tutarı (yüksek hedefleyin - kişilere verilen zarar çok pahalı olabilir), kayıp anahtarların dahil olup olmadığı ve muafiyet. Sadece fiyatı değil, tarife sayfasını okuyun.
+
+### Editoryal tercihimiz
+
+Die Haftpflichtkasse, [Einfach Besser](https://www.haftpflichtkasse.de/versicherungen/privatkunden/privathaftpflicht/Einfach-Besser/) tarifesi. Kriterler: sorumluluk sigortasında uzman bir sigortacı ve tarife kendi sayfasına göre kişi, mal ve finansal zararları 50 milyon euroya kadar karşılıyor. Sayfada sabit bir prim belirtilmiyor - fiyat bilgilerinize bağlı, o yüzden oradan teklif alın. (Kaynak: haftpflichtkasse.de, 19 Ekim 2026'da kontrol edildi.) Bu bir editoryal tercihtir, fiyat sıralaması değildir.
+
+---
+
+Source: https://germandex.com/tr/germany/liability-insurance
+
+Language: tr
+
+
+# Almanya'da SIM kartlar
+
+Yeni geldiğinizde ön ödemeli, sözleşmeden iyidir: Alman banka hesabı veya SCHUFA geçmişi gerekmez ve uzun taahhüt yok.
+
+### Yıl için tek ödeme
+
+Telekom'un [MagentaMobil Prepaid Jahrestarif](https://www.telekom.de/shop/tarife/prepaid-jahrestarif) tarifesi 12 ay için tek seferde 99,95 EUR: ayda 20 GB yüksek hızlı veri (varsa 5G) artı Alman şebekelerine sınırsız arama ve SMS. 12 ayın sonunda bir ay önceden iptal etmezseniz tarife süresiz olarak otomatik yenilenir ve sonra aylık olarak iptal edilebilir. (Kaynak: telekom.de, 19 Ekim 2026'da kontrol edildi.)
+
+### Aylık seçenekler
+
+Aylık faturalandırmayı tercih ederseniz, her şebeke (Telekom, Vodafone, O2) ve süpermarket markaları aylık ön ödemeli paketler satar. Satın almadan önce güncel fiyatı ve veri hacmini kontrol edin - teklifler sık değişir.
+
+### Editoryal tercihimiz
+
+Telekom MagentaMobil Prepaid Jahrestarif. Kriterler: tek ödeme on iki ayı kapsar, yani ilk maaştan önce aylık fatura yok; Telekom şebekesinde çalışır; ve fiyat ile 20 GB telekom.de'de yazılı olarak sabit. Bu bir editoryal tercihtir, fiyat sıralaması değildir.
+
+---
+
+Source: https://germandex.com/tr/germany/sim-card
+
+Language: tr
+
+
+# SCHUFA açıklandı
+
+### SCHUFA’yı anla
+
+SCHUFA Almanya'nın kredi kaydıdır; ev sahipleri genellikle rapor ister. Puan oluşturmak için ek ürün açman gerekmez: SCHUFA faturaları zamanında ödemeni ve mali işlerini basit tutmanı önerir. Mevcut hesaplarındaki düzenli ödeme geçmişi zamanla yardımcı olur. Verilerini SCHUFA uygulamasında kontrol edebilir veya SCHUFA'dan ücretsiz veri kopyası isteyebilirsin. ([Android](https://play.google.com/store/apps/details?id=com.schufamobileapp) / [iPhone](https://apps.apple.com/de/app/schufa/id6448636299))
+
+SCHUFA, [schufa.de](https://www.schufa.de/datenkopie) üzerinden ücretsiz veri kopyası (Datenkopie) sunar. (Kaynak: schufa.de, 19 Ekim 2026'da kontrol edildi.)
+
+---
+
+Source: https://germandex.com/tr/germany/schufa
+
+Language: tr
+
+
+# Editoryal ajanlarla bir deney
+
+Germandex, otonom ajanlarla yüksek kaliteli tavsiyeler derlemeye yönelik bir deneydir. Germandex'in arkasındaki ajanlar, Almanya'ya yeni gelenler için internetteki nitel tavsiyeleri araştırır, düzenler ve güncel tutar.
+
+Ticari çıkarlar olmadan açık olmaları ve çeşitlilik yerine açıklığa öncelik vermeleri için tasarlanmışlardır.
+
+Beğendiysen, daha [iyi](https://germandex.com/) olmasına yardım et.
+
+Uğradığın için teşekkürler!
+
+![](https://germandex.com/img/venkat-pixel-mono.png)
+
+[Venkat Srinivasan](mailto:venkatragavan@protonmail.com)
+
+[](https://linkedin.com/in/venkatragavan "LinkedIn")[](https://x.com/venkgator "X")
+
+---
+
+Source: https://germandex.com/tr/manifesto
+
+Language: tr
+
+
+# Para
+
+İşleri bu sırayla hallet.
+
+### 1\. [Banka hesabı açın](https://germandex.com/tr/germany/bank-account)
+
+Öğrencilere ücretsiz; önce bunu kurun.
+
+### 2\. [Sağlık sigortası yaptırın](https://germandex.com/tr/germany/health-insurance)
+
+Kayıt için zorunlu; seçenek türlerini okuyun.
+
+### 3\. [Sorumluluk sigortası yaptırın](https://germandex.com/tr/germany/liability-insurance)
+
+Ayda birkaç euro pahalı kazaları karşılar.
+
+### 4\. [SIM alın](https://germandex.com/tr/germany/sim-card)
+
+Önce ön ödemeli; sözleşmeler sonra.
+
+### 5\. [SCHUFA'yı anlayın](https://germandex.com/tr/germany/schufa)
+
+Almanya'nın kredi kaydı, açıklandı.
+
+---
+
+Source: https://germandex.com/tr/money
+
+Language: tr
+
+
+# İşler
+
+Almanya'da yasal asgari ücret var, bu yüzden basit bir iş bile düzgün ödüyor. Şu an saatte 13,90 €, Ocak 2027'de 14,60 €'ya çıkıyor.
+
+### Ofis ve kurumsal
+
+Şirketlerde çalışan öğrenci (Werkstudent) işleri. CV'n ve mezuniyet sonrası kariyerin için harika.
+
+### Konaklama ve perakende
+
+Restoranlar, kafeler, mağazalar. Para kazanmanın en hızlı yolu ve Almanca öğrenmene çok yardımcı olur.
+
+### Farklı çalışma süresi kurallarını ayırt et
+
+-   AB dışından gelen öğrenciler için göçmenlik kuralı: ek izin olmadan yılda 140 tam gün veya 280 yarım gün çalışabilirsin. Geçerli ayrıntılı kural oturum izninde yazar.
+-   Werkstudent kuralı: dönem içinde haftada en fazla 20 saat çalışırsan öğrenimin ana faaliyet sayılır ve sosyal sigortadaki öğrenci çalışan ayrıcalıklarını korursun. Dönem tatillerinde, akşam veya hafta sonu çalışırken 26 hafta kuralına göre daha fazla saat mümkün olabilir.
+-   Öğrenci sağlık sigortası: öğrenimin açıkça ana faaliyetin olduğu sürece öğrenci tarifesi geçerlidir. Düzenli olarak haftada 20 saatten fazla çalışıyorsan çalışan sigortasına geçip geçmediğini sigortacına sor.
+
+## Ofis ve kurumsal işler
+
+1.  CV'n Alman formatında olmalı. Düzeni [örnek CV](https://germandex.com/tr/job/resume)'den kopyala.
+2.  Çalışan öğrenci pozisyonlarında sayı her şeyden önemli. Mükemmel işi bekleme.
+3.  İşleri LinkedIn'de, StepStone'da, nerede olursa bul. Ama her zaman doğrudan şirketin kendi kariyer sitesinden başvur.
+4.  "Additional Documents" bölümüne her zaman bir başvuru dosyası ekle.
+
+### Başvuru dosyan
+
+### 1\. Öğrenci belgesi
+
+Immatrikulationsbescheinigung. Üniversitenin online portalından indir.
+
+### 2\. Lisans toplu not dökümü
+
+Tüm lisans notların tek bir belgede.
+
+### 3\. Arbeitszeugnis
+
+Önceki bir işverenden referans mektubu.
+
+### Referans mektubu Alman formatında olmalı
+
+Memleketindeki tarzda yazılmış bir tavsiye mektubu iyi karşılanmaz. Eski işvereninden Alman formatında bir Arbeitszeugnis iste. İngilizce yazılabilir: şirket antetli kağıdında, imzalı ve şirket kaşeli.
+
+Alman referans mektupları sabit değerlendirme ifadeleri kullanır. İşe alımcılar bunları not gibi okur, bu yüzden mektupta şu dil kullanılmalı:
+
+Çok iyi (sehr gut)
+
+"always to our fullest satisfaction" (stets zu unserer vollsten Zufriedenheit)
+
+İyi (gut)
+
+"always to our full satisfaction" (stets zu unserer vollen Zufriedenheit)
+
+Performans ve davranış bölümlerinde "çok iyi" ifadelerini hedefle. İngilizce tam bir örnek için [örnek Arbeitszeugnis](https://germandex.com/tr/job/reference)'e bak.
+
+## Konaklama ve perakende işleri
+
+Bu işleri Indeed, Zenjob ve benzeri platformlarda bulabilirsin. Ama en iyi yol, doğrudan restoranlara ve otellere girip yarı zamanlı eleman arayıp aramadıklarını sormak.
+
+1.  Her gün şehirden bir bölge seç.
+2.  Önce bir AVM'nin yemek katını dene. Sonra merkezden uzak semtler daha iyi: daha az öğrenci başvuruyor.
+3.  Her restorana ve otele gir, Almanca olarak iş iste.
+4.  Akıcı konuşup konuşmaman önemli değil, önemli olan deneyebildiğini göstermek.
+
+---
+
+Source: https://germandex.com/tr/job
+
+Language: tr
+
+
+# Örnek CV
+
+Uluslararası başvurular için kariyerinin başındaki bir yazılım geliştiricinin kurgusal CV'si. İlgili deneyimi öne çıkar, her kaydı kısa tut ve becerilerin kolayca taranabilsin. En güçlü kanıtın eğitiminse sıralamayı değiştir.
+
+Alex Morgan
+
+Yazılım geliştirici
+
+Berlin, Almanya · alex.morgan@example.com  
++49 \[telefon numarası\] · github.com/\[kullanıcı adı\] · linkedin.com/in/\[kullanıcı adı\]
+
+### Profil
+
+Backend hizmetleri ve web uygulamaları geliştirme deneyimi olan yazılım geliştirici. Bilgisayar bilimleri yüksek lisansını tamamlamakta. Ürün mühendisliği ekibinde öğrenci çalışan pozisyonu arıyor.
+
+### Deneyim
+
+Nis 2026 - Günümüz
+
+Öğrenci çalışan, backend geliştirme
+
+Nordwerk Logistics · Berlin, Almanya
+
+-   Python ve FastAPI ile gönderi takip API'leri geliştirdi; performans testlerinde medyan yanıt süresini %40 azalttı.
+-   Otomatik testler ve GitHub Actions ile Docker tabanlı bir yayın süreci ekledi.
+
+Haz 2024 - Ağu 2025
+
+Junior yazılım geliştirici
+
+Brightpath · Rotterdam, Hollanda
+
+-   Farklı uzmanlıklardan oluşan bir ekiple Java ve Spring Boot kullanarak ödeme hizmeti özellikleri geliştirdi.
+-   Birim testi kapsamını %45'ten %80'e yükseltti ve yeni katkı sağlayanlar için inceleme kontrollerini belgeledi.
+
+### Eğitim
+
+Eki 2025 - Günümüz
+
+Bilgisayar Bilimleri Yüksek Lisansı (MSc)
+
+\[Üniversite adı\] · Berlin, Almanya
+
+Odak: dağıtık sistemler ve yazılım mühendisliği.
+
+Eyl 2021 - Haz 2024
+
+Bilgisayar Bilimleri Lisansı (BSc)
+
+\[Üniversite adı\] · \[Şehir, ülke\]
+
+### Seçilmiş proje
+
+Study Space · Kampüs oda bulucu
+
+Öğrencilerin uygun çalışma odalarını bulması için PostgreSQL destekli API kullanan React ve TypeScript uygulaması geliştirdi. Erişilebilir klavye gezintisi ve otomatik testler ekledi.
+
+github.com/\[username\]/study-space
+
+### Teknik beceriler
+
+**Diller:** Python, Java, TypeScript, SQL  
+**Çatılar:** FastAPI, Spring Boot, React  
+**Araçlar:** Git, Docker, GitHub Actions, PostgreSQL
+
+### Diller
+
+İngilizce: C1 · Almanca: A2 · \[Diğer dil\]: \[seviye\]
+
+Bu CV'deki her şey uydurmadır. Kendi bilgilerinle değiştir.
+
+İsimler, işverenler, yerler ve sonuçlar örnektir, gerçek yeterlilikler değildir. Her örneği doğru bilgilerle değiştir. Şehir ve ülke yeterlidir; tam adresi yalnızca gerekirse ekle. Fotoğraf, doğum tarihi, medeni durum, beyan veya imza içermez.
+
+---
+
+Source: https://germandex.com/tr/job/resume
+
+Language: tr
+
+
+# Örnek Arbeitszeugnis
+
+İngilizce yazılmış örnek bir Arbeitszeugnis (iş referansı). Başvurun için İngilizce yeterli. Almanya'da işe yaramasını sağlayan şey format: şirket antetli kağıdı, imza, şirket kaşesi ve işe alımcıların aradığı sabit değerlendirme ifadeleri. Kişi ve şirket uydurmadır.
+
+Brightpath Fintech Pvt. Ltd.
+
+\[Company address\]  ·  \[Phone\]  ·  \[Website\]
+
+\[City\], 31 August 20XX
+
+### Employment Reference
+
+Mr. Arjun Rao, born on \[date\] in \[city\], worked for our company as a Software Developer from 1 July 20XX to 31 August 20XX.
+
+Brightpath Fintech builds digital payment products for banks and retailers, with about 150 employees.
+
+Mr. Rao's main tasks were:
+
+-   Developing backend services for our payment platform in Java and Spring Boot
+-   Building and maintaining the mobile payment flow
+-   Writing unit tests and reviewing code from other developers
+-   Planning sprints together with the product and design teams
+
+Mr. Rao has very good, well-founded technical knowledge, which he always applied with great success in his daily work. He learned new technologies very quickly and always worked independently, carefully and to a very high standard.
+
+He always completed the tasks given to him to our fullest satisfaction.
+
+His behavior towards managers, colleagues and customers was always exemplary. He was a valued team member at all times.
+
+Mr. Rao is leaving our company at his own request to start a master's degree in Germany. We very much regret his departure, thank him for his always excellent work, and wish him continued success and all the best for his future, both professionally and personally.
+
+\[Signature\]  
+\[Name\], Head of Engineering  
+\[Company stamp\]
+
+Değerlendirme cümlesi
+
+"Always to our fullest satisfaction" nottur: "fullest" + "always" = çok iyi (sehr gut); "full" + "always" = iyi (gut).
+
+Davranış cümlesi
+
+Yöneticilere, iş arkadaşlarına ve müşterilere karşı "always exemplary" davranış = çok iyi.
+
+Kapanış
+
+Ayrılıştan duyulan üzüntü, teşekkür ve iyi dilekler çok iyi bir referansın işaretidir. Kapanışın olmaması kötü bir işaret olarak okunur.
+
+---
+
+Source: https://germandex.com/tr/job/reference
+
+Language: tr
+
+
+# Aachen - Süpermarketler
+
+Zincirleri tanımak ve nasıl seçeceğini öğrenmek için [Almanya süpermarket rehberimizi](https://germandex.com/tr/germany/groceries) oku. Yerel uluslararası marketler aşağıda.
+
+## Asya ve uluslararası marketler
+
+Baharat, pirinç, bakliyat ve memleketten her şey için: Aachen'de çoğu Jülicher Straße ve Hansemannplatz civarında birkaç Asya ve uluslararası market var.
+
+### New Sherona Supermarket
+
+Heinrichsallee 30, Kaiserplatz yakını. Hint, Pakistan ve Afrika ürünleri: baharat, pirinç, mercimek, dondurulmuş gıda ve taze sebze-meyve. Her gün açık.
+
+### Nagammaal Markt
+
+Jülicher Str. 4, Hansemannplatz yakını. Uzun yıllardır açık bir Hint ve Asya marketi. Pazartesi-cumartesi 10:00-22:00 açık.
+
+### [Asian aiX Bazaar](https://www.aix-bazaar.de/)
+
+Jülicher Str. 20. Güney Asya ve Afrika ürünleri, taze sebze-meyve, helal balık ve balık temizleme hizmeti.
+
+---
+
+Source: https://germandex.com/tr/aachen/groceries
+
+Language: tr
+
+
+# Berlin - Resmi işler
+
+İlk haftanız için üniversite kurulumu
+
+Bu tam bir varış kontrol listesi değildir. Adres kaydı, sağlık sigortası durumu ve gerektiğinde ikamet izni ayrı işlerdir.
+
+### 1\. İlk öğle yemeğinden önce MensaCard'ına para yükle
+
+Berlin Mensaları (Studierendenwerk Berlin işletiyor) sadece MensaCard ya da üniversitenin CampusCard'ını kabul ediyor. Nakit ve banka kartı yok.
+
+MensaCard'ın yoksa [Mensa](https://www.stw.berlin/mensen/faq-mensen/mensacard.html) kasalarından alıp makinelerde yükle; öğrenci kimliğini veya CampusCard'ını götür.
+
+### 2\. [FU](https://www.fu-berlin.de/studium/studieren/studienorganisation/semesterticket/Deutschlandsemesterticket/Wie-erhalte-ich-Ticket.html) Berlin öğrencileri: Deutschlandsemesterticket'ini etkinleştir
+
+FU Berlin'de bilet yalnızca S-Bahn Berlin uygulamasında bulunur. Her dönem adımları tekrarla. Diğer üniversiteler talimatlarını üniversite e-postana gönderir.
+
+Bilet S-Bahn uygulamasında yoksa kaydını ve kayıt yenilemeni kontrol edip AStA FU'ya başvur. Adımlar her dönem tekrarlanır.
+
+-   Deutschlandsemester bileti, ICE/IC/EC'yi değil, ikinci sınıfta yerel ve bölgesel taşımacılığı kapsar. Ücretsiz biletle değil, dönem ücretiyle finanse edilir.
+-   Geçerli bir bilet olmadan uçağa binmeyin. Dönem biletiniz hazır değilse öncelikle geçerli başka bir bilet satın alın.
+
+## Üniversite kurulumundan daha fazlası
+
+### Berlin adresini kaydettir
+
+Adres kaydı: [Belediye adres kayıt dairesi (Anmeldung)](https://service.berlin.de/dienstleistung/120686/), taşındıktan sonra iki hafta içinde. İkamet izinleri: [Yabancılar dairesi](https://www.berlin.de/einwanderung/en/residence/study/). Belgeler, sağlık sigortası, ikamet durumu ve resmi mektuplar: [Almanya geneli resmi işler rehberi](https://germandex.com/tr/germany/admin).
+
+Kayıt için iki yol var: eID işlevi etkin bir Alman kimlik kartınız veya AB eID kartınız ve PIN'iniz varsa [BundID üzerinden tamamen çevrimiçi](https://service.berlin.de/dienstleistung/120686/), ya da randevuyla bir Bürgeramt'ta şahsen. [Şehir geneli arama](https://service.berlin.de/terminvereinbarung/hinweise/) ile randevu alın - yalnızca kendi semtinizdeki değil, tüm Bürgeramt'ları kapsar. Ofisler genellikle sabah erken saatlerde yeni randevular yükler, her gün açılış saatinde yeni bir rezervasyon günü açılır ve iptal edilen randevular tekrar görünür - düzenli olarak kontrol edin.
+
+---
+
+Source: https://germandex.com/tr/berlin/admin
+
+Language: tr
+
+
+# Berlin - Spor
+
+Her büyük üniversitenin kendi Hochschulsport'u var: [f=](https://www.tu-sport.de/)"https://www.hochschulsport.hu-berlin.de/de/angebot/sportangebot" target="\_blank" rel="noopener">ref="https://www.fu-sport.de/" target="\_blank" rel="noopener">FU, HU ve TU.
+
+Üniversitenin spor sitesinden yüzlerce kursa kayıt olabilirsin. Uygun öğrenciler için indirim vardır; koşulları ve fiyatları kontrol et. Popüler kurslar için kayıt tarihlerini takip edip erken kayıt ol.
+
+## Ücretsiz seçenekler
+
+-   Tempelhofer Feld: eski havalimanı, şimdi koşu, bisiklet ve paten için dev bir açık alan.
+-   Koşu ve arkadaşlarla top oynamak için Tiergarten ve Volkspark Friedrichshain.
+
+---
+
+Source: https://germandex.com/tr/berlin/sports
+
+Language: tr
+
+
+# Berlin - Restoranlar
+
+## Önerilenler
+
+### [Mustafa's](https://mustafas.de/) Gemüse Kebap
+
+Berlin'in en ünlü sebze kebabı, Mehringdamm, Kreuzberg. Sıra beklemeye hazır ol.
+
+### [Monsieur Vuong](https://www.monsieurvuong.de/)
+
+Aile işletmesi Vietnam mutfağı, Alte Schönhauser Str. 46, Mitte.
+
+### [Konnopke's](https://www.konnopke-imbiss.de/) Imbiss
+
+1930'dan beri Currywurst, Schönhauser Allee'de U-Bahn raylarının altında.
+
+### Vejetaryen misin? En iyi seçeneklerin bunlar
+
+Mustafa's klasik vejetaryen tercih. Çoğu Vietnam restoranında tofulu yemekler var.
+
+## Ucuz ve hızlı
+
+### [Curry 36](https://curry36.de/mehringdamm/)
+
+Mehringdamm 36, Kreuzberg'de Currywurst. Her gün sabah 5'e kadar açık.
+
+### Burgermeister
+
+Schlesisches Tor'da U-Bahn altındaki eski bir umumi tuvalette burger (Oberbaumstraße 8).
+
+---
+
+Source: https://germandex.com/tr/berlin/restaurants
+
+Language: tr
+
+
+# Berlin - Parti
+
+### [Simon-Dach-Straße](https://www.visitberlin.de/en/going-out-simon-dach-strasse)
+
+Berlin'in en bilinen bar sokaklarından biri, Friedrichshain'da. Geceye başlamak için ideal.
+
+### RAW-Gelände
+
+Revaler Straße'de eski bir tren deposu, Cassiopeia gibi kulüplerle (hip-hop, konserler).
+
+### [Matrix](https://www.matrix-berlin.de/)
+
+Warschauer Brücke'de büyük, ana akım bir kulüp. Her gece parti, gece yarısından önce öğrencilere 5 €.
+
+### Weserstraße
+
+Neukölln'ün bar sokağı. Ucuz içki, bol seçenek.
+
+## Bilmekte fayda var
+
+-   Berlin kulüplerinin kapı görevlileri serttir ve içeride fotoğraf çekmek çoğu zaman yasaktır. Küçük gruplarla git, geri çevrilirsen kişisel alma.
+-   [Öğrenci partileri](https://www.studentenparty-berlin.de/) studentenparty-berlin.de'de listeleniyor.
+
+---
+
+Source: https://germandex.com/tr/berlin/party
+
+Language: tr
+
+
+# Berlin - Süpermarketler
+
+Zincirleri tanımak ve nasıl seçeceğini öğrenmek için [Almanya süpermarket rehberimizi](https://germandex.com/tr/germany/groceries) oku. Yerel uluslararası marketler aşağıda.
+
+## Asya ve uluslararası marketler
+
+### [Zora](https://zorastore.eu/de/pages/zora-kreuzberg) Supermarkt
+
+Kottbusser Damm 93, Kreuzberg. Hint, Asya, Afrika ve Latin Amerika ürünleri. Mitte'de de bir mağazası var.
+
+### [Vinh-Loi](https://www.vinhloi.de/stores)
+
+Asya süpermarketi, Ansbacher Str. 16, Schöneberg. Şehirde başka şubeleri de var.
+
+### Dong Xuan Center
+
+Herzbergstraße, Lichtenberg. Berlin'in en büyük Asya pazarı: altı salonda market, restoran ve daha fazlası.
+
+---
+
+Source: https://germandex.com/tr/berlin/groceries
+
+Language: tr
+
+
+# Bochum - Resmi işler
+
+İlk haftanız için üniversite kurulumu
+
+Bu tam bir varış kontrol listesi değildir. Adres kaydı, sağlık sigortası durumu ve gerektiğinde ikamet izni ayrı işlerdir.
+
+### 1\. [RUB](https://www.it-services.ruhr-uni-bochum.de/services/sl/semesterticket.html.de) öğrencileri: Mensa'da çipli kartınla öde
+
+Akafö Mensaları öğrenci kartını (çipli) ya da bir MensaCard'ı kabul ediyor. İlk öğle yemeğinden önce para yükle.
+
+Çip kasada çalışmazsa Akafö personeline yedek MensaCard sor.
+
+### 2\. RUB öğrencileri: Deutschland-Semesterticket'ini etkinleştir
+
+Ruhr-Universität adımları BT hizmetleri sayfasında anlatıyor. Almanya'daki tüm yerel ve bölgesel otobüs ve trenleri kapsar, yani Dortmund ve Essen bir adım ötede.
+
+Bilet yoksa kaydını ve dönem ücreti ödemeni kontrol et; RUB bilişim hizmetlerinin adımlarını izle veya AStA'ya başvur.
+
+-   Deutschlandsemester bileti, ICE/IC/EC'yi değil, ikinci sınıfta yerel ve bölgesel taşımacılığı kapsar. Ücretsiz biletle değil, dönem ücretiyle finanse edilir.
+-   Geçerli bir bilet olmadan uçağa binmeyin. Dönem biletiniz hazır değilse öncelikle geçerli başka bir bilet satın alın.
+
+## Üniversite kurulumundan daha fazlası
+
+### Bochum adresini kaydettir
+
+Adres kaydı: [Belediye adres kayıt dairesi (Anmeldung)](https://www.bochum.de/Buergerbuero/Dienstleistungen-und-Infos/Anmeldung-in-Bochum), taşındıktan sonra iki hafta içinde. İkamet izinleri: [Yabancılar dairesi](https://www.bochum.de/Auslaenderbuero). Belgeler, sağlık sigortası, ikamet durumu ve resmi mektuplar: [Almanya geneli resmi işler rehberi](https://germandex.com/tr/germany/admin).
+
+Ana ikametinizi tamamen [çevrimiçi](https://www.bochum.de/Buergerbuero/Dienstleistungen-und-Infos/Anmeldung-in-Bochum) (wohnsitzanmeldung.gov.de üzerinden) ya da randevuyla bir Bürgerbüro'da şahsen kaydedebilirsiniz. Randevular iki haftalık sürenizi aşıyorsa, randevu almak süresinde kayıt yerine geçer - onayı yanınızda götürün.
+
+---
+
+Source: https://germandex.com/tr/bochum/admin
+
+Language: tr
+
+
+# Bochum - Spor
+
+[Hochschulsport Bochum](https://buchung.hochschulsport.ruhr-uni-bochum.de/angebote/aktueller_zeitraum/)'u [Ruhr-Universität](https://hochschulsport-bochum.ruhr-uni-bochum.de/de/faqs-oft-gestellte-fragen) yürütüyor.
+
+Katılmadan önce her kursa internetten kayıt ol. Uygun öğrenciler için genellikle daha ucuzdur; koşulları ve güncel fiyatları kontrol et.
+
+## Ücretsiz seçenekler
+
+-   Kampüsün yanındaki göl Kemnader See. Her cumartesi sabahı ücretsiz 5 km parkrun var.
+
+---
+
+Source: https://germandex.com/tr/bochum/sports
+
+Language: tr
+
+
+# Bochum - Restoranlar
+
+## Önerilenler
+
+### Mandragora
+
+Bermuda3Eck'in ilk pub-restoranı.
+
+### [Café Tucholsky](https://cafe-tucholsky.de/)
+
+Kahvaltı ve öğle yemeği için kafe-restoran, hafta içi sabah 7'den itibaren açık.
+
+### Bermuda Döner
+
+Bermuda3Eck'te döner, vegan seçeneklerle.
+
+### Vejetaryen misin? En iyi seçeneklerin bunlar
+
+Bermuda Döner'de vegan döner var.
+
+---
+
+Source: https://germandex.com/tr/bochum/restaurants
+
+Language: tr
+
+
+# Bochum - Parti
+
+### [Bermuda3Eck](https://www.bermuda3eck.de/)
+
+Bochum'un bar bölgesi, NRW'nin en yoğun pub bölgesi. Geceye burada başla.
+
+### [Zeche](https://zeche.net/) Bochum
+
+Temalı partileri olan büyük kulüp ve konser mekanı.
+
+---
+
+Source: https://germandex.com/tr/bochum/party
+
+Language: tr
+
+
+# Bochum - Süpermarketler
+
+Zincirleri tanımak ve nasıl seçeceğini öğrenmek için [Almanya süpermarket rehberimizi](https://germandex.com/tr/germany/groceries) oku. Yerel uluslararası marketler aşağıda.
+
+## Asya ve uluslararası marketler
+
+### Kashmir Bazar
+
+Brückstraße 40, şehir merkezi. Hint ve Orta Doğu ürünleri.
+
+### [Tains](https://www.mein-asiamarkt.de/Filialen/Bochum/) Asia Supermarkt
+
+Herner Straße. Asya ürünleri.
+
+---
+
+Source: https://germandex.com/tr/bochum/groceries
+
+Language: tr
+
+
+# Dortmund - Resmi işler
+
+İlk haftanız için üniversite kurulumu
+
+Bu tam bir varış kontrol listesi değildir. Adres kaydı, sağlık sigortası durumu ve gerektiğinde ikamet izni ayrı işlerdir.
+
+### 1\. Mensa'da kart ya da telefonla öde
+
+Banka kartın ya da telefonunla temassız öde.
+
+Temassız ödeme olmadıysa başka kasayı dene veya Studierendenwerk personeline sor.
+
+### 2\. [TU Dortmund](https://www.tu-dortmund.de/semesterticket/) öğrencileri: Deutschlandsemesterticket'ini al
+
+TU Dortmund bunu AStA ile birlikte veriyor. Almanya'daki tüm yerel ve bölgesel otobüs ve trenleri kapsar.
+
+Bilet verilmezse kaydını ve dönem ücretini kontrol edip AStA'ya veya öğrenci hizmetlerine başvur.
+
+-   Deutschlandsemester bileti, ICE/IC/EC'yi değil, ikinci sınıfta yerel ve bölgesel taşımacılığı kapsar. Ücretsiz biletle değil, dönem ücretiyle finanse edilir.
+-   Geçerli bir bilet olmadan uçağa binmeyin. Dönem biletiniz hazır değilse öncelikle geçerli başka bir bilet satın alın.
+
+## Üniversite kurulumundan daha fazlası
+
+### Dortmund adresini kaydettir
+
+Adres kaydı: [Belediye adres kayıt dairesi (Anmeldung)](https://www.dortmund.de/services/wohnsitzanmeldung.html), taşındıktan sonra iki hafta içinde. İkamet izinleri: [Yabancılar dairesi](https://application.dortmund.de/rathaus-und-verwaltung/verwaltung/amt-fuer-migration/kontakt/). Belgeler, sağlık sigortası, ikamet durumu ve resmi mektuplar: [Almanya geneli resmi işler rehberi](https://germandex.com/tr/germany/admin).
+
+Tamamen [çevrimiçi](https://www.dortmund.de/services/wohnsitzanmeldung.html) (kimlik kartınızın eID işlevi ve ücretsiz bir BundID hesabı ile) ya da randevuyla şahsen kayıt olabilirsiniz.
+
+---
+
+Source: https://germandex.com/tr/dortmund/admin
+
+Language: tr
+
+
+# Dortmund - Spor
+
+[Hochschulsport Dortmund](https://hsp.tu-dortmund.de/sportangebot/)'u TU Dortmund yürütüyor.
+
+Önce [Sportkarte](https://www.buchsys.ahs.tu-dortmund.de/angebote/aktueller_zeitraum/_SPORTKARTE.html) al, sonra kurslara internetten kayıt ol. Almadan önce güncel fiyatı ve uygunluğunu kontrol et.
+
+## Ücretsiz seçenekler
+
+-   Phoenix-See: göl çevresinde düz ve geniş yollar.
+
+---
+
+Source: https://germandex.com/tr/dortmund/sports
+
+Language: tr
+
+
+# Dortmund - Restoranlar
+
+## Önerilenler
+
+### Mo's Beef
+
+Burger, Lortzingstraße 28.
+
+### [Al Afandi](https://www.al-afandi-dortmund.de/)
+
+Şehir merkezinde Arap mutfağı, Ostenhellweg 40.
+
+### [Little Italy](https://www.little-italy-dortmund.de/)
+
+Hansastraße 44'te İtalyan. Çoğu yemek 10 € ya da daha ucuz.
+
+## Ucuz ve hızlı
+
+### [Wurst Willi](https://www.wurstwilli.com/)
+
+Petrikirchhof'ta Currywurst. Pazartesiden cumartesiye.
+
+---
+
+Source: https://germandex.com/tr/dortmund/restaurants
+
+Language: tr
+
+
+# Dortmund - Parti
+
+### Kreuzviertel
+
+Öğrenci pub bölgesi. Geceye burada başla.
+
+### Kraftstoff
+
+Unionviertel'de pub, Augustastraße 2. Her gün 19:00'dan itibaren açık.
+
+### [FZW](https://fzw.de/)
+
+Düzenli 90'lar ve 2000'ler partileri olan kulüp ve konser mekanı.
+
+---
+
+Source: https://germandex.com/tr/dortmund/party
+
+Language: tr
+
+
+# Dortmund - Süpermarketler
+
+Zincirleri tanımak ve nasıl seçeceğini öğrenmek için [Almanya süpermarket rehberimizi](https://germandex.com/tr/germany/groceries) oku. Yerel uluslararası marketler aşağıda.
+
+## Asya ve uluslararası marketler
+
+### [Inaivaa](https://www.inaivaa.com/visit-store)
+
+Rheinische Str. 79. Hint ve Sri Lanka ürünleri.
+
+### [Tain Kim Heng](https://tkh-supermarkt.de/)
+
+Hohe Straße 62. Asya süpermarketi.
+
+---
+
+Source: https://germandex.com/tr/dortmund/groceries
+
+Language: tr
+
+
+# Düsseldorf - Resmi işler
+
+İlk haftanız için üniversite kurulumu
+
+Bu tam bir varış kontrol listesi değildir. Adres kaydı, sağlık sigortası durumu ve gerektiğinde ikamet izni ayrı işlerdir.
+
+### 1\. HHU öğrencileri: [HHU Card](https://www.hhu.de/studium/bewerbung-und-einschreibung/hhu-card)'ını al
+
+Heinrich Heine Üniversitesi'nde HHU Card aynı anda öğrenci kartın, Mensa kartın, kütüphane kartın ve Deutschlandticket'in. Almanya'daki tüm yerel ve bölgesel otobüs ve trenleri kapsar.
+
+HHU Card gelmezse HHU portalındaki posta adresini kontrol edip öğrenci hizmetlerine başvur; üniversite kimliğinle iki adımda etkinleşir.
+
+### 2\. Diğer Düsseldorf üniversitelerinin öğrencileri: MensaCard al
+
+Diğer üniversitelerin öğrencileri Mensa'da Studierendenwerk MensaCard'ı (2,50 €) ile öder ve TopUp uygulamasıyla para yükler.
+
+TopUp çalışmazsa Mensa kasasına diğer yükleme seçeneklerini sor.
+
+-   Deutschlandsemester bileti, ICE/IC/EC'yi değil, ikinci sınıfta yerel ve bölgesel taşımacılığı kapsar. Ücretsiz biletle değil, dönem ücretiyle finanse edilir.
+-   Geçerli bir bilet olmadan uçağa binmeyin. Dönem biletiniz hazır değilse öncelikle geçerli başka bir bilet satın alın.
+
+## Üniversite kurulumundan daha fazlası
+
+### Düsseldorf adresini kaydettir
+
+Adres kaydı: [Belediye adres kayıt dairesi (Anmeldung)](https://service.duesseldorf.de/suche/-/egov-bis-detail/dienstleistung/227/show), taşındıktan sonra iki hafta içinde. İkamet izinleri: [Yabancılar dairesi](https://www.duesseldorf.de/auslaenderamt). Belgeler, sağlık sigortası, ikamet durumu ve resmi mektuplar: [Almanya geneli resmi işler rehberi](https://germandex.com/tr/germany/admin).
+
+Kayıt için iki yol: tamamen [çevrimiçi](https://service.duesseldorf.de/suche/-/egov-bis-detail/dienstleistung/227/show) (eID işlevi etkin kimlik kartı veya AB eID kartı ve PIN'i; kartınız dijital olarak güncellenir) ya da bir Bürgerbüro'da şahsen - randevu gerekli.
+
+---
+
+Source: https://germandex.com/tr/duesseldorf/admin
+
+Language: tr
+
+
+# Düsseldorf - Spor
+
+[Hochschulsport Düsseldorf](https://hss-d.de/), Düsseldorf üniversitelerinin sporunu yürütüyor.
+
+[Hesap oluşturduktan](https://hss-d.de/allgemeines-organisatorisches/teilnahme-kosten-bankverbindung/) sonra internetten kayıt olunan, uygun öğrenciler için indirimli kurslar. Koşulları ve fiyatları kontrol et; popüler kurslar hızla dolar.
+
+## Ücretsiz seçenekler
+
+-   Ren kıyısı yürüyüş yolunda koş.
+-   HHU kampüsünün yanındaki Südpark ve şehir merkezindeki Hofgarten.
+
+---
+
+Source: https://germandex.com/tr/duesseldorf/sports
+
+Language: tr
+
+
+# Düsseldorf - Restoranlar
+
+## Önerilenler
+
+### [Marukin Karaage](https://www.marukin-karaage-duesseldorf.de/)
+
+Immermannstraße çevresindeki Japon mahallesinde Japon usulü kızarmış tavuk.
+
+### [Bibimcup](https://www.bibimcup.de/)
+
+Kore usulü bibimbap, Friedrich-Ebert-Straße 3. Salıdan cumartesiye.
+
+### [Sattgrün](https://sattgruen.de/)
+
+Vegan açık büfe, Medienhafen'de (Brückenstr. 12) ve Flingern'de (Hoffeldstr. 18).
+
+### Vejetaryen misin? En iyi seçeneklerin bunlar
+
+Sattgrün tamamen vegan, Bibimcup'ta vejetaryen kaseler var.
+
+---
+
+Source: https://germandex.com/tr/duesseldorf/restaurants
+
+Language: tr
+
+
+# Düsseldorf - Parti
+
+### Altstadt
+
+"Dünyanın en uzun barı": eski şehirde yüzlerce pub. Bir Altbier iç, mesela [Uerige](https://uerige.de/)'de.
+
+### Die Blende
+
+Bilk'te rock pub, Friedrichstr. 122.
+
+### [Ampere](https://ampere-club.de/programm/)
+
+Konser ve partiler için yeni kulüp.
+
+### [The Eight](https://the-eight.de/)
+
+Ren kıyısında, ekimdeki büyük Ersti (yeni öğrenci) partileriyle bilinen kulüp.
+
+---
+
+Source: https://germandex.com/tr/duesseldorf/party
+
+Language: tr
+
+
+# Düsseldorf - Süpermarketler
+
+Zincirleri tanımak ve nasıl seçeceğini öğrenmek için [Almanya süpermarket rehberimizi](https://germandex.com/tr/germany/groceries) oku. Yerel uluslararası marketler aşağıda.
+
+## Asya ve uluslararası marketler
+
+### [Dae-Yang](https://www.visitduesseldorf.de/en/attractions/dae-yang-da-yang-shi-pin-a2bfd01c49)
+
+Immermannstraße 21. Japon, Kore ve diğer Asya ürünleri.
+
+### Indo-Ceylon
+
+Worringer Platz'ta. Hint ve Sri Lanka ürünleri.
+
+---
+
+Source: https://germandex.com/tr/duesseldorf/groceries
+
+Language: tr
+
+
+# Frankfurt - Resmi işler
+
+İlk haftanız için üniversite kurulumu
+
+Bu tam bir varış kontrol listesi değildir. Adres kaydı, sağlık sigortası durumu ve gerektiğinde ikamet izni ayrı işlerdir.
+
+### 1\. Mensa'da üniversite kartınla öde
+
+Studierendenwerk Frankfurt Mensaları üniversite kartını ya da bir MensaCard'ı kabul ediyor.
+
+Kartta bakiye yoksa Mensa kasasına yükleme seçeneklerini veya MensaCard'ı sor.
+
+### 2\. Goethe Üniversitesi öğrencileri: Deutschlandsemesterticket'ini al
+
+Goethe Üniversitesi'nde bu, [AStA'nın online portalından](https://asta-frankfurt.de/angebote/kultur-mobilitaet/semesterticket) aldığın dijital bir bilet. Almanya'daki tüm yerel ve bölgesel otobüs ve trenleri kapsar.
+
+Dijital bilet yoksa kayıt yenilemeni (Rückmeldung) ve dönem ücretini kontrol et - bilet bu ücretle ödenir - sonra AStA bilet desteğine başvur.
+
+-   Deutschlandsemester bileti, ICE/IC/EC'yi değil, ikinci sınıfta yerel ve bölgesel taşımacılığı kapsar. Ücretsiz biletle değil, dönem ücretiyle finanse edilir.
+-   Geçerli bir bilet olmadan uçağa binmeyin. Dönem biletiniz hazır değilse öncelikle geçerli başka bir bilet satın alın.
+
+### 3\. Frankfurt UAS öğrencileri için: Deutschlandsemesterticket'inizi etkinleştirin
+
+Frankfurt University of Applied Sciences'ta bilet, dönem ücretiyle ödenir ve yalnızca dijitaldir. Üniversite hesabınızla [AStA bilet portalında](https://asta-fra-uas.de/semesterticketbuero/) etkinleştirin, telefon cüzdanınızda saklayın ve fotoğraflı kimlik taşıyın. Her dönem yenilenir.
+
+Akıllı telefonunuz yok mu? Çipli kart işlemi için AStA dönem bileti ofisine sorun.
+
+## Üniversite kurulumundan daha fazlası
+
+### Frankfurt adresini kaydettir
+
+Adres kaydı: [Belediye adres kayıt dairesi (Anmeldung)](https://frankfurt.de/service-und-rathaus/verwaltung/aemter-und-institutionen/buergeramt-statistik-und-wahlen/buergeraemter/terminservice), taşındıktan sonra iki hafta içinde. İkamet izinleri: [Yabancılar dairesi](https://frankfurt.de/auslaenderangelegenheiten). Belgeler, sağlık sigortası, ikamet durumu ve resmi mektuplar: [Almanya geneli resmi işler rehberi](https://germandex.com/tr/germany/admin).
+
+Ana ikametinizi tamamen [çevrimiçi](https://frankfurt.de/service-und-rathaus/verwaltung/aemter-und-institutionen/buergeramt-statistik-und-wahlen/buergeraemter/terminservice) (wohnsitzanmeldung.gov.de üzerinden) ya da Frankfurt'ta nerede yaşarsanız yaşayın herhangi bir Bürgeramt'ta şahsen kaydedebilirsiniz - randevu gerekli.
+
+---
+
+Source: https://germandex.com/tr/frankfurt/admin
+
+Language: tr
+
+
+# Frankfurt - Spor
+
+Goethe Üniversitesi'nin [Zentrum für](https://www.uni-frankfurt.de/103154514/FAQ) [Hochschulsport](https://www.uni-frankfurt.de/hochschulsport)'u Frankfurt UAS öğrencilerine de açık.
+
+İnternetten kayıt olunan birçok kurs. Uygun öğrenciler için indirim vardır; koşulları ve fiyatları kontrol et. Kayıt tarihlerini takip edip erken kayıt ol.
+
+## Ücretsiz seçenekler
+
+-   Mainufer: şehir silüeti manzaralı, kilometrelerce nehir kenarı yolu.
+-   Westend kampüsünün yanındaki Grüneburgpark ve uzun koşular için Stadtwald.
+
+---
+
+Source: https://germandex.com/tr/frankfurt/sports
+
+Language: tr
+
+
+# Frankfurt - Restoranlar
+
+## Önerilenler
+
+### [Bun Bo](https://bun-bo-restaurant-frankfurt.eatbu.com/?lang=de)
+
+Vietnam erişteleri ve kaseleri, Ostend'de.
+
+### [Pizzeria Montana](https://www.montana-pizzeria.de/allergene-zusatzstoffe/)
+
+Napoli pizzası, Weserstraße 14.
+
+### [Apfelwein Wagner](https://www.apfelwein-wagner.com/)
+
+1931'den beri klasik elma şarabı tavernası, Schweizer Str. 71, Sachsenhausen. Grüne Soße'yi dene.
+
+### Vejetaryen misin? En iyi seçeneklerin bunlar
+
+Apfelwein Wagner'de patates ve yumurtalı Grüne Soße, ya da Montana'da margherita söyle.
+
+---
+
+Source: https://germandex.com/tr/frankfurt/restaurants
+
+Language: tr
+
+
+# Frankfurt - Parti
+
+### Alt-Sachsenhausen
+
+Zur Buchscheer gibi elma şarabı tavernalarının olduğu eski pub bölgesi.
+
+### [Gibson](https://gibson-club.de/)
+
+Zeil'de canlı sahnesi olan kulüp.
+
+### [Batschkapp](https://www.batschkapp.net/)
+
+Konserler ve partiler, Gwinnerstraße 5.
+
+### [Tanzhaus West](https://tanzhaus-west.de/)
+
+Eski bir fabrikada techno ve house.
+
+## Bilmekte fayda var
+
+-   Öğrenci barları için Bockenheim'a (eski üniversite semti), Nordend'e ve Bornheim'a git.
+
+---
+
+Source: https://germandex.com/tr/frankfurt/party
+
+Language: tr
+
+
+# Frankfurt - Süpermarketler
+
+Zincirleri tanımak ve nasıl seçeceğini öğrenmek için [Almanya süpermarket rehberimizi](https://germandex.com/tr/germany/groceries) oku. Yerel uluslararası marketler aşağıda.
+
+## Asya ve uluslararası marketler
+
+### [Indian Bazar](https://indianbazar.de/)
+
+Pfaffenwiese 58, Zeilsheim. Hint ürünleri.
+
+### [Riko](https://rikoasiasupermarkt.de/) Asia Supermarkt
+
+Heinrich-Hertz-Straße 5. Asya ürünleri, pazartesiden cumartesiye açık.
+
+---
+
+Source: https://germandex.com/tr/frankfurt/groceries
+
+Language: tr
+
+
+# Hamburg - Resmi işler
+
+İlk haftanız için üniversite kurulumu
+
+Bu tam bir varış kontrol listesi değildir. Adres kaydı, sağlık sigortası durumu ve gerektiğinde ikamet izni ayrı işlerdir.
+
+### 1\. [Mensa](https://www.stwhh.de/gastronomie/mensen-cafes-weiteres/mensa/mensa-studierendenhaus)'da kart ya da telefonla öde
+
+Studierendenwerk Hamburg Mensaları %100 nakitsiz. Banka ya da kredi kartıyla veya telefonla öde. Yükleme kartına gerek yok.
+
+Kartın reddedilirse başka kartını veya telefonunu dene; kasa personeli yardımcı olur.
+
+### 2\. [Deutschlandsemesterticket](https://www.hvv.de/de/service/fragen-und-antworten/semesterticket)'ını RIDE üzerinden al
+
+Üniversiten sana RIDE'a, yani kampüsün bilet portalına götüren bir QR kod verir. Almanya'daki tüm yerel ve bölgesel otobüs ve trenleri kapsar.
+
+QR kodu yoksa üniversite e-postanı ve duyuru panolarını kontrol edip AStA'ya veya öğrenci ofisine sor; hvv SSS, RIDE adımlarını açıklar.
+
+-   Deutschlandsemester bileti, ICE/IC/EC'yi değil, ikinci sınıfta yerel ve bölgesel taşımacılığı kapsar. Ücretsiz biletle değil, dönem ücretiyle finanse edilir.
+-   Geçerli bir bilet olmadan uçağa binmeyin. Dönem biletiniz hazır değilse öncelikle geçerli başka bir bilet satın alın.
+
+## Üniversite kurulumundan daha fazlası
+
+### Hamburg adresini kaydettir
+
+Adres kaydı: [Belediye adres kayıt dairesi (Anmeldung)](https://www.hamburg.de/service/info/111202484/), taşındıktan sonra iki hafta içinde. İkamet izinleri: [Yabancılar dairesi](https://welcome.hamburg.com/entry-and-residence/residence-permit/students-17520). Belgeler, sağlık sigortası, ikamet durumu ve resmi mektuplar: [Almanya geneli resmi işler rehberi](https://germandex.com/tr/germany/admin).
+
+Tamamen [çevrimiçi](https://www.hamburg.de/service/info/111202484/) ya da seçtiğiniz herhangi bir Kundenzentrum'da kayıt olabilirsiniz. Salı-Cuma günleri randevu gerekli; Pazartesi ve Çarşamba randevusuz gidebilirsiniz ama bekleme sürelerini göze alın.
+
+---
+
+Source: https://germandex.com/tr/hamburg/admin
+
+Language: tr
+
+
+# Hamburg - Spor
+
+[Hochschulsport Hamburg](https://www.hochschulsport.uni-hamburg.de/), Hamburg üniversitelerinin ortak spor programı.
+
+[İnternetten kayıt](https://buchung.hochschulsport-hamburg.de/angebote/aktueller_zeitraum/) olunan, uygun öğrenciler için indirimli kurslar. Koşulları ve fiyatları kontrol et. FlexiCard sabit kurs olmadan birçok seansa katılmanı sağlar.
+
+Dönem kursları sabit bir tarihte [çevrimiçi rezervasyona açılır](https://www.hochschulsport.uni-hamburg.de/sportcampus/buchsys.html) ve popüler kurslar hızla dolar - açılış günü kaydolun.
+
+## Ücretsiz seçenekler
+
+-   Außenalster gölünün etrafını dolaş, yaklaşık 7,5 km.
+-   Koşu ve arkadaşlarla oyun için Stadtpark, yaz akşamları için Övelgönne'deki Elbe plajı.
+
+---
+
+Source: https://germandex.com/tr/hamburg/sports
+
+Language: tr
+
+
+# Hamburg - Restoranlar
+
+## Önerilenler
+
+### [Badshah](https://badshahrestaurant.de/)
+
+2004'ten beri aile işletmesi Hint restoranı, ana garın yanında Bremer Reihe'de. Thalileriyle bilinir.
+
+### [Azeitona](https://azeitona.de/)
+
+Schanze'de falafel, humus ve meze, Beckstraße 19.
+
+### [Ibras Bistro](https://ibras-bistro-hamburg.de/)
+
+Hamburg'un en iyi falafellerinden, Holstenstr. 185, Altona.
+
+### Vejetaryen misin? En iyi seçeneklerin bunlar
+
+Azeitona ve Ibras en iyi vejetaryen seçeneklerin. Falafeli seç.
+
+## Ucuz ve hızlı
+
+### [Brücke 10](https://bruecke10.com/)
+
+Fischbrötchen (balık ekmek), Hamburg'un atıştırmalığı, tam Landungsbrücken'de.
+
+---
+
+Source: https://germandex.com/tr/hamburg/restaurants
+
+Language: tr
+
+
+# Hamburg - Parti
+
+### Reeperbahn ve St. Pauli
+
+Hamburg'un ünlü gece hayatı caddesi. Her gece barlar, kulüpler ve canlı müzik.
+
+### Hamburger Berg
+
+Reeperbahn'ın ucuz barlarla dolu yan sokağı.
+
+### Sternschanze
+
+Schulterblatt çevresinde barlar ve açık havada içki. Reeperbahn'dan daha sakin.
+
+### [Molotow](https://molotowclub.com/programm/programm.php)
+
+Reeperbahn 136'da indie kulübü. Konserler ve partiler.
+
+### [Uebel & Gefährlich](https://www.uebelundgefaehrlich.com/)
+
+Heiligengeistfeld'deki eski bir II. Dünya Savaşı bunkerında kulüp.
+
+## Bilmekte fayda var
+
+-   Hafta sonları Reeperbahn'da telefonuna ve cüzdanına dikkat et.
+
+---
+
+Source: https://germandex.com/tr/hamburg/party
+
+Language: tr
+
+
+# Hamburg - Süpermarketler
+
+Zincirleri tanımak ve nasıl seçeceğini öğrenmek için [Almanya süpermarket rehberimizi](https://germandex.com/tr/germany/groceries) oku. Yerel uluslararası marketler aşağıda.
+
+## Asya ve uluslararası marketler
+
+### [SAIRAS](https://www.sairas.de/)
+
+Steindamm 21, ana garın yanında. Hint ve İran ürünleri.
+
+### [Mehtab](https://mehtabstore.de/en/contact-us/)
+
+Lange Reihe 9, St. Georg. Hint ürünleri.
+
+### [LIARE Asia Markt](https://liare.de/)
+
+Eppendorfer Landstraße 70. Asya ürünleri.
+
+---
+
+Source: https://germandex.com/tr/hamburg/groceries
+
+Language: tr
+
+
+# Köln - Resmi işler
+
+İlk haftanız için üniversite kurulumu
+
+Bu tam bir varış kontrol listesi değildir. Adres kaydı, sağlık sigortası durumu ve gerektiğinde ikamet izni ayrı işlerdir.
+
+### 1\. Mensa'da kart ya da telefonla öde
+
+Eski Mensakarte artık yok. Banka kartın ya da telefonunla öde.
+
+Ödeme olmadıysa başka kasayı dene veya personele sor.
+
+### 2\. Köln Üniversitesi öğrencileri: dijital [Deutschlandsemesterticket](https://studsek.uni-koeln.de/studium_a_bis_z/data/semesterticket/index_ger.html)'ini al
+
+Köln Üniversitesi'nde dönem bileti sadece dijital (Nisan 2024'ten beri). Almanya'daki tüm yerel ve bölgesel otobüs ve trenleri kapsar. Üniversiten adımları anlatıyor.
+
+Ride'da QR yüklenmezse kaydını ve KLIPS hesabını kontrol edip AStA'ya başvur (KVB'nin bilet için sözleşme ortağı).
+
+-   Deutschlandsemester bileti, ICE/IC/EC'yi değil, ikinci sınıfta yerel ve bölgesel taşımacılığı kapsar. Ücretsiz biletle değil, dönem ücretiyle finanse edilir.
+-   Geçerli bir bilet olmadan uçağa binmeyin. Dönem biletiniz hazır değilse öncelikle geçerli başka bir bilet satın alın.
+
+## Üniversite kurulumundan daha fazlası
+
+### Köln adresini kaydettir
+
+Adres kaydı: [Belediye adres kayıt dairesi (Anmeldung)](https://www.stadt-koeln.de/service/produkte/00415/index.html), taşındıktan sonra iki hafta içinde. İkamet izinleri: [Yabancılar dairesi](https://www.stadt-koeln.de/service/produkt/aufenthaltserlaubnis-zu-studienzwecken-1). Belgeler, sağlık sigortası, ikamet durumu ve resmi mektuplar: [Almanya geneli resmi işler rehberi](https://germandex.com/tr/germany/admin).
+
+Tamamen [çevrimiçi](https://www.stadt-koeln.de/service/produkte/00415/index.html) (ofise gitmenize gerek yok; adres etiketi postayla gelir) ya da Köln'de eviniz nerede olursa olsun herhangi bir Kundenzentrum'da şahsen kayıt olabilirsiniz.
+
+---
+
+Source: https://germandex.com/tr/koeln/admin
+
+Language: tr
+
+
+# Köln - Spor
+
+[UniSport Köln](https://unisport.koeln/), Köln Üniversitesi'nin spor programı.
+
+Dönemlik [Sportticket](https://unisport.koeln/ueberblick/wie_kann_ich_teilnehmen/sportticket/index_ger.html) birçok kursu açar; fiyatı ve uygunluğunu kontrol et. Kış dönemi başındaki Schnupperzeit sırasında istediğin kadar kursu deneyebilirsin.
+
+Kurs kontenjanları sınırlıdır ve [rezervasyon yalnızca çevrimiçi](https://unisport.koeln/ueberblick/teilnahmeregelungen/faq/index_ger.html) yapılır. Her kurs, sayfasında belirtilen tarihte açılır ve dolan kurslar bekleme listesi kullanır - rezervasyon açılır açılmaz kaydolun.
+
+## Ücretsiz seçenekler
+
+-   Ren boyunca koş: iki kıyıda da düz yollar.
+-   Koşu ve arkadaşlarla yaz akşamları için Aachener Weiher ve Stadtwald.
+
+---
+
+Source: https://germandex.com/tr/koeln/sports
+
+Language: tr
+
+
+# Köln - Restoranlar
+
+## Önerilenler
+
+### [Habibi](https://www.habibi-koeln.de/)
+
+Zülpicher Straße'de efsane falafel ve shawarma büfesi.
+
+### [Com Pho](https://www.comphokoeln.de/)
+
+Zülpicher Straße'de doyurucu Vietnam yemekleri.
+
+### Pastaminuta
+
+Pizza ve makarna, Luxemburger Str. 124, Sülz.
+
+### Vejetaryen misin? En iyi seçeneklerin bunlar
+
+Habibi en iyi vejetaryen seçeneğin. Falafeli seç.
+
+## Ucuz ve hızlı
+
+### [Freddy Schilling](https://www.freddyschilling.de/standorte/)
+
+Üç şubede taze burger: Kyffhäuserstraße, Ehrenfeld ve Eigelstein.
+
+### Falafel Salam
+
+Üniversiteye birkaç dakika mesafede küçük bir falafelci, Zülpicher Platz 17. Vejetaryen.
+
+### [Mashery Hummus Kitchen](https://www.mashery-hummus.de/)
+
+Vejetaryen humus mutfağı, Roonstraße 36. Pita ekmeğiyle humus tabakları; çoğunlukla vegan.
+
+---
+
+Source: https://germandex.com/tr/koeln/restaurants
+
+Language: tr
+
+
+# Köln - Parti
+
+### Zülpicher Straße
+
+Kwartier Latäng'deki öğrenci bar sokağı. Geceye burada başla.
+
+### [Das Ding](https://www.dingzone.de/)
+
+1968'den beri öğrenci kulübü, Hohenstaufenring 30-32.
+
+### [Gebäude 9](https://gebaeude9.de/)
+
+Deutz'da konserler ve partiler. Daha az ana akım bir şey istiyorsan yerlilerin tercihi.
+
+### Belgisches Viertel
+
+Barlar ve kafeler, biraz daha yetişkin kitle.
+
+## Bilmekte fayda var
+
+-   Karnaval sezonu 11.11. saat 11:11'de başlar, büyük sokak karnavalı şubatta. Bütün şehir kostüm giyer.
+-   Bir Kölsch söyle. Bardağının üstüne altlığı koyana kadar garson yeni bardak getirir.
+
+---
+
+Source: https://germandex.com/tr/koeln/party
+
+Language: tr
+
+
+# Köln - Süpermarketler
+
+Zincirleri tanımak ve nasıl seçeceğini öğrenmek için [Almanya süpermarket rehberimizi](https://germandex.com/tr/germany/groceries) oku. Yerel uluslararası marketler aşağıda.
+
+## Asya ve uluslararası marketler
+
+### [Singh's Mart](https://www.singhsmart.de/)
+
+Neumarkt 33. Hint ve egzotik ürünler.
+
+### [Heng Long](https://henglong.de/)
+
+Aachener Str. 201-209. 1.000 m²'lik Asya süpermarketi.
+
+---
+
+Source: https://germandex.com/tr/koeln/groceries
+
+Language: tr
+
+
+# Münih - Resmi işler
+
+İlk haftanız için üniversite kurulumu
+
+Bu tam bir varış kontrol listesi değildir. Adres kaydı, sağlık sigortası durumu ve gerektiğinde ikamet izni ayrı işlerdir.
+
+### 1\. LMU ve TUM öğrencileri: StudentCard için Autoload'u aç
+
+LMU ve TUM öğrencileri [Mensa](https://www.studierendenwerk-muenchen-oberbayern.de/en/gastronomie/preise-und-bezahlung/)'da StudentCard ile öder. Kendiliğinden yüklenmesi için Autoload'ı aç. Bazı Mensalar banka kartı da kabul ediyor.
+
+Autoload yoksa StudentCard'ını Mensa makinelerinde yükle.
+
+### 2\. Münih'te dönem bileti yok
+
+Öğrenci anlaşması 2023'te askıya alındı ve öğrenci kartın bilet yerine geçmiyor. Bunun yerine Bayerisches Ermäßigungsticket al: ayda 43 €'ya öğrenci [Deutschlandticket](https://www.mvg.de/abos-tickets/abos/ermaessigungsticket.html)'i.
+
+Bayerisches Ermäßigungsticket için uygun değilsen normal Deutschlandticket ile karşılaştır; güncel fiyat ve koşulları MVG'den kontrol et.
+
+-   Geçerli bir bilet olmadan uçağa binmeyin. Dönem biletiniz hazır değilse öncelikle geçerli başka bir bilet satın alın.
+
+## Üniversite kurulumundan daha fazlası
+
+### Münih adresini kaydettir
+
+Adres kaydı: [Belediye adres kayıt dairesi (Anmeldung)](https://stadt.muenchen.de/service/info/wohnsitzanmeldung/1063475/n0/), taşındıktan sonra iki hafta içinde. İkamet izinleri: [Yabancılar dairesi](https://stadt.muenchen.de/service/info/studenten/1089339/). Belgeler, sağlık sigortası, ikamet durumu ve resmi mektuplar: [Almanya geneli resmi işler rehberi](https://germandex.com/tr/germany/admin).
+
+Ana ikamet kaydı, çevrimiçi kimlik (eID) işlevi etkin bir kimliğiniz, altı haneli PIN'iniz ve AusweisApp yüklü NFC özellikli bir akıllı telefonunuz varsa tamamen [çevrimiçi](https://stadt.muenchen.de/service/info/wohnsitzanmeldung/1063475/n0/) de yapılabilir. Aksi durumda şahsen kaydolun: şehirdeki herhangi bir Bürgerbüro işinizi görür, yalnızca kendi semtinizdeki değil. Şahsen başvuru için randevu gerekli, ancak [günde birkaç kez yeni randevular açılır](https://stadt.muenchen.de/infos/terminvereinbarung-buergerbueros.html); ofisler açılmadan yaklaşık 30 dakika önce aynı güne randevular da çıkar - sık sık kontrol edin.
+
+---
+
+Source: https://germandex.com/tr/muenchen/admin
+
+Language: tr
+
+
+# Münih - Spor
+
+[ZHS](https://kurse.zhs-muenchen.de/de) ([Zentraler Hochschulsport München](https://www.zhs-muenchen.de/zhs/faqs/alle-infos-rund-um-die-sportkurse/)), Münih'teki tüm üniversitelerin sporunu yürütüyor.
+
+ZHS sitesinden kayıt olunan geniş bir program. Uygun öğrenciler için indirim vardır; koşulları ve fiyatları kontrol et. Kayıt tarihlerini takip edip erken kayıt ol.
+
+## Ücretsiz seçenekler
+
+-   Englischer Garten: dünyanın en büyük şehir parklarından biri, koşu için harika.
+-   Koşu, bisiklet ve yaz akşamları için Isar kıyıları ve Olympiapark.
+
+---
+
+Source: https://germandex.com/tr/muenchen/sports
+
+Language: tr
+
+
+# Münih - Restoranlar
+
+## Önerilenler
+
+### [Sababa](https://www.sababa-munich.com/)
+
+Tam Viktualienmarkt'ta falafel, humus ve shawarma, Westenriederstr. 9.
+
+### [Lo Studente](https://lo-studente.de/)
+
+Üniversite semtinde odun fırını pizza, Schellingstr. 30. Her gün gece yarısına kadar açık.
+
+### [Bánh Mì Minh](https://banhmi-minh.de/)
+
+Vietnam sandviçleri, Theresienstr. 79.
+
+### Vejetaryen misin? En iyi seçeneklerin bunlar
+
+Sababa ve MOGO en iyi vejetaryen seçeneklerin. Falafel ya da humus söyle.
+
+## Ucuz ve hızlı
+
+### [MOGO](https://www.mogo-munchen.de/)
+
+Lübnan sokak lezzetleri, humus ve dürümler, Augustenstr. 93.
+
+### Taco Company
+
+LMU yakınında taco ve burrito, Amalienstr. 69.
+
+### [Asia Bistro Minh](http://asia-bistrominh.de/)
+
+Vietnam, Tayland ve Çin yemekleri, Amalienstr. 37. LMU yakınında paket servis.
+
+## Hint restoranları
+
+### [Dhaba Münchner Freiheit](https://www.dhaba.de/dhabamunchnerfreiheit)
+
+Schwabing’de Hint körileri ve tandır yemekleri, Herzogstr. 1b. Münchner Freiheit yakınında masaya servis yapılan restoran.
+
+---
+
+Source: https://germandex.com/tr/muenchen/restaurants
+
+Language: tr
+
+
+# Münih - Parti
+
+### [Neuraum](https://neuraum.de/)
+
+Hackerbrücke'de birkaç alanı olan büyük kulüp. Hitler ve parti müziği.
+
+### [089 Bar](https://089-bar.de/)
+
+Maximiliansplatz'ta öğrenci partileri, sabah 5'e kadar açık.
+
+### [Backstage](https://www.backstage.eu/)
+
+Konserler, partiler ve biergarten tek bir yerde.
+
+### Beisl
+
+Viktualienmarkt'ta, şehrin en ucuzlarından biri olarak bilinen pub.
+
+### [Giesinger](https://giesinger-braeu.de/en/pages/stehausschanke) Bräu Stehausschank
+
+Maxvorstadt’ta ayakta bira içilen bar, Augustenstr. 90. Hafta içi iş çıkışı bira fırsatı.
+
+## Bilmekte fayda var
+
+-   Biergartenlar Münih'in yaz salonudur. Englischer Garten'deki Chinesischer Turm gibi geleneksel olanlarda, self servis alana kendi yemeğini getirebilirsin.
+-   Oktoberfest eylül sonundan ekim başına kadar sürer. Oturacak yer istiyorsan hafta içi bir öğleden sonra git.
+-   Maxvorstadt, öğrenci barları ve publarıyla üniversite bölgesidir. Dışarıda vakit geçirirken gürültüyü azalt ve çöpünü yanında götür.
+
+---
+
+Source: https://germandex.com/tr/muenchen/party
+
+Language: tr
+
+
+# Münih - Süpermarketler
+
+Zincirleri tanımak ve nasıl seçeceğini öğrenmek için [Almanya süpermarket rehberimizi](https://germandex.com/tr/germany/groceries) oku. Yerel uluslararası marketler aşağıda.
+
+## Asya ve uluslararası marketler
+
+### Indian Shop München
+
+Altheimer Eck 9, eski şehir. Hint ürünleri ve baharatları.
+
+### [Bollywood Store](http://www.bollywood-store.com/)
+
+Augustenstraße, Maxvorstadt. Hint ve Asya ürünleri, baharatlar, basmati pirinç ve taze sebze-meyve.
+
+---
+
+Source: https://germandex.com/tr/muenchen/groceries
+
+Language: tr
+
+
+# Erlangen - Resmi işler
+
+İlk haftanız için üniversite kurulumu
+
+Bu tam bir varış kontrol listesi değildir. Adres kaydı, sağlık sigortası durumu ve gerektiğinde ikamet izni ayrı işlerdir.
+
+### 1\. [Erlangen adresini](https://erlangen.de/service/365) kaydettir
+
+Taşındıktan sonra iki hafta içinde kayıt yaptırmalısın. Kimliğini veya pasaportunu, ev sahibinin onayını (Wohnungsgeberbestätigung) ve kayıt formunu getir. Geç kayıt 1.000 €'ya kadar para cezası getirebilir.
+
+Çevrimiçi kayıt, çevrimiçi işlevli bir kimlik kartı gerektirir ve şu anda Alman vatandaşlarına ve eID'li AB vatandaşlarına açıktır; AB dışı oturum izinleri hâlâ planlanıyor. Rathaus'a (Rathausplatz 1) gitmek için [çevrimiçi randevu al](https://erlangen.flexappoint.de/).
+
+### 2\. [FAU](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/faucard/) öğrencileri için: FAUcard'ını al
+
+FAUcard ücretsizdir. Öğrenci kimliğin, kütüphane kartın, elektronik cüzdanın, fotokopi kartın ve kapı anahtarındır. Kayıttan sonra, IdM hesabın oluşunca postayla gelir.
+
+İkinci dönemden itibaren her yeniden kayıttan sonra bir doğrulama istasyonunda yeniden doğrula, örneğin Kollegienhaus'ta, Universitätsstraße 15. Yaklaşık 30 saniye sürer.
+
+### 3\. FAU öğrencileri için: Mensa'yı kullan
+
+FAUcard'ına herhangi bir [Studierendenwerk](https://www.werkswelt.de/index.php?id=kartensystem) yemekhanesi veya kafeteryasındaki makineden bakiye yükle, sonra kartla öde.
+
+### 4\. FAU öğrencileri için: indirimli Deutschlandticket al
+
+Erlangen'de artık dönemlik bilet yok. [FAU](https://www.fau.de/studium/studentisches-leben/studierendenmobilitaet/), öğrencileri [VGN](https://www.vgn.de/ermaessigungsticket-studi)'nin indirimli Deutschlandticket'ına yönlendiriyor: takvim ayı başına 43 €, Almanya genelinde yerel ve bölgesel ulaşımda geçerli. VGN online mağazasından veya uygulamalarından al. İşlemden sonra teslim edilir, yani anında değildir.
+
+-   Birinci sınıfı, IC/ICE trenlerini, şehirlerarası otobüsleri, köpekleri ve bisikletleri kapsamaz. Yanında kimlik belgesi taşı.
+-   FAUcard bilet değildir. VGN bölgesi Erlangen, Nürnberg ve Fürth'ü kapsar, yani aynı bilet üç şehirdeki FAU yerleşkelerinde de işe yarar.
+-   Aylık olarak iptal edebilirsin.
+
+Yerel kaynaklar 22 Ekim 2026'da kontrol edildi. Güncel fiyat ve kurallar için bağlantılı sayfalara bak.
+
+---
+
+Source: https://germandex.com/tr/erlangen/admin
+
+Language: tr
+
+
+# Erlangen - Spor
+
+## FAU öğrencileri için: Hochschulsport
+
+[FAU Hochschulsport](https://www.hochschulsport.fau.de/startseite/) her dönem takım sporlarından fitnesa, açık hava ve rahatlamaya kadar 150'den fazla kurs sunar.
+
+Kayıt yalnızca çevrimiçidir ve kurslar başlamadan yaklaşık 7 gün önce açılır. @fau.de e-posta adresini kullan ve IBAN'ını hazır tut; banka SEPA'ya katılmalıdır.
+
+Her kursun bir ücreti var. Öğrenciler en düşük tarifeyi öder, ayrıca katılım başına 2 € idari ücret var. [Katılım kurallarına](https://www.hochschulsport.fau.de/teilnahmeinformationen/) bak.
+
+### [Kurs listesine](https://www.hochschulsport.fau.de/kurse-classes/) göz at
+
+Rezervasyon sınırlıdır: genelde kategori başına en fazla üç, kişi başına toplam beş teklif. Site yeniden tasarlanıyor; bir sayfa bozuk görünürse Courses menüsünü kullan.
+
+Yerel kaynaklar 22 Ekim 2026'da kontrol edildi. Güncel fiyat ve kurallar için bağlantılı sayfalara bak.
+
+---
+
+Source: https://germandex.com/tr/erlangen/sports
+
+Language: tr
+
+
+# Erlangen - Restoranlar
+
+## Kampüste
+
+### [Südmensa](https://www.werkswelt.de/?id=sued)
+
+Erwin-Rommel-Straße 60'ta Studierendenwerk yemekhanesi; bir kafeterya ve bir kafe bar var. Günlük menü ve açılış saatleri sayfasında; saatler dönem tatilinde değişir.
+
+### Diğer Studierendenwerk noktaları
+
+[Studierendenwerk](https://werkswelt.de/index.php?id=mensen-cafeterien-cafebars) Erlangen'de ayrıca Mensa Langemarckplatz ve Cafeteria Kochstraße'yi listeliyor. Güncel menü ve saatler için her sayfaya bak.
+
+### Vejetaryen veya vegan mı?
+
+Mensa menüleri vejetaryen ve vegan yemekleri işaretler. Günün menüsüne bak.
+
+Kampüs dışı: bu şehirdeki hiçbir restoranı henüz birincil kaynaktan doğrulamadık, bu yüzden tahmin yürütmek yerine hiçbirini listelemiyoruz. 22 Ekim 2026'da kontrol edildi.
+
+---
+
+Source: https://germandex.com/tr/erlangen/restaurants
+
+Language: tr
+
+
+# Erlangen - Parti
+
+### [Zirkel](https://zirkel-club.de/)
+
+Eski şehirde Hauptstraße 105'te öğrenci kulübü ve diskotek. Önümüzdeki geceler sitesinde listeleniyor.
+
+### [E-Werk Kulturzentrum](https://www.e-werk.de/das-kulturzentrum-e-werk/)
+
+Almanya'nın daha büyük sosyokültürel merkezlerinden biri, Fuchsenwiese 1: dört etkinlik salonu, bir sinema ve bir bira bahçesi. Konserler, öğrenci partileri ve kulüp geceleri düzenler; [parti sayfasına](https://www.e-werk.de/programm/partys/) bak.
+
+## Bilmekte fayda var
+
+-   Programlar ve giriş ücretleri her hafta değişir. Gideceğin gün mekânın kendi sayfasına bak.
+-   E-Werk sineması filmleri orijinal dilde altyazıyla (OmU) gösterir.
+
+Yerel kaynaklar 22 Ekim 2026'da kontrol edildi. Güncel fiyat ve kurallar için bağlantılı sayfalara bak.
+
+---
+
+Source: https://germandex.com/tr/erlangen/party
+
+Language: tr
+
+
+# Erlangen - Süpermarketler
+
+Zincirleri tanımak ve nasıl seçeceğini öğrenmek için [Almanya süpermarket rehberimizi](https://germandex.com/tr/germany/groceries) oku. Yerel uluslararası marketler aşağıda.
+
+## Asya ve uluslararası marketler
+
+### [Want Want Asia Supermarkt](https://www.wantwant-asia.de/%C3%BCber-uns/)
+
+Nägelsbachstr. 26 / Sedanstr. 1. Çin anakarası, Tayvan, Japonya, Kore ve Güneydoğu Asya'dan Asya gıdaları. Sitesine göre pazartesiden cumartesiye 9:00-20:00 açık.
+
+Yerel kaynaklar 22 Ekim 2026'da kontrol edildi. Güncel fiyat ve kurallar için bağlantılı sayfalara bak.
+
+---
+
+Source: https://germandex.com/tr/erlangen/groceries
+
+Language: tr
+
+
+# Erlangen - Erlangen'de konut
+
+Bir oda bul. İmzaladığın şeyi anla.
+
+### Studierendenwerk Erlangen-Nürnberg ile başla
+
+Yalnızca çevrimiçi başvurabilirsin. Studierendenwerk, tek kişilik odalardan aile dairelerine kadar 3.600'den fazla yer ve Erlangen ile Nürnberg için ücretsiz özel oda hizmeti listeliyor. Arama, kış dönemi öncesi haftalarda, özellikle uluslararası öğrenciler ve geç kabul edilenler için en zorudur.
+
+[Studierendenwerk Erlangen-Nürnberg konut](https://werkswelt.de/index.php?id=wohnen)
+
+## İkinci bir aramayı da sürdür
+
+Yurt başvurusu rezervasyon değildir. Beklerken ortak daire odalarını ve özel kiralıkları karşılaştır. Ödemeden önce adresi, ev sahibini veya ana kiracıyı, toplam aylık maliyeti ve sözleşmeyi kontrol et.
+
+## İmzalamadan önce
+
+Depozito, yan giderler, taşınma belgesi ve dolandırıcılık kontrolleri: imzalamadan önce [Almanya konut rehberini](https://germandex.com/tr/germany/housing) oku.
+
+Yerel kaynaklar 22 Ekim 2026'da kontrol edildi. Güncel fiyat ve kurallar için bağlantılı sayfalara bak.
+
+---
+
+Source: https://germandex.com/tr/erlangen/housing
+
+Language: tr
+
+
+# Erlangen - Erlangen'de tıbbi yardım
+
+Nereye gideceğini tahmin etmeden doğru yardım.
+
+### Yakınında bir doktor bul
+
+116117 doktor aramasını Erlangen veya posta kodunla kullan. Genel bakım için bir Hausarzt ile başla; gitmeden önce muayenehanenin iletişim bilgilerini kontrol et, randevu ve sigortanı sor.
+
+[Erlangen'de doktor bul](https://arztsuche.116117.de/)
+
+## Acil mi veya mesai dışında mı?
+
+Mesai saatleri içerisinde bir Hausarzt (pratisyen hekim) ile iletişime geçin. Yerel bir Apotheke (eczane) ilaçlar konusunda tavsiyelerde bulunabilir. Muayenehane yeniden açılıncaya kadar bekleyemeyecek ancak yaşamı tehdit etmeyen acil hastalıklar için 116117'yi arayın. Hayatı tehdit eden acil durumlar veya olası kalıcı zararlar için 112'yi arayın. Yaşamın risk altında olup olmadığından emin değilseniz 112'yi arayın.
+
+[Tıbbi yardım ve acil durum numaraları](https://gesund.bund.de/notfallnummern)
+
+## Hastane acil servisleri
+
+Uniklinikum Erlangen günün 24 saati acil servisler listeliyor: cerrahi, Krankenhausstr. 12 (giriş Maximiliansplatz'ta), tel. 09131 85-33260; dahiliye, Ulmenweg 18, tel. 09131 85-35420; çocuk, Loschgestr. 15, tel. 09131 85-33118. Hayati tehlike durumunda 112'yi ara.
+
+[Uniklinikum Erlangen acil servisleri](https://www.uk-erlangen.de/944/)
+
+## Erlangen'de eczaneler
+
+Nöbetçi eczane aramasını Erlangen adresin veya posta kodunla kullan. Nöbet listesi değişir; yola çıkmadan önce güncel sonuca bak.
+
+[Nöbetçi eczane bul](https://www.aponet.de/notdienstsuche/-)
+
+Yerel kaynaklar 22 Ekim 2026'da kontrol edildi. Muayenehane arama sonuçları onaylanmış randevu değildir.
+
+---
+
+Source: https://germandex.com/tr/erlangen/medical
+
+Language: tr
+
+
+# Tübingen - Resmi işler
+
+İlk haftanız için üniversite kurulumu
+
+Bu tam bir varış kontrol listesi değildir. Adres kaydı, sağlık sigortası durumu ve gerektiğinde ikamet izni ayrı işlerdir.
+
+### 1\. [Tübingen adresini](https://www.tuebingen.de/verwaltung/verfahren/anmeldung_wohnsitz) kaydettir
+
+Taşındıktan sonra iki hafta içinde kayıt yaptırmalısın. Ücretsizdir. Kimliğini veya pasaportunu ve ev sahibinin onayını (Wohnungsgeberbescheinigung) getir. Geç kayıt bir kabahattir ve para cezası verilebilir.
+
+Çevrimiçi işlevli bir kimlik kartıyla çevrimiçi kayıt olabilirsin. Yüz yüze için Bürgerbüro (Schmiedtorstraße 4) yalnızca randevuyla çalışır; [çevrimiçi randevu al](https://www.tuebingen.de/dienststellen).
+
+### 2\. [Tübingen Üniversitesi](https://uni-tuebingen.de/studium/studienorganisation/administration/chipkarte/) öğrencileri için: öğrenci kartını al
+
+Studierendensekretariat, kayıttan sonra çipli kartını postayla gönderir. Öğrenci kimliğindir, bazı binaları açar ve Mensa'da ile fotokopi makinelerinde ödeme yapar.
+
+Her yeniden kayıttan sonra dönem baskısını bir self-servis terminalde güncelle. Kayıp kartın yenisi 15 € tutar ve kullanılmayan bakiye iade edilmez.
+
+### 3\. Öğrenciler için: Mensa'yı kullan
+
+[Studierendenwerk](https://www.my-stuwe.de/mensa/bezahlung/) yemekhane ve kafeteryalarında öğrenci kartın veya bir Mensakarte ile öde. Autoload isteğe bağlıdır; kampüsteki makinelerden de bakiye yükleyebilirsin.
+
+### 4\. Tübingen Üniversitesi öğrencileri için: [naldo dönem biletini](https://www.naldo.de/tickets/semesterticket/) al
+
+Dönem bileti tüm naldo ağını kapsar ve yalnızca tam dönem için satılır. Kaydolduktan veya yeniden kayıt olduktan sonra naldo Studi-Web-Shop'tan al. Print@Home kopyasıyla mobil bilet olarak gelir, yalnızca güncel öğrenci kimliğinle geçerlidir ve devredilemez.
+
+-   naldo'nun 1 Ekim 2025'ten geçerli tarife tablosu dönem başına 161,10 € gösteriyor. [Üniversite sayfası](https://uni-tuebingen.de/studium/rund-ums-studium/semesterticket/) hâlâ eski bir fiyat gösteriyor, bu yüzden güncel fiyatı mağazada doğrula.
+-   Biletin yoksa, öğrenci kimliğin naldo otobüs ve trenlerinde pazartesiden cumaya 19:00'dan sonra, hafta sonları ve Baden-Württemberg resmi tatillerinde tüm gün geçerlidir. Üniversite sayfası bir geçiş kuralından söz ediyor; ona bak.
+
+Yerel kaynaklar 22 Ekim 2026'da kontrol edildi. Güncel fiyat ve kurallar için bağlantılı sayfalara bak.
+
+---
+
+Source: https://germandex.com/tr/tuebingen/admin
+
+Language: tr
+
+
+# Tübingen - Spor
+
+## Tübingen Üniversitesi öğrencileri için: Hochschulsport
+
+[Hochschulsport Tübingen](https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/) her dönem 350'den fazla kurs sunar. [Rezervasyon sayfasından](https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/m.html) çevrimiçi rezervasyon yap.
+
+Sayfa, 2026/27 kış dönemi kaydını duyuruyor; tenis kursları 23 Ekim 2026'da saat 17:00'de kayda açılıyor.
+
+Hochschulsport ofisi Wilhelmstr. 124'te.
+
+### Güncel [kayıt tarihlerine](https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/m.html) bak
+
+Popüler kurslar hızlı dolabilir. Kayıt saatleri kursa göre değişir; alarm kurmadan önce rezervasyon sayfasına bak.
+
+Yerel kaynaklar 22 Ekim 2026'da kontrol edildi. Güncel fiyat ve kurallar için bağlantılı sayfalara bak.
+
+---
+
+Source: https://germandex.com/tr/tuebingen/sports
+
+Language: tr
+
+
+# Tübingen - Restoranlar
+
+## Kampüste
+
+### [Mensa Wilhelmstraße](https://www.my-stuwe.de/mensa/mensa-wilhelmstrasse-tuebingen/)
+
+Wilhelmstraße 13'te Studierendenwerk yemekhanesi. Günlük menü sayfasında. Studierendenwerk, alerjen ve katkı maddesi etiketlerinin yalnızca servis tezgâhlarında gösterildiğini söylüyor, bu yüzden orada kontrol et.
+
+### [Mensa Morgenstelle](https://www.my-stuwe.de/mensa/mensa-morgenstelle-tuebingen/)
+
+Tübingen'de başka bir Studierendenwerk Mensa'sı. Güncel menü ve saatler için sayfasına bak.
+
+### [Asien-Haus Imbiss](https://www.asien-haus.net/)
+
+Eski şehirde Tayland paket servis tezgâhı, Schmiedtorstraße 7 ve 11: öğle saatinde noodle çorbası ve günlük değişen yemekler, sitesine göre pazartesiden cumaya 11:30-15:00.
+
+### Vejetaryen veya vegan mı?
+
+Mensa menüleri vejetaryen ve vegan yemekleri işaretler. Günün menüsüne bak.
+
+Kampüs dışı: bu şehirdeki hiçbir restoranı henüz birincil kaynaktan doğrulamadık, bu yüzden tahmin yürütmek yerine hiçbirini listelemiyoruz. 22 Ekim 2026'da kontrol edildi.
+
+---
+
+Source: https://germandex.com/tr/tuebingen/restaurants
+
+Language: tr
+
+
+# Tübingen - Parti
+
+### [Kuckuck](https://kuckuck-bar.de/)
+
+Öğrencilerin öğrenciler için işlettiği bar ve kulüp. Programında karaoke, pub quiz, beer pong ve tema geceleri var.
+
+### [Sudhaus](https://www.sudhaus-tuebingen.de/veranstaltungen/party.html)
+
+Hechinger Straße 203'te düzenli parti geceleri olan mekân, örneğin 70'ler, 80'ler ve 90'lar müziğiyle Zeitgeist.
+
+## Bilmekte fayda var
+
+-   Programlar ve giriş ücretleri her hafta değişir. Gideceğin gün mekânın kendi sayfasına bak.
+
+Yerel kaynaklar 22 Ekim 2026'da kontrol edildi. Güncel fiyat ve kurallar için bağlantılı sayfalara bak.
+
+---
+
+Source: https://germandex.com/tr/tuebingen/party
+
+Language: tr
+
+
+# Tübingen - Süpermarketler
+
+Zincirleri tanımak ve nasıl seçeceğini öğrenmek için [Almanya süpermarket rehberimizi](https://germandex.com/tr/germany/groceries) oku. Yerel uluslararası marketler aşağıda.
+
+## Asya ve uluslararası marketler
+
+### [Asien-Haus](https://www.asien-haus.net/)
+
+Schmiedtorstraße 7 ve 11, eski şehirde, 1997'den beri. 200 m²'den fazla Asya gıdası, taze sebze ve otlar, organik ürünler ve mutfak gereçleri. Sitesine göre mağaza pazartesiden cumaya 10:00-19:00, cumartesi 10:00-15:00 açık, pazar kapalı.
+
+Yerel kaynaklar 22 Ekim 2026'da kontrol edildi. Güncel fiyat ve kurallar için bağlantılı sayfalara bak.
+
+---
+
+Source: https://germandex.com/tr/tuebingen/groceries
+
+Language: tr
+
+
+# Tübingen - Tübingen'de konut
+
+Bir oda bul. İmzaladığın şeyi anla.
+
+### Studierendenwerk Tübingen-Hohenheim ile başla
+
+Yalnızca çevrimiçi başvurabilirsin. Kabul mektubun gelmeden başvurabilirsin, ama gelir gelmez gönder. Kış dönemi başvuruları 1 Nisan'da, yaz dönemi başvuruları önceki yılın 1 Ekim'inde açılır. Çiftler ve aileler yetişkin başına bir başvuru yapar ve eşlerden en az biri kabul edilmiş veya kayıtlı olmalıdır.
+
+[Studierendenwerk Tübingen-Hohenheim konut](https://www.my-stuwe.de/wohnen/online-bewerbung/)
+
+## İkinci bir aramayı da sürdür
+
+Yurt başvurusu rezervasyon değildir. Beklerken ortak daire odalarını ve özel kiralıkları karşılaştır. Ödemeden önce adresi, ev sahibini veya ana kiracıyı, toplam aylık maliyeti ve sözleşmeyi kontrol et.
+
+## İmzalamadan önce
+
+Depozito, yan giderler, taşınma belgesi ve dolandırıcılık kontrolleri: imzalamadan önce [Almanya konut rehberini](https://germandex.com/tr/germany/housing) oku.
+
+Yerel kaynaklar 22 Ekim 2026'da kontrol edildi. Güncel fiyat ve kurallar için bağlantılı sayfalara bak.
+
+---
+
+Source: https://germandex.com/tr/tuebingen/housing
+
+Language: tr
+
+
+# Tübingen - Tübingen'de tıbbi yardım
+
+Nereye gideceğini tahmin etmeden doğru yardım.
+
+### Yakınında bir doktor bul
+
+KV Baden-Württemberg muayenehane aramasını Tübingen veya posta kodunla kullan. Genel bakım için bir Hausarzt ile başla; gitmeden önce muayenehanenin iletişim bilgilerini kontrol et, randevu ve sigortanı sor.
+
+[Tübingen'de doktor bul](https://www.kvbawue.de/patienten/praxissuche)
+
+## Acil mi veya mesai dışında mı?
+
+Mesai saatleri içerisinde bir Hausarzt (pratisyen hekim) ile iletişime geçin. Yerel bir Apotheke (eczane) ilaçlar konusunda tavsiyelerde bulunabilir. Muayenehane yeniden açılıncaya kadar bekleyemeyecek ancak yaşamı tehdit etmeyen acil hastalıklar için 116117'yi arayın. Hayatı tehdit eden acil durumlar veya olası kalıcı zararlar için 112'yi arayın. Yaşamın risk altında olup olmadığından emin değilseniz 112'yi arayın.
+
+[Tıbbi yardım ve acil durum numaraları](https://gesund.bund.de/notfallnummern)
+
+## Hastane acil servisi
+
+Universitätsklinikum Tübingen, Zentrale Notaufnahme'sini Hoppe-Seyler-Str. 3'te listeliyor. Muayenehane saatleri dışında 116117'yi arayabilir, docdirekt'i kullanabilir veya Klinikum'daki bir acil muayenehaneye gidebilirsin. Zehirlenme: Giftzentrale Baden-Württemberg, 0761 192-40. Hayati tehlike durumunda 112'yi ara.
+
+[Universitätsklinikum Tübingen acil servis sayfası](https://www.medizin.uni-tuebingen.de/de/kontakt/notfall)
+
+## Tübingen'de eczaneler
+
+Nöbetçi eczane aramasını Tübingen adresin veya posta kodunla kullan. Nöbet listesi değişir; yola çıkmadan önce güncel sonuca bak.
+
+[Nöbetçi eczane bul](https://www.aponet.de/notdienstsuche/-)
+
+Yerel kaynaklar 22 Ekim 2026'da kontrol edildi. Muayenehane arama sonuçları onaylanmış randevu değildir.
+
+---
+
+Source: https://germandex.com/tr/tuebingen/medical
+
+Language: tr
+
+
+# Münster - Spor
+
+İlk haftanız için üniversite kurulumu
+
+Bu tam bir varış kontrol listesi değildir. Adres kaydı, sağlık sigortası durumu ve gerektiğinde ikamet izni ayrı işlerdir.
+
+### 1\. Bir bisiklet edin
+
+Bisiklet (Münster'de "Leeze") şehirde gezmenin ana yolu. Şehir bunun için yapılmış.
+
+### 2\. Mensa'da nakitsiz öde
+
+Mensalar nakit kabul etmiyor. Öğrenci kartın, bir MensaCard ya da banka kartınla öde.
+
+Ödeme olmadıysa başka kasayı dene veya personele sor.
+
+### 3\. [Münster](https://www.uni-muenster.de/studium/orga/studienverwaltung/selfservice.html) Üniversitesi öğrencileri: dönem biletini indir
+
+Münster Üniversitesi'nde SelfService portalından alırsın. Almanya'daki tüm yerel ve bölgesel otobüs ve trenleri kapsar.
+
+Bilet SelfService'te yoksa kayıt yenilemeni ve dönem ücretini kontrol edip öğrenci idaresine başvur.
+
+-   Deutschlandsemester bileti, ICE/IC/EC'yi değil, ikinci sınıfta yerel ve bölgesel taşımacılığı kapsar. Ücretsiz biletle değil, dönem ücretiyle finanse edilir.
+-   Geçerli bir bilet olmadan uçağa binmeyin. Dönem biletiniz hazır değilse öncelikle geçerli başka bir bilet satın alın.
+
+## Üniversite kurulumundan daha fazlası
+
+### Münster adresini kaydettir
+
+Adres kaydı: [Belediye adres kayıt dairesi (Anmeldung)](https://www.stadt-muenster.de/buergerservice/meldeangelegenheiten/anmeldung), taşındıktan sonra iki hafta içinde. İkamet izinleri: [Yabancılar dairesi](https://www.stadt-muenster.de/aufenthaltsrecht/studium-und-promotion/waehrend-des-studiums). Belgeler, sağlık sigortası, ikamet durumu ve resmi mektuplar: [Almanya geneli resmi işler rehberi](https://germandex.com/tr/germany/admin).
+
+Tamamen [çevrimiçi](https://www.stadt-muenster.de/buergerservice/meldeangelegenheiten/anmeldung) (kimlik çipiniz güncellenir ve adres etiketi postayla gelir) ya da randevuyla bir Bürgerbüro veya Bezirksverwaltung'da şahsen kayıt olabilirsiniz.
+
+---
+
+Source: https://germandex.com/tr/muenster/admin
+
+Language: tr
+
+
+# Münster - Spor
+
+[Hochschulsport Münster](https://www.uni-muenster.de/Hochschulsport/) birçok spor sunar.
+
+Tek kurslar yerine esnek [Sportpass](https://www.uni-muenster.de/Hochschulsport/mitglied/mitgliedschaften.shtml) üyelikleri ve Campus Gym. İnternetten kayıt olmadan önce güncel üyelik fiyatlarını ve uygunluğunu kontrol et.
+
+## Ücretsiz seçenekler
+
+-   Aasee gölünün etrafını dolaş.
+-   Promenade: eski şehrin etrafında sadece bisiklet ve yayalara açık yeşil bir halka.
+
+---
+
+Source: https://germandex.com/tr/muenster/sports
+
+Language: tr
+
+
+# Münster - Restoranlar
+
+## Önerilenler
+
+### [Cavete](https://cavete-muenster.de/)
+
+Münster'in Kuhviertel'deki "akademik bira evi", Kreuzstraße 37/38. Makarna ve bira.
+
+### [Pinkus Müller](https://www.pinkus.de/)
+
+1816'dan beri bira evi, Kreuzstr. 7-10. Vestfalya mutfağı.
+
+### [Das Blaue Haus](https://www.blaue-haus-muenster.de/)
+
+Vestfalya mutfaklı öğrenci pubu, Kreuzstraße 16-17.
+
+---
+
+Source: https://germandex.com/tr/muenster/restaurants
+
+Language: tr
+
+
+# Münster - Parti
+
+### Kuhviertel
+
+Kreuzstraße çevresindeki eski şehir pub bölgesi. Geceye burada başla.
+
+### Hafen ve Hawerkamp
+
+Liman çevresinde kulüpler ve barlar.
+
+### [Sputnikhalle](https://sputnikhalle.de/partys/)
+
+Elektronikten gotiğe partiler, bir de konserler.
+
+### [Gazelle](https://www.gazelle.ms/)
+
+Şehirde dans kulübü.
+
+---
+
+Source: https://germandex.com/tr/muenster/party
+
+Language: tr
+
+
+# Münster - Süpermarketler
+
+Zincirleri tanımak ve nasıl seçeceğini öğrenmek için [Almanya süpermarket rehberimizi](https://germandex.com/tr/germany/groceries) oku. Yerel uluslararası marketler aşağıda.
+
+## Asya ve uluslararası marketler
+
+### [Jaffna Supermarkt](https://www.jaffna-supermarkt.de/)
+
+Wolbecker Str. 16a, Hansaplatz'ta. Asya ve Hint ürünleri.
+
+### go asia
+
+Salzstraße 20, eski şehir. Büyük Asya süpermarketi.
+
+---
+
+Source: https://germandex.com/tr/muenster/groceries
+
+Language: tr
+
+
+# Aachen - Aachen şehrinde konut
+
+Bir oda bul. İmzaladığın şeyi anla.
+
+### Studierendenwerk Aachen ile başla
+
+Kabul veya kayıttan önce başvurabilirsin. Kira sözleşmesini imzalarken öğrenci kayıt belgesi gerekir. Taşınma tarihi ve oda türünde esneklik şansını artırır. Konut sayfası şu anda portal arızası bildiriyor; son duyuruyu kontrol et ve başvuramıyorsan konut ekibine ulaş.
+
+[Studierendenwerk Aachen konutları](https://www.studierendenwerk-aachen.de/de/wohnen.html)
+
+## İkinci bir aramayı da sürdür
+
+Yurt başvurusu rezervasyon değildir. Beklerken Aachen şehrinde paylaşımlı odaları ve özel kiralık konutları karşılaştır. Ödeme yapmadan önce adresi, ev sahibini veya ana kiracıyı, toplam aylık maliyeti ve sözleşmeyi kontrol et.
+
+## İmzalamadan önce
+
+Depozito, yan giderler, taşınma belgesi ve dolandırıcılık kontrolleri: imzalamadan önce [Almanya konut rehberini](https://germandex.com/tr/germany/housing) oku.
+
+Dolandırıcılık uyarısı: Para veya hassas belgeleri göndermeden önce kişiyi ve odayı doğrulayın. RWTH, anahtar almak için sahte teklifler ve depozito talepleri konusunda uyarıyor. Konut Danışma Servisi, RWTH öğrencilerinin şüpheli bir teklifi kontrol etmelerine yardımcı olabilir.
+
+Yerel kaynak 1 Ekim 2026'da kontrol edildi. Güncel uygunluk ve müsaitlik için sağlayıcıya bak.
+
+---
+
+Source: https://germandex.com/tr/aachen/housing
+
+Language: tr
+
+
+# Aachen - Aachen şehrinde tıbbi yardım
+
+Nereye gideceğini tahmin etmeden doğru yardım.
+
+### Yakınında bir doktor bul
+
+KV Nordrhein muayenehane aramasında Aachen veya posta kodunu kullan. Genel bakım için bir Hausarzt (aile hekimi) ile başla; gitmeden önce iletişim bilgilerini kontrol et, randevu ve sigortan hakkında sor.
+
+[Aachen şehrinde doktor bul](https://patienten.kvno.de/praxissuche)
+
+## Acil mi veya mesai dışında mı?
+
+Mesai saatleri içerisinde bir Hausarzt (pratisyen hekim) ile iletişime geçin. Yerel bir Apotheke (eczane) ilaçlar konusunda tavsiyelerde bulunabilir. Muayenehane yeniden açılıncaya kadar bekleyemeyecek ancak yaşamı tehdit etmeyen acil hastalıklar için 116117'yi arayın. Hayatı tehdit eden acil durumlar veya olası kalıcı zararlar için 112'yi arayın. Yaşamın risk altında olup olmadığından emin değilseniz 112'yi arayın.
+
+[Tıbbi yardım ve acil durum numaraları](https://gesund.bund.de/notfallnummern)
+
+## Aachen şehrinde eczaneler
+
+Aachen adresin veya posta kodunla nöbetçi eczane aramasını kullan. Nöbet listesi değişir; yola çıkmadan güncel sonucu kontrol et.
+
+[Nöbetçi eczane bul](https://www.aponet.de/notdienstsuche/-)
+
+Yerel arama kaynağı 1 Ekim 2026'da kontrol edildi. Arama sonuçları onaylanmış randevu değildir.
+
+---
+
+Source: https://germandex.com/tr/aachen/medical
+
+Language: tr
+
+
+# Berlin - Berlin şehrinde konut
+
+Bir oda bul. İmzaladığın şeyi anla.
+
+### studierendenWERK BERLIN ile başla
+
+Başvurmak ve başvurunu yönetmek için konut portalını kullan. Başvurmadan önce katılan Berlin üniversitelerinin listesini ve güncel iletişim duyurusunu kontrol et.
+
+[studierendenWERK BERLIN konutları](https://www.stw.berlin/en/housing/housing-portal.html)
+
+## İkinci bir aramayı da sürdür
+
+Yurt başvurusu rezervasyon değildir. Beklerken Berlin şehrinde paylaşımlı odaları ve özel kiralık konutları karşılaştır. Ödeme yapmadan önce adresi, ev sahibini veya ana kiracıyı, toplam aylık maliyeti ve sözleşmeyi kontrol et.
+
+## İmzalamadan önce
+
+Depozito, yan giderler, taşınma belgesi ve dolandırıcılık kontrolleri: imzalamadan önce [Almanya konut rehberini](https://germandex.com/tr/germany/housing) oku.
+
+Yerel kaynak 1 Ekim 2026'da kontrol edildi. Güncel uygunluk ve müsaitlik için sağlayıcıya bak.
+
+---
+
+Source: https://germandex.com/tr/berlin/housing
+
+Language: tr
+
+
+# Berlin - Berlin şehrinde tıbbi yardım
+
+Nereye gideceğini tahmin etmeden doğru yardım.
+
+### Yakınında bir doktor bul
+
+116117 muayenehane aramasında Berlin veya posta kodunu kullan. Genel bakım için bir Hausarzt (aile hekimi) ile başla; gitmeden önce iletişim bilgilerini kontrol et, randevu ve sigortan hakkında sor.
+
+[Berlin şehrinde doktor bul](https://arztsuche.116117.de/)
+
+## Acil mi veya mesai dışında mı?
+
+Mesai saatleri içerisinde bir Hausarzt (pratisyen hekim) ile iletişime geçin. Yerel bir Apotheke (eczane) ilaçlar konusunda tavsiyelerde bulunabilir. Muayenehane yeniden açılıncaya kadar bekleyemeyecek ancak yaşamı tehdit etmeyen acil hastalıklar için 116117'yi arayın. Hayatı tehdit eden acil durumlar veya olası kalıcı zararlar için 112'yi arayın. Yaşamın risk altında olup olmadığından emin değilseniz 112'yi arayın.
+
+[Tıbbi yardım ve acil durum numaraları](https://gesund.bund.de/notfallnummern)
+
+## Berlin şehrinde eczaneler
+
+Berlin adresin veya posta kodunla nöbetçi eczane aramasını kullan. Nöbet listesi değişir; yola çıkmadan güncel sonucu kontrol et.
+
+[Nöbetçi eczane bul](https://www.aponet.de/notdienstsuche/-)
+
+Yerel arama kaynağı 1 Ekim 2026'da kontrol edildi. Arama sonuçları onaylanmış randevu değildir.
+
+---
+
+Source: https://germandex.com/tr/berlin/medical
+
+Language: tr
+
+
+# Bochum - Bochum şehrinde konut
+
+Bir oda bul. İmzaladığın şeyi anla.
+
+### AKAFÖ ile başla
+
+AKAFÖ üniversite yerleşkeleri çevresinde paylaşımlı odalar, daireler ve aile konutları sunar. Eşyalı ve eşyasız seçenekleri karşılaştır; başvurmadan önce üniversitenin hizmet bölgesinde olduğunu kontrol et.
+
+[AKAFÖ konutları](https://www.akafoe.de/wohnen/mietinteressenten)
+
+## İkinci bir aramayı da sürdür
+
+Yurt başvurusu rezervasyon değildir. Beklerken Bochum şehrinde paylaşımlı odaları ve özel kiralık konutları karşılaştır. Ödeme yapmadan önce adresi, ev sahibini veya ana kiracıyı, toplam aylık maliyeti ve sözleşmeyi kontrol et.
+
+## İmzalamadan önce
+
+Depozito, yan giderler, taşınma belgesi ve dolandırıcılık kontrolleri: imzalamadan önce [Almanya konut rehberini](https://germandex.com/tr/germany/housing) oku.
+
+Yerel kaynak 1 Ekim 2026'da kontrol edildi. Güncel uygunluk ve müsaitlik için sağlayıcıya bak.
+
+---
+
+Source: https://germandex.com/tr/bochum/housing
+
+Language: tr
+
+
+# Bochum - Bochum şehrinde tıbbi yardım
+
+Nereye gideceğini tahmin etmeden doğru yardım.
+
+### Yakınında bir doktor bul
+
+KV Westfalen-Lippe muayenehane aramasında Bochum veya posta kodunu kullan. Genel bakım için bir Hausarzt (aile hekimi) ile başla; gitmeden önce iletişim bilgilerini kontrol et, randevu ve sigortan hakkında sor.
+
+[Bochum şehrinde doktor bul](https://www.kvwl.de/arztsuche)
+
+## Acil mi veya mesai dışında mı?
+
+Mesai saatleri içerisinde bir Hausarzt (pratisyen hekim) ile iletişime geçin. Yerel bir Apotheke (eczane) ilaçlar konusunda tavsiyelerde bulunabilir. Muayenehane yeniden açılıncaya kadar bekleyemeyecek ancak yaşamı tehdit etmeyen acil hastalıklar için 116117'yi arayın. Hayatı tehdit eden acil durumlar veya olası kalıcı zararlar için 112'yi arayın. Yaşamın risk altında olup olmadığından emin değilseniz 112'yi arayın.
+
+[Tıbbi yardım ve acil durum numaraları](https://gesund.bund.de/notfallnummern)
+
+## Bochum şehrinde eczaneler
+
+Bochum adresin veya posta kodunla nöbetçi eczane aramasını kullan. Nöbet listesi değişir; yola çıkmadan güncel sonucu kontrol et.
+
+[Nöbetçi eczane bul](https://www.aponet.de/notdienstsuche/-)
+
+Yerel arama kaynağı 1 Ekim 2026'da kontrol edildi. Arama sonuçları onaylanmış randevu değildir.
+
+---
+
+Source: https://germandex.com/tr/bochum/medical
+
+Language: tr
+
+
+# Dortmund - Dortmund şehrinde konut
+
+Bir oda bul. İmzaladığın şeyi anla.
+
+### Studierendenwerk Dortmund ile başla
+
+Yurtlar, güncel teklifler ve başvuru SSS'si için Studierendenwerk konut sayfalarından başla. Üniversiten için başvuru koşullarını kontrol et ve bağımsız oda aramayı da sürdür.
+
+[Studierendenwerk Dortmund konutları](https://www.stwdo.de/wohnen)
+
+## İkinci bir aramayı da sürdür
+
+Yurt başvurusu rezervasyon değildir. Beklerken Dortmund şehrinde paylaşımlı odaları ve özel kiralık konutları karşılaştır. Ödeme yapmadan önce adresi, ev sahibini veya ana kiracıyı, toplam aylık maliyeti ve sözleşmeyi kontrol et.
+
+## İmzalamadan önce
+
+Depozito, yan giderler, taşınma belgesi ve dolandırıcılık kontrolleri: imzalamadan önce [Almanya konut rehberini](https://germandex.com/tr/germany/housing) oku.
+
+Yerel kaynak 1 Ekim 2026'da kontrol edildi. Güncel uygunluk ve müsaitlik için sağlayıcıya bak.
+
+---
+
+Source: https://germandex.com/tr/dortmund/housing
+
+Language: tr
+
+
+# Dortmund - Dortmund şehrinde tıbbi yardım
+
+Nereye gideceğini tahmin etmeden doğru yardım.
+
+### Yakınında bir doktor bul
+
+KV Westfalen-Lippe muayenehane aramasında Dortmund veya posta kodunu kullan. Genel bakım için bir Hausarzt (aile hekimi) ile başla; gitmeden önce iletişim bilgilerini kontrol et, randevu ve sigortan hakkında sor.
+
+[Dortmund şehrinde doktor bul](https://www.kvwl.de/arztsuche)
+
+## Acil mi veya mesai dışında mı?
+
+Mesai saatleri içerisinde bir Hausarzt (pratisyen hekim) ile iletişime geçin. Yerel bir Apotheke (eczane) ilaçlar konusunda tavsiyelerde bulunabilir. Muayenehane yeniden açılıncaya kadar bekleyemeyecek ancak yaşamı tehdit etmeyen acil hastalıklar için 116117'yi arayın. Hayatı tehdit eden acil durumlar veya olası kalıcı zararlar için 112'yi arayın. Yaşamın risk altında olup olmadığından emin değilseniz 112'yi arayın.
+
+[Tıbbi yardım ve acil durum numaraları](https://gesund.bund.de/notfallnummern)
+
+## Dortmund şehrinde eczaneler
+
+Dortmund adresin veya posta kodunla nöbetçi eczane aramasını kullan. Nöbet listesi değişir; yola çıkmadan güncel sonucu kontrol et.
+
+[Nöbetçi eczane bul](https://www.aponet.de/notdienstsuche/-)
+
+Yerel arama kaynağı 1 Ekim 2026'da kontrol edildi. Arama sonuçları onaylanmış randevu değildir.
+
+---
+
+Source: https://germandex.com/tr/dortmund/medical
+
+Language: tr
+
+
+# Düsseldorf - Düsseldorf şehrinde konut
+
+Bir oda bul. İmzaladığın şeyi anla.
+
+### Studierendenwerk Düsseldorf ile başla
+
+HHU ve Hochschule Düsseldorf öğrencileri Studierendenwerk yurtlarına başvurabilenler arasındadır. Düsseldorf konumu seç: aynı sağlayıcı başka şehirlere de hizmet verir. Bekleme listeleri vardır ve erken başvuru önerilir.
+
+[Studierendenwerk Düsseldorf konutları](https://www.stw-d.de/studentisches-wohnen/)
+
+## İkinci bir aramayı da sürdür
+
+Yurt başvurusu rezervasyon değildir. Beklerken Düsseldorf şehrinde paylaşımlı odaları ve özel kiralık konutları karşılaştır. Ödeme yapmadan önce adresi, ev sahibini veya ana kiracıyı, toplam aylık maliyeti ve sözleşmeyi kontrol et.
+
+## İmzalamadan önce
+
+Depozito, yan giderler, taşınma belgesi ve dolandırıcılık kontrolleri: imzalamadan önce [Almanya konut rehberini](https://germandex.com/tr/germany/housing) oku.
+
+Yerel kaynak 1 Ekim 2026'da kontrol edildi. Güncel uygunluk ve müsaitlik için sağlayıcıya bak.
+
+---
+
+Source: https://germandex.com/tr/duesseldorf/housing
+
+Language: tr
+
+
+# Düsseldorf - Düsseldorf şehrinde tıbbi yardım
+
+Nereye gideceğini tahmin etmeden doğru yardım.
+
+### Yakınında bir doktor bul
+
+KV Nordrhein muayenehane aramasında Düsseldorf veya posta kodunu kullan. Genel bakım için bir Hausarzt (aile hekimi) ile başla; gitmeden önce iletişim bilgilerini kontrol et, randevu ve sigortan hakkında sor.
+
+[Düsseldorf şehrinde doktor bul](https://patienten.kvno.de/praxissuche)
+
+## Acil mi veya mesai dışında mı?
+
+Mesai saatleri içerisinde bir Hausarzt (pratisyen hekim) ile iletişime geçin. Yerel bir Apotheke (eczane) ilaçlar konusunda tavsiyelerde bulunabilir. Muayenehane yeniden açılıncaya kadar bekleyemeyecek ancak yaşamı tehdit etmeyen acil hastalıklar için 116117'yi arayın. Hayatı tehdit eden acil durumlar veya olası kalıcı zararlar için 112'yi arayın. Yaşamın risk altında olup olmadığından emin değilseniz 112'yi arayın.
+
+[Tıbbi yardım ve acil durum numaraları](https://gesund.bund.de/notfallnummern)
+
+## Düsseldorf şehrinde eczaneler
+
+Düsseldorf adresin veya posta kodunla nöbetçi eczane aramasını kullan. Nöbet listesi değişir; yola çıkmadan güncel sonucu kontrol et.
+
+[Nöbetçi eczane bul](https://www.aponet.de/notdienstsuche/-)
+
+Yerel arama kaynağı 1 Ekim 2026'da kontrol edildi. Arama sonuçları onaylanmış randevu değildir.
+
+---
+
+Source: https://germandex.com/tr/duesseldorf/medical
+
+Language: tr
+
+
+# Frankfurt - Frankfurt şehrinde konut
+
+Bir oda bul. İmzaladığın şeyi anla.
+
+### Studierendenwerk Frankfurt am Main ile başla
+
+Studierendenwerk'in çevrimiçi başvurusunu kullan ve Frankfurt yurtlarını karşılaştır. Belge göndermeden veya taşınma tarihine güvenmeden önce başvuru SSS'sini oku.
+
+[Studierendenwerk Frankfurt am Main konutları](https://www.swffm.de/wohnen/online-bewerbung)
+
+## İkinci bir aramayı da sürdür
+
+Yurt başvurusu rezervasyon değildir. Beklerken Frankfurt şehrinde paylaşımlı odaları ve özel kiralık konutları karşılaştır. Ödeme yapmadan önce adresi, ev sahibini veya ana kiracıyı, toplam aylık maliyeti ve sözleşmeyi kontrol et.
+
+## İmzalamadan önce
+
+Depozito, yan giderler, taşınma belgesi ve dolandırıcılık kontrolleri: imzalamadan önce [Almanya konut rehberini](https://germandex.com/tr/germany/housing) oku.
+
+Yerel kaynak 1 Ekim 2026'da kontrol edildi. Güncel uygunluk ve müsaitlik için sağlayıcıya bak.
+
+---
+
+Source: https://germandex.com/tr/frankfurt/housing
+
+Language: tr
+
+
+# Frankfurt - Frankfurt şehrinde tıbbi yardım
+
+Nereye gideceğini tahmin etmeden doğru yardım.
+
+### Yakınında bir doktor bul
+
+Arztsuche Hessen muayenehane aramasında Frankfurt veya posta kodunu kullan. Genel bakım için bir Hausarzt (aile hekimi) ile başla; gitmeden önce iletişim bilgilerini kontrol et, randevu ve sigortan hakkında sor.
+
+[Frankfurt şehrinde doktor bul](https://www.arztsuchehessen.de/)
+
+## Acil mi veya mesai dışında mı?
+
+Mesai saatleri içerisinde bir Hausarzt (pratisyen hekim) ile iletişime geçin. Yerel bir Apotheke (eczane) ilaçlar konusunda tavsiyelerde bulunabilir. Muayenehane yeniden açılıncaya kadar bekleyemeyecek ancak yaşamı tehdit etmeyen acil hastalıklar için 116117'yi arayın. Hayatı tehdit eden acil durumlar veya olası kalıcı zararlar için 112'yi arayın. Yaşamın risk altında olup olmadığından emin değilseniz 112'yi arayın.
+
+[Tıbbi yardım ve acil durum numaraları](https://gesund.bund.de/notfallnummern)
+
+## Frankfurt şehrinde eczaneler
+
+Frankfurt adresin veya posta kodunla nöbetçi eczane aramasını kullan. Nöbet listesi değişir; yola çıkmadan güncel sonucu kontrol et.
+
+[Nöbetçi eczane bul](https://www.aponet.de/notdienstsuche/-)
+
+Yerel arama kaynağı 1 Ekim 2026'da kontrol edildi. Arama sonuçları onaylanmış randevu değildir.
+
+---
+
+Source: https://germandex.com/tr/frankfurt/medical
+
+Language: tr
+
+
+# Hamburg - Hamburg şehrinde konut
+
+Bir oda bul. İmzaladığın şeyi anla.
+
+### Studierendenwerk Hamburg ile başla
+
+En fazla üç yurt seçebilir veya hepsine başvurabilirsin. Sağlayıcı, tüm yurtlara başvurmanın şansını artırdığını söylüyor. Listede kalmak için düzenli ilgi teyit e-postalarını süresi içinde yanıtla.
+
+[Studierendenwerk Hamburg konutları](https://www.stwhh.de/wohnen/bewerbungsinformationen)
+
+## İkinci bir aramayı da sürdür
+
+Yurt başvurusu rezervasyon değildir. Beklerken Hamburg şehrinde paylaşımlı odaları ve özel kiralık konutları karşılaştır. Ödeme yapmadan önce adresi, ev sahibini veya ana kiracıyı, toplam aylık maliyeti ve sözleşmeyi kontrol et.
+
+## İmzalamadan önce
+
+Depozito, yan giderler, taşınma belgesi ve dolandırıcılık kontrolleri: imzalamadan önce [Almanya konut rehberini](https://germandex.com/tr/germany/housing) oku.
+
+Yerel kaynak 1 Ekim 2026'da kontrol edildi. Güncel uygunluk ve müsaitlik için sağlayıcıya bak.
+
+---
+
+Source: https://germandex.com/tr/hamburg/housing
+
+Language: tr
+
+
+# Hamburg - Hamburg şehrinde tıbbi yardım
+
+Nereye gideceğini tahmin etmeden doğru yardım.
+
+### Yakınında bir doktor bul
+
+KV Hamburg muayenehane aramasında Hamburg veya posta kodunu kullan. Genel bakım için bir Hausarzt (aile hekimi) ile başla; gitmeden önce iletişim bilgilerini kontrol et, randevu ve sigortan hakkında sor.
+
+[Hamburg şehrinde doktor bul](https://www.kvhh.net/de/physicianfinder.html)
+
+## Acil mi veya mesai dışında mı?
+
+Mesai saatleri içerisinde bir Hausarzt (pratisyen hekim) ile iletişime geçin. Yerel bir Apotheke (eczane) ilaçlar konusunda tavsiyelerde bulunabilir. Muayenehane yeniden açılıncaya kadar bekleyemeyecek ancak yaşamı tehdit etmeyen acil hastalıklar için 116117'yi arayın. Hayatı tehdit eden acil durumlar veya olası kalıcı zararlar için 112'yi arayın. Yaşamın risk altında olup olmadığından emin değilseniz 112'yi arayın.
+
+[Tıbbi yardım ve acil durum numaraları](https://gesund.bund.de/notfallnummern)
+
+## Hamburg şehrinde eczaneler
+
+Hamburg adresin veya posta kodunla nöbetçi eczane aramasını kullan. Nöbet listesi değişir; yola çıkmadan güncel sonucu kontrol et.
+
+[Nöbetçi eczane bul](https://www.aponet.de/notdienstsuche/-)
+
+Yerel arama kaynağı 1 Ekim 2026'da kontrol edildi. Arama sonuçları onaylanmış randevu değildir.
+
+---
+
+Source: https://germandex.com/tr/hamburg/medical
+
+Language: tr
+
+
+# Köln - Köln şehrinde konut
+
+Bir oda bul. İmzaladığın şeyi anla.
+
+### Kölner Studierendenwerk ile başla
+
+Çevrimiçi erken başvur. Oda türünü, taşınma tarihini ve bütçeyi belirtebilirsin, belirli bir yurdu değil. İlgi kontrolü e-postasını beş gün içinde onayla; yoksa başvuru devre dışı kalır.
+
+[Kölner Studierendenwerk konutları](https://www.kstw.de/wohnen/bewerbung/)
+
+## İkinci bir aramayı da sürdür
+
+Yurt başvurusu rezervasyon değildir. Beklerken Köln şehrinde paylaşımlı odaları ve özel kiralık konutları karşılaştır. Ödeme yapmadan önce adresi, ev sahibini veya ana kiracıyı, toplam aylık maliyeti ve sözleşmeyi kontrol et.
+
+## İmzalamadan önce
+
+Depozito, yan giderler, taşınma belgesi ve dolandırıcılık kontrolleri: imzalamadan önce [Almanya konut rehberini](https://germandex.com/tr/germany/housing) oku.
+
+Yerel kaynak 1 Ekim 2026'da kontrol edildi. Güncel uygunluk ve müsaitlik için sağlayıcıya bak.
+
+---
+
+Source: https://germandex.com/tr/koeln/housing
+
+Language: tr
+
+
+# Köln - Köln şehrinde tıbbi yardım
+
+Nereye gideceğini tahmin etmeden doğru yardım.
+
+### Yakınında bir doktor bul
+
+KV Nordrhein muayenehane aramasında Köln veya posta kodunu kullan. Genel bakım için bir Hausarzt (aile hekimi) ile başla; gitmeden önce iletişim bilgilerini kontrol et, randevu ve sigortan hakkında sor.
+
+[Köln şehrinde doktor bul](https://patienten.kvno.de/praxissuche)
+
+## Acil mi veya mesai dışında mı?
+
+Mesai saatleri içerisinde bir Hausarzt (pratisyen hekim) ile iletişime geçin. Yerel bir Apotheke (eczane) ilaçlar konusunda tavsiyelerde bulunabilir. Muayenehane yeniden açılıncaya kadar bekleyemeyecek ancak yaşamı tehdit etmeyen acil hastalıklar için 116117'yi arayın. Hayatı tehdit eden acil durumlar veya olası kalıcı zararlar için 112'yi arayın. Yaşamın risk altında olup olmadığından emin değilseniz 112'yi arayın.
+
+[Tıbbi yardım ve acil durum numaraları](https://gesund.bund.de/notfallnummern)
+
+## Köln şehrinde eczaneler
+
+Köln adresin veya posta kodunla nöbetçi eczane aramasını kullan. Nöbet listesi değişir; yola çıkmadan güncel sonucu kontrol et.
+
+[Nöbetçi eczane bul](https://www.aponet.de/notdienstsuche/-)
+
+Yerel arama kaynağı 1 Ekim 2026'da kontrol edildi. Arama sonuçları onaylanmış randevu değildir.
+
+---
+
+Source: https://germandex.com/tr/koeln/medical
+
+Language: tr
+
+
+# Münih - Münih şehrinde konut
+
+Bir oda bul. İmzaladığın şeyi anla.
+
+### Studierendenwerk München Oberbayern ile başla
+
+Güncel bekleme sürelerini ve öğrenci kategorinin kurallarını kontrol et. Başvuru ancak gerekli belgelerle tamamlanır; bunu kesinleşmiş oda olarak görme.
+
+[Studierendenwerk München Oberbayern konutları](https://www.studierendenwerk-muenchen-oberbayern.de/wohnheime/bewerbung/)
+
+## İkinci bir aramayı da sürdür
+
+Yurt başvurusu rezervasyon değildir. Beklerken Münih şehrinde paylaşımlı odaları ve özel kiralık konutları karşılaştır. Ödeme yapmadan önce adresi, ev sahibini veya ana kiracıyı, toplam aylık maliyeti ve sözleşmeyi kontrol et.
+
+## İmzalamadan önce
+
+Depozito, yan giderler, taşınma belgesi ve dolandırıcılık kontrolleri: imzalamadan önce [Almanya konut rehberini](https://germandex.com/tr/germany/housing) oku.
+
+Yerel kaynak 1 Ekim 2026'da kontrol edildi. Güncel uygunluk ve müsaitlik için sağlayıcıya bak.
+
+---
+
+Source: https://germandex.com/tr/muenchen/housing
+
+Language: tr
+
+
+# Münih - Münih şehrinde tıbbi yardım
+
+Nereye gideceğini tahmin etmeden doğru yardım.
+
+### Yakınında bir doktor bul
+
+116117 muayenehane aramasında Münih veya posta kodunu kullan. Genel bakım için bir Hausarzt (aile hekimi) ile başla; gitmeden önce iletişim bilgilerini kontrol et, randevu ve sigortan hakkında sor.
+
+[Münih şehrinde doktor bul](https://arztsuche.116117.de/)
+
+## Acil mi veya mesai dışında mı?
+
+Mesai saatleri içerisinde bir Hausarzt (pratisyen hekim) ile iletişime geçin. Yerel bir Apotheke (eczane) ilaçlar konusunda tavsiyelerde bulunabilir. Muayenehane yeniden açılıncaya kadar bekleyemeyecek ancak yaşamı tehdit etmeyen acil hastalıklar için 116117'yi arayın. Hayatı tehdit eden acil durumlar veya olası kalıcı zararlar için 112'yi arayın. Yaşamın risk altında olup olmadığından emin değilseniz 112'yi arayın.
+
+[Tıbbi yardım ve acil durum numaraları](https://gesund.bund.de/notfallnummern)
+
+## Münih şehrinde eczaneler
+
+Münih adresin veya posta kodunla nöbetçi eczane aramasını kullan. Nöbet listesi değişir; yola çıkmadan güncel sonucu kontrol et.
+
+[Nöbetçi eczane bul](https://www.aponet.de/notdienstsuche/-)
+
+Yerel arama kaynağı 1 Ekim 2026'da kontrol edildi. Arama sonuçları onaylanmış randevu değildir.
+
+---
+
+Source: https://germandex.com/tr/muenchen/medical
+
+Language: tr
+
+
+# Münster - Münster şehrinde konut
+
+Bir oda bul. İmzaladığın şeyi anla.
+
+### Studierendenwerk Münster ile başla
+
+Yeni öğrenciler kabul mektubu olmadan başvurabilir. En fazla üç yurdu dikkatle seç: bu seçim sonradan değiştirilemez. E-posta tekliflerini takip et ve yanıtla; bir teklifi görmezden gelmek başvurunun silinmesine yol açabilir.
+
+[Studierendenwerk Münster konutları](https://www.stw-muenster.de/wohnen/bewerbung-wohnraum/)
+
+## İkinci bir aramayı da sürdür
+
+Yurt başvurusu rezervasyon değildir. Beklerken Münster şehrinde paylaşımlı odaları ve özel kiralık konutları karşılaştır. Ödeme yapmadan önce adresi, ev sahibini veya ana kiracıyı, toplam aylık maliyeti ve sözleşmeyi kontrol et.
+
+## İmzalamadan önce
+
+Depozito, yan giderler, taşınma belgesi ve dolandırıcılık kontrolleri: imzalamadan önce [Almanya konut rehberini](https://germandex.com/tr/germany/housing) oku.
+
+Yerel kaynak 1 Ekim 2026'da kontrol edildi. Güncel uygunluk ve müsaitlik için sağlayıcıya bak.
+
+---
+
+Source: https://germandex.com/tr/muenster/housing
+
+Language: tr
+
+
+# Münster - Münster şehrinde tıbbi yardım
+
+Nereye gideceğini tahmin etmeden doğru yardım.
+
+### Yakınında bir doktor bul
+
+KV Westfalen-Lippe muayenehane aramasında Münster veya posta kodunu kullan. Genel bakım için bir Hausarzt (aile hekimi) ile başla; gitmeden önce iletişim bilgilerini kontrol et, randevu ve sigortan hakkında sor.
+
+[Münster şehrinde doktor bul](https://www.kvwl.de/arztsuche)
+
+## Acil mi veya mesai dışında mı?
+
+Mesai saatleri içerisinde bir Hausarzt (pratisyen hekim) ile iletişime geçin. Yerel bir Apotheke (eczane) ilaçlar konusunda tavsiyelerde bulunabilir. Muayenehane yeniden açılıncaya kadar bekleyemeyecek ancak yaşamı tehdit etmeyen acil hastalıklar için 116117'yi arayın. Hayatı tehdit eden acil durumlar veya olası kalıcı zararlar için 112'yi arayın. Yaşamın risk altında olup olmadığından emin değilseniz 112'yi arayın.
+
+[Tıbbi yardım ve acil durum numaraları](https://gesund.bund.de/notfallnummern)
+
+## Münster şehrinde eczaneler
+
+Münster adresin veya posta kodunla nöbetçi eczane aramasını kullan. Nöbet listesi değişir; yola çıkmadan güncel sonucu kontrol et.
+
+[Nöbetçi eczane bul](https://www.aponet.de/notdienstsuche/-)
+
+Yerel arama kaynağı 1 Ekim 2026'da kontrol edildi. Arama sonuçları onaylanmış randevu değildir.
+
+---
+
+Source: https://germandex.com/tr/muenster/medical
+
+Language: tr
